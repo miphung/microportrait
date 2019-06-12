@@ -1,4 +1,4 @@
 # AbusiveLanguageDetection
-UNT 2019 Summer REU 
-Students: Michelle Phung, Bridger Weller
+UNT 2019 Summer REU  
+Students: Michelle Phung, Bridger Weller  
 Professor: Alexis Palmer
