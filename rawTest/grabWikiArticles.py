@@ -1,4 +1,5 @@
 #using Wikipedia to pull out the main articles
+#code found on Stack Overflow by Omid Raha, https://stackoverflow.com/questions/23351103/extract-the-main-article-text-from-a-wikipedia-page-using-python
 
 import wikipedia as wk
 '''
