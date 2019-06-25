@@ -5,11 +5,6 @@ As of 2008, a total of 2,575 mature individuals were estimated to live in the wi
 The Indian rhinoceros once ranged throughout the entire stretch of the Indo-Gangetic Plain, but excessive hunting and agricultural development reduced their range drastically to 11 sites in northern India and southern Nepal.
 In the early 1990s, between 1,870 and 1,895 rhinos were estimated to have been alive.
 
-
-==
-Taxonomy
-==
-
 In 1758, Carl Linnaeus first described a rhinoceros with one horn under the name Rhinoceros unicornis.
 As type locality, he indicated Africa and India.
 The one-horned rhinoceros is monotypic.
@@ -20,18 +15,7 @@ R. stenocephalus by Gray, 1867
 R. jamrachi by Sclatter, 1876
 R. bengalensis by Kourist, 1970
 
-
-
-==
-Etymology
-==
-
 The modern scientific designation Rhinoceros unicornis is adopted from the Greek ῥινόκερως (from ῥίς rhís (nose) and κέρας kéras (horn of an animal)) and Latin ūnus meaning single and cornū meaning horn.
-
-
-==
-Evolution
-==
 
 
 Ancestral rhinoceroses first diverged from other perissodactyls in the Early Eocene.
@@ -47,13 +31,6 @@ Different studies have hypothesised that they may be closely related to the exti
 A detailed cladistic analysis of the Rhinocerotidae placed Rhinoceros and the extinct Punjabitherium in a clade with Dicerorhinus, the Sumatran rhinoceros.
 Other studies have suggested the Sumatran rhinoceros is more closely related to the two African species.
 The Sumatran rhino may have diverged from the other Asian rhinos as long as 15 million years ago.
-
-
-
-=
-=
-Characteristics
-==
 
 
 The Indian rhinoceros has a thick grey-brown skin with pinkish skin folds and a black horn.
@@ -74,13 +51,6 @@ The thick skin does not protect against bloodsucking Tabanus flies, leeches and 
 The largest sized specimens range up to 4,000 kg (8,820 lb).
 
 
-
-=
-=
-Distribution and habitat =
-=
-
-
 The one-horned rhinoceros once ranged across the entire northern part of the Indian Subcontinent, along the Indus, Ganges and Brahmaputra River basins, from Pakistan to the Indian-Myanmar border, including Bangladesh and the southern parts of Nepal and Bhutan.
 It may have also occurred in Myanmar, southern China and Indochina.
 It inhabits the alluvial grasslands of the Terai and the Brahmaputra basin.
@@ -98,14 +68,6 @@ Today, its range has further shrunk to a few pockets in southern Nepal, northern
 In the 1980s, rhinos were frequently seen in the narrow plain area of Royal Manas National Park in Bhutan.
 Today, they are restricted to habitats surrounded by human-dominated landscapes, so that they often occur in adjacent cultivated areas, pastures, and secondary forests.
 The Indian rhinoceros is regionally extinct in Pakistan.
-
-
-
-=
-=
-=
-Populations
-===
 
 
 In 2006, the total population was estimated to be 2,575 individuals, of which 2,200 lived in Indian protected areas:
@@ -131,10 +93,6 @@ The latest rhino count was conducted from 11 April to 2 May 2015 and revealed 64
 In Pakistan's Lal Suhanra National Park, two rhinos from Nepal were introduced in 1983 but have not bred so far.
 
 
-=
-= Ecology and behaviour
-==
-
 Adult male Indian rhinos are usually solitary.
 Groups consist of females with calves, or of up to six subadults.
 Such groups congregate at wallows and grazing areas.
@@ -158,15 +116,6 @@ Anthrax and the blood-disease sepsis are known to occur.
 In March 2017, of a group of four tigers consisting of an adult male, female and two cubs killed a 20-year-old male rhino in the Dudhwa Tiger Reserve.
 
 
-
-=
-=
-=
-Diet =
-=
-=
-
-
 Indian rhinoceros are grazers.
 Their diets consist almost entirely of grasses, but they also eat leaves, branches of shrubs and trees, fruits, and submerged and floating aquatic plants. 
 
@@ -176,11 +125,6 @@ They tackle very tall grasses or saplings by walking over the plant, with legs o
 Mothers also use this technique to make food edible for their calves.
 They drink for a minute or two at a time, often imbibing water filled with rhinoceros urine.
 
-
-
-===
-Social life =
-==
 
 
 The Indian rhinoceros forms a variety of social groupings.
@@ -211,22 +155,12 @@ Males will chase females over long distances and even attack them face-to-face.
 Unlike African rhinos, the Indian rhino fights with its incisors, rather than its horns.
 
 
-
-===
-Reproduction
-===
-
-
 Captive males breed at five years of age, but wild males attain dominance much later when they are larger.
 In one five-year field study, only one rhino estimated to be younger than 15 years mated successfully.
 Captive females breed as young as four years of age, but in the wild, they usually start breeding only when six years old, which likely indicates they need to be large enough to avoid being killed by aggressive males.
 Their gestation period is around 15.7 months, and birth interval ranges from 34–51 months.
 In captivity, four rhinos are known to have lived over 40 years, the oldest living to be 47.
 
-
-==
-Threats
-==
 
 Sport hunting became common in the late 1800s and early 1900s.
 Indian rhinos were hunted relentlessly and persistently.
@@ -264,30 +198,16 @@ However, small population of rhinos may be prone to inbreeding depression.
 
 
 
-=
-=
-Conservation ==
-
 Rhinoceros unicornis has been listed in CITES Appendix I since 1975.
 The Indian and Nepalese governments have taken major steps towards Indian rhinoceros conservation, especially with the help of the World Wide Fund for Nature (WWF) and other non-governmental organisations.
 In the early 1980s, a rhino translocation scheme was initiated.
 The first pair of rhinos was reintroduced from Nepal's Terai to Pakistan's Lal Suhanra National Park in Punjab in 1982.
 
 
-
-===
-In India ===
-
 In 1910, all rhino hunting in India became prohibited.
 In 1984, five rhinos were relocated to Dudhwa National Park — four from the fields outside the Pobitora Wildlife Sanctuary and one from Goalpara.
 
 
-
-=
-=
-=
-In Nepal
-===
 In 1957, the country's first conservation law ensured the protection of rhinos and their habitat.
 In 1959, Edward Pritchard Gee undertook a survey of the Chitwan Valley, and recommended the creation of a protected area north of the Rapti River and of a wildlife sanctuary south of the river for a trial period of 10 years.
 After his subsequent survey of Chitwan in 1963, he recommended extension of the sanctuary to the south.
@@ -298,12 +218,6 @@ To prevent the extinction of rhinos, the Chitwan National Park was gazetted in D
 Since 1973, the population has recovered well and increased to 645 animals in 2015.
 To ensure the survival of rhinos in case of epidemics, animals were translocated annually from Chitwan to the Bardia National Park and the Sukla Phanta Wildlife Reserve since 1986.
 
-
-
-=
-=
-=
-In captivity ===
 
 
 The Indian rhinoceros was initially difficult to breed in captivity.
@@ -326,11 +240,6 @@ In June 2014, the first "successful" live-birth from an artificially inseminated
 As in Cincinnati, cryopreserved sperm was used to produce the female calf, Monica.
 
 
-=
-=
-In culture =
-=
-
 The Rhinoceros Sutra is an early text in the Buddhist tradition, found in both the Gandhāran Buddhist texts and the Pali Canon.
 It praises the solitary lifestyle and stoicism of the Indian rhinoceros and encourages readers to emulate these virtues.
 In China's ancient novel Journey to the West, when Tripitaka (Sanzang) and his crew travel nearer to the region of India (named as Tian Zu back then).
@@ -352,13 +261,6 @@ There is a temple dedicated to Maa (Mother) Dhavdi in Dhrangadhra, Gujarat.
 Many the mythological stories e.g. a boy named Rishyasringa with the horns of a deer, Karkadann, unicorn may be inspired by Indian rhinoceros.
 
 
-
-=
-=
-See also =
-=
-
-
 Rhino poaching in Assam
 Dürer's Rhinoceros
 Clara (rhinoceros)
@@ -368,22 +270,6 @@ Kaziranga National Park
 Unicorn
 
 The Soul of the Rhino (book)
-
-
-
-== References ==
-
-
-== Further reading =
-=
-Martin, E. B. (2010).
-From the jungle to Kathmandu : horn and tusk trade.
-Kathmandu: Wildlife Watch Group.
-ISBN 978-99946-820-9-6.
-
-
-
-== External links ==
 
 The Rhino Resource Center
 International Rhino Foundation:

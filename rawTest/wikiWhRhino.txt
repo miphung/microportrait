@@ -5,12 +5,6 @@ The northern subspecies has very few remaining individuals, with only two confir
 Sudan, the world's last known male northern white rhinoceros, died in Kenya on 19 March 2018.
 
 
-=
-=
-Naming
-==
-
-
 A popular albeit widely discredited theory of the origins of the name "white rhinoceros" is a mistranslation from Dutch to English.
 The English word "white" is said to have been derived by mistranslation of the Dutch word "wijd", which means "wide" in English.
 The word "wide" refers to the width of the rhinoceros's mouth.
@@ -21,13 +15,6 @@ A review of Dutch and Afrikaans literature about the rhinoceros has failed to pr
 An alternative name for the white rhinoceros, more accurate but rarely used, is the square-lipped rhinoceros.
 The white rhinoceros' generic name, Ceratotherium, given by the zoologist John Edward Gray in 1868, is derived from the Greek terms keras (κερας) "horn" and therion (θηριον) "beast".
 Simum, is derived from the Greek term simus (σιμος), meaning "flat nosed".
-
-
-
-=
-=
-Taxonomy and evolution =
-=
 
 
 The white rhinoceros of today was said to be likely descended from Ceratotherium praecox which lived around 7 million years ago.
@@ -49,13 +36,6 @@ The study also doubts the ancestry of C. neumayri from the Miocene of southern E
 It is likely that the ancestor of both the black and the white rhinos was a mixed feeder, with the two lineages then specializing in browsing and grazing, respectively.
 
 
-
-=
-== Southern white rhinoceros =
-=
-=
-
-
 There are two subspecies of white rhino: the southern white rhinoceros (Ceratotherium simum simum) and the northern white rhinoceros.
 As of 31 December 2007, there were an estimated 17,460 southern white rhinos in the wild (IUCN 2008), making them by far the most abundant subspecies of rhino in the world; the number of southern white rhinos outnumbers all other rhino subspecies combined.
 South Africa is the stronghold for this subspecies (93.0%), conserving 16,255 individuals in the wild in 2007 (IUCN 2008).
@@ -63,13 +43,6 @@ There are smaller reintroduced populations within the historical range of the sp
 Populations have also been introduced outside of the former range of the species to Kenya and Zambia.
 Wild-caught southern whites will readily breed in captivity given appropriate amounts of space and food, as well as the presence of other female rhinos of breeding age.
 However, for reasons that are not currently understood, the rate of reproduction is extremely low among captive-born southern white females.
-
-
-
-=
-==
-Northern white rhinoceros =
-==
 
 
 The northern white rhinoceros or northern square-lipped rhinoceros (Ceratotherium simum cottoni) is considered Critically Endangered and Possibly Extinct in the Wild.
@@ -84,13 +57,6 @@ Staff hope to inseminate the remaining females with the last male's semen, altho
 Following the phylogenetic species concept, recent research has led to the hypothesis that the northern white rhinoceros is a different species, rather than a subspecies of white rhinoceros as was previously thought, in which case the correct scientific name for the former should be Ceratotherium cottoni.
 Distinct morphological and genetic differences suggest the two proposed species have been separated for at least a million years.
 However, the results of the research were not universally accepted by other scientists.
-
-
-
-=
-=
-Description
-==
 
 
 The white rhinoceros is the largest of the five living species of rhinoceros.
@@ -117,20 +83,9 @@ The olfactory passages that are responsible for smell are larger than their enti
 The white rhinoceros has the widest set of nostrils of any land-based animal.
 
 
-==
-Genome and karyotype
-==
-
-
 The genome size of the white rhinoceros is 2666.62 Mbp.
 A diploid cell has 2 x 40 autosomals and 2 sex chromosomes (XX or XY).
 
-
-
-=
-=
-Behavior and ecology =
-=
 
 White rhinoceroses are found in grassland and savannah habitat.
 Herbivore grazers that eat grass, preferring the shortest grains, the white rhinoceros is one of the largest pure grazers.
@@ -163,11 +118,6 @@ The most serious fights break out over mating rights with a female.
 Female territory overlaps extensively, and they do not defend it.
 
 
-
-===
-Reproduction
-===
-
 Females reach sexual maturity at 6–7 years of age while males reach sexual maturity between 10–12 years of age.
 Courtship is often a difficult affair.
 The male stays beyond the point where the female acts aggressively and will give out a call when approaching her.
@@ -186,13 +136,6 @@ Adult white rhinos have no natural predators (other than humans) due to their si
 One exceptional successful attack was perpetrated by a lion pride on a roughly half-grown white rhinoceros, which weighed 1,055 kg (2,326 lb), and occurred in Mala Mala Game Reserve, South Africa.
 
 
-
-=
-=
-Distribution
-==
-
-
 The southern white rhino lives in Southern Africa.
 About 98.5% of white rhinos live in just five countries (South Africa, Namibia, Zimbabwe, Kenya and Uganda).
 Almost at the edge of extinction in the early 20th century, the southern subspecies has made a tremendous comeback.
@@ -204,9 +147,6 @@ The last surviving population of wild northern white rhinos are or were in Garam
 In June 2008 it was reported that the species may have gone extinct in the wild.
 Like the black rhino, the white rhino is under threat from habitat loss and poaching, most recently by Janjaweed.
 Although there are no measurable health benefits, the horn is sought after for traditional medicine and jewelry.
-
-
-== Poaching ==
 
 
 Historically the major factor in the decline of white rhinos was uncontrolled hunting in the colonial era, but now poaching for their horn is the primary threat.
@@ -230,13 +170,6 @@ Poachers are also starting to use social media sites for obtaining information o
 By using GPS coordinates of rhino in recent photographs, poachers are able to more easily find and kill their targets.
 
 
-
-=
-=
-Modern conservation tactics =
-=
-
-
 The northern white rhino is critically endangered to the point that only two of these rhinos are known to remain in the world, both in captivity.
 Several conservation tactics have been taken to prevent this subspecies from disappearing from the planet.
 Perhaps the most notable type of conservation efforts for these rhinos is having moved them from Dvur Kralove Zoo in the Czech Republic to Kenya's Ol Pejeta Conservancy on 20 December 2009, where they have been under constant watch every day, and have been given favorable climate and diet, to which they have adapted well, in order to boost their chances of reproducing.
@@ -246,10 +179,6 @@ They placed the male rhino in an enclosure with both female northern white rhino
 Having the male rhino with two female rhinos was expected to increase competition for the female rhinos and in theory should result in more mating experiences.
 Ol Pejeta Conservancy did not announce any news of rhino mating.
 
-
-=
-=
-In captivity ==
 
 Most white rhinos in zoos are southern white rhinos; in 2001 it was estimated that there were 777 white rhinos in captivity worldwide.
 
@@ -265,14 +194,6 @@ The northern white rhinos had been transferred to Ol Pejeta Conservancy from the
 In 2015, hybrid female Nabire died in the Dvůr Králové Zoo, born at Dvůr Králové on 15 November 1983.
 Her mother was a northern white rhino (C. simum cottoni), but her father was a southern white rhino (C. simum simum) named Arthur.
 
-
-
-=
-=
-References ==
-
-
-== External links ==
 
 White Rhino Info & White Rhino Pictures on the Rhino Resource Center website.
 

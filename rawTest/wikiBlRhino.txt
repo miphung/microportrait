@@ -7,11 +7,6 @@ These species are now sometimes referred to as the square-lipped (for white) or 
 The species overall is classified as critically endangered (even though the South-western black rhinoceros is classified as vulnerable).  
 Three subspecies have been declared extinct, including the western black rhinoceros, which was declared extinct by the International Union for Conservation of Nature (IUCN) in 2011.
 
-
-==
-Taxonomy
-==
-
 The species was first named Rhinoceros bicornis by Carl Linnaeus in the 10th edition of his Systema naturae in 1758.
 The name means "double-horned rhinoceros".
 There is some confusion about what exactly Linnaeus conceived under this name as this species was probably based upon the skull of a single-horned Indian rhinoceros (Rhinoceros unicornis), with a second horn artificially added by the collector.
@@ -19,11 +14,6 @@ Such a skull is known to have existed and Linnaeus even mentioned India as origi
 However he also referred to reports from early travellers about a double-horned rhino in Africa and when it emerged that there is only one, single-horned species of rhino in India, "Rhinoceros" bicornis was used to refer to the African rhinos (the white rhino only became recognised in 1812).
 In 1911 this was formally fixed and the Cape of Good Hope officially declared the type locality of the species.
 
-
-
-=
-== Subspecies
-===
 
 The intraspecific variation in the black rhinoceros has been discussed by various authors and is not finally settled.
 The most accepted scheme considers seven or eight subspecies, of which three became extinct in historical times and one is on the brink of extinction:
@@ -83,12 +73,6 @@ This concept is also used by the IUCN, listing three surviving subspecies and re
 The most important difference to the above scheme is the inclusion of the extant southwestern subspecies from Namibia in D. b. bicornis instead of in its own subspecies, whereupon the nominal subspecies is not considered extinct.
 
 
-
-=
-=
-Evolution
-==
-
 The rhinoceros originated in the Eocene about fifty million years ago alongside other members of Perissodactyla.
 Ancestors of the black and the white rhinoceros were present in Africa by the end of the Late Miocene about ten million years ago.
 The two species evolved from the common ancestral species Ceratotherium neumayri during this time.
@@ -97,13 +81,6 @@ Between four and five million years ago, the black rhinoceros diverged from the 
 After this split, the direct ancestor of Diceros bicornis, Diceros praecox was present in the Pliocene of East Africa
 (Ethiopia, Kenya, Tanzania).
 D. bicornis evolved from this species during the Late Pliocene – Early Pleistocene.
-
-
-
-=
-=
-Description
-==
 
 
 An adult black rhinoceros stands 140–180 cm (55–71 in) high at the shoulder and is 3–3.75 m (9.8–12.3 ft) in length.
@@ -130,26 +107,11 @@ Their ears have a relatively wide rotational range to detect sounds.
 An excellent sense of smell alerts rhinos to the presence of predators.
 
 
-
-=
-=
-Distribution
-==
-
-
-===
-Prehistorical range =
-==
-
 As with many other components of the African large mammal fauna, black rhinos probably had a wider range in the northern part of the continent in prehistoric times than today.
 However this seems to have not been as extensive as that of the white rhino.
 Unquestionable fossil remains have not yet been found in this area and the abundant petroglyphs found across the Sahara desert are often too schematic to unambiguously decide whether they depict black or white rhinos.
 Petroglyphs from the Eastern Desert of southeastern Egypt relatively convincingly show the occurrence of black rhinos in these areas in prehistoric times.
 
-
-
-=== Historical and extant range =
-==
 
 The natural range of the black rhino included most of southern and eastern Africa, but it did not occur in the Congo Basin, the tropical rainforest areas along the Bight of Benin, the Ethiopian Highlands, and the Horn of Africa.
 Its former native occurrence in the extremely dry parts of the Kalahari desert of southwestern Botswana and northwestern South Africa is uncertain.
@@ -169,9 +131,6 @@ Once established, this will be the northernmost population of the species.
 The species was wiped out from Chad in the 1970s and is under severe pressure from poaching in South Africa.
 The agreement calls for South African experts to assess the habitat, local management capabilities, security and the infrastructure before the transfer can take place.
 
-
-== Behavior
-==
 
 
 Black rhinoceros are generally thought to be solitary, with the only strong bond between a mother and her calf.
@@ -195,14 +154,6 @@ Calves and, very seldom, small sub-adults may be preyed upon by lions as well.
 Black rhinoceros follow the same trails that elephants use to get from foraging areas to water holes.
 They also use smaller trails when they are browsing.
 They are very fast and can get up to speeds of 55 kilometres per hour (34 mph) running on their toes.
-
-
-
-=
-=
-=
-Diet =
-==
 
 
 The black rhinoceros is a herbivorous browser that eats leafy plants, branches, shoots, thorny wood bushes, and fruit.
@@ -234,14 +185,6 @@ This variation is directly linked to diet and can be used as a means of rhino id
 Horn composition has helped scientists pinpoint the original location of individual rhinos, allowing for law enforcement to more accurately and more frequently identify and penalize poachers.
 
 
-
-=
-=
-=
-Communication
-===
-
-
 Rhinos use several forms of communication.
 Due to their solitary nature, scent marking is often used to identify themselves to other black rhinos.
 Urine spraying occurs on trees and bushes, around water holes and feeding areas.
@@ -254,13 +197,6 @@ Less commonly they will rub their heads or horns against tree trunks to scent-ma
 
 The black rhino has powerful tube-shaped ears that can freely rotate in all directions.
 This highly developed sense of hearing allows black rhinos to detect sound over vast distances.
-
-
-
-=
-==
-Reproduction
-===
 
 
 The adults are solitary in nature, coming together only for mating.
@@ -281,12 +217,6 @@ The mother and calf stay together for 2–3 years until the next calf is born; f
 The young are occasionally taken by hyenas and lions.
 Sexual maturity is reached from 5 to 7 years old for females, and 7 to 8 years for males.
 The life expectancy in natural conditions (without poaching pressure) is from 35 to 50 years.
-
-
-
-=
-=
-Conservation ==
 
 
 For most of the 20th century the continental black rhino was the most numerous of all rhino species.
@@ -320,11 +250,6 @@ This permit was issued for 1 of 18 black rhinoceros specifically identified by N
 The $350,000 that the hunter paid for the permit was used by the Namibian government to fund anti-poaching efforts in the country.
 
 
-
-=
-=
-Threats ==
-
 Today, there are various threats posed to the black rhinoceros including habitat changes, illegal poaching, and competing species.
 Civil disturbances, such as war, have made mentionably negative effects on the black rhinoceros populations in since the 1960s in countries including, but not limited to, Chad, Cameroon, Rwanda, Mozambique, and Somalia.
 In the Addo Elephant National Park in South Africa, the African elephant Loxodonta africana is posing slight concern involving the black rhinoceroses who also inhabit the area.
@@ -349,13 +274,6 @@ The purported effectiveness of the use of rhino horn in treating any illness has
 In June 2007, the first-ever documented case of the medicinal sale of black rhino horn in the United States (confirmed by genetic testing of the confiscated horn) occurred at a traditional Chinese medicine supply store in Portland, Oregon's Chinatown.
 
 
-
-=
-=
-References ==
-
-
-== Further reading ==
 Emslie, R. & Brooks, M. (1999).
 African Rhino.
 Status Survey and Conservation Action Plan.
@@ -370,8 +288,6 @@ Journal of Zoology.
 365–376. doi:10.1017/S0952836905006436.
 
 
-== External links =
-=
 Black rhinoceros at Curlie
 Black Rhino Info & Black Rhino Pictures on the Rhino Resource Center website.
 

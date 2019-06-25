@@ -15,12 +15,6 @@ Both African species and the Sumatran rhinoceros have two horns, while the India
 The IUCN Red List identifies the Black, Javan, and Sumatran rhinoceros as critically endangered.
 
 
-
-=
-=
-Taxonomy and naming =
-=
-
 The word rhinoceros is derived through Latin from the Ancient Greek: ῥῑνόκερως, which is composed of ῥῑνο- (rhino-, "nose") and κέρας (keras, "horn") with a horn on the nose.
 The plural in English is rhinoceros or rhinoceroses.
 The collective noun for a group of rhinoceroses is crash or herd.
@@ -40,19 +34,6 @@ However, chromosomal polymorphism might lead to varying chromosome counts.
 For instance, in a study there were three northern white rhinoceroses with 81 chromosomes.
 
 
-
-=
-=
-Characteristics
-==
-
-
-===
-White rhinoceros =
-=
-=
-
-
 There are two subspecies of white rhinoceros: the southern white rhinoceros (Ceratotherium simum simum) and the northern white rhinoceros (Ceratotherium simum cottoni).
 As of 2013, the southern subspecies has a wild population of 20,405 – making them the most abundant rhino subspecies in the world.
 However, the northern subspecies is critically endangered, with all that is known to remain being two captive females.
@@ -67,12 +48,6 @@ The white rhinoceros also has a prominent muscular hump that supports its relati
 The colour of this animal can range from yellowish brown to slate grey.
 Most of its body hair is found on the ear fringes and tail bristles, with the rest distributed rather sparsely over the rest of the body.
 White rhinos have the distinctive flat broad mouth that is used for grazing.
-
-
-
-=
-== Black rhinoceros =
-==
 
 
 The name "black rhinoceros" (Diceros bicornis) was chosen to distinguish this species from the white rhinoceros (Ceratotherium simum).
@@ -90,12 +65,6 @@ Since then, numbers have been steadily increasing at a continental level with nu
 Current numbers are however still 90% lower than three generations ago.
 
 
-
-=
-== Indian rhinoceros =
-==
-
-
 The Indian rhinoceros, or greater one-horned rhinoceros, (Rhinoceros unicornis) has a single horn 20 to 60 cm long.
 It is nearly as large as the African white rhino.
 Its thick, silver-brown skin folds into the shoulder, back, and rump, giving it an armored appearance.
@@ -107,13 +76,6 @@ The record-sized specimen was approximately 4,000 kg (8,800 lb).Indian rhinos on
 However, because of human influence, they now exist in only several protected areas of India (in Assam, West Bengal, and a few pairs in Uttar Pradesh) and Nepal, plus a pair in Lal Suhanra National Park in Pakistan reintroduced there from Nepal.
 They are confined to the tall grasslands and forests in the foothills of the Himalayas.
 Two-thirds of the world's Indian rhinoceroses are now confined to the Kaziranga National Park situated in the Golaghat district of Assam, India.
-
-
-
-=
-==
-Javan rhinoceros =
-==
 
 
 The Javan rhinoceros (Rhinoceros sondaicus) is one of the most endangered large mammals in the world.
@@ -130,14 +92,6 @@ Though once widespread throughout Asia, by the 1930s they were nearly hunted to 
 As of 2015, only 58–61 individuals remain in Ujung Kulon National Park, Java, Indonesia.
 The last known Javan rhino in Vietnam was reportedly killed for its horn in 2011 by Vietnamese poachers.
 Now only Java contains the last Javan rhinos.
-
-
-
-=
-=
-=
-Sumatran rhinoceros =
-==
 
 
 The Sumatran rhinoceros (Dicerorhinus sumatrensis) is the smallest extant rhinoceros species, as well as the one with the most hair.
@@ -165,24 +119,10 @@ The Indonesian and Malaysian governments have also proposed a single management 
 Plantations for palm oil have taken out the living areas and led to the eradication of the rhino in Sumatra.
 
 
-
-=
-=
-Evolution
-==
-
 Rhinocerotoids diverged from other perissodactyls by the early Eocene.
 Fossils of Hyrachyus eximus found in North America date to this period.
 This small hornless ancestor resembled a tapir or small horse more than a rhino.
 Three families, sometimes grouped together as the superfamily Rhinocerotoidea, evolved in the late Eocene, namely the Hyracodontidae, Amynodontidae and Rhinocerotidae.
-
-
-
-=
-==
-Hyracodontidae =
-=
-=
 
 
 Hyracodontidae, also known as "running rhinos", showed adaptations for speed, and would have looked more like horses than modern rhinos.
@@ -192,19 +132,9 @@ Like a giraffe, it ate leaves from trees.
 Hyracodontids spread across Eurasia from the mid-Eocene to early Miocene.
 
 
-
-=
-== Amynodontidae =
-==
-
-
 The Amynodontidae, also known as "aquatic rhinos", dispersed across North America and Eurasia, from the late Eocene to early Oligocene.
 The amynodontids were hippopotamus-like in their ecology and appearance, inhabiting rivers and lakes, and sharing many of the same adaptations to aquatic life as hippos.
 
-
-===
-Rhinocerotidae =
-==
 
 The family of all modern rhinoceros, the Rhinocerotidae, first appeared in the Late Eocene in Eurasia.
 The earliest members of Rhinocerotidae were small and numerous; at least 26 genera lived in Eurasia and North America until a wave of extinctions in the middle Oligocene wiped out most of the smaller species.
@@ -336,11 +266,6 @@ Ma
 Ma
 
 
-
-== Predators, poaching and hunting =
-=
-
-
 Adult rhinoceros have no real predators in the wild, other than humans.
 Young rhinos can however fall prey to big cats, crocodiles, African wild dogs, and hyenas.
 
@@ -355,13 +280,6 @@ In some cases rhinos are drugged and their horns removed, while in other instanc
 The Namibian government has supported the practice of rhino trophy hunting as a way to raise money for conservation.
 Hunting licenses for five Namibian Black rhinos are auctioned annually, with the money going to the government's Game Products Trust Fund.
 Some conservationists and members of the public however oppose or question this practice.
-
-
-
-=
-=
-Horn trade and use =
-=
 
 
 International trade in rhinoceros horn has been declared illegal by the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) since 1977.
@@ -425,34 +343,6 @@ This legend was depicted in the film
 The Gods Must Be Crazy (1980), which shows an African rhinoceros putting out two campfires.
 
 
-
-=
-=
-See also =
-=
-
-
-===
-Conservation
-===
-
-
-=== Individual rhinoceroses =
-==
-
-
-===
-Other ===
-Rhinoceroses in ancient China
-
-
-=
-=
-References ==
-
-
-== Further reading =
-=
 Cerdeño, Esperanza (1995).
 "
 Cladistic Analysis of the Family Rhinocerotidae (Perissodactyla)
@@ -503,12 +393,6 @@ The International Rhino Foundation.
 Archived from the original on 20 July 2009.
 Retrieved 7 July 2009.
 
-
-
-=
-=
-External links =
-=
 Rhino Species & Rhino Images page on the Rhino Resource Center
 Rhinoceros entry on World Wide Fund for Nature website.
 
