@@ -1,3 +1,4 @@
+#from cltl/SpaCy-to-NAF: https://github.com/cltl/SpaCy-to-NAF
 # coding: utf-8
 import re
 from lxml import etree
