@@ -5,10 +5,14 @@ import datetime
 
 nlp = spacy.load("en_core_web_sm")
 
+dirname = os.path.dirname(__file__)
+#into microportraits folder
+path = os.path.join(dirname,"../")
+
 def fileread():
-	for filename in os.listdir("C://Users//gwc//REU//microportrait//rawTest"):
+	for filename in os.listdir(path+"rawTest"):
 		if filename.endswith(".txt"):
-			orig = open("C://Users//gwc//REU//microportrait//rawTest//"+filename, "r", encoding="utf8")
+			orig = open(path+"rawTest/"+filename, "r", encoding="utf8")
 			f = open(filename.replace(".txt", ".naf"), "w", encoding="utf8")
 			text = " "
 			for line in orig.read():

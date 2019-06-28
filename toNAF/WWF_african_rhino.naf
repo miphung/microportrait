@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <NAF xml:lang="en" version="v3.naf">
   <nafHeader>
-    <fileDesc creationtime="2019-06-25T15:02:02UTC"/>
+    <fileDesc creationtime="2019-06-28T11:23:54UTC"/>
     <public/>
-    <linguisticProcessors layer="text">
-      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-25T15:02:02UTC" endTimestamp="2019-06-25T15:02:03UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
-    </linguisticProcessors>
     <linguisticProcessors layer="entities">
-      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-25T15:02:02UTC" endTimestamp="2019-06-25T15:02:03UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-28T11:23:54UTC" endTimestamp="2019-06-28T11:23:55UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="text">
+      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-28T11:23:54UTC" endTimestamp="2019-06-28T11:23:55UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="terms">
-      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-25T15:02:02UTC" endTimestamp="2019-06-25T15:02:03UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-28T11:23:54UTC" endTimestamp="2019-06-28T11:23:55UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="raw">
-      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-25T15:02:02UTC" endTimestamp="2019-06-25T15:02:03UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+      <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-06-28T11:23:54UTC" endTimestamp="2019-06-28T11:23:55UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
     </linguisticProcessors>
   </nafHeader>
   <raw> The two African rhino species – black rhino and white rhino – have both increased in number in recent years thanks to successful conservation efforts, especially in South Africa. Indeed, the white rhino has been brought back from the brink of extinction.
