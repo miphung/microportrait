@@ -1,0 +1,11 @@
+Members(ent1) of the rhinoceros family(e1lab1PP) are(ent1cop1) some of the largest(e1prop1) remaining(e1prop2) megafauna(e1lab2), with all species(e1lab3) able to reach(act1) or exceed(act2) one tonne(e1prop3) in weight.
+They(e1lab4arg0)) have(e1act3) a herbivorous diet(e1prop4), small brains(e1prop5) (400–600 g) for mammals of their size(e1lab5), one or two horns(e1prop6), and a thick (1.5–5 cm) protective skin(e1prop7) formed from layers of collagen positioned in a lattice structure(describes skin?/not relevant.
+They(e1lab4arg0) generally eat(e1act4) leafy material(arg1), although their(e1lab4arg0) ability to ferment food in their hindgut(e1prop8) allows(e1act6) them(e1lab4) to subsist(e1act7) on more fibrous plant matter when necessary.
+Unlike other perissodactyls(e1lab5), the two African(e1prop9) species(e1lab5) of rhinoceros lack(e1act8) teeth at the front of their mouths(prop10), relying instead on their lips(e1prop11) to pluck(e1act9) food.
+Rhinoceros(e1coref1arg1) are killed(act1) by some humans(ent2arg0) for their horns(ent1prop12), which are bought and sold on the black market, and used by some cultures for ornaments or traditional medicine.
+East Asia(ent3), specifically Vietnam(ent4 or ent3coref1), is(ent3cop1) the largest market(e3prop1) for rhino horns(ent5?).
+By weight, rhino horns(ent5arg0) cost(ent5act1) as much as gold on the black market.
+People(ent2coref1arg0) grind up(ent2act2) the horns(ent5arg1) and consume(e2act3) them(e5coref1), believing the dust has therapeutic properties.
+The horns(ent5) are(e5cop2?) made of keratin(e5prop1), the same type of protein that makes up hair and fingernails.
+Both African(e1prop9) species(e1lab5) and the Sumatran(e6lab1) rhinoceros(e6 or e1?) have two horns, while the Indian(e1lab and Javan(e1lab) rhinoceros(e1coref1) have a single horn.
+The IUCN(ent7) Red List identifies(e7act1) the Black(e1lab10), Javan(e1lab11), and Sumatran(e1lab12) rhinoceros(e1coref1) as critically endangered(e1prop12).
