@@ -88,7 +88,7 @@ class Calpino_dependency:
                     dependencies.append(my_dep)
         except Exception as e:
             print>>sys.stderr,str(e)
-        return dependencies
+        return dependencies                                         # this whole class is dependent on alpino style output?
         
 
 
@@ -157,7 +157,7 @@ current_sent_tid = []
 lemma_for_termid = {}
 termid_for_token = {}
 
-for term in my_knaf.get_terms():
+for term in my_knaf.get_terms():                                    # taking and storing information for later use, using nafkafparser?
     term_id = term.get_id()
     lemma = term.get_lemma()
     lemma_for_termid[term_id] = lemma
@@ -209,7 +209,7 @@ for num_sentence, sentence in enumerate(sentences):
     str_input+=token.encode('utf-8')+' '
   str_input+='\n'
 
-alpino_out, alpino_err = alpino_pro.communicate(str_input)
+alpino_out, alpino_err = alpino_pro.communicate(str_input)              # stores output of alpino?
 #alpino_pro.stdin.write(str_input)
 
 '''
@@ -235,15 +235,15 @@ alpino_pro.stdin.close()
 #alpino_pro.wait()
 
 #for line in alpino_pro.stdout:
-for line in alpino_out.splitlines():
+for line in alpino_out.splitlines():                            # what does alpino_out look like? can this be substituted with allen or spacy output?
     line = line.strip().decode('utf-8')
-    my_dep = Calpino_dependency(line)
-    if my_dep.is_ok():
-        my_sentence_index = my_dep.get_sentence()
+    my_dep = Calpino_dependency(line)                           # the whole class at the begining is called here? specific to alpino?
+    if my_dep.is_ok():                                          # is_ok?
+        my_sentence_index = my_dep.get_sentence()               # .get_sentence kafnaf command?
         list_term_ids = term_ids[my_sentence_index]
         deps = my_dep.generate_dependencies(list_term_ids)
         for d in deps:
-            my_knaf.add_dependency(d)
+            my_knaf.add_dependency(d)                           # is add_dependency part of kafnafparser?
             
 my_lp = Clp()
 my_lp.set_name(this_name)
