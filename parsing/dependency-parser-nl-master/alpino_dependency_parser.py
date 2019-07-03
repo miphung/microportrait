@@ -35,10 +35,10 @@ class Calpino_dependency:
         self.ok = True
         self.begin_from = self.begin_to = self.end_from = self.end_to = self.sentence = ''
         fields = line.split('|')
-        if len(fields) == 4:
+        if len(fields) == 4:                                                # if the line that fields is taken from (in naf file?) is wrong line, then this returns ok = false
             token_to = fields[0]
             match =  re.match(r'(.+)/\[(\d+),(\d+)\]', token_to)
-            if match is not None:
+            if match is not None:                                           #if anything else along the way picks up wrong information it returns ok = false
                 self.lemma_to = match.group(1)
                 self.begin_to = int(match.group(2))
                 self.end_to = int(match.group(3))
@@ -49,8 +49,8 @@ class Calpino_dependency:
                     self.lemma_from = match2.group(1)
                     self.begin_from = int(match2.group(2))
                     self.end_from = int(match2.group(3))
-                    self.relation = fields[1]
-                    self.sentence = int(fields[3])
+                    self.relation = fields[1]                               # grabs relation from position in fields, which has already been split
+                    self.sentence = int(fields[3])                          # Gets sentence number? fields must have all this information
                 else:
                     self.ok = False
             else:
@@ -68,7 +68,7 @@ class Calpino_dependency:
         r = 'From: %d-%d to %d-%d' % (self.begin_from,self.end_from,self.begin_to,self.end_to)
         return r
     
-    def generate_dependencies(self, list_term_ids):
+    def generate_dependencies(self, list_term_ids):                         # list of tids is generated somewhere? possibly by nouns pos?
         # This will creathe dependency
         dependencies = []
         try:
@@ -103,7 +103,7 @@ arguments = argument_parser.parse_args()
 
      
 
-if not sys.stdin.isatty(): 
+if not sys.stdin.isatty():                                          # what does this mean?
     ## READING FROM A PIPE
     pass
 else:
@@ -111,7 +111,7 @@ else:
     sys.exit(-1)
 
   
-my_config = ConfigParser.ConfigParser()
+my_config = ConfigParser.ConfigParser()                             # setting up alpino
 config_file = os.path.join(__module_dir, config_filename)
 if not os.path.exists(config_file):
     print>>sys.stderr,'Config file not found in ',config_file
