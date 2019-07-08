@@ -1,6 +1,8 @@
 import spacy 
 import os 
 
+#test 
+
 nlp = spacy.load("en_core_web_sm")
 dirname = os.path.dirname(__file__)
 #into microportraits folder
