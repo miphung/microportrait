@@ -1,7 +1,7 @@
 import spacy 
 import os 
 
-#test 
+#testing 
 
 nlp = spacy.load("en_core_web_sm")
 dirname = os.path.dirname(__file__)
