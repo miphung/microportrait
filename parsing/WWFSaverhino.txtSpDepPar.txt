@@ -1,0 +1,242 @@
+Rhino horn horn nsubjpass
+Traditional Chinese Medicine Medicine pobj
+its use use nsubj
+a status symbol symbol pobj
+success success dobj
+wealth wealth conj
+a threat threat attr
+all rhino range states states pobj
+South Africa Africa nsubj
+home home attr
+the majority majority pobj
+rhinos rhinos pobj
+the world world pobj
+it it nsubjpass
+field programmes programmes nsubj
+anti-poaching activities activities pobj
+Poachers Poachers nsubjpass
+international criminal gangs gangs pobj
+sophisticated equipment equipment pobj
+rhinos rhinos dobj
+a tranquiliser gun gun nsubjpass
+the rhino rhino dobj
+its horn horn nsubjpass
+the rhino rhino dobj
+death death pobj
+Poachers Poachers nsubj
+guns guns pobj
+themselves themselves appos
+them them nsubj
+the anti-poaching teams teams pobj
+who who nsubj
+their lives lives dobj
+the line line pobj
+rhinos rhinos dobj
+The scarcity scarcity nsubj
+rhinos rhinos pobj
+the corresponding intermittent availability availability conj
+rhino horn horn pobj
+the price price dobj
+horn horn pobj
+pressure pressure dobj
+declining rhino populations populations pobj
+people people pobj
+whose annual income income nsubj
+the subsistence level level pobj
+the opportunity opportunity pobj
+one’s life life dobj
+an animal animal dobj
+they they nsubj
+value value nsubj
+What What nsubj
+rhino horn horn nsubj
+Rhino horns horns nsubj
+structure structure pobj
+horses horses pobj
+They They nsubjpass
+rhinoceros horn horn pobj
+it it nsubj
+large quantities quantities dobj
+sulphur-containing amino acids acids pobj
+tyrosine tyrosine conj
+histidine histidine conj
+lysine lysine conj
+arginine arginine conj
+the salts calcium carbonate carbonate conj
+calcium phosphate phosphate conj
+Traditional Chinese Medicine Medicine ROOT
+traditional Chinese texts texts pobj
+Li Shih-chen chen pobj
+’s 1597 medical text text appos
+“ “ ROOT
+Pen Pen ROOT
+Ts’ ’ nsubjpass
+Kang Mu Mu pobj
+rhino horn horn nsubjpass
+Chinese medicine medicine pobj
+more than 2,000 years years pobj
+fever fever dobj
+rheumatism rheumatism conj
+gout gout conj
+other disorders disorders conj
+It It nsubj
+the horn horn nsubj
+snakebites snakebites dobj
+hallucinations hallucinations conj
+typhoid typhoid conj
+headaches headaches conj
+carbuncles carbuncles conj
+vomiting vomiting conj
+food poisoning poisoning conj
+“devil possession possession conj
+it it nsubjpass
+an aphrodisiac aphrodisiac pobj
+the case case attr
+the horn horn nsubjpass
+ground ground conj
+a powder powder pobj
+boiling water water pobj
+Richard Ellis Ellis nsubj
+author author appos
+“Tiger bone bone pobj
+rhino horn horn conj
+the EAZA Rhino Campaign’s Info Pack Pack pobj
+It It nsubj
+rhino horn horn nsubj
+any medicinal purpose purpose dobj
+it it nsubj
+a testimony testimony attr
+the power power pobj
+tradition tradition pobj
+millions millions nsubj
+people people pobj
+it it nsubj
+people people nsubj
+prayer prayer pobj
+acupuncture acupuncture conj
+voodoo voodoo conj
+a cure cure pobj
+what what nsubj
+them them dobj
+no reason reason attr
+they they nsubj
+animals animals nsubjpass
+nostrums nostrums dobj
+a very good reason reason attr
+the use use dobj
+rhino horn horn pobj
+five species species attr
+rhinoceros rhinoceros pobj
+the exception exception pobj
+one subspecies subspecies pobj
+African White rhino rhino pobj
+danger danger pobj
+their horns horns pobj
+Rhinos Rhinos nsubj
+we we nsubj
+them them dobj
+millions millions pobj
+years years pobj
+Dr H. Spaiens Spaiens nsubj
+a predicament predicament dobj
+they they nsubj
+It It nsubj
+the world’s rhinos rhinos nsubjpass
+the face face pobj
+the earth earth pobj
+the name name pobj
+medications medications pobj
+n’t work work dobj
+”
+Aphrodisiac Aphrodisiac ROOT
+a belief belief attr
+Western countries countries pobj
+rhino horn horn nsubjpass
+an aphrodisiac aphrodisiac pobj
+stimulant stimulant conj
+Western media media pobj
+research research nsubj
+people people nsubj
+Viet Nam Nam pobj
+this rumour rumour dobj
+they they nsubj
+it it dobj
+new reasons reasons pobj
+aphrodisiacal properties properties pobj
+rhino horn horn nsubj
+the mainstays mainstays pobj
+Traditional Chinese Medicines Medicines pobj
+its collection collection nsubj
+the death death pobj
+tens of thousands thousands pobj
+rhinos rhinos pobj
+the world world pobj
+no mistake mistake dobj
+those people people nsubj
+rhino horn horn dobj
+medical ailments ailments dobj
+it it nsubj
+That’s ’s ROOT
+what what nsubj
+the demand demand dobj
+the poachers poachers nsubj
+Ann Ann nsubj
+Steve Toon Toon conj
+practitioners practitioners pobj
+traditional Asian medicine medicine pobj
+rhino horn horn nsubjpass
+a frivolous love potion potion pobj
+an irreplaceable pharmaceutical necessity necessity pobj
+Viet Nam – new uses uses ROOT
+rhino horn horn pobj
+a recent surge surge attr
+demand demand pobj
+rhino horn horn pobj
+Viet Nam Nam pobj
+it it nsubjpass
+a hangover cure cure pobj
+treatment treatment conj
+terminal illnesses illnesses pobj
+many more uses uses conj
+A survey survey nsubj
+TRAFFIC TRAFFIC pobj
+the motivation motivation nsubj
+consumers consumers pobj
+rhino horn horn dobj
+the emotional benefit benefit attr
+it it nsubj
+their social status status dobj
+their peers peers pobj
+Image Image nsubj
+status status conj
+these consumers consumers pobj
+they they nsubj
+highly educated and successful people people attr
+who who nsubj
+a powerful social network network dobj
+no affinity affinity conj
+Rhino horns horns nsubjpass
+the sole purpose purpose pobj
+others others pobj
+family members members pobj
+business colleagues colleagues conj
+people people conj
+positions positions pobj
+authority authority pobj
+TRAFFIC TRAFFIC nsubj
+three main consumer groups groups dobj
+You You nsubj
+their report report dobj
+Trade Trade ROOT
+The International trade trade nsubjpass
+rhino horn horn pobj
+CITES CITES pobj
+Convention Convention appos
+International Trade Trade pobj
+Endangered Species Species pobj
+Fauna Fauna pobj
+Flora Flora conj
+South Africa Africa pobj
+a call call attr
+the trade trade dobj
+rhino horn horn pobj

@@ -1,0 +1,179 @@
+The two African rhino species species nsubj
+number number pobj
+recent years years pobj
+successful conservation efforts efforts pobj
+South Africa Africa pobj
+the white rhino rhino nsubjpass
+the brink brink pobj
+extinction extinction pobj
+both species species nsubj
+risk risk pobj
+a huge surge surge pobj
+demand demand dobj
+illegal rhino horn horn pobj
+Asia Asia pobj
+Countries Countries nsubj
+conservationists conservationists conj
+their efforts efforts dobj
+record numbers numbers nsubjpass
+rhinos rhinos pobj
+Distribution Distribution ROOT
+Africa’s savannahs savannahs nsubj
+over a million black and white rhinos rhinos pobj
+relentless hunting hunting nsubj
+European settlers settlers pobj
+rhino numbers numbers nsubj
+distribution distribution conj
+Poaching Poaching nsubj
+the 1970s 1970s pobj
+1980s 1980s conj
+demand demand nsubj
+rhino horn horn pobj
+a prized ingredient ingredient appos
+traditional Asian medicines medicines pobj
+both species species dobj
+risk risk pobj
+vigorous conservation conservation pobj
+anti-poaching efforts efforts conj
+an international ban ban conj
+the trade trade pobj
+rhino horn horn pobj
+some African rhino populations populations nsubj
+the continent's remaining rhinos rhinos pobj
+just four countries countries pobj
+– South Africa Africa appos
+Namibia Namibia conj
+Zimbabwe Zimbabwe conj
+Kenya Kenya conj
+Very few African rhinos rhinos nsubj
+protected areas areas pobj
+sanctuaries sanctuaries conj
+poaching poaching nsubj
+the survival survival dobj
+some populations populations pobj
+Why rhinos matter matter ROOT
+Rhinos Rhinos nsubj
+millions millions pobj
+years years pobj
+a crucial role role dobj
+their ecosystem ecosystem pobj
+They’re important grazers grazers ROOT
+large amounts amounts dobj
+vegetation vegetation pobj
+the African landscape landscape dobj
+other animals animals dobj
+a healthy balance balance dobj
+the ecosystem ecosystem pobj
+Local people people nsubj
+the natural resources resources pobj
+rhino habitat habitat pobj
+food food pobj
+fuel fuel conj
+income income conj
+Africa’s ’s pobj
+rhinos rhinos nsubj
+a popular sight sight attr
+tourists tourists pobj
+Ecotourism Ecotourism nsubj
+an important source source attr
+income income pobj
+local people people pobj
+protect rhinos rhinos dobj
+we we nsubj
+their habitat habitat dobj
+the benefit benefit pobj
+people people pobj
+wildlife wildlife conj
+local communities communities dobj
+natural resources resources nsubj
+generations generations pobj
+Poaching Poaching ROOT
+The greatest threat threat nsubj
+African rhinos rhinos dobj
+the illegal trade trade pobj
+their horns horns pobj
+recent years years pobj
+The number number nsubj
+rhinos rhinos pobj
+South Africa Africa pobj
+9,000% % pobj
+a record record pobj
+Powdered horn horn nsubjpass
+traditional Asian medicine medicine pobj
+a supposed cure cure pobj
+a range range pobj
+illnesses illnesses pobj
+hangovers hangovers pobj
+fevers fevers pobj
+even cancer cancer conj
+the current surge surge nsubjpass
+demand demand pobj
+horn horn pobj
+Vietnam Vietnam pobj
+its use use pobj
+medicine medicine pobj
+rhino horn horn nsubjpass
+a symbol symbol pobj
+wealth wealth pobj
+Poaching gangs gangs nsubj
+increasingly sophisticated methods methods dobj
+helicopters helicopters pobj
+night vision equipment equipment conj
+track rhinos rhinos pobj
+veterinary drugs drugs conj
+them them dobj
+countries countries nsubj
+conservationists conservationists conj
+this level level dobj
+technology technology pobj
+the problem problem dobj
+demand demand dobj
+their names names pobj
+both the white rhino rhino nsubj
+black rhino rhino conj
+the same dark grey-brown colour colour attr
+It It nsubj
+’s ’s nsubj
+the name name nsubj
+a misinterpretation misinterpretation attr
+the Afrikaans word word pobj
+its square upper lip lip pobj
+Black rhinos rhinos nsubj
+lips lips dobj
+Both species species nsubj
+these armoured giants giants pobj
+large amounts amounts dobj
+food food pobj
+Black rhino rhino nsubj
+their prehensile upper lip lip pobj
+black rhinos rhinos nsubj
+the two African species species pobj
+They They nsubjpass
+sub-Saharan Africa Africa pobj
+the exception exception pobj
+the Congo Basin Basin pobj
+They They nsubjpass
+protected areas areas pobj
+the continent continent pobj
+About 96% % nsubjpass
+black rhinos rhinos pobj
+large-scale poaching poaching pobj
+effective conservation efforts efforts nsubj
+the total number number nsubj
+White rhinos rhinos nsubj
+black rhinos rhinos pobj
+a squared upper lip lip dobj
+almost no hair hair conj
+the species species nsubj
+the brunt brunt dobj
+the surge surge pobj
+poaching poaching pobj
+it it nsubj
+conservation’s greatest success stories stories pobj
+a population population nsubjpass
+South Africa Africa pobj
+more than a century century pobj
+protection protection pobj
+management management conj
+the species species nsubj
+Near Threatened Threatened pobj

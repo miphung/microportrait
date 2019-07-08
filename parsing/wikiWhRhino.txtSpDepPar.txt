@@ -1,0 +1,845 @@
+The white rhinoceros rhinoceros nsubj
+square-lipped rhinoceros rhinoceros conj
+Ceratotherium simum simum appos
+the largest extant species species attr
+rhinoceros rhinoceros pobj
+It It nsubj
+a wide mouth mouth dobj
+grazing grazing pobj
+all rhino species species pobj
+The white rhinoceros rhinoceros nsubj
+two subspecies subspecies pobj
+the southern white rhinoceros rhinoceros appos
+an estimated 19,682–21,077 wild-living animals animals pobj
+the year year pobj
+the much rarer northern white rhinoceros rhinoceros conj
+The northern subspecies subspecies nsubj
+very few remaining individuals individuals dobj
+(two females females appos
+Fatu Fatu appos
+Najin Najin conj
+captivity captivity pobj
+Sudan Sudan nsubj
+the world's last known male northern white rhinoceros rhinoceros appos
+Kenya Kenya pobj
+19 March March pobj
+A popular albeit widely discredited theory theory nsubj
+the origins origins pobj
+the name name pobj
+"white rhinoceros rhinoceros appos
+a mistranslation mistranslation attr
+Dutch Dutch pobj
+English English pobj
+The English word word nsubjpass
+mistranslation mistranslation pobj
+the Dutch word word pobj
+English English pobj
+The word word nsubj
+the width width pobj
+the rhinoceros's mouth mouth pobj
+early English-speaking settlers settlers nsubj
+South Africa Africa pobj
+the "wijd wijd dobj
+the rhino rhino conj
+the wide mouth mouth pobj
+the narrow pointed mouth mouth pobj
+Dutch Dutch nsubj
+Afrikaans Afrikaans conj
+a calque calque dobj
+the English word word pobj
+it it dobj
+the origin origin nsubj
+the word word pobj
+codification codification pobj
+Dutch writers writers pobj
+A review review nsubj
+Dutch and Afrikaans literature literature pobj
+the rhinoceros rhinoceros pobj
+any evidence evidence dobj
+the word word nsubj
+the rhino rhino dobj
+oral use use pobj
+An alternative name name nsubj
+the white rhinoceros rhinoceros pobj
+the square-lipped rhinoceros rhinoceros attr
+The white rhinoceros' generic name name nsubjpass
+Ceratotherium Ceratotherium appos
+the zoologist zoologist pobj
+John Edward Gray Gray appos
+the Greek terms keras keras pobj
+κερας κερας appos
+"horn horn appos
+therion therion conj
+(θηριον θηριον appos
+"beast beast appos
+Simum Simum nsubjpass
+the Greek term simus simus pobj
+The white rhinoceros rhinoceros nsubjpass
+today today pobj
+Ceratotherium praecox praecox pobj
+Remains Remains nsubjpass
+this white rhino rhino pobj
+Langebaanweg Langebaanweg pobj
+Cape Town Town pobj
+A review review nsubj
+fossil rhinos rhinos pobj
+Africa Africa pobj
+Denis Geraads Geraads pobj
+the species species nsubj
+Langebaanweg Langebaanweg pobj
+the genus Ceratotherium Ceratotherium pobj
+not Ceratotherium praecox praecox nsubj
+the type specimen specimen pobj
+Ceratotherium praecox praecox pobj
+fact fact pobj
+Diceros Diceros nsubj
+it it nsubj
+closer affinities affinities dobj
+the black rhinoceros rhinoceros pobj
+Diceros bicornis bicornis appos
+It It nsubjpass
+the modern white rhino rhino nsubj
+a longer skull skull dobj
+Ceratotherium Ceratotherium nsubj
+consumption consumption dobj
+shorter grasses grasses pobj
+the long term trend trend pobj
+drier conditions conditions pobj
+Africa Africa pobj
+Ceratotherium praecox praecox nsubj
+fact fact pobj
+Diceros Diceros nsubj
+the shorter skull skull nsubj
+a browsing species species dobj
+Teeth Teeth nsubj
+fossils fossils pobj
+Ceratotherium Ceratotherium pobj
+Makapansgat Makapansgat pobj
+South Africa Africa pobj
+carbon isotopes isotopes pobj
+the researchers researchers nsubj
+these animals animals nsubj
+more than 30% browse browse dobj
+their diet diet pobj
+the fossils fossils attr
+the extant Ceratotherium simum simum pobj
+grass grass dobj
+It It nsubjpass
+the real lineage lineage nsubj
+the white rhino rhino pobj
+Ceratotherium Ceratotherium nsubj
+the Langebaanweg rhinos rhinos pobj
+Ceratotherium sp sp attr
+black rhinos rhinos nsubjpass
+C. neumayri neumayri pobj
+Diceros praecox praecox pobj
+an alternative scenario scenario nsubjpass
+the earliest African Ceratotherium Ceratotherium nsubjpass
+Ceratotherium efficax efficax attr
+the Late Pliocene Pliocene pobj
+Ethiopia Ethiopia pobj
+the Early Pleistocene Pleistocene conj
+Tanzania Tanzania pobj
+This species species nsubjpass
+the Middle Pleistocene species species pobj
+northern Africa Africa pobj
+East Africa Africa pobj
+C. germanoafricanum germanoafricanum nsubj
+C. simum simum pobj
+The study study nsubj
+the ancestry ancestry dobj
+C. neumayri neumayri pobj
+the Miocene Miocene pobj
+southern Europe Europe pobj
+the African species species pobj
+It It nsubj
+the ancestor ancestor nsubj
+the white rhinos rhinos conj
+a mixed feeder feeder attr
+the two lineages lineages pobj
+browsing browsing pobj
+grazing grazing conj
+two subspecies subspecies attr
+white rhino rhino pobj
+the southern white rhinoceros rhinoceros appos
+Ceratotherium simum simum simum appos
+the northern white rhinoceros rhinoceros conj
+31 December December pobj
+an estimated 17,460 southern white rhinos rhinos attr
+(IUCN IUCN appos
+them them dobj
+the most abundant subspecies subspecies pobj
+rhino rhino pobj
+the world world pobj
+the number number nsubj
+all other rhino subspecies subspecies nsubj
+South Africa Africa nsubj
+the stronghold stronghold attr
+this subspecies subspecies pobj
+93.0% % appos
+16,255 individuals individuals dobj
+the wild wild pobj
+smaller reintroduced populations populations attr
+the historical range range pobj
+the species species pobj
+Namibia Namibia pobj
+Botswana Botswana conj
+Zimbabwe Zimbabwe conj
+Uganda Uganda conj
+Swaziland Swaziland conj
+Mozambique Mozambique pobj
+Populations Populations nsubjpass
+the former range range pobj
+the species species pobj
+Kenya Kenya pobj
+Zambia Zambia conj
+Wild-caught southern whites whites nsubj
+captivity captivity pobj
+appropriate amounts amounts dobj
+space space pobj
+food food conj
+the presence presence conj
+other female rhinos rhinos pobj
+breeding age age pobj
+reasons reasons pobj
+the rate rate nsubj
+reproduction reproduction pobj
+captive-born southern white females females pobj
+The northern white rhinoceros rhinoceros nsubjpass
+northern square-lipped rhinoceros rhinoceros conj
+Ceratotherium simum cottoni cottoni appos
+Critically Critically nsubj
+the Wild Wild pobj
+several countries countries pobj
+East East pobj
+Central Africa Africa conj
+the Sahara Sahara pobj
+this subspecies subspecies nsubj
+a grazer grazer attr
+grasslands grasslands pobj
+savanna woodlands woodlands conj
+six northern white rhinoceros rhinoceros nsubj
+the Dvůr Králové Zoo Zoo pobj
+the Czech Republic Republic pobj
+the six rhinos rhinos pobj
+the only reproductive animals animals attr
+this subspecies subspecies pobj
+Ol Pejeta Conservancy Conservancy pobj
+Kenya Kenya pobj
+scientists scientists nsubj
+they they nsubj
+this subspecies subspecies dobj
+extinction extinction pobj
+the Czech Republic Republic pobj
+late May May pobj
+the last two males males pobj
+natural mating mating pobj
+Kenya Kenya pobj
+18 October October pobj
+San Diego Diego pobj
+15 December December pobj
+the Kenyan government government nsubj
+the last remaining male male dobj
+the subspecies subspecies pobj
+Ol Pejeta Pejeta pobj
+24-hour armed guard guard pobj
+poachers poachers dobj
+he he nsubjpass
+19 March March pobj
+multiple health problems problems pobj
+old age age pobj
+just two females females dobj
+the Ol Pejeta complex complex pobj
+Staff Staff nsubj
+the remaining females females dobj
+the last male's semen semen pobj
+the semen semen nsubj
+the age age pobj
+the rhino rhino pobj
+the phylogenetic species concept concept pobj
+recent research research nsubj
+the hypothesis hypothesis pobj
+the northern white rhinoceros rhinoceros nsubj
+a different species species attr
+a subspecies subspecies pobj
+white rhinoceros rhinoceros pobj
+which case case pcomp
+the correct scientific name name nsubj
+Ceratotherium cottoni cottoni attr
+Distinct morphological and genetic differences differences nsubj
+the two proposed species species nsubjpass
+at least a million years years pobj
+the results results nsubjpass
+the research research pobj
+other scientists scientists pobj
+The white rhinoceros rhinoceros nsubj
+the five living species species pobj
+rhinoceros rhinoceros pobj
+mean body mass mass pobj
+the white rhinoceros rhinoceros nsubj
+only the three extant species species pobj
+elephant elephant pobj
+It It nsubj
+a hippopotamus hippopotamus pobj
+a considerable mass overlap overlap pobj
+these two species species pobj
+It It nsubj
+a massive body body dobj
+large head head conj
+a short neck neck conj
+broad chest chest conj
+The head and body length length nsubj
+3.7 to 4.5 m m attr
+12.1 to 14.8 ft ft appos
+males males pobj
+3.4 to 3.65 m m conj
+11.2 to 12.0 ft ft appos
+females females pobj
+the tail tail nsubj
+another 70 cm cm dobj
+the shoulder height height nsubj
+170 to 186 cm cm attr
+5.58 to 6.10 ft ft appos
+the male male pobj
+160 to 177 cm cm conj
+the female female pobj
+The male male nsubj
+about 2,300 kg kg dobj
+5,070 lb lb appos
+the female female pobj
+an average average pobj
+about 1,700 kg kg pobj
+3,750 lb lb appos
+The largest size size nsubjpass
+the species species nsubj
+specimens specimens nsubjpass
+up to 3,600 kg kg pobj
+7,940 lb lb appos
+up to 4,500 kg kg nsubjpass
+its snout snout pobj
+it it nsubj
+two horn-like growths growths dobj
+solid keratin keratin pobj
+they they nsubj
+the horns horns pobj
+bovids bovids pobj
+cattle cattle appos
+their relatives relatives conj
+keratin keratin attr
+a bony core core pobj
+deer antlers antlers attr
+solid bone bone attr
+The front horn horn nsubj
+averages averages conj
+60 cm cm dobj
+length length pobj
+as much as 150 cm cm dobj
+females females pobj
+The white rhinoceros rhinoceros nsubj
+a noticeable hump hump dobj
+the back back pobj
+its neck neck pobj
+the four stumpy feet feet pobj
+three toes toes dobj
+The color color nsubj
+the body body pobj
+yellowish brown brown pobj
+slate grey grey pobj
+Its only hair hair nsubj
+the ear fringes fringes attr
+tail bristles bristles conj
+White rhinos rhinos nsubj
+a distinctive broad, straight mouth mouth dobj
+grazing grazing pobj
+Its ears ears nsubj
+sounds sounds dobj
+it it nsubj
+its sense sense pobj
+smell smell pobj
+The olfactory passages passages nsubj
+smell smell pobj
+their entire brain brain pobj
+The white rhinoceros rhinoceros nsubj
+the widest set set dobj
+nostrils nostrils pobj
+any land-based animal animal pobj
+The genome size size nsubj
+the white rhinoceros rhinoceros pobj
+2666.62 Mbp Mbp attr
+A diploid cell cell nsubj
+2 x 40 autosomals autosomals dobj
+2 sex chromosomes chromosomes conj
+XX XX appos
+XY XY conj
+White rhinoceroses rhinoceroses nsubjpass
+grassland grassland pobj
+savannah savannah conj
+Herbivore grazers grazers nsubj
+grass grass dobj
+the shortest grains grains dobj
+the white rhinoceros rhinoceros nsubj
+the largest pure grazers grazers pobj
+It It nsubj
+water water nsubj
+conditions conditions nsubj
+it it nsubj
+water water pobj
+It It nsubj
+about half half nsubj
+the day day pobj
+the day day pobj
+various other things things dobj
+White rhinoceroses rhinoceroses ROOT
+all species species pobj
+rhinoceros rhinoceros pobj
+love love conj
+mudholes mudholes pobj
+The white rhinoceros rhinoceros nsubjpass
+the structure structure dobj
+ecology ecology conj
+the savanna's grasslands grasslands pobj
+studies studies pobj
+the African elephant elephant pobj
+scientists scientists nsubj
+the white rhino rhino nsubj
+a driving factor factor attr
+its ecosystem ecosystem pobj
+The destruction destruction nsubj
+the megaherbivore megaherbivore pobj
+serious cascading effects effects dobj
+the ecosystem ecosystem pobj
+other animals animals dobj
+White rhinoceroses rhinoceroses nsubj
+sounds sounds dobj
+a panting contact call call dobj
+grunts grunts conj
+snorts snorts conj
+courtship courtship pobj
+squeals squeals conj
+distress distress pobj
+deep bellows bellows conj
+growls growls conj
+Threat displays displays nsubj
+males males pobj
+its horn horn dobj
+the ground ground pobj
+a head-low posture posture conj
+ears ears pobj
+snarl threats threats pobj
+The vocalisations vocalisations nsubj
+the two species species pobj
+The white rhinoceros rhinoceros nsubj
+50 km/h h dobj
+(31 mph mph appos
+White rhinoceroses rhinoceroses nsubj
+crashes crashes pobj
+herds herds conj
+up to 14 animals animals pobj
+Sub-adult males males nsubj
+association association pobj
+an adult female female pobj
+Most adult bulls bulls nsubj
+Dominant bulls bulls nsubj
+their territory territory dobj
+excrement excrement pobj
+urine urine conj
+The dung dung nsubjpass
+well-defined piles piles pobj
+It It nsubj
+these piles piles pobj
+passing rhinoceroses rhinoceroses dobj
+it it nsubj
+his territory territory attr
+Another way way nsubj
+their territory territory dobj
+their horns horns dobj
+bushes bushes pobj
+the ground ground conj
+scrapes scrapes conj
+its feet feet pobj
+urine urine nsubj
+They They nsubj
+ten times times pobj
+territory territory dobj
+The same ritual ritual nsubjpass
+urine urine pobj
+The territorial male male nsubj
+every 30 m m ROOT
+98 ft ft appos
+Subordinate males males nsubj
+territory territory dobj
+The most serious fights fights nsubj
+mating rights rights pobj
+a female female pobj
+Female territory territory nsubj
+they they nsubj
+it it dobj
+Females Females nsubj
+sexual maturity maturity dobj
+6–7 years years pobj
+age age pobj
+males males nsubj
+sexual maturity maturity dobj
+10–12 years years pobj
+age age pobj
+Courtship Courtship nsubj
+a difficult affair affair attr
+The male male nsubj
+the point point pobj
+the female acts acts nsubj
+a call call dobj
+her her dobj
+The male chases chases ROOT
+the way way dobj
+his territory territory dobj
+the female curls curls dobj
+her tail tail dobj
+a stiff stance stance pobj
+the half-hour copulation copulation pobj
+Breeding pairs pairs nsubj
+5–20 days days pobj
+they they nsubj
+their separate ways ways dobj
+The gestation period period nsubj
+a white rhino rhino pobj
+16 months months attr
+A single calf calf nsubjpass
+between 40 and 65 kg kg dobj
+143 lb lb conj
+Calves Calves nsubj
+their first two to three days days pobj
+life life pobj
+the baby baby nsubj
+front front pobj
+the mother mother pobj
+her calf calf pobj
+it it pobj
+Weaning Weaning nsubj
+two months months pobj
+the calf calf nsubj
+over 12 months months pobj
+The birth interval interval nsubj
+the white rhino rhino pobj
+two and three years years pobj
+birth birth dobj
+the mother mother nsubj
+her current calf calf dobj
+White rhinos rhinos nsubj
+Adult white rhinos rhinos nsubj
+no natural predators predators dobj
+humans humans pobj
+their size size pobj
+even young rhinos rhinos nsubjpass
+the mother's presence presence pobj
+their tough skin skin conj
+One exceptional successful attack attack nsubjpass
+a lion pride pride pobj
+a roughly half-grown white rhinoceros rhinoceros pobj
+1,055 kg kg dobj
+2,326 lb lb appos
+Mala Mala Game Reserve Reserve pobj
+The southern white rhino rhino nsubj
+Southern Africa Africa pobj
+About 98.5% % nsubj
+white rhinos rhinos pobj
+just five countries countries pobj
+South Africa Africa appos
+Namibia Namibia conj
+Zimbabwe Zimbabwe conj
+Kenya Kenya conj
+Uganda Uganda conj
+the edge edge pobj
+extinction extinction pobj
+the early 20th century century pobj
+the southern subspecies subspecies nsubj
+a tremendous comeback comeback dobj
+it it nsubjpass
+11,670 white rhinos rhinos attr
+the wild wild pobj
+captivity captivity pobj
+it it nsubj
+the world world pobj
+the end end pobj
+wild-living southern white rhinos rhinos nsubj
+an estimated 17,480 animals animals pobj
+IUCN IUCN appos
+The northern white rhino rhino nsubj
+Ceratotherium simum cottoni cottoni appos
+parts parts pobj
+northwestern Uganda Uganda pobj
+southern Chad Chad conj
+southwestern Sudan Sudan conj
+the eastern part part appos
+Central African Republic Republic pobj
+the Congo Congo pobj
+The last surviving population population nsubj
+wild northern white rhinos rhinos pobj
+Garamba National Park Park pobj
+Democratic Republic Republic conj
+the Congo Congo pobj
+(DRC DRC appos
+August August pobj
+surveys surveys nsubj
+the direction direction pobj
+African Parks Foundation Foundation pobj
+the African Rhino Specialist Group Group conj
+(ARSG ARSG appos
+four animals animals dobj
+a solitary adult male male appos
+a group group conj
+one adult male male pobj
+two adult females females conj
+June June pobj
+it it nsubjpass
+the species species nsubj
+the wild wild pobj
+the black rhino rhino pobj
+the white rhino rhino nsubj
+threat threat pobj
+habitat loss loss pobj
+poaching poaching conj
+Janjaweed Janjaweed pobj
+no measurable health benefits benefits attr
+the horn horn nsubjpass
+traditional medicine medicine pobj
+jewelry jewelry conj
+the major factor factor nsubj
+the decline decline pobj
+white rhinos rhinos pobj
+uncontrolled hunting hunting attr
+the colonial era era pobj
+their horn horn pobj
+the primary threat threat attr
+The white rhino rhino nsubj
+hunting hunting pobj
+it it nsubj
+a large and relatively unaggressive animal animal attr
+very poor eye sight sight pobj
+herds herds pobj
+the lack lack pobj
+scientific evidence evidence pobj
+the rhino horn horn nsubj
+traditional Asian medicine medicine pobj
+it it nsubjpass
+a fine powder powder pobj
+tablets tablets pobj
+a treatment treatment pobj
+a variety variety pobj
+illnesses illnesses pobj
+nosebleeds nosebleeds pobj
+strokes strokes conj
+convulsions convulsions conj
+fevers fevers conj
+this demand demand pobj
+several highly organized and very profitable international poaching syndicates syndicates nsubj
+being being pcomp
+their poaching missions missions dobj
+advanced technologies technologies pobj
+night vision scopes scopes pobj
+silenced weapons weapons appos
+darting equipment equipment conj
+even helicopters helicopters conj
+The ongoing civil war war nsubj
+the Democratic Republic Republic pobj
+Congo Congo pobj
+incursions incursions conj
+poachers poachers pobj
+Sudan Sudan pobj
+efforts efforts dobj
+the few remaining northern rhinos rhinos dobj
+rates rates dobj
+white rhinos rhinos pobj
+the previous year year pobj
+a result result pobj
+the white rhino rhino nsubj
+Near Threatened status status dobj
+its total population population nsubj
+20,000 members members pobj
+the animal animal pobj
+Africa Africa pobj
+the non-violent nature nature nsubj
+the rhinoceros rhinoceros pobj
+it it nsubj
+Mozambique Mozambique nsubjpass
+the four main countries countries pobj
+the white rhino occupies occupies appos
+poachers poachers pobj
+a passageway passageway pobj
+South Africa Africa pobj
+a fairly large number number dobj
+white rhinos rhinos pobj
+rhinos rhinos nsubjpass
+their horns horns nsubjpass
+the country country pobj
+Mozambique Mozambique nsubj
+a misdemeanor misdemeanor pobj
+March March pobj
+the Thoiry Zoo Zoo nsubjpass
+France France pobj
+poachers poachers pobj
+A Southern white rhinoceros rhinoceros nsubjpass
+his enclosure enclosure pobj
+the poachers poachers nsubj
+his horns horns pobj
+his second horn horn dobj
+the first time time attr
+a rhinoceros rhinoceros nsubjpass
+a European zoo zoo pobj
+increased anti-poaching efforts efforts pobj
+many African countries countries pobj
+many poachers poachers nsubj
+death death dobj
+prison time time conj
+the tremendous amount amount pobj
+money money pobj
+they they nsubj
+Rhino horn horn nsubj
+tens of thousands thousands dobj
+dollars dollars pobj
+kilogram kilogram pobj
+the black market market pobj
+Asia Asia pobj
+the exact price price pobj
+its weight weight pobj
+gold gold pobj
+Poachers Poachers nsubj
+social media sites sites dobj
+information information dobj
+the location location pobj
+rhino rhino pobj
+popular tourist attractions attractions pobj
+Kruger National Park Park pobj
+geotagged photographs photographs pobj
+unsuspecting tourists tourists pobj
+GPS coordinates coordinates dobj
+rhino rhino pobj
+recent photographs photographs pobj
+poachers poachers nsubj
+their targets targets dobj
+The northern white rhino rhino nsubj
+the point point pobj
+these rhinos rhinos pobj
+the world world pobj
+captivity captivity pobj
+Several conservation tactics tactics nsubjpass
+this subspecies subspecies dobj
+the planet planet pobj
+the most notable type type nsubj
+conservation efforts efforts pobj
+these rhinos rhinos pobj
+them them dobj
+Dvur Kralove Zoo Zoo pobj
+the Czech Republic Republic pobj
+Kenya's Ol Pejeta Conservancy Conservancy pobj
+20 December December pobj
+they they nsubj
+constant watch watch pobj
+favorable climate climate dobj
+diet diet conj
+they they nsubj
+order order pobj
+their chances chances dobj
+order order pobj
+the northern white rhino rhino dobj
+extinction extinction pobj
+Ol Pejeta Conservancy Conservancy nsubj
+it it nsubj
+a fertile southern white rhino rhino dobj
+Lewa Wildlife Conservancy Conservancy pobj
+February February pobj
+They They nsubj
+the male rhino rhino dobj
+an enclosure enclosure pobj
+both female northern white rhinos rhinos pobj
+hopes hopes pobj
+the subspecies subspecies dobj
+the male rhino rhino nsubjpass
+two female rhinos rhinos pobj
+competition competition dobj
+the female rhinos rhinos pobj
+theory theory pobj
+more mating experiences experiences pobj
+Ol Pejeta Conservancy Conservancy nsubj
+any news news dobj
+rhino mating mating pobj
+Most white rhinos rhinos nsubj
+zoos zoos pobj
+southern white rhinos rhinos attr
+it it nsubjpass
+777 white rhinos rhinos attr
+captivity captivity pobj
+The captive northern white rhino population population nsubj
+only two animals animals pobj
+24 hour armed guard guard pobj
+Kenya Kenya pobj
+The San Diego Zoo Safari Park Park nsubj
+San Diego Diego pobj
+California California appos
+US US nsubj
+two northern white rhinos rhinos dobj
+22 November November pobj
+a 41-year-old female female nsubjpass
+loan loan pobj
+the Dvůr Králové Zoo Zoo pobj
+Dvůr Králové Králové pobj
+Czech Republic Republic appos
+a downturn downturn dobj
+health health pobj
+14 December December pobj
+a 44-year-old male male nsubj
+old age age pobj
+the San Diego Zoo Zoo pobj
+The other four captive northern white rhinos rhinos nsubjpass
+Ol Pejeta Conservancy Conservancy pobj
+Kenya Kenya pobj
+Females Najin Najin nsubj
+Fatu Fatu conj
+males males nsubj
+The northern white rhinos rhinos nsubjpass
+Ol Pejeta Conservancy Conservancy pobj
+the Dvůr Králové Zoo Zoo pobj
+an attempt attempt pobj
+the taxa taxa dobj
+their natural habitat habitat pobj
+hybrid female Nabire Nabire nsubj
+the Dvůr Králové Zoo Zoo pobj
+Dvůr Králové Králové pobj
+15 November November pobj
+Her mother mother nsubj
+a northern white rhino rhino attr
+C. simum cottoni cottoni appos
+her father father nsubj
+a southern white rhino rhino attr
+C. simum simum simum appos
+White Rhino Info & White Rhino Pictures Pictures ROOT
+the Rhino Resource Center website website pobj
+White Rhino entry entry ROOT
+International Rhino Foundation website website pobj
+White Rhino entry entry nsubj
+World Wide Fund Fund pobj
+Nature Nature pobj
+White Rhinoceros entry entry ROOT
+IUCN Red List List pobj
+Honolulu Zoo Zoo ROOT
+San Diego Zoo Zoo appos
+Philadelphia Zoo
+Narrated video video ROOT
+the White Rhinoceros
+White Rhino description description pobj
+First test tube White Rhinoceros Rhinoceros nsubj
+Budapest Zoo
+
+Poachers Poachers pobj
+last two white rhinos rhinos pobj
+Zambia
+Rhino Webcam Webcam pobj
+Zoo Budapest Budapest pobj
+frozen sperm sperm pobj
+– Madrid Madrid ROOT
+"Rare White Rhino Dies Dies ROOT
+the Planet Planet pobj
+the cerSim1 genome assembly assembly appos
+the UCSC Genome Browser Browser pobj
+People People nsubj
+The Communities Communities dobj
+IWT Learning Platform Platform conj

@@ -1,0 +1,983 @@
+The Indian rhinoceros rhinoceros nsubj
+Rhinoceros Rhinoceros nsubj
+the Indian subcontinent subcontinent pobj
+It It nsubjpass
+Vulnerable Vulnerable pobj
+the IUCN Red List List pobj
+populations populations nsubjpass
+less than 20,000 km2 km2 pobj
+7,700 sq mi mi appos
+the extent extent nsubjpass
+quality quality conj
+the rhino's most important habitat habitat pobj
+alluvial grassland grassland conj
+riverine forest forest conj
+decline decline pobj
+human and livestock encroachment encroachment pobj
+a total total nsubjpass
+2,575 mature individuals individuals pobj
+the wild wild pobj
+The Indian rhinoceros rhinoceros nsubj
+the entire stretch stretch pobj
+the Indo-Gangetic Plain Plain pobj
+excessive hunting hunting nsubj
+agricultural development development nsubj
+their range range dobj
+11 sites sites pobj
+northern India India pobj
+southern Nepal Nepal conj
+the early 1990s 1990s pobj
+between 1,870 and 1,895 rhinos rhinos nsubjpass
+Carl Linnaeus Linnaeus nsubj
+a rhinoceros rhinoceros dobj
+one horn horn pobj
+the name name pobj
+Rhinoceros Rhinoceros nsubj
+type locality locality pobj
+he he nsubj
+Africa Africa dobj
+India India conj
+The one-horned rhinoceros rhinoceros nsubj
+Several specimens specimens nsubjpass
+the end end pobj
+the 18th century century pobj
+different scientific names names pobj
+Rhinoceros unicornis unicornis pobj
+R. indicus indicus appos
+Cuvier Cuvier pobj
+R. asiaticus asiaticus pobj
+Blumenbach Blumenbach pobj
+R. stenocephalus stenocephalus appos
+Gray Gray pobj
+R. jamrachi jamrachi conj
+Sclatter Sclatter pobj
+R. bengalensis bengalensis appos
+Kourist Kourist pobj
+The modern scientific designation designation nsubjpass
+Rhinoceros unicornis unicornis nsubjpass
+the Greek ῥινόκερως ῥινόκερως pobj
+ῥίς rhís rhís pobj
+nose nose appos
+κέρας kéras kéras appos
+horn horn appos
+an animal animal pobj
+horn horn dobj
+Ancestral rhinoceroses rhinoceroses nsubj
+other perissodactyls perissodactyls pobj
+the Early Eocene Eocene pobj
+Mitochondrial DNA comparison comparison nsubj
+the ancestors ancestors nsubj
+modern rhinos rhinos pobj
+the ancestors ancestors pobj
+Equidae Equidae pobj
+The extant family family nsubj
+the Rhinocerotidae Rhinocerotidae appos
+the Late Eocene Eocene pobj
+Eurasia Eurasia pobj
+the ancestors ancestors nsubj
+the extant rhino species species pobj
+Asia Asia pobj
+the Miocene Miocene pobj
+Fossils Fossils nsubj
+R. unicornis unicornis pobj
+the Middle Pleistocene Pleistocene pobj
+the Pleistocene Pleistocene pobj
+Rhinoceros Rhinoceros nsubj
+South and Southeast Asia Asia pobj
+specimens specimens pobj
+Sri Lanka Lanka pobj
+the Holocene Holocene pobj
+some rhinoceros rhinoceros nsubj
+Gujarat Gujarat pobj
+Pakistan Pakistan conj
+The Indian and Javan rhinoceroses rhinoceroses nsubj
+the only members members appos
+Rhinoceros Rhinoceros appos
+the fossil record record pobj
+Asia Asia pobj
+Molecular estimates estimates nsubj
+the species species nsubj
+the type genus genus pobj
+the Indian and Javan rhinoceroses rhinoceroses nsubjpass
+other rhino species species pobj
+Different studies studies nsubj
+they they nsubjpass
+the extinct Gaindatherium Gaindatherium pobj
+Punjabitherium Punjabitherium conj
+A detailed cladistic analysis analysis nsubj
+the Rhinocerotidae Rhinocerotidae pobj
+Rhinoceros Rhinoceros dobj
+the extinct Punjabitherium Punjabitherium conj
+a clade clade pobj
+Dicerorhinus Dicerorhinus pobj
+the Sumatran rhinoceros rhinoceros appos
+Other studies studies nsubj
+the Sumatran rhinoceros rhinoceros nsubj
+the two African species species pobj
+The Sumatran rhino rhino nsubj
+the other Asian rhinos rhinos pobj
+The Indian rhinoceros rhinoceros nsubj
+a thick grey-brown skin skin dobj
+pinkish skin folds folds pobj
+a black horn horn conj
+Its upper legs legs nsubjpass
+shoulders shoulders conj
+wart-like bumps bumps pobj
+It It nsubj
+very little body hair hair dobj
+eyelashes eyelashes pobj
+ear fringes fringes conj
+tail brush brush conj
+Males Males nsubj
+huge neck folds folds dobj
+Its skull skull nsubj
+a basal length length pobj
+60 cm cm pobj
+an occiput occiput conj
+19 cm cm pobj
+Its nasal horn horn nsubj
+a base base pobj
+about 18.5 cm cm pobj
+12 cm cm pobj
+a smooth, even stem part part nsubj
+about 55 mm mm dobj
+base base pobj
+captive animals animals pobj
+the horn horn nsubjpass
+a thick knob knob pobj
+The rhino's single horn horn nsubj
+both males males pobj
+females females conj
+The black horn horn nsubj
+pure keratin keratin attr
+human fingernails fingernails pobj
+about six years years pobj
+most adults adults pobj
+the horn horn nsubj
+a length length dobj
+about 25 cm cm pobj
+up to 36 cm cm dobj
+length length pobj
+weight 3.051 kg kg conj
+6.73 lb).Among terrestrial land mammals mammals appos
+Asia Asia pobj
+the Indian rhinoceros rhinoceros nsubj
+size size pobj
+the Asian elephant elephant pobj
+It It nsubj
+the second-largest living rhinoceros rhinoceros attr
+only the white rhinoceros rhinoceros pobj
+Males Males nsubj
+a head and body length length dobj
+368–380 cm cm pobj
+12.07–12.47 ft ft appos
+a shoulder height height pobj
+170–186 cm cm pobj
+females females nsubj
+a head and body length length dobj
+310–340 cm cm pobj
+a shoulder height height conj
+148–173 cm cm pobj
+The male male nsubj
+about 2,200 kg kg dobj
+4,850 lb lb appos
+the female female pobj
+an average average pobj
+about 1,600 kg kg pobj
+3,530 lb).The rich presence presence appos
+blood vessels vessels pobj
+the tissues tissues pobj
+folds folds pobj
+it it dative
+the pinkish colour colour dobj
+The folds folds nsubj
+the skin skin pobj
+the surface area area dobj
+the body temperature temperature dobj
+The thick skin skin nsubj
+Tabanus flies flies dobj
+leeches leeches conj
+ticks ticks conj
+The largest sized specimens specimens nsubj
+up to 4,000 kg kg dobj
+The one-horned rhinoceros rhinoceros nsubj
+the entire northern part part pobj
+the Indian Subcontinent Subcontinent pobj
+the Indus, Ganges and Brahmaputra River basins basins pobj
+Pakistan Pakistan pobj
+the Indian-Myanmar border border pobj
+Bangladesh Bangladesh pobj
+the southern parts parts conj
+Nepal Nepal pobj
+Bhutan Bhutan conj
+It It nsubj
+Myanmar Myanmar pobj
+southern China China conj
+Indochina Indochina conj
+It It nsubj
+the alluvial grasslands grasslands dobj
+the Terai Terai pobj
+the Brahmaputra basin basin conj
+a result result pobj
+habitat destruction destruction pobj
+climatic changes changes conj
+its range range nsubjpass
+the 19th century century pobj
+it it nsubj
+the Terai grasslands grasslands pobj
+southern Nepal Nepal pobj
+northern Uttar Pradesh Pradesh conj
+northern Bihar Bihar conj
+northern West Bengal Bengal conj
+the Brahmaputra Valley Valley pobj
+Assam Assam pobj
+The species species nsubj
+northern Bihar Bihar pobj
+Oudh Oudh conj
+maps maps pobj
+Colonel Gentil Gentil pobj
+the former abundance abundance pobj
+the species species pobj
+Thomas C. Jerdon Jerdon nsubj
+This huge rhinoceros rhinoceros nsubjpass
+the Terai Terai pobj
+the foot foot pobj
+the Himalayas Himalayas pobj
+Bhutan Bhutan pobj
+Nepal Nepal pobj
+It It nsubj
+the eastern portion portion pobj
+the Terai Terai pobj
+the west west pobj
+Assam Assam pobj
+the Bhutan Dooars Dooars conj
+I I nsubj
+sportsmen sportsmen pobj
+its occurrence occurrence pobj
+Rohilcund Rohilcund pobj
+it it nsubj
+the greater part part pobj
+the Nepal Terai Terai pobj
+...
+Jelpigoree Jelpigoree nsubj
+a small military station station appos
+the Teesta River River pobj
+a favourite locality whence whence attr
+the Rhinoceros Rhinoceros dobj
+it it nsubj
+that station station pobj
+Captain Fortescue Fortescue appos
+his skulls skulls dobj
+Mr. Blyth Blyth nsubj
+this species species pobj
+its range range nsubj
+a few pockets pockets pobj
+southern Nepal Nepal pobj
+northern West Bengal Bengal conj
+the Brahmaputra Valley Valley conj
+the 1980s 1980s pobj
+rhinos rhinos nsubjpass
+the narrow plain area area pobj
+Royal Manas National Park Park pobj
+Bhutan Bhutan pobj
+they they nsubjpass
+habitats habitats pobj
+human-dominated landscapes landscapes pobj
+they they nsubj
+adjacent cultivated areas areas pobj
+pastures pastures conj
+secondary forests forests conj
+The Indian rhinoceros rhinoceros nsubj
+Pakistan Pakistan pobj
+the total population population nsubjpass
+2,575 individuals individuals attr
+Indian protected areas areas pobj
+Kaziranga National Park Park pobj
+2,048 rhinos rhinos nsubjpass
+Jaldapara National Park Park pobj
+108 — — nsubj
+Pobitora Wildlife Sanctuary Sanctuary pobj
+Orang National Park Park pobj
+Gorumara Gorumara pobj
+Dudhwa National Park Park pobj
+Manas National Park Park pobj
+Katarniaghat Wildlife Sanctuary Sanctuary pobj
+about 2,000 rhinos rhinos nsubjpass
+Assam Assam pobj
+Pobitora Wildlife Sanctuary Sanctuary nsubj
+the highest density density dobj
+Indian rhinos rhinos pobj
+the world world pobj
+84 individuals individuals pobj
+an area area pobj
+38.80 km2 km2 pobj
+the population population nsubj
+Assam Assam pobj
+2,544 rhinos rhinos pobj
+an increase increase appos
+27% % pobj
+more than 150 individuals individuals nsubjpass
+poachers poachers pobj
+these years years pobj
+The population population nsubj
+Nepal Nepal pobj
+111 individuals individuals pobj
+21% % pobj
+The latest rhino count count nsubjpass
+11 April April pobj
+2 May May pobj
+645 individuals individuals dobj
+Parsa National Park Park pobj
+Chitwan National Park Park conj
+Bardia National Park Park conj
+Shuklaphanta Wildlife Reserve Reserve conj
+respective buffer zones zones conj
+the Terai Arc Landscape Landscape pobj
+Pakistan's Lal Suhanra National Park Park pobj
+two rhinos rhinos nsubjpass
+Nepal Nepal pobj
+Adult male Indian rhinos rhinos nsubj
+Groups Groups nsubj
+females females pobj
+calves calves pobj
+up to six subadults subadults pobj
+Such groups groups nsubj
+wallows wallows pobj
+grazing grazing conj
+areas areas dobj
+They They nsubj
+early mornings mornings pobj
+night night pobj
+rest rest conj
+hot days days pobj
+They They nsubj
+excellent swimmers swimmers attr
+speeds speeds pobj
+up to 55 km km pobj
+h h appos
+(34 mph mph appos
+short periods periods pobj
+They They nsubj
+excellent senses senses dobj
+hearing hearing pobj
+smell smell conj
+relatively poor eyesight eyesight conj
+Over 10 distinct vocalisations vocalisations nsubjpass
+Males Males nsubj
+home ranges ranges dobj
+around 2 to 8 km2 km2 pobj
+0.77 to 3.09 sq sq pobj
+mi mi appos
+Dominant males males nsubj
+their territories territories pobj
+they they nsubj
+season season dobj
+dangerous fights fights nsubj
+Indian rhinos rhinos nsubj
+The folds folds ROOT
+their skin trap water water pobj
+it it dobj
+they they nsubj
+land land pobj
+Indian rhinos rhinos nsubj
+few natural enemies enemies dobj
+tigers tigers pobj
+unguarded calves calves dobj
+adult rhinos rhinos nsubj
+their size size pobj
+Mynahs Mynahs nsubj
+egrets egrets conj
+invertebrates invertebrates dobj
+the rhino's skin skin pobj
+its feet feet pobj
+Tabanus Tabanus nsubj
+a type type appos
+horse-fly fly pobj
+rhinos rhinos dobj
+The rhinos rhinos nsubj
+diseases diseases pobj
+parasites parasites pobj
+leeches leeches pobj
+ticks ticks conj
+nematodes nematodes conj
+Anthrax Anthrax nsubjpass
+the blood-disease sepsis sepsis conj
+March March pobj
+a group group pobj
+four tigers tigers pobj
+adult male male pobj
+a 20-year-old male rhino rhino dobj
+the Dudhwa Tiger Reserve Reserve pobj
+Indian rhinoceros rhinoceros nsubj
+grazers grazers attr
+Their diets diets nsubj
+grasses grasses pobj
+they they nsubj
+leaves leaves dobj
+branches branches conj
+shrubs shrubs pobj
+trees trees conj
+fruits fruits conj
+aquatic plants plants dobj
+They They nsubj
+the mornings mornings pobj
+evenings evenings conj
+They They nsubj
+their semi-prehensile lips lips dobj
+grasp grass grass pobj
+the stem stem dobj
+the top top pobj
+the grass grass dobj
+They They nsubj
+very tall grasses grasses dobj
+saplings saplings conj
+the plant plant pobj
+legs legs pobj
+both sides sides pobj
+the weight weight dobj
+their bodies bodies pobj
+the end end dobj
+the plant plant pobj
+the level level pobj
+the mouth mouth pobj
+Mothers Mothers nsubj
+this technique technique dobj
+food food nsubj
+their calves calves pobj
+They They nsubj
+a minute minute pobj
+a time time pobj
+water water dobj
+rhinoceros urine urine pobj
+The Indian rhinoceros rhinoceros nsubj
+a variety variety dobj
+social groupings groupings pobj
+Adult males males nsubj
+mating mating pcomp
+fighting fighting conj
+Adult females females nsubj
+they they nsubj
+calves calves pobj
+Mothers Mothers nsubj
+their calves calves pobj
+their birth birth pobj
+an older calf calf nsubj
+her her dobj
+a newborn calf calf nsubj
+males males nsubj
+females females conj
+consistent groupings groupings dobj
+Groups Groups nsubj
+two or three young males males pobj
+the edge edge pobj
+the home ranges ranges pobj
+dominant males males pobj
+protection protection pobj
+numbers numbers pobj
+Young females females nsubj
+the males males pobj
+Indian rhinos rhinos nsubj
+short-term groupings groupings dobj
+forest wallows wallows pobj
+the monsoon season season pobj
+grasslands grasslands pobj
+March March pobj
+April April conj
+Groups Groups nsubj
+up to 10 rhinos rhinos pobj
+wallows wallows pobj
+—typically a dominant male male dobj
+females females pobj
+calves calves conj
+no subadult males males conj
+The Indian rhinoceros rhinoceros nsubj
+a wide variety variety dobj
+vocalisations vocalisations pobj
+At least 10 distinct vocalisations vocalisations nsubjpass
+addition addition pobj
+the rhino rhino nsubj
+olfactory communication communication dobj
+Adult males males nsubj
+them them pobj
+response response pobj
+observers observers pobj
+all rhinos rhinos pobj
+the Indian rhinoceros rhinoceros nsubj
+other large dung piles piles pobj
+The Indian rhino rhino nsubj
+pedal scent glands glands dobj
+their presence presence dobj
+these rhino latrines latrines pobj
+Males Males nsubjpass
+their heads heads pobj
+the ground ground pobj
+the scent scent dobj
+females females pobj
+aggregations aggregations pobj
+Indian rhinos rhinos nsubj
+They They nsubj
+their heads heads dobj
+mounting flanks flanks conj
+nuzzling noses noses conj
+Rhinos Rhinos nsubj
+twigs twigs pobj
+their mouths mouths pobj
+Adult males males nsubj
+the primary instigators instigators attr
+fights fights pobj
+Fights Fights nsubj
+dominant males males pobj
+the most common cause cause attr
+rhino mortality mortality pobj
+males males nsubj
+females females pobj
+courtship courtship pobj
+Males Males nsubj
+females females dobj
+long distances distances pobj
+them them dobj
+face face pobj
+African rhinos rhinos pobj
+its incisors incisors pobj
+its horns horns pobj
+Captive males males nsubj
+five years years pobj
+age age pobj
+wild males males nsubj
+dominance dominance dobj
+they they nsubj
+one five-year field study study pobj
+only one rhino rhino nsubj
+younger than 15 years years attr
+Captive females females nsubj
+four years years pobj
+age age pobj
+the wild wild pobj
+they they nsubj
+they they nsubj
+aggressive males males pobj
+Their gestation period period nsubj
+birth interval ranges ranges conj
+34–51 months months pobj
+captivity captivity pobj
+four rhinos rhinos nsubjpass
+40 years years pobj
+Sport hunting hunting nsubj
+the late 1800s 1800s pobj
+early 1900s 1900s conj
+Indian rhinos rhinos nsubjpass
+Reports Reports ROOT
+the middle middle pobj
+the 19th century claim claim pobj
+some British military officers officers nsubj
+Assam Assam pobj
+more than 200 rhinos rhinos dobj
+the population population nsubj
+Kaziranga Kaziranga pobj
+around 12 individuals individuals pobj
+the early 1900s 1900s pobj
+the species species nsubj
+extinction extinction pobj
+rhinoceros horn horn pobj
+the single most important reason reason attr
+the decline decline pobj
+the Indian rhino rhino pobj
+conservation measures measures nsubjpass
+place place pobj
+the beginning beginning pobj
+the 20th century century pobj
+legal hunting hunting nsubj
+692 rhinos rhinos nsubjpass
+India India pobj
+India's Laokhowa Wildlife Sanctuary Sanctuary pobj
+41 rhinos rhinos nsubjpass
+virtually the entire population population appos
+the sanctuary sanctuary pobj
+the mid-1990s mid-1990s pobj
+the species species nsubj
+Chitwan’s forest forest nsubj
+grasslands grasslands conj
+more than 2,600 km2 km2 pobj
+(1,000 sq mi mi appos
+about 800 rhinos rhinos pobj
+poor farmers farmers nsubj
+the mid-hills hills pobj
+the Chitwan Valley Valley pobj
+search search pobj
+arable land land pobj
+the area area nsubjpass
+settlement settlement pobj
+poaching poaching nsubj
+wildlife wildlife pobj
+The Chitwan population population nsubjpass
+poachers poachers nsubj
+37 animals animals dobj
+their valuable horns horns dobj
+Six methods methods nsubjpass
+killing rhinos rhinos pobj
+Shooting Shooting nsubj
+the most common method method pobj
+rhino horn traders traders nsubj
+sharpshooters sharpshooters dobj
+them them dobj
+rifles rifles pobj
+ammunition ammunition conj
+Trapping Trapping nsubj
+a pit pit pobj
+the terrain terrain pobj
+availability availability conj
+grass grass pobj
+it it dobj
+pits pits nsubjpass
+such a way way pobj
+a fallen animal animal nsubj
+little room room dobj
+its head head pobj
+the pit pit pobj
+it it nsubj
+the horn horn dobj
+Electrocution Electrocution nsubjpass
+high voltage powerlines powerlines nsubj
+a protected area area pobj
+poachers poachers nsubj
+a long, insulated rod rod dobj
+a wire wire pobj
+a rhino path path pobj
+Poisoning Poisoning nsubj
+zinc phosphide phosphide dobj
+poison poison dobj
+pesticides pesticides conj
+salt licks licks pobj
+rhinos rhinos pobj
+Spearing Spearing nsubjpass
+Chitwan National Park Park pobj
+A noose noose nsubj
+the rhino's skin skin pobj
+it it dobj
+strangulation strangulation pobj
+Poaching Poaching nsubj
+the use use pobj
+the horn horn pobj
+traditional Chinese medicine medicine pobj
+several important populations populations pobj
+serious declines declines nsubj
+quality quality pobj
+habitat habitat pobj
+some areas areas pobj
+severe invasion invasion dobj
+alien plants plants pobj
+grasslands grasslands pobj
+some populations populations dobj
+reductions reductions dobj
+the extent extent pobj
+grasslands grasslands pobj
+wetland habitats habitats conj
+woodland woodland pobj
+encroachment encroachment pobj
+beels beels pobj
+domestic livestock livestock pobj
+The species species nsubj
+risk risk pobj
+over 70% % nsubj
+its population population pobj
+a single site site pobj
+Kaziranga National Park Park appos
+Any catastrophic event event nsubj
+disease disease pobj
+civil disorder disorder conj
+habitat loss loss conj
+a devastating impact impact dobj
+the Indian rhino's status status pobj
+small population population nsubj
+rhinos rhinos pobj
+depression depression dobj
+Rhinoceros unicornis unicornis nsubjpass
+CITES Appendix Appendix pobj
+I I appos
+The Indian and Nepalese governments governments nsubj
+major steps steps dobj
+Indian rhinoceros conservation conservation pobj
+the help help pobj
+the World Wide Fund Fund pobj
+Nature Nature pobj
+WWF WWF appos
+other non-governmental organisations organisations conj
+a rhino translocation scheme scheme nsubjpass
+The first pair pair nsubjpass
+rhinos rhinos pobj
+Nepal's Terai Terai pobj
+Pakistan's Lal Suhanra National Park Park pobj
+Punjab Punjab pobj
+India India pobj
+five rhinos rhinos nsubjpass
+Dudhwa National Park — — pobj
+the fields fields pobj
+the Pobitora Wildlife Sanctuary Sanctuary pobj
+Goalpara Goalpara pobj
+the country's first conservation law law nsubj
+the protection protection dobj
+rhinos rhinos pobj
+their habitat habitat conj
+Edward Pritchard Gee Gee nsubj
+a survey survey dobj
+the Chitwan Valley Valley pobj
+the creation creation dobj
+a protected area area pobj
+the Rapti River River pobj
+a wildlife sanctuary sanctuary pobj
+the river river pobj
+a trial period period pobj
+10 years years pobj
+his subsequent survey survey pobj
+Chitwan Chitwan pobj
+he he nsubj
+extension extension dobj
+the sanctuary sanctuary pobj
+the south south pobj
+the end end pobj
+the 1960s 1960s pobj
+only 95 rhinos rhinos nsubj
+the Chitwan Valley Valley pobj
+The dramatic decline decline nsubj
+the rhino population population pobj
+the extent extent conj
+the government government dobj
+a rhino reconnaissance patrol patrol dobj
+130 armed men men pobj
+a network network conj
+guard posts posts pobj
+Chitwan Chitwan pobj
+the extinction extinction dobj
+rhinos rhinos pobj
+the Chitwan National Park Park nsubjpass
+December December pobj
+borders borders nsubj
+the following year year dobj
+an area area dobj
+544 km2 km2 pobj
+(210 sq mi mi appos
+the population population nsubj
+645 animals animals pobj
+the survival survival dobj
+rhinos rhinos pobj
+case case pobj
+epidemics epidemics pobj
+animals animals nsubjpass
+Chitwan Chitwan pobj
+the Bardia National Park Park pobj
+the Sukla Phanta Wildlife Reserve Reserve conj
+The Indian rhinoceros rhinoceros nsubj
+captivity captivity pobj
+The first recorded captive birth birth nsubj
+a rhinoceros rhinoceros pobj
+Kathmandu Kathmandu pobj
+another successful birth birth nsubj
+nearly 100 years years pobj
+a rhino rhino nsubjpass
+Kolkata Kolkata pobj
+No rhinoceros rhinoceros nsubjpass
+Europe Europe pobj
+September September pobj
+Rudra Rudra nsubjpass
+Zoo Basel Basel pobj
+Switzerland Switzerland appos
+the second half half pobj
+the 20th century century pobj
+zoos zoos nsubj
+Indian rhinoceros rhinoceros dobj
+nearly 40 babies babies nsubjpass
+captivity captivity pobj
+33 Indian rhinos rhinos nsubjpass
+Zoo Basel Basel pobj
+most animals animals nsubj
+a zoo zoo pobj
+the population population pobj
+the zoo zoo pobj
+Basel Basel pobj
+Switzerland Switzerland appos
+the success success pobj
+Zoo Basel's breeding program program pobj
+the International Studbook Studbook nsubjpass
+the species species pobj
+the Indian rhino rhino nsubjpass
+European Endangered Species Species appos
+Programme Programme nsubjpass
+the captive global Indian rhinoceros population population nsubj
+174 rhinos rhinos nsubjpass
+zoos zoos pobj
+June June pobj
+an Indian rhino rhino nsubjpass
+sperm sperm dobj
+four years years dobj
+the Cincinnati Zoo’s CryoBioBank CryoBioBank pobj
+She She nsubj
+birth birth dobj
+a male calf calf pobj
+October October pobj
+The calf calf nsubj
+birth birth pobj
+June June pobj
+the first "successful" live-birth birth nsubj
+an artificially inseminated rhino rhino pobj
+place place dobj
+the Buffalo Zoo Zoo pobj
+New York York pobj
+Cincinnati Cincinnati pobj
+cryopreserved sperm sperm nsubjpass
+the female calf calf dobj
+The Rhinoceros Sutra Sutra nsubj
+an early text text attr
+the Buddhist tradition tradition pobj
+both the Gandhāran Buddhist texts texts pobj
+the Pali Canon Canon conj
+It It nsubj
+the solitary lifestyle lifestyle dobj
+stoicism stoicism conj
+the Indian rhinoceros rhinoceros pobj
+readers readers dobj
+these virtues virtues dobj
+China's ancient novel novel pobj
+Journey Journey appos
+the West West pobj
+Tripitaka Tripitaka pobj
+Sanzang Sanzang appos
+his crew travel travel conj
+the region region pobj
+India India pobj
+Tian Zu Zu pobj
+3 Indian Rhino demons demons ROOT
+King King appos
+Cold Protection Protection pobj
+(辟寒大王 辟寒大王 appos
+King King appos
+Heat Protection Protection pobj
+(辟暑大王 辟暑大王 appos
+Dust Protection Protection pobj
+whom whom nsubjpass
+Xuanying Cave Cave pobj
+(玄英洞 玄英洞 appos
+Azure Dragon Mountain Mountain conj
+Jinping Prefecture Prefecture pobj
+They They nsubj
+themselves themselves dobj
+Taoist deities deities pobj
+aromatic oil oil dobj
+lamps lamps pobj
+a temple temple pobj
+worshippers worshippers dobj
+the "deities deities nsubj
+the oil oil dobj
+them them pobj
+The Indian rhinoceros rhinoceros nsubj
+the first rhino rhino attr
+its range range pobj
+The first rhinoceros rhinoceros nsubj
+Europe Europe dobj
+modern times times pobj
+Lisbon Lisbon pobj
+May May pobj
+King Manuel Manuel nsubj
+I I appos
+Portugal Portugal pobj
+the rhinoceros rhinoceros dobj
+Pope Leo X X pobj
+the rhino rhino nsubj
+a shipwreck shipwreck pobj
+the rhino rhino nsubjpass
+an unknown artist artist pobj
+The German artist Albrecht Dürer Dürer nsubj
+the sketches sketches dobj
+descriptions descriptions conj
+a woodcut woodcut dobj
+the rhino rhino pobj
+Dürer's Rhinoceros Rhinoceros pobj
+the drawing drawing nsubj
+some anatomical inaccuracies inaccuracies dobj
+notably the hornlet hornlet appos
+the rhino's shoulder shoulder pobj
+his sketch sketch nsubj
+the enduring image image attr
+a rhinoceros rhinoceros pobj
+western culture culture pobj
+centuries centuries pobj
+The British public public nsubj
+their first chance chance dobj
+a rhinoceros rhinoceros dobj
+(presumably this species species appos
+it it nsubj
+a political row row dobj
+George Jeffreys Jeffreys pobj
+1st 1st appos
+Baron Jeffreys Jeffreys nsubj
+a rumour rumour dobj
+his chief rival rival nsubjpass
+Francis North North appos
+1st 1st appos
+Baron Guilford Guilford appos
+it it pobj
+A steatite seal seal nsubjpass
+Pashupati Seal Seal pobj
+BC BC pobj
+the Mohenjo-daro archaeological site site pobj
+the Indus Valley Civilisation Civilisation pobj
+It It nsubj
+a human figure figure dobj
+the centre centre pobj
+a platform platform pobj
+the human figure figure nsubjpass
+four wild animals animals pobj
+an elephant elephant appos
+a tiger tiger conj
+its one side side pobj
+a water buffalo buffalo conj
+a rhinoceros rhinoceros conj
+Rhinoceros Rhinoceros nsubj
+Vahana Vahana attr
+the Hindu goddess Dhavdi Dhavdi pobj
+a temple temple attr
+Maa (Mother) Dhavdi Dhavdi pobj
+Dhrangadhra Dhrangadhra pobj
+Gujarat Gujarat appos
+Many the mythological stories stories ROOT
+e.g. a boy boy appos
+the horns horns pobj
+a deer deer pobj
+Indian rhinoceros rhinoceros pobj
+Assam Assam pobj
+Dürer's Rhinoceros
+Clara Clara dobj
+(rhinoceros rhinoceros appos
+Abada Abada appos
+(rhinoceros rhinoceros appos
+Kaziranga National Park Park ROOT
+Unicorn Unicorn conj
+The Soul Soul ROOT
+the Rhino Rhino pobj
+(book book appos
+The Rhino Resource Center
+International Rhino Foundation Foundation ROOT
+Greater Greater appos
+-Horned Rhino Rhino ROOT
+Rhinoceros Rhinoceros nsubj
+Nepal Rhino Conservation
+Indian Rhino Rhino ROOT
+Kaziranga National Park Official website website pobj
+TheBigZoo.com TheBigZoo.com appos
+Greater Indian Rhinoceros Rhinoceros ROOT
+Indian Rhino page page nsubj
+AnimalInfo.org AnimalInfo.org pobj
+Indian Rhinoceros page page pobj
+nature.ca nature.ca pobj
+Page Rhinocéros Rhinocéros pobj
+à nature.ca
+
+Indian Rhinoceros page page dobj
+UltimateUngulate.com
+Images Images pobj
+videos videos appos
+information information conj
+the Indian Rhinoceros
+Asian Rhino Foundation
+Indian army army pobj
+rhino poaching
+Rhino census census dobj

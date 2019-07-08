@@ -1,0 +1,1204 @@
+A rhinoceros rhinoceros nsubj
+Greek Greek pobj
+rhinokerōs rhinokerōs appos
+rhis rhis pobj
+nose nose dobj
+'horn horn dobj
+any five extant species species pobj
+odd-toed ungulates ungulates pobj
+the family family pobj
+Rhinocerotidae Rhinocerotidae appos
+the numerous extinct species species pobj
+the extant species species pobj
+Africa Africa pobj
+Southern Asia Asia pobj
+The term "rhinoceros rhinoceros nsubj
+now extinct species species pobj
+the superfamily Rhinocerotoidea Rhinocerotoidea pobj
+Members Members nsubj
+the rhinoceros family family pobj
+the largest remaining megafauna megafauna pobj
+all species species nsubj
+one tonne tonne dobj
+weight weight pobj
+They They nsubj
+a herbivorous diet diet dobj
+small brains brains conj
+400–600 g g appos
+mammals mammals pobj
+their size size pobj
+one or two horns horns conj
+a thick (1.5–5 cm) protective skin skin conj
+layers layers pobj
+collagen collagen pobj
+a lattice structure structure pobj
+They They nsubj
+leafy material material dobj
+their ability ability nsubj
+food food dobj
+their hindgut hindgut pobj
+them them nsubj
+more fibrous plant matter matter pobj
+other perissodactyls perissodactyls pobj
+the two African species species pobj
+rhinoceros lack teeth teeth pobj
+the front front pobj
+their mouths mouths pobj
+their lips lips pobj
+food food dobj
+Rhinoceros Rhinoceros nsubjpass
+some humans humans pobj
+their horns horns pobj
+the black market market pobj
+some cultures cultures pobj
+ornaments ornaments pobj
+traditional medicine medicine conj
+East Asia Asia nsubj
+specifically Vietnam Vietnam appos
+the largest market market attr
+rhino horns horns pobj
+weight weight pobj
+rhino horns horns nsubj
+gold gold pobj
+the black market market pobj
+People People nsubj
+the horns horns dobj
+them them dobj
+the dust dust nsubj
+therapeutic properties properties dobj
+The horns horns nsubjpass
+keratin keratin pobj
+the same type type appos
+protein protein pobj
+hair hair dobj
+fingernails fingernails conj
+Both African species species nsubj
+the Sumatran rhinoceros rhinoceros conj
+two horns horns dobj
+the Indian and Javan rhinoceros rhinoceros nsubj
+a single horn horn dobj
+The IUCN Red List List nsubj
+the Black, Javan, and Sumatran rhinoceros rhinoceros dobj
+The word word nsubjpass
+rhinoceros rhinoceros nsubjpass
+Latin Latin pobj
+the Ancient Greek Greek pobj
+ῥῑνόκερως ῥῑνόκερως appos
+ῥῑνο- ῥῑνο- pobj
+"nose nose conj
+κέρας κέρας conj
+keras keras appos
+"horn horn appos
+a horn horn pobj
+the nose nose pobj
+The plural plural nsubj
+English English pobj
+rhinoceros rhinoceros attr
+rhinoceroses rhinoceroses conj
+The collective noun noun nsubj
+a group group pobj
+rhinoceroses rhinoceroses pobj
+crash crash attr
+herd herd conj
+The name name nsubj
+use use pobj
+the 14th century century pobj
+The family Rhinocerotidae Rhinocerotidae nsubj
+only four extant genera genera pobj
+Ceratotherium Ceratotherium appos
+White rhinoceros rhinoceros appos
+Diceros Diceros appos
+Black rhinoceros rhinoceros appos
+Dicerorhinus Dicerorhinus conj
+Sumatran rhinoceros rhinoceros appos
+Rhinoceros Rhinoceros conj
+The living species species nsubj
+three categories categories pobj
+The two African species species nsubj
+the white rhinoceros rhinoceros conj
+the black rhinoceros rhinoceros conj
+the tribe tribe pobj
+Dicerotini Dicerotini appos
+the middle Miocene Miocene pobj
+The species species nsubj
+the early Pliocene Pliocene pobj
+The main difference difference nsubj
+black and white rhinos rhinos pobj
+the shape shape attr
+their mouths
+– white rhinos rhinos pobj
+broad flat lips lips dobj
+grazing grazing pobj
+black rhinos rhinos nsubj
+lips lips dobj
+foliage foliage dobj
+two living Rhinocerotini species species attr
+the Indian rhinoceros rhinoceros conj
+the Javan rhinoceros rhinoceros conj
+The Sumatran rhinoceros rhinoceros nsubj
+the only surviving representative representative attr
+the most primitive group group pobj
+the Dicerorhinini Dicerorhinini appos
+the Miocene Miocene pobj
+about 20 million years ago).A subspecific hybrid white rhino rhino appos
+Ceratotherium s. s. nsubj
+× C. s. cottoni cottoni dobj
+the Dvůr Králové Zoo Zoo pobj
+Zoological Garden Dvur Kralove Kralove appos
+nad Labem Labem appos
+the Czech Republic Republic pobj
+Interspecific hybridisation hybridisation nsubjpass
+black and white rhinoceros rhinoceros pobj
+the black rhinoceros rhinoceros nsubj
+84 chromosomes chromosomes dobj
+diploid number number appos
+2N 2N conj
+cell cell pobj
+all other rhinoceros species species nsubj
+82 chromosomes chromosomes dobj
+chromosomal polymorphism polymorphism nsubj
+varying chromosome counts counts pobj
+instance instance pobj
+a study study pobj
+three northern white rhinoceroses rhinoceroses attr
+81 chromosomes chromosomes pobj
+two subspecies subspecies attr
+white rhinoceros rhinoceros pobj
+the southern white rhinoceros rhinoceros appos
+Ceratotherium simum simum simum appos
+the northern white rhinoceros rhinoceros conj
+Ceratotherium simum cottoni cottoni appos
+the southern subspecies subspecies nsubj
+a wild population population dobj
+them them nsubj
+the world world pobj
+the northern subspecies subspecies nsubj
+two captive females females attr
+no conclusive explanation explanation attr
+the name name pobj
+"white rhinoceros rhinoceros appos
+A popular idea idea nsubj
+a distortion distortion attr
+either the Afrikaans word wyd wyd pobj
+the Dutch word word conj
+the rhino's square lips lips pobj
+linguistic studies studies pobj
+The white rhino rhino nsubj
+an immense body body dobj
+large head head conj
+a short neck neck appos
+broad chest chest conj
+Females Females nsubj
+1,600 kg kg dobj
+males males conj
+2,400 kg kg dobj
+The head-and-body length length nsubj
+3.5–4.6 m m attr
+11–15 ft ft appos
+the shoulder height height nsubj
+its snout snout pobj
+it it nsubj
+two horns horns dobj
+The front horn horn nsubj
+the other horn horn pobj
+averages averages conj
+90 cm cm dobj
+length length pobj
+150 cm cm dobj
+The white rhinoceros rhinoceros nsubj
+a prominent muscular hump hump dobj
+its relatively large head head dobj
+The colour colour nsubj
+this animal animal pobj
+yellowish brown brown pobj
+slate grey grey pobj
+its body hair hair pobj
+the ear fringes fringes pobj
+tail bristles bristles conj
+the rest rest nsubj
+the rest rest pobj
+the body body pobj
+White rhinos rhinos nsubj
+the distinctive flat broad mouth mouth dobj
+grazing grazing pobj
+The name name nsubjpass
+"black rhinoceros rhinoceros appos
+" (Diceros bicornis bicornis appos
+this species species dobj
+the white rhinoceros rhinoceros pobj
+Ceratotherium simum simum appos
+the two species species nsubj
+color color pobj
+four subspecies subspecies attr
+black rhino rhino pobj
+Diceros Diceros nsubj
+central Tanzania Tanzania pobj
+Zambia Zambia pobj
+Zimbabwe Zimbabwe conj
+Mozambique Mozambique conj
+northern and eastern South Africa Africa pobj
+South-western western conj
+the arid and semi-arid savannas savannas pobj
+Namibia Namibia pobj
+southern Angola Angola appos
+western Botswana Botswana conj
+western South Africa Africa conj
+East African African appos
+Tanzania Tanzania pobj
+West African African conj
+Diceros bicornis longipes longipes appos
+November November pobj
+The native Tswanan name keitloa keitloa nsubj
+a South African variation variation dobj
+the black rhino rhino pobj
+the posterior horn horn nsubj
+the anterior horn horn pobj
+An adult black rhinoceros rhinoceros nsubj
+1.50–1.75 m m dobj
+the shoulder shoulder pobj
+3.5–3.9 m m attr
+length length pobj
+850 to 1,600 kg kg pobj
+1,870 to 3,530 lb lb appos
+1,800 kg kg pobj
+4,000 lb lb pobj
+the females females nsubj
+the males males pobj
+Two horns horns nsubjpass
+the skull skull pobj
+keratin keratin pobj
+the larger front horn horn pobj
+a third smaller horn horn nsubj
+The black rhino rhino nsubj
+the white rhino rhino pobj
+a pointed mouth mouth dobj
+it it nsubj
+leaves leaves dobj
+twigs twigs conj
+the latter half half pobj
+the 20th century century pobj
+their numbers numbers nsubjpass
+the late 1960s 1960s pobj
+a record low low pobj
+numbers numbers nsubj
+a continental level level pobj
+numbers numbers pobj
+the end end pobj
+Current numbers numbers nsubj
+The Indian rhinoceros rhinoceros nsubj
+greater one-horned rhinoceros rhinoceros conj
+(Rhinoceros unicornis unicornis appos
+a single horn horn dobj
+It It nsubj
+the African white rhino rhino pobj
+the shoulder shoulder pobj
+it it dative
+an armored appearance appearance dobj
+Its upper legs legs nsubjpass
+shoulders shoulders conj
+wart-like bumps bumps pobj
+it it nsubj
+very little body hair hair dobj
+Grown males males nsubj
+females females pobj
+2,500–3,200 kg kg pobj
+Shoulder height height nsubj
+1.75–2.0 m m attr
+Females Females nsubj
+about 1,900 kg kg dobj
+3–4 m m attr
+The record-sized specimen specimen nsubj
+approximately 4,000 kg kg attr
+8,800 lb).Indian rhinos rhinos nsubj
+many areas areas dobj
+Pakistan Pakistan pobj
+Myanmar Myanmar pobj
+maybe even parts parts appos
+China China pobj
+human influence influence pobj
+they they nsubj
+only several protected areas areas pobj
+India India pobj
+Assam Assam pobj
+West Bengal Bengal conj
+a few pairs pairs conj
+Uttar Pradesh Pradesh pobj
+Nepal Nepal conj
+a pair pair conj
+Lal Suhanra National Park Park pobj
+Pakistan Pakistan pobj
+Nepal Nepal pobj
+They They nsubjpass
+the tall grasslands grasslands pobj
+forests forests conj
+the foothills foothills pobj
+the Himalayas Himalayas pobj
+Two-thirds thirds nsubjpass
+the world's Indian rhinoceroses rhinoceroses pobj
+the Kaziranga National Park Park pobj
+the Golaghat district district pobj
+Assam Assam pobj
+India India appos
+The Javan rhinoceros rhinoceros nsubj
+(Rhinoceros sondaicus sondaicus appos
+the most endangered large mammals mammals pobj
+the world world pobj
+2015 estimates estimates pobj
+Java Java pobj
+Indonesia Indonesia appos
+the wild wild pobj
+It It nsubj
+the least known rhino species species attr
+the closely related, and larger, Indian rhinoceros rhinoceros pobj
+the Javan rhino rhino nsubj
+a single horn horn dobj
+Its hairless, hazy gray skin skin nsubj
+folds folds pobj
+the shoulder shoulder pobj
+it it dative
+an armored appearance appearance dobj
+Its length length nsubj
+3.1–3.2 m m dobj
+10–10 ft ft appos
+the head head pobj
+its height height conj
+1.5–1.7 1.5–1.7 appos
+m m appos
+Adults Adults nsubjpass
+1,360–2,000 kg kg conj
+Male horns horns nsubj
+26 cm cm dobj
+length length pobj
+females females pobj
+they they nsubj
+knobs knobs attr
+These animals animals nsubj
+dense lowland rain forest forest dobj
+tall grass grass conj
+reed beds beds conj
+large floodplains floodplains pobj
+mud wallows wallows conj
+Asia Asia pobj
+the 1930s 1930s pobj
+they they nsubjpass
+extinction extinction pobj
+Nepal Nepal pobj
+India India conj
+Burma Burma conj
+Peninsular Malaysia Malaysia conj
+Sumatra Sumatra conj
+the supposed medical powers powers pobj
+their horns horns pobj
+blood blood conj
+only 58–61 individuals individuals nsubj
+Ujung Kulon National Park Park pobj
+Java Java appos
+Indonesia Indonesia appos
+The last known Javan rhino rhino nsubjpass
+Vietnam Vietnam pobj
+its horn horn pobj
+Vietnamese poachers poachers pobj
+only Java Java nsubj
+the last Javan rhinos rhinos dobj
+The Sumatran rhinoceros rhinoceros nsubj
+(Dicerorhinus sumatrensis sumatrensis appos
+the smallest extant rhinoceros species species attr
+the one one conj
+the most hair hair pobj
+It It nsubjpass
+very high altitudes altitudes pobj
+Borneo Borneo pobj
+Sumatra Sumatra conj
+loss loss dobj
+poaching poaching conj
+their numbers numbers nsubj
+it it nsubj
+the most threatened rhinoceros rhinoceros attr
+About 275 Sumatran rhinos rhinos nsubjpass
+three subspecies subspecies attr
+Sumatran rhinoceros rhinoceros pobj
+the Sumatran rhinoceros rhinoceros appos
+the Bornean rhinoceros rhinoceros nsubj
+Dicerorhinus Dicerorhinus nsubj
+the possibly extinct Northern Sumatran rhinoceros rhinoceros conj
+Dicerorhinus Dicerorhinus nsubj
+lasiotis lasiotis dobj
+A mature rhino rhino nsubj
+about 1.3 m m dobj
+the shoulder shoulder pobj
+a length length dobj
+m m pobj
+(7 ft 10 in–10 in–10 appos
+around 700 kg kg dobj
+the largest individuals individuals nsubjpass
+as much as 1,000 kilograms kilograms dobj
+the African species species pobj
+it it nsubj
+two horns horns dobj
+25–79 centimetres centimetres appos
+the smaller usually less than 10 centimetres centimetres pobj
+Males Males nsubj
+much larger horns horns dobj
+the females females pobj
+Hair Hair nsubj
+the densest hair hair appos
+young calves calves pobj
+The color color nsubj
+these rhinos rhinos pobj
+The body body nsubj
+stubby legs legs dobj
+The lip lip nsubj
+Sumatran rhinoceros rhinoceros nsubj
+the verge verge pobj
+extinction extinction pobj
+loss loss pobj
+habitat habitat pobj
+illegal hunting hunting conj
+they they nsubjpass
+South-east Asia Asia pobj
+they they nsubjpass
+several parts parts pobj
+Indonesia Indonesia pobj
+Malaysia Malaysia conj
+reproductive isolation isolation pobj
+320 D. sumatrensis sumatrensis attr
+It It nsubjpass
+DNA comparison comparison pobj
+the Sumatran rhinoceros rhinoceros nsubj
+the most ancient extant rhinoceros rhinoceros attr
+the extinct Eurasian woolly rhino species species pobj
+Coelodonta Coelodonta appos
+Alan Rabinowitz Rabinowitz nsubj
+governments governments dobj
+NGOs NGOs conj
+other institutions institutions conj
+their attempts attempts pobj
+the Sumatran rhinoceros rhinoceros dobj
+it it dobj
+they they nsubj
+them them dobj
+small forests forests pobj
+programs programs dobj
+their breeding success success dobj
+reproduction reproduction dobj
+the Malaysian and Indonesian governments governments nsubj
+the gametes gametes dobj
+the Sumatran Sumatran pobj
+and (smaller) Bornean subspecies subspecies dobj
+The Indonesian and Malaysian governments governments nsubj
+a single management unit unit dobj
+these two ancient subspecies subspecies pobj
+Plantations Plantations nsubj
+palm oil oil pobj
+the living areas areas dobj
+the eradication eradication pobj
+the rhino rhino pobj
+Sumatra Sumatra pobj
+Rhinocerotoids Rhinocerotoids nsubj
+other perissodactyls perissodactyls pobj
+the early Eocene Eocene pobj
+Fossils Fossils nsubj
+Hyrachyus Hyrachyus pobj
+eximus eximus pobj
+North America date date pobj
+this period period pobj
+This small hornless ancestor ancestor nsubj
+a tapir or small horse horse dobj
+a rhino rhino pobj
+Three families families nsubj
+the superfamily Rhinocerotoidea Rhinocerotoidea pobj
+the late Eocene Eocene pobj
+namely the Hyracodontidae Hyracodontidae appos
+Amynodontidae Amynodontidae conj
+Rhinocerotidae Rhinocerotidae conj
+"running rhinos rhinos pobj
+adaptations adaptations dobj
+speed speed pobj
+horses horses pobj
+modern rhinos rhinos pobj
+The smallest hyracodontids hyracodontids nsubj
+Paraceratherium Paraceratherium attr
+the largest known land mammals mammals pobj
+Paraceratherium Paraceratherium nsubj
+as much as 15 tons tons dobj
+a giraffe giraffe pobj
+it it nsubj
+leaves leaves dobj
+trees trees pobj
+Hyracodontids Hyracodontids nsubj
+Eurasia Eurasia pobj
+the mid-Eocene Eocene pobj
+early Miocene Miocene pobj
+The Amynodontidae Amynodontidae nsubj
+"aquatic rhinos rhinos pobj
+North America America pobj
+Eurasia Eurasia conj
+the late Eocene Eocene pobj
+early Oligocene Oligocene pobj
+The amynodontids amynodontids nsubj
+their ecology ecology pobj
+appearance appearance conj
+rivers rivers dobj
+lakes lakes conj
+the same adaptations adaptations pobj
+aquatic life life pobj
+hippos hippos pobj
+The family family nsubj
+all modern rhinoceros rhinoceros pobj
+the Rhinocerotidae Rhinocerotidae nsubj
+the Late Eocene Eocene pobj
+Eurasia Eurasia pobj
+The earliest members members nsubj
+Rhinocerotidae Rhinocerotidae pobj
+at least 26 genera genera nsubj
+Eurasia Eurasia pobj
+North America America conj
+a wave wave nsubj
+extinctions extinctions pobj
+the middle Oligocene Oligocene pobj
+the smaller species species pobj
+several independent lineages lineages nsubj
+Menoceras Menoceras nsubj
+a pig-sized rhinoceros rhinoceros appos
+two horns horns dobj
+side side pobj
+The North American Teleoceras Teleoceras nsubj
+short legs legs dobj
+a barrel chest chest conj
+The last rhinos rhinos nsubj
+the Americas Americas pobj
+the Pliocene Pliocene pobj
+Modern rhinos rhinos nsubjpass
+dispersal dispersal dobj
+Asia Asia pobj
+the Miocene Miocene pobj
+Two species species nsubj
+the most recent period period dobj
+glaciation glaciation pobj
+Europe Europe dobj
+the woolly rhinoceros rhinoceros dobj
+Elasmotherium Elasmotherium conj
+The woolly rhinoceros rhinoceros nsubj
+China China pobj
+Europe Europe pobj
+It It nsubj
+the woolly mammoth mammoth pobj
+Elasmotherium Elasmotherium nsubj
+around five tons tons dobj
+a single enormous horn horn pobj
+hypsodont teeth teeth conj
+long legs legs conj
+Both the Coelodonta Coelodonta nsubj
+Elasmotherium Elasmotherium conj
+the late Pleistocene Pleistocene pobj
+climate fluctuations fluctuations nsubj
+increased predation predation appos
+newer predators predators pobj
+hyenas hyenas pobj
+human hunting hunting conj
+their extinction extinction pobj
+a remnant population population attr
+Elasmotherium Elasmotherium pobj
+the south south pobj
+Western Siberia Siberia pobj
+the area area pobj
+today Kazakhstan Kazakhstan attr
+the extant rhinoceros species species pobj
+the Sumatran rhino rhino nsubj
+The Sumatran rhino rhino nsubj
+the woolly rhinoceros rhinoceros pobj
+the other modern species species pobj
+The Indian and Javan rhinos rhinos nsubj
+a more recent lineage lineage dobj
+Asian rhino rhino pobj
+The ancestors ancestors nsubj
+early Indian and Javan rhino rhino pobj
+The origin origin nsubjpass
+the two living African rhinos rhinos pobj
+the late Miocene Miocene pobj
+6 mya mya appos
+Ceratotherium neumayri neumayri dobj
+The lineages lineages nsubj
+the living species species dobj
+the early Pliocene Pliocene pobj
+1.5 mya mya appos
+Diceros Diceros nsubj
+the likely ancestor ancestor nsubj
+the black rhinoceros rhinoceros pobj
+the fossil record record pobj
+The black and white rhinoceros rhinoceros nsubj
+they they nsubj
+offspring offspring dobj
+Family RhinocerotidaeSubfamily Rhinocerotinae Rhinocerotinae nsubj
+Tribe Aceratheriini
+†Aceratherium †Aceratherium appos
+33.9—3.4 Ma Ma pobj
+Ma
+†Aphelops †Aphelops ROOT
+Ma
+
+†Chilotheridium †Chilotheridium ROOT
+23.03—11.610 Ma Ma ROOT
+Ma
+†Dromoceratherium †Dromoceratherium ROOT
+Ma
+†Mesaceratherium †Mesaceratherium nsubj
+Ma
+†Proaceratherium 16.9—16.0 Ma
+†Sinorhinus †Sinorhinus appos
+Ma
+†Diaceratherium †Diaceratherium ROOT
+Ma
+†Shennongtherium †Shennongtherium nsubj
+16.9—4.9 Ma Ma ROOT
+Ma Ma ROOT
+—Present
+†Gaindatherium †Gaindatherium ROOT
+11.61—11.1 Ma
+
+Subtribe Rhinocerotina Rhinocerotina ROOT
+17.5 Ma
+— — ROOT
+Present†Rusingaceros Present†Rusingaceros ROOT
+Ma Ma ROOT
+Rhinoceros – Indian Indian nsubj
+Javan Javan conj
+Tribe Dicerorhinini
+†Coelodonta †Coelodonta dobj
+Dicerorhinus – Sumatran Sumatran nsubj
+11.610—1.810 Ma
+†Lartetotherium †Lartetotherium dobj
+Ma Ma ROOT
+– Merck's rhinoceros rhinoceros ROOT
+Narrow-nosed rhinoceros rhinoceros conj
+Tribe Dicerotini Dicerotini appos
+Ceratotherium – White rhinoceros rhinoceros ROOT
+Diceros – Black rhinoceros rhinoceros ROOT
+Ma
+Rhinocerotinae Rhinocerotinae ROOT
+incertae sedis
+†Protaceratherium
+Subfamily Elasmotheriinae Elasmotheriinae ROOT
+†Gulfoceras †Gulfoceras appos
+Ma Ma ROOT
+33.9—11.610 Ma Ma nsubj
+Ma
+Tribe Elasmotheriini Elasmotheriini ROOT
+20.0—0.126 Ma Ma nsubj
+20.0—16.9 Ma Ma nsubj
+– Giant rhinoceros rhinoceros ROOT
+3.6—0.126 Ma
+†Hispanotherium †Hispanotherium dobj
+Huaqingtherium 16.0—7.250 Ma Ma pobj
+†Menoceras 23.03—16.3 Ma
+†Ningxiatherium †Ningxiatherium dobj
+Ma
+†Parelasmotherium †Parelasmotherium dobj
+Ma Ma dobj
+Adult rhinoceros rhinoceros nsubj
+no real predators predators dobj
+humans humans pobj
+Young rhinos rhinos nsubj
+prey prey dobj
+big cats cats pobj
+crocodiles crocodiles conj
+African wild dogs dogs conj
+hyenas hyenas conj
+rhinos rhinos nsubj
+a reputation reputation dobj
+they they nsubjpass
+they they nsubj
+water holes holes dobj
+they they nsubj
+December December pobj
+efforts efforts nsubjpass
+the rhino rhino dobj
+The most serious estimate estimate nsubjpass
+only 3% % nsubjpass
+poachers poachers pobj
+Zimbabwe Zimbabwe pobj
+Nepal Nepal nsubj
+the crisis crisis dobj
+Poachers Poachers nsubj
+South African officials officials nsubj
+urgent action action pobj
+poachers poachers nsubj
+the last female rhino rhino dobj
+the Krugersdorp Game Reserve Reserve pobj
+Johannesburg Johannesburg pobj
+Statistics Statistics nsubj
+South African National Parks Parks pobj
+333 rhinoceros rhinoceros nsubjpass
+South Africa Africa pobj
+some cases rhinos rhinos nsubjpass
+their horns horns nsubj
+other instances instances pobj
+the horn horn nsubjpass
+The Namibian government government nsubj
+the practice practice dobj
+rhino trophy trophy pobj
+a way way pobj
+money money dobj
+conservation conservation pobj
+Hunting Hunting nsubjpass
+licenses licenses dobj
+five Namibian Black rhinos rhinos pobj
+the money money nsubj
+the government's Game Products Trust Fund Fund pobj
+Some conservationists conservationists nsubj
+members members conj
+the public public pobj
+International trade trade nsubjpass
+rhinoceros horn horn pobj
+the Convention Convention pobj
+International Trade Trade pobj
+Endangered Species Species pobj
+Wild Fauna and Flora (CITES CITES pobj
+A proposal proposal nsubjpass
+Swaziland Swaziland pobj
+the international ban ban dobj
+October October pobj
+Domestic sale sale nsubjpass
+rhinoceros horn horn pobj
+South Africa Africa pobj
+home home appos
+80% % pobj
+the remaining rhino population population pobj
+that ban ban nsubjpass
+a court case case pobj
+South Africa Africa nsubj
+regulations regulations dobj
+the sale sale pobj
+rhino horn horn pobj
+export export pobj
+"non-commercial purposes purposes pobj
+The South African government government nsubj
+a legal trade trade nsubjpass
+rhino horn horn pobj
+poaching poaching dobj
+the extinction extinction dobj
+this species species pobj
+Rhinoceros Rhinoceros nsubj
+other horned mammals mammals pobj
+a bony core core dobj
+keratin keratin pobj
+human hair hair pobj
+nails nails conj
+Rhinoceros horns horns nsubjpass
+traditional medicines medicines pobj
+parts parts pobj
+Asia Asia pobj
+dagger handles handles pobj
+Yemen Yemen pobj
+Oman Oman conj
+Esmond Bradley Martin Martin nsubj
+the trade trade pobj
+dagger handles handles pobj
+Yemen Yemen pobj
+Europe Europe pobj
+it it nsubjpass
+rhino horns horns nsubj
+water water dobj
+poisoned liquids liquids dobj
+an aphrodisiac aphrodisiac pobj
+an antidote antidote conj
+poison poison pobj
+The Vietnamese Vietnamese nsubj
+the biggest consumers consumers attr
+rhino horn horn pobj
+their demand demand nsubj
+the poaching poaching pobj
+record levels levels pobj
+The "Vietnam CITES Management Authority Authority nsubj
+Hanoi Hanoi nsubj
+a 77% drop drop dobj
+the usage usage pobj
+rhino horn horn pobj
+National Geographic Geographic nsubj
+these claims claims dobj
+no rise rise attr
+the numbers numbers pobj
+criminals criminals pobj
+who who nsubjpass
+South African rhino poaching's main destination market market nsubj
+Vietnam Vietnam attr
+An average sized horn horn nsubj
+a quarter quarter pobj
+a million dollars dollars pobj
+Vietnam Vietnam pobj
+many rhino range states states nsubj
+stockpiles stockpiles dobj
+rhino horn horn pobj
+It It nsubj
+a common misconception misconception attr
+horn horn nsubjpass
+powdered form form pobj
+an aphrodisiac aphrodisiac pobj
+a cure cure conj
+cancer cancer pobj
+Traditional Chinese Medicine Medicine pobj
+Cornu Rhinoceri Asiatici Asiatici pobj
+(犀角, xījiǎo xījiǎo appos
+"rhinoceros horn horn attr
+no TCM text text nsubj
+history history pobj
+such prescriptions prescriptions dobj
+Traditional Chinese Medicine Medicine pobj
+(TCM TCM appos
+rhino horn horn nsubjpass
+fevers fevers pobj
+convulsions convulsions conj
+a treatment treatment appos
+evidence-based medicine medicine pobj
+fingernail clippings clippings dobj
+water water pobj
+China China nsubj
+the CITES treaty treaty dobj
+rhinoceros horn horn dobj
+the Chinese medicine pharmacopeia pharmacopeia pobj
+the Ministry Ministry pobj
+Health Health pobj
+the Register Register nsubj
+Chinese Herbal Medicine Medicine pobj
+the United Kingdom Kingdom pobj
+a formal statement statement dobj
+the use use dobj
+rhinoceros horn horn pobj
+A growing number number nsubj
+TCM educators educators pobj
+the practice practice pobj
+Discussions Discussions nsubj
+TCM practitioners practitioners pobj
+the use use dobj
+rhino horn horn pobj
+mixed results results pobj
+it it nsubj
+a life-saving medicine medicine attr
+March March pobj
+some researchers researchers nsubj
+the only way way nsubj
+poaching poaching dobj
+a regulated trade trade dobj
+humane and renewable harvesting harvesting pobj
+live rhinos rhinos pobj
+The WWF WWF nsubj
+legalization legalization dobj
+the horn trade trade pobj
+it it nsubj
+demand demand dobj
+IFAW IFAW nsubj
+a report report dobj
+EcoLarge EcoLarge pobj
+more thorough knowledge knowledge nsubjpass
+economic factors factors pobj
+the pro-trade option option dobj
+poaching poaching dobj
+certain areas areas pobj
+rhinos rhinos nsubjpass
+their horns horns nsubj
+Armed park rangers rangers nsubj
+South Africa Africa pobj
+the front lines lines pobj
+combat poaching poaching pobj
+poachers poachers dobj
+who who nsubjpass
+the act act pobj
+A recent spike spike nsubj
+rhino killings killings pobj
+conservationists conservationists dobj
+the future future pobj
+the species species pobj
+the Rhino Rescue Project Project nsubj
+Ed Ed pobj
+Lorinda Hern Hern conj
+the Rhino & Lion Nature Reserve Reserve pobj
+Krugersdorp Krugersdorp pobj
+South Africa Africa appos
+a horn-trade control method method dobj
+the horns horns dobj
+the living animal animal pobj
+a mixture mixture nsubj
+a pink dye dye pobj
+an acaricide acaricide conj
+ticks)—which ticks)—which dobj
+rhinos rhinos pobj
+humans humans pobj
+the animal animal dobj
+a worker worker nsubj
+holes holes dobj
+the horns horns pobj
+fittings fittings nsubj
+the cavity cavity dobj
+rubber hoses hoses pobj
+four-inch inch pobj
+the liquid mixture mixture pobj
+they they nsubj
+The infusion infusion nsubj
+less than 20 minutes minutes dobj
+the 45 minutes minutes pobj
+anesthesia anesthesia pobj
+the high pressure pressure pobj
+the animals' internal organs organs pobj
+their large body weight weight pobj
+workers workers nsubj
+them them dobj
+they they nsubjpass
+The procedure procedure nsubj
+three RFID identification chips chips dobj
+DNA samples samples dobj
+the fibrous nature nature pobj
+rhino horn horn pobj
+the pressurized dye dye nsubj
+the interior interior dobj
+the horn horn pobj
+the surface surface dobj
+rhino behavior behavior dobj
+the quantity quantity pobj
+horn horn pobj
+a person person nsubj
+experts experts nsubj
+the acaricide acaricide nsubj
+nausea nausea dobj
+stomach-ache ache conj
+diarrhea diarrhea conj
+possibly convulsions convulsions conj
+It It nsubj
+the primary deterrent deterrent nsubj
+the knowledge knowledge attr
+the treatment treatment nsubjpass
+signs signs pobj
+the refuges refuges pobj
+The original idea idea nsubj
+research research pobj
+the horn horn pobj
+a reservoir reservoir pobj
+one-time tick treatments treatments pobj
+experts experts nsubj
+they they nsubj
+the rhino rhino pobj
+oxpeckers oxpeckers conj
+vultures vultures conj
+other animals animals conj
+the preserve's ecosystem ecosystem pobj
+Proponents Proponents nsubj
+the dye dye nsubjpass
+the horns horns pobj
+x-ray scanners scanners pobj
+the horn horn nsubj
+a fine powder powder pobj
+The UK charity organization organization nsubj
+the Rhino Rhino dobj
+horn poisoning poisoning dobj
+moral and practical grounds grounds pobj
+The organization organization nsubj
+the assumptions assumptions dobj
+the infusion technique technique nsubj
+the poison poison nsubj
+middlemen middlemen nsubj
+a lucrative, illegal trade trade pobj
+the effect effect pobj
+it it nsubj
+buyers buyers pobj
+another continent continent pobj
+They They nsubj
+poisoned horns horns nsubj
+demand demand dobj
+non-poisoned horns horns pobj
+wealthier buyers buyers pobj
+the belief belief dobj
+magical properties properties pobj
+the horn horn pobj
+people people nsubj
+the poisoning poisoning dobj
+rhino horn horn nsubjpass
+decorative use use pobj
+use use pobj
+traditional medicine medicine pobj
+the Rhino questions questions dobj
+the feasibility feasibility dobj
+the technique technique dobj
+all African rhinos rhinos pobj
+workers workers nsubj
+It It nsubjpass
+one out of 150 rhinos rhinos nsubj
+the anesthesia anesthesia dobj
+Another way way nsubjpass
+the rhinoceros horn market market dobj
+Matthew Markus Markus pobj
+Pembient Pembient pobj
+a biotechnology firm firm appos
+He He nsubj
+the synthesis synthesis dobj
+an artificial substitute substitute pobj
+rhinoceros horn horn pobj
+authorities authorities dobj
+the bioengineered horn horn dobj
+real rhinoceros horn horn pobj
+the genetic code code nsubjpass
+the bioengineered horn horn pobj
+the DNA DNA pobj
+living rhinoceros rhinoceros pobj
+the RhODIS RhODIS pobj
+Rhino DNA Index System System appos
+Initial responses responses nsubj
+many conservationists conservationists pobj
+a 2016 report report nsubj
+TRAFFIC— — pobj
+it it pobj
+the possibility possibility dobj
+trade trade nsubj
+synthetic rhinoceros rhinoceros pobj
+horn horn pobj
+a role role dobj
+future conservation strategies strategies pobj
+== Historical representations ==
+Albrecht Dürer Dürer nsubj
+a famous woodcut woodcut dobj
+a rhinoceros rhinoceros pobj
+a written description description pobj
+brief sketch sketch conj
+an unknown artist artist pobj
+an Indian rhinoceros rhinoceros pobj
+Lisbon Lisbon pobj
+Dürer Dürer nsubj
+the animal animal dobj
+itself itself appos
+a result result pobj
+Dürer's Rhinoceros Rhinoceros nsubj
+a somewhat inaccurate depiction depiction attr
+Rhinoceros Rhinoceros nsubjpass
+the Chauvet Cave Cave pobj
+France France pobj
+Greek historian historian nsubj
+geographer Agatharchides Agatharchides conj
+(2nd century BC BC appos
+the rhinoceros rhinoceros dobj
+his book book pobj
+the Erythraean Sea Sea pobj
+legends legends attr
+rhinoceroses rhinoceroses pobj
+fire fire dobj
+Burma Burma pobj
+India India conj
+Malaysia Malaysia conj
+The mythical rhinoceros rhinoceros nsubj
+a special name name dobj
+Malay Malay pobj
+badak api api appos
+rhinoceros rhinoceros dobj
+api api nsubj
+fire fire dobj
+The animal animal nsubj
+a fire fire nsubjpass
+the forest forest pobj
+it it dobj
+no recent confirmations confirmations attr
+this phenomenon phenomenon pobj
+This legend legend nsubjpass
+the film film pobj
+The Gods Gods nsubj
+Crazy Crazy attr
+an African rhinoceros rhinoceros nsubj
+two campfires campfires dobj
+Cerdeño Cerdeño ROOT
+Cladistic Analysis Analysis ROOT
+the Family Rhinocerotidae Rhinocerotidae pobj
+" (PDF PDF appos
+Novitates Novitates ROOT
+ISSN ISSN ROOT
+Chapman Chapman ROOT
+The Art Art ROOT
+Rhinoceros Horn Carving Carving pobj
+China China pobj
+Christies Books Books ROOT
+M. M. appos
+African Rhino Rhino ROOT
+Status Survey Survey ROOT
+Conservation Action Plan Plan conj
+IUCN/SSC African Rhino Specialist Group Group ROOT
+IUCN IUCN conj
+Gland Gland conj
+Switzerland Switzerland conj
+Cambridge Cambridge conj
+UK UK appos
+ISBN ISBN ROOT
+Foose Foose ROOT
+Thomas J. J. conj
+van Strien Strien conj
+Nico Nico appos
+Asian Rhinos – Status Survey Survey ROOT
+Conservation Action Plan Plan conj
+IUCN IUCN conj
+Gland Gland conj
+Switzerland Switzerland conj
+Cambridge Cambridge conj
+UK UK conj
+ISBN ISBN ROOT
+Hieronymus Hieronymus ROOT
+Tobin L. L. appos
+Lawrence M. Witmer Witmer conj
+"
+Structure Structure ROOT
+White Rhinoceros Rhinoceros pobj
+(Ceratotherium simum simum appos
+Horn Horn ROOT
+X-ray Computed Tomography Tomography pobj
+Histology Histology conj
+Implications Implications pobj
+Growth Growth pobj
+External Form Form conj
+" (PDF PDF appos
+Journal Journal appos
+Morphology Morphology pobj
+doi:10.1002/jmor.10465.
+PMID PMID ROOT
+Laufer Laufer ROOT
+"
+History History ROOT
+the Rhinoceros Rhinoceros pobj
+Chinese Clay Figures Figures pobj
+Part I I conj
+Prolegomena Prolegomena appos
+the History History pobj
+Defence Defence pobj
+Armour Armour ROOT
+Field Museum Museum nsubj
+Natural History History pobj
+Chicago Chicago appos
+White Rhinoceros Rhinoceros nsubj
+White Rhinoceros Profile Profile conj
+Facts Facts conj
+Information Information conj
+Photos Photos conj
+Pictures Pictures conj
+Sounds Sounds conj
+Habitats Habitats conj
+Reports Reports conj
+News – National Geographic Geographic conj
+White Rhino Rhino ROOT
+(Ceratotherum simum simum appos
+Rhinos Rhinos ROOT
+The International Rhino Foundation Foundation ROOT
+20 July July pobj
+Rhino Species Species nsubj
+Rhino Images Images conj
+the Rhino Resource Center
+Rhinoceros entry entry pobj
+World Wide Fund Fund pobj
+Nature Nature pobj
+website website appos
+International Anti Poaching Foundation Foundation ROOT
+Free Free ROOT
+Rhino Images Images dobj
+Rhinoceros Resources Resources appos
+Photos Photos conj
+African Wildlife Foundation website website pobj
+UK Times article article appos
+"South African spy chief chief nsubj
+rhino horn trade trade pobj
+South African government minister's alleged involvement involvement pobj
+illegal rhino horn trade trade pobj
+[3]
+People People nsubj
+The Communities Communities dobj
+IWT Learning Platform Platform conj

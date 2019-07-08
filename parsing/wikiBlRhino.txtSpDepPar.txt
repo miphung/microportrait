@@ -1,0 +1,1134 @@
+The black rhinoceros rhinoceros nsubj
+hook-lipped rhinoceros rhinoceros conj
+(Diceros bicornis bicornis appos
+a species species attr
+rhinoceros rhinoceros pobj
+eastern and southern Africa Africa pobj
+Botswana Botswana pobj
+Kenya Kenya conj
+Malawi Malawi conj
+Mozambique Mozambique conj
+Namibia Namibia conj
+South Africa Africa conj
+Swaziland Swaziland conj
+Tanzania Tanzania conj
+Zambia Zambia conj
+Zimbabwe Zimbabwe conj
+the rhinoceros rhinoceros nsubjpass
+its colors colors nsubj
+grey grey pobj
+The other African rhinoceros rhinoceros nsubj
+the white rhinoceros rhinoceros attr
+Ceratotherium simum simum appos
+The word word nsubjpass
+the name name pobj
+a misinterpretation misinterpretation attr
+the Afrikaans word wyd wyd pobj
+its square upper lip lip pobj
+the pointed or hooked lip lip pobj
+the black rhinoceros rhinoceros pobj
+These species species nsubjpass
+the square-lipped lipped pobj
+black) rhinoceros rhinoceros pobj
+The species species nsubjpass
+the South-western black rhinoceros rhinoceros nsubjpass
+Three subspecies subspecies nsubjpass
+the western black rhinoceros rhinoceros pobj
+the International Union Union pobj
+Conservation Conservation pobj
+Nature Nature pobj
+(IUCN IUCN appos
+The species species nsubjpass
+Carl Linnaeus Linnaeus pobj
+the 10th edition edition pobj
+his Systema naturae naturae pobj
+The name name nsubj
+"double-horned rhinoceros rhinoceros dobj
+some confusion confusion attr
+what what dobj
+Linnaeus Linnaeus nsubj
+this name name pobj
+this species species nsubjpass
+the skull skull pobj
+a single-horned Indian rhinoceros rhinoceros pobj
+Rhinoceros Rhinoceros nsubj
+a second horn horn pobj
+the collector collector pobj
+Such a skull skull nsubjpass
+Linnaeus Linnaeus nsubj
+India India dobj
+origin origin pobj
+this species species pobj
+he he nsubj
+reports reports pobj
+early travellers travellers pobj
+a double-horned rhino rhino pobj
+Africa Africa pobj
+it it nsubj
+only one, single-horned species species attr
+rhino rhino pobj
+India India pobj
+Rhinoceros" bicornis bicornis nsubjpass
+the African rhinos rhinos pobj
+the white rhino rhino nsubjpass
+the Cape Cape nsubj
+Good Hope Hope pobj
+the type locality locality dobj
+the species species pobj
+The intraspecific variation variation nsubjpass
+the black rhinoceros rhinoceros pobj
+various authors authors pobj
+The most accepted scheme scheme nsubj
+seven or eight subspecies subspecies ROOT
+historical times times pobj
+the brink brink pobj
+extinction extinction pobj
+Southern black rhinoceros rhinoceros appos
+Cape black rhinoceros rhinoceros conj
+(D. b. bicornis bicornis ROOT
+the Cape Cape pobj
+Good Hope Hope pobj
+Transvaal Transvaal pobj
+South Africa Africa conj
+the south south pobj
+Namibia Namibia pobj
+the largest subspecies subspecies attr
+It It nsubj
+excessive hunting and habitat destruction destruction pobj
+North-eastern black rhinoceros rhinoceros ROOT
+Formerly central Sudan Sudan ROOT
+Eritrea Eritrea conj
+northern and southeastern Ethiopia Ethiopia conj
+Djibouti Djibouti conj
+northern and southeastern Somalia Somalia conj
+Relict populations populations nsubj
+northern Somalia Somalia pobj
+the early 20th century century pobj
+Chobe black rhinoceros rhinoceros ROOT
+D. b. b. nsubj
+A local subspecies subspecies nsubj
+the Chobe Valley Valley pobj
+southeastern Angola Angola pobj
+Namibia Namibia conj
+Zambezi Region Region appos
+northern Botswana Botswana conj
+Nearly extinct, possibly only one surviving specimen specimen ROOT
+Botswana Botswana pobj
+Uganda black rhinoceros rhinoceros ROOT
+(D. b. ladoensis ladoensis appos
+–
+Former distribution distribution ROOT
+South Sudan Sudan pobj
+Uganda Uganda pobj
+western Kenya Kenya pobj
+Ethiopia Ethiopia dobj
+Black rhinos rhinos nsubjpass
+this area area pobj
+its conservational status status nsubj
+Kenyan reserves reserves pobj
+Western black rhinoceros rhinoceros ROOT
+(D. b. longipes longipes appos
+South Sudan Sudan pobj
+northern Central African Republic Republic conj
+southern Chad Chad conj
+northern Cameroon Cameroon conj
+northeastern Nigeria Nigeria conj
+south-eastern Niger Niger conj
+The range range nsubj
+the Niger River River pobj
+western Niger Niger pobj
+The evidence evidence nsubj
+Liberia Liberia pobj
+Burkina Faso Faso conj
+the existence existence pobj
+indigenous names names pobj
+the rhinoceros rhinoceros pobj
+A far greater former range range nsubjpass
+West Africa Africa pobj
+a 2004 study study pobj
+The last known wild specimens specimens nsubj
+northern Cameroon Cameroon pobj
+an intensive survey survey nsubj
+its putative range range pobj
+Cameroon Cameroon pobj
+fears fears pobj
+it it nsubj
+the wild wild pobj
+10 November November pobj
+the IUCN IUCN nsubj
+the western black rhinoceros rhinoceros nsubj
+Eastern black rhinoceros rhinoceros ROOT
+a historical distribution distribution dobj
+South Sudan Sudan pobj
+Uganda Uganda conj
+Ethiopia Ethiopia conj
+Kenya Kenya pobj
+north-central Tanzania Tanzania pobj
+its range range nsubjpass
+Kenya Kenya pobj
+Tanzania Tanzania conj
+South-central black rhinoceros rhinoceros ROOT
+Most widely distributed subspecies subspecies ROOT
+a compact body body pobj
+proportionally large head head conj
+prominent skin-folds folds conj
+north-eastern South Africa Africa pobj
+KwaZulu-Natal Natal appos
+northeastern Tanzania Tanzania pobj
+southeastern Kenya Kenya conj
+reserves reserves pobj
+its former range range pobj
+eastern Angola Angola pobj
+southern Democratic Republic Republic conj
+Congo Congo pobj
+possibly Mozambique Mozambique conj
+Extinct Extinct ROOT
+Malawi Malawi pobj
+Botswana Botswana conj
+Zambia Zambia conj
+South-western black rhinoceros rhinoceros ROOT
+(D. b. occidentalis occidentalis appos
+A small subspecies subspecies nsubj
+survival survival pobj
+desert desert pobj
+semi-desert conditions conditions conj
+north-western Namibia Namibia pobj
+reserves reserves dobj
+Namibia Namibia pobj
+sporadic sightings sightings pobj
+Angola Angola pobj
+These populations populations nsubjpass
+D. b. bicornis bicornis pobj
+a subspecies subspecies dobj
+their own right right pobj
+The most widely adopted alternative scheme scheme nsubj
+five subspecies subspecies dobj
+"eco-types types conj
+, D. b. bicornis bicornis conj
+D. b. brucii brucii conj
+D. b. longipes longipes appos
+D. b. b. conj
+This concept concept nsubjpass
+the IUCN IUCN pobj
+three surviving subspecies subspecies dobj
+D. b. brucii brucii dobj
+D. b. longipes longipes conj
+The most important difference difference nsubj
+the above scheme scheme pobj
+the inclusion inclusion attr
+the extant southwestern subspecies subspecies pobj
+Namibia Namibia pobj
+D. b. bicornis bicornis pobj
+its own subspecies subspecies pobj
+the nominal subspecies subspecies nsubjpass
+The rhinoceros rhinoceros nsubj
+the Eocene Eocene pobj
+other members members pobj
+Ancestors Ancestors nsubj
+the white rhinoceros rhinoceros conj
+Africa Africa pobj
+the end end pobj
+the Late Miocene Miocene pobj
+The two species species nsubj
+the common ancestral species species pobj
+this time time pobj
+The clade clade ROOT
+Diceros Diceros nsubjpass
+an increased adaptation adaptation pobj
+browsing browsing pcomp
+the black rhinoceros rhinoceros nsubj
+the white rhinoceros rhinoceros pobj
+this split split pobj
+the direct ancestor ancestor pobj
+Diceros bicornis bicornis pobj
+Diceros praecox praecox nsubj
+the Pliocene Pliocene pobj
+East Africa Africa pobj
+(Ethiopia Ethiopia ROOT
+Tanzania Tanzania appos
+D. bicornis bicornis nsubj
+this species species pobj
+the Late Pliocene – – pobj
+Early Pleistocene Pleistocene appos
+An adult black rhinoceros rhinoceros nsubj
+140–180 cm cm dobj
+the shoulder shoulder pobj
+3–3.75 m m attr
+9.8–12.3 ft ft appos
+length length pobj
+An adult adult nsubj
+1,400 kg kg pobj
+unusually large male specimens specimens nsubjpass
+up to 2,896 kg kg pobj
+6,385 lb lb appos
+The females females nsubj
+the males males pobj
+Two horns horns nsubjpass
+the skull skull pobj
+keratin keratin pobj
+the larger front horn horn pobj
+typically 50 cm cm appos
+20 in) long, exceptionally up to 140 cm cm appos
+The longest known black rhinoceros horn horn nsubj
+nearly 1.5 m m dobj
+4.9 ft ft appos
+length length pobj
+a third, smaller horn horn nsubj
+These horns horns nsubjpass
+defense defense pobj
+intimidation intimidation conj
+roots roots dobj
+branches branches dobj
+The black rhino rhino nsubj
+the white rhino rhino pobj
+size size pobj
+the Javan Rhino Rhino pobj
+Indonesia Indonesia pobj
+It It nsubj
+a pointed and prehensile upper lip lip dobj
+it it nsubj
+leaves leaves dobj
+twigs twigs conj
+The white rhinoceros rhinoceros nsubj
+square lips lips dobj
+grass grass dobj
+The black rhinoceros rhinoceros nsubjpass
+the white rhinoceros rhinoceros pobj
+its size size pobj
+smaller skull skull conj
+ears ears conj
+the position position pobj
+the head head pobj
+the white rhinoceros rhinoceros pobj
+the black rhinoceros rhinoceros nsubj
+a browser browser attr
+not a grazer grazer conj
+This key differentiation differentiation nsubjpass
+the shape shape pobj
+the two species mouths mouths pobj
+lips lips appos
+the "square" lip lip nsubj
+the white rhinoceros rhinoceros pobj
+an adaptation adaptation attr
+grazing grazing pobj
+the "hooked" lip lip nsubj
+the black rhinoceros rhinoceros pobj
+an adaptation adaptation attr
+Their thick-layered skin skin nsubj
+the rhino rhino dobj
+thorns thorns pobj
+sharp grasses grasses conj
+Their skin harbors harbors ROOT
+external parasites parasites dobj
+mites mites pobj
+ticks ticks conj
+oxpeckers oxpeckers pobj
+egrets egrets conj
+Such behaviour behaviour nsubjpass
+an example example attr
+mutualism mutualism pobj
+recent evidence evidence nsubj
+oxpeckers oxpeckers nsubj
+parasites parasites attr
+rhino blood blood pobj
+It It nsubjpass
+black rhinos rhinos nsubj
+poor eyesight eyesight dobj
+hearing hearing pobj
+smell smell conj
+studies studies nsubj
+their eyesight eyesight nsubj
+about the level level pobj
+a rabbit rabbit pobj
+Their ears ears nsubj
+a relatively wide rotational range range dobj
+sounds sounds dobj
+An excellent sense sense ROOT
+smell alerts rhinos rhinos pobj
+the presence presence pobj
+predators predators pobj
+many other components components pobj
+the African large mammal fauna fauna pobj
+black rhinos rhinos nsubj
+a wider range range dobj
+the northern part part pobj
+the continent continent pobj
+prehistoric times times pobj
+today today pobj
+the white rhino rhino pobj
+Unquestionable fossil fossil nsubj
+this area area pobj
+the abundant petroglyphs petroglyphs nsubj
+the Sahara desert desert pobj
+they they nsubj
+black or white rhinos rhinos dobj
+Petroglyphs Petroglyphs nsubj
+the Eastern Desert Desert pobj
+southeastern Egypt Egypt pobj
+the occurrence occurrence dobj
+black rhinos rhinos pobj
+these areas areas pobj
+prehistoric times times pobj
+The natural range range nsubj
+the black rhino rhino pobj
+southern and eastern Africa Africa pobj
+it it nsubj
+the Congo Basin Basin pobj
+the tropical rainforest areas areas appos
+the Bight Bight pobj
+Benin Benin pobj
+the Ethiopian Highlands Highlands conj
+the Horn Horn conj
+Africa Africa pobj
+Its former native occurrence occurrence nsubj
+the extremely dry parts parts pobj
+the Kalahari desert desert pobj
+southwestern Botswana Botswana pobj
+northwestern South Africa Africa conj
+western Africa Africa pobj
+it it nsubj
+an area area pobj
+west west pobj
+Eritrea Eritrea pobj
+Sudan Sudan conj
+South Sudan Sudan pobj
+Niger Niger dobj
+Lake Chad Chad pobj
+Its occurrence occurrence nsubj
+the west west pobj
+literature literature pobj
+it it nsubjpass
+protected nature reserves reserves pobj
+many countries countries pobj
+it it nsubj
+the west west pobj
+north north conj
+its former range range pobj
+The remaining populations populations nsubjpass
+Some specimens specimens nsubjpass
+their habitat habitat pobj
+locations locations dobj
+national frontiers frontiers pobj
+The black rhino rhino nsubjpass
+Malawi Malawi pobj
+it it nsubj
+it it nsubjpass
+Zambia Zambia pobj
+North Luangwa National Park Park appos
+it it nsubj
+Botswana Botswana pobj
+2003).In May May pobj
+18 Eastern Black Rhinos Rhinos nsubjpass
+South Africa Africa pobj
+the Akagera National Park Park pobj
+Rwanda Rwanda pobj
+The park park nsubj
+around 50 rhinos rhinos dobj
+the 1970s 1970s pobj
+the numbers numbers nsubj
+September September pobj
+the birth birth nsubj
+a calf calf pobj
+the population population dobj
+The park park nsubj
+rhino monitoring teams teams dobj
+the animals animals dobj
+October October pobj
+The governments governments nsubj
+Chad Chad pobj
+South Africa Africa conj
+an agreement agreement dobj
+six black rhinos rhinos dobj
+South Africa Africa pobj
+Zakouma National Park Park pobj
+Chad Chad pobj
+the northernmost population population attr
+the species species pobj
+The species species nsubjpass
+Chad Chad pobj
+the 1970s 1970s pobj
+severe pressure pressure pobj
+South Africa Africa pobj
+The agreement agreement nsubj
+South African experts experts nsubj
+the habitat habitat dobj
+local management capabilities capabilities conj
+security security conj
+the infrastructure infrastructure conj
+the transfer transfer nsubj
+place place dobj
+Black rhinoceros rhinoceros nsubjpass
+the only strong bond bond pobj
+a mother mother pobj
+her calf calf conj
+addition addition pobj
+males males nsubj
+females females conj
+a consort relationship relationship dobj
+mating mating pobj
+also subadults subadults nsubj
+young adults adults conj
+loose associations associations dobj
+older individuals individuals pobj
+either sex sex pobj
+They They nsubj
+other rhino territories territories dobj
+Home Home nsubj
+season season pobj
+the availability availability conj
+food food pobj
+water water conj
+they they nsubj
+smaller home ranges ranges dobj
+larger density density conj
+habitats habitats pobj
+plenty plenty dobj
+food food pobj
+water water conj
+resources resources nsubj
+Sex Sex ROOT
+age age conj
+an individual black rhino influence home range range pobj
+size size conj
+ranges ranges pobj
+females females pobj
+males males pobj
+a calf calf pobj
+the Serengeti home ranges ranges pobj
+around 70 to 100 km2 km2 attr
+27 to 39 sq mi mi appos
+the Ngorongoro Ngorongoro pobj
+it it nsubj
+2.6 to 58.0 km2 km2 pobj
+Black rhinos rhinos nsubjpass
+a certain area area dobj
+they they nsubj
+a high ground level level pobj
+These "home" ranges ranges nsubj
+2.6 km2 km2 pobj
+133 km2 km2 pobj
+smaller home ranges ranges pobj
+more abundant resources resources dobj
+larger home ranges ranges pobj
+Black rhinoceros rhinoceros nsubjpass
+captivity and reservations sleep patterns patterns pobj
+males males nsubj
+females females pobj
+nearly double the time time pobj
+Other factors factors nsubj
+a role role dobj
+their sleeping patterns patterns pobj
+the location location attr
+they they nsubj
+they they nsubj
+captivity captivity pobj
+they they nsubj
+different times times pobj
+their location location pobj
+captivity captivity pobj
+section section conj
+the park park pobj
+The black rhino rhino nsubj
+a reputation reputation dobj
+charges charges conj
+perceived threats threats pobj
+They They nsubjpass
+tree trunks trunks dobj
+termite mounds mounds conj
+Black rhinos rhinos nsubj
+they they nsubj
+the highest rates rates dobj
+mortal combat combat pobj
+any mammal mammal pobj
+about 50% % dobj
+males males pobj
+30% % nsubj
+females females pobj
+combat-related injuries injuries pobj
+Adult rhinos rhinos nsubj
+no natural predators predators dobj
+their imposing size size pobj
+their thick skin skin conj
+deadly horns horns conj
+adult black rhinos rhinos nsubj
+prey prey dobj
+crocodiles crocodiles pobj
+exceptional circumstances circumstances pobj
+Calves Calves ROOT
+small sub-adults adults nsubjpass
+lions lions pobj
+Black rhinoceros rhinoceros nsubj
+the same trails trails dobj
+elephants elephants nsubj
+foraging areas areas pobj
+water holes holes pobj
+They They nsubj
+smaller trails trails dobj
+they they nsubj
+They They nsubj
+speeds speeds pobj
+55 kilometres kilometres pobj
+hour hour pobj
+(34 mph mph appos
+their toes toes pobj
+The black rhinoceros rhinoceros nsubj
+a herbivorous browser browser attr
+leafy plants plants dobj
+branches branches conj
+shoots shoots conj
+thorny wood bushes bushes conj
+fruit fruit conj
+The optimum habitat habitat nsubj
+thick scrub scrub pobj
+bushland bushland conj
+some woodland woodland pobj
+the highest densities densities dobj
+Their diet diet nsubj
+the amount amount dobj
+woody plants plants pobj
+grazers grazers dobj
+who who nsubj
+leaves leaves pobj
+stems stems conj
+grass grass pobj
+not competing browsers browsers conj
+who who nsubj
+leaves leaves pobj
+trees trees pobj
+shrubs shrubs conj
+herbs herbs conj
+It It nsubjpass
+up to 220 species species dobj
+plants plants pobj
+They They nsubj
+a significantly restricted diet diet dobj
+a preference preference pobj
+a few key plant species species pobj
+a tendency tendency conj
+leafy species species dobj
+the dry season season pobj
+The plant species species nsubj
+they they nsubj
+dry season season pobj
+the woody plants plants attr
+18 species species attr
+woody plants plants pobj
+the diet diet pobj
+the black rhinoceros rhinoceros pobj
+11 species species conj
+a part part attr
+their diet diet pobj
+Black rhinoceros rhinoceros nsubj
+a tendency tendency dobj
+food food dobj
+quality quality pobj
+quantity quantity pobj
+researchers researchers nsubj
+more populations populations dobj
+areas areas pobj
+the food food nsubj
+better quality quality dobj
+accordance accordance pobj
+their feeding habit habit pobj
+adaptations adaptations nsubjpass
+the chewing apparatus apparatus pobj
+rhinos rhinos pobj
+The black rhinoceros rhinoceros nsubj
+a twophased chewing activity activity dobj
+a cutting ectoloph ectoloph pobj
+more grinding lophs lophs conj
+the lingual side side pobj
+The black rhinoceros rhinoceros nsubjpass
+captivity captivity pobj
+its grazing relatives relatives pobj
+It It nsubj
+water water pobj
+drought drought pobj
+Black rhinos rhinos nsubj
+several habitats habitats pobj
+bushlands bushlands pobj
+Riverine woodland woodland appos
+marshes marshes conj
+grasslands grasslands conj
+Habitat preferences preferences nsubjpass
+two ways ways pobj
+the amount amount appos
+sign sign pobj
+the different habitats habitats pobj
+the habitat content content conj
+home ranges ranges pobj
+core areas areas conj
+Habitat types types nsubjpass
+the composition composition pobj
+dominant plant types types pobj
+each area area pobj
+Different subspecies subspecies nsubj
+different habitats habitats pobj
+Vachellia and Senegalia savanna savanna pobj
+Euclea bushlands bushlands conj
+Albany thickets thickets conj
+They They nsubj
+food food pobj
+the morning morning pobj
+evening evening conj
+They They nsubj
+selective browsers browsers attr
+studies studies nsubj
+Kenya Kenya pobj
+they they nsubj
+the selection material material dobj
+availability availability pobj
+order order pobj
+their nutritional requirements requirements dobj
+the hottest part part pobj
+the day day pobj
+they they nsubj
+mud mud pobj
+Wallowing Wallowing nsubj
+body temperature temperature dobj
+the day day pobj
+parasites parasites pobj
+black rhinos rhinos nsubj
+they they nsubj
+their lips lips dobj
+the branches branches dobj
+their leaves leaves pobj
+Competition Competition nsubj
+elephants elephants pobj
+the black rhinoceros rhinoceros nsubj
+its diet diet dobj
+The black rhinoceros rhinoceros nsubj
+its selectivity selectivity dobj
+the absence absence pobj
+the elephant elephant pobj
+some variance variance attr
+the exact chemical composition composition pobj
+rhinoceros horns horns pobj
+This variation variation nsubjpass
+diet diet pobj
+a means means pobj
+rhino identification identification pobj
+Horn composition composition nsubj
+scientists scientists nsubj
+the original location location dobj
+individual rhinos rhinos pobj
+law enforcement enforcement pobj
+poachers poachers dobj
+Rhinos Rhinos nsubj
+several forms forms dobj
+communication communication pobj
+their solitary nature nature pobj
+scent marking marking nsubjpass
+themselves themselves dobj
+other black rhinos rhinos pobj
+Urine Urine nsubj
+trees trees pobj
+bushes bushes conj
+water holes holes pobj
+feeding areas areas conj
+breeding breeding pobj
+Defecation Defecation nsubj
+the same spot spot pobj
+different rhinos rhinos pobj
+stations stations dobj
+tracks tracks dobj
+these spots spots pobj
+rhinos rhinos nsubj
+who who nsubj
+the area area pobj
+their own marking marking dobj
+adult feces feces pobj
+male and female rhinoceroses rhinoceroses nsubj
+they they nsubjpass
+subadult feces feces pobj
+The urine urine nsubj
+feces feces conj
+one black rhinoceros rhinoceros pobj
+other black rhinoceroses rhinoceroses dobj
+its age age dobj
+sex sex conj
+identity identity conj
+they they nsubj
+their heads heads dobj
+horns horns conj
+tree trunks trunks pobj
+scent-mark mark pobj
+The black rhino rhino nsubj
+powerful tube-shaped ears ears dobj
+all directions directions pobj
+This highly developed sense sense nsubj
+black rhinos rhinos nsubj
+sound sound dobj
+vast distances distances pobj
+The adults adults nsubj
+nature nature pobj
+mating mating pcomp
+Mating Mating nsubj
+a seasonal pattern pattern dobj
+births births nsubj
+the end end pobj
+the rainy season season pobj
+more arid environments environments pobj
+season season pobj
+the females females nsubj
+dung piles piles dobj
+Males Males nsubj
+females females dobj
+they they nsubj
+season season pobj
+she she nsubj
+he he nsubj
+the dung dung dobj
+it it nsubj
+rival adult males males pobj
+her scent trail trail dobj
+Courtship behaviors behaviors nsubj
+mating mating nsubj
+the horns horns pobj
+males males pobj
+Another courtship behavior behavior nsubjpass
+the rhino rhino nsubj
+its head head dobj
+side side pobj
+Breeding pairs pairs nsubj
+2–3 days days pobj
+sometimes even weeks weeks conj
+They They nsubj
+this time time pobj
+copulation copulation nsubj
+a half-hour hour pobj
+The gestation period period nsubj
+a black rhino rhino pobj
+15 months months attr
+The single calf calf nsubj
+about 35–50 kilograms kilograms dobj
+birth birth pobj
+its mother mother dobj
+just three days days pobj
+Weaning Weaning nsubj
+around 2 years years pobj
+age age pobj
+the offspring offspring pobj
+The mother mother nsubj
+calf calf conj
+2–3 years years pobj
+the next calf calf nsubjpass
+female calves calves nsubj
+small groups groups dobj
+hyenas hyenas pobj
+lions lions conj
+Sexual maturity maturity nsubjpass
+females females pobj
+7 to 8 years years conj
+males males pobj
+The life expectancy expectancy nsubj
+natural conditions conditions pobj
+pressure pressure dobj
+35 to 50 years years pobj
+the 20th century century pobj
+the continental black rhino rhino nsubj
+all rhino species species pobj
+Africa Africa pobj
+the latter half half pobj
+the 20th century century pobj
+their numbers numbers nsubjpass
+the late 1960s 1960s pobj
+the early 1990s 1990s pobj
+the number number nsubj
+it it nsubjpass
+only 2,410 black rhinos rhinos nsubj
+Yulee Yulee pobj
+Florida Florida appos
+White Oak Conservation Conservation pobj
+black rhinos rhinos dobj
+the total African population population nsubj
+the 2004 number number nsubj
+nine rhinos rhinos nsubjpass
+Chete National Park Park pobj
+Zimbabwe Zimbabwe appos
+Australia Australia pobj
+Cocos Island Island pobj
+the natural deaths deaths pobj
+the males males pobj
+the group group pobj
+four males males nsubjpass
+United States States pobj
+captivity captivity pobj
+new climate climate conj
+Calves Calves nsubjpass
+some subadults subadults conj
+lions lions pobj
+predation predation nsubjpass
+account account pobj
+the black rhinoceros rhinoceros dobj
+a major flaw flaw attr
+predation predation nsubjpass
+cause cause dobj
+the poor performance performance pobj
+the black rhinoceros population population pobj
+only ten western black rhinos rhinos nsubj
+Cameroon Cameroon pobj
+in 2006 intensive surveys surveys nsubj
+its putative range range pobj
+fears fears pobj
+this subspecies subspecies nsubj
+the IUCN IUCN nsubj
+the western black rhino extinct extinct dobj
+a conservation effort effort attr
+black rhinos rhinos nsubjpass
+their population population nsubj
+they they nsubj
+an unfamiliar habitat habitat pobj
+CITES Appendix Appendix pobj
+I all international commercial trade trade nsubjpass
+the black rhino horn horn pobj
+China China nsubj
+CITES CITES dobj
+8 April April pobj
+the largest importer importer attr
+black rhino horns horns pobj
+a trade trade attr
+the actors actors nsubj
+the nation nation nsubj
+them them dobj
+people people nsubj
+the rhino rhino dobj
+its natural environment environment pobj
+a dependence dependence pobj
+human beings beings pobj
+them them dobj
+endangerment endangerment pobj
+Parks Parks nsubjpass
+reserves reserves conj
+the rhinos rhinos dobj
+armed guards guards pobj
+watch watch dobj
+even still many poachers poachers nsubj
+the rhinos rhinos dobj
+their horns horns pobj
+rhino horns horns dobj
+poachers poachers dobj
+these animals animals dobj
+them them dobj
+other breeding grounds grounds pobj
+the US US pobj
+Australia Australia conj
+This method method nsubj
+the horn horn dobj
+the rhino rhino dobj
+the horn horn dobj
+initiative initiative dobj
+poaching poaching pobj
+the effectiveness effectiveness nsubjpass
+poaching poaching dobj
+rhino mothers mothers nsubjpass
+their horns horns dobj
+predators predators dobj
+The only rhino subspecies subspecies nsubj
+the brink brink pobj
+extinction extinction pobj
+the southern white rhinoceros rhinoceros attr
+whose numbers numbers nsubjpass
+the first decade decade pobj
+the 20th century century pobj
+hope hope attr
+the black rhinoceros rhinoceros pobj
+their gametes gametes dobj
+dead rhinos rhinos pobj
+captivity captivity pobj
+promising results results dobj
+black rhinoceros embryos embryos dobj
+testing sperm sperm pobj
+A January 2014 auction auction nsubj
+a permit permit pobj
+a black rhinoceros rhinoceros dobj
+Namibia Namibia pobj
+a fundraiser fundraiser pobj
+the Dallas Safari Club Club pobj
+The auction auction nsubj
+considerable criticism criticism dobj
+death threats threats conj
+members members pobj
+the club club pobj
+the man man conj
+who who nsubj
+the permit permit dobj
+This permit permit nsubjpass
+1 of 18 black rhinoceros rhinoceros pobj
+Namibia's Ministry Ministry pobj
+Environment Environment pobj
+Tourism Tourism conj
+breeding age age pobj
+a threat threat dobj
+younger rhinos rhinos pobj
+the hunter hunter nsubjpass
+the permit permit pobj
+the Namibian government government pobj
+anti-poaching efforts efforts dobj
+the country country pobj
+various threats threats attr
+the black rhinoceros rhinoceros pobj
+habitat changes changes pobj
+illegal poaching poaching conj
+competing species species conj
+Civil disturbances disturbances nsubj
+war war pobj
+mentionably negative effects effects dobj
+the black rhinoceros populations populations pobj
+the 1960s 1960s pobj
+countries countries pobj
+Chad Chad pobj
+Cameroon Cameroon conj
+Rwanda Rwanda conj
+Mozambique Mozambique conj
+Somalia Somalia conj
+the Addo Elephant National Park Park pobj
+South Africa Africa pobj
+the African elephant elephant nsubj
+Loxodonta africana africana appos
+slight concern concern dobj
+the black rhinoceroses rhinoceroses dobj
+who who nsubj
+the area area dobj
+Both animals animals nsubj
+browsers browsers attr
+the elephant's diet diet nsubj
+a wider variety variety pobj
+foraging capacity capacity pobj
+the rhinoceros rhinoceros nsubj
+dwarf shrubs shrubs pobj
+The black rhinoceros rhinoceros nsubjpass
+grass grass dobj
+the shortening shortening nsubj
+its range range pobj
+available food food pobj
+Black rhinoceros rhinoceros nsubj
+problems problems dobj
+the minerals minerals pobj
+they they nsubj
+They They nsubj
+less iron iron dobj
+the wild wild pobj
+their evolutionary progression progression pobj
+a problem problem dobj
+captivity captivity pobj
+These rhinoceroses rhinoceroses nsubj
+iron iron pobj
+the lungs lungs pobj
+liver liver appos
+spleen spleen conj
+intestine intestine appos
+these rhinoceros rhinoceros dobj
+threats threats dobj
+the wild wild pobj
+captivity captivity pobj
+Black rhinoceros rhinoceros nsubj
+captivity captivity pobj
+high rates rates pobj
+mortality mortality pobj
+the international rhino horn trade trade pobj
+the main and most detrimental threat threat attr
+The killing killing nsubj
+these animals animals pobj
+modern-day society society pobj
+The Chinese Chinese nsubj
+reliable documents documents dobj
+these happenings happenings pobj
+The ancient Chinese Chinese nsubj
+rhino horn horn dobj
+the making making pobj
+wine cups cups pobj
+the rhino's skin skin conj
+imperial crowns crowns dobj
+belts belts conj
+armor armor conj
+soldiers soldiers pobj
+A major market market nsubj
+rhino horn horn pobj
+the Middle East nations nations pobj
+ornately carved handles handles dobj
+ceremonial daggers daggers pobj
+Demand Demand nsubj
+the 1970s 1970s pobj
+the black rhinoceros population population nsubj
+96% % dobj
+The horn horn nsubjpass
+traditional Chinese medicine medicine pobj
+herbalists herbalists pobj
+comatose patients patients dobj
+exorcisms exorcisms dobj
+various methods methods conj
+detoxification detoxification pobj
+cure fevers fevers conj
+male sexual stamina stamina dobj
+fertility fertility conj
+It It nsubjpass
+the superstitious belief belief pobj
+the horns horns nsubj
+direct access access dobj
+Heaven Heaven pobj
+their unique location location pobj
+hollow nature nature conj
+The purported effectiveness effectiveness ROOT
+the use use pobj
+rhino horn horn pobj
+any illness illness nsubjpass
+medical science science pobj
+June June pobj
+the first-ever documented case case nsubj
+the medicinal sale sale pobj
+black rhino horn horn pobj
+the United States States pobj
+genetic testing testing pobj
+the confiscated horn horn pobj
+a traditional Chinese medicine supply store store pobj
+Portland Portland pobj
+Oregon's Chinatown Chinatown appos
+Emslie Emslie ROOT
+R. R. conj
+Brooks Brooks conj
+M. M. conj
+African Rhino Rhino ROOT
+Status Survey Survey ROOT
+Conservation Action Plan Plan conj
+IUCN/SSC African Rhino Specialist Group Group ROOT
+IUCN IUCN conj
+Gland Gland conj
+Switzerland Switzerland conj
+Cambridge Cambridge conj
+UK UK appos
+-9.
+Rookmaaker Rookmaaker conj
+L. C. C. conj
+Review Review ROOT
+the European perception perception pobj
+the African rhinoceros rhinoceros pobj
+Journal Journal appos
+Zoology Zoology pobj
+Black rhinoceros rhinoceros ROOT
+Curlie
+Black Rhino Info & Black Rhino Pictures Pictures pobj
+the Rhino Resource Center website website pobj
+"Black Rhinoceros Rhinoceros ROOT
+" (PDF PDF appos
+Zoological Parks Board Board ROOT
+New South Wales Wales pobj
+the original (PDF PDF pobj
+28 September September pobj
+www.savetherhino.org
+WildLifeNow Website Website ROOT
+the Tony Fitzjohn/George Adamson African Wildlife Preservation Trust Trust pobj
+the Mkomazi Game Reserve Reserve dobj
+Mkomazi Rhino Sanctuary Sanctuary conj
+Tanzania Tanzania pobj
+U.S. Fish Fish pobj
+Wildlife Service Species Species conj
+Profile
+Sebakwe Black Rhino Trust Trust dobj
+black rhino conservation conservation pobj
+Zimbabwe
+
+A Radiolab interview interview pobj
+the man man pobj
+the auction auction dobj
+a black rhino rhino dobj
