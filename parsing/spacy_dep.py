@@ -1,7 +1,7 @@
 import spacy 
 import os 
 
-#testing moreeee
+#testing moreeee pt 3
 
 nlp = spacy.load("en_core_web_sm")
 dirname = os.path.dirname(__file__)
@@ -18,11 +18,13 @@ def fileread():
 			#for all nouns
 			for chunk in doc.noun_chunks:
 				#text itself
-				f.write(chunk.text+" ")
+				f.write("<np> "+chunk.text+", ")
 				#lemma
-				f.write(chunk.root.text+" ")
+				f.write("<np_root> "+chunk.root.text+", ")
 				#dependency
-				f.write(chunk.root.dep_)
+				f.write("<type> "+chunk.root.dep_+", ")
+				#head
+				f.write("<head> "+chunk.root.head.text+", ")
 				f.write("\n")
 			
 			f.close()
