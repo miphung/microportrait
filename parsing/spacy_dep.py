@@ -13,9 +13,13 @@ def fileread():
 			doc = nlp(orig.read())
 			f = open(filename+ "SpDepPar.txt", "w", encoding="utf8")
 			
+			#for all nouns
 			for chunk in doc.noun_chunks:
+				#text itself
 				f.write(chunk.text+" ")
+				#lemma
 				f.write(chunk.root.text+" ")
+				#dependency
 				f.write(chunk.root.dep_)
 				f.write("\n")
 			
