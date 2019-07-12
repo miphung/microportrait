@@ -18,7 +18,8 @@ def fileread():
 			for line in orig.read():
 				text += line 
 			#datetime.datetime.now() may just be datetime.now() depending on python version
-			NAF = spacy_to_naf.text_to_NAF(text,nlp,dct=datetime.datetime.now(), layers={'raw', 'text', 'terms', 'entities'})
+			NAF = spacy_to_naf.text_to_NAF(text,nlp,dct=datetime.datetime.now(), layers={'raw', 'text', 'terms', 'entities', 'deps', 'chunks'})
 			f.write(spacy_to_naf.NAF_to_string(NAF))
 			f.close()
 fileread()
+
