@@ -1,179 +1,924 @@
-The two African rhino species species nsubj
-number number pobj
-recent years years pobj
-successful conservation efforts efforts pobj
-South Africa Africa pobj
-the white rhino rhino nsubjpass
-the brink brink pobj
-extinction extinction pobj
-both species species nsubj
-risk risk pobj
-a huge surge surge pobj
-demand demand dobj
-illegal rhino horn horn pobj
-Asia Asia pobj
-Countries Countries nsubj
-conservationists conservationists conj
-their efforts efforts dobj
-record numbers numbers nsubjpass
-rhinos rhinos pobj
-Distribution Distribution ROOT
-Africa’s savannahs savannahs nsubj
-over a million black and white rhinos rhinos pobj
-relentless hunting hunting nsubj
-European settlers settlers pobj
-rhino numbers numbers nsubj
-distribution distribution conj
-Poaching Poaching nsubj
-the 1970s 1970s pobj
-1980s 1980s conj
-demand demand nsubj
-rhino horn horn pobj
-a prized ingredient ingredient appos
-traditional Asian medicines medicines pobj
-both species species dobj
-risk risk pobj
-vigorous conservation conservation pobj
-anti-poaching efforts efforts conj
-an international ban ban conj
-the trade trade pobj
-rhino horn horn pobj
-some African rhino populations populations nsubj
-the continent's remaining rhinos rhinos pobj
-just four countries countries pobj
-– South Africa Africa appos
-Namibia Namibia conj
-Zimbabwe Zimbabwe conj
-Kenya Kenya conj
-Very few African rhinos rhinos nsubj
-protected areas areas pobj
-sanctuaries sanctuaries conj
-poaching poaching nsubj
-the survival survival dobj
-some populations populations pobj
-Why rhinos matter matter ROOT
-Rhinos Rhinos nsubj
-millions millions pobj
-years years pobj
-a crucial role role dobj
-their ecosystem ecosystem pobj
-They’re important grazers grazers ROOT
-large amounts amounts dobj
-vegetation vegetation pobj
-the African landscape landscape dobj
-other animals animals dobj
-a healthy balance balance dobj
-the ecosystem ecosystem pobj
-Local people people nsubj
-the natural resources resources pobj
-rhino habitat habitat pobj
-food food pobj
-fuel fuel conj
-income income conj
-Africa’s ’s pobj
-rhinos rhinos nsubj
-a popular sight sight attr
-tourists tourists pobj
-Ecotourism Ecotourism nsubj
-an important source source attr
-income income pobj
-local people people pobj
-protect rhinos rhinos dobj
-we we nsubj
-their habitat habitat dobj
-the benefit benefit pobj
-people people pobj
-wildlife wildlife conj
-local communities communities dobj
-natural resources resources nsubj
-generations generations pobj
-Poaching Poaching ROOT
-The greatest threat threat nsubj
-African rhinos rhinos dobj
-the illegal trade trade pobj
-their horns horns pobj
-recent years years pobj
-The number number nsubj
-rhinos rhinos pobj
-South Africa Africa pobj
-9,000% % pobj
-a record record pobj
-Powdered horn horn nsubjpass
-traditional Asian medicine medicine pobj
-a supposed cure cure pobj
-a range range pobj
-illnesses illnesses pobj
-hangovers hangovers pobj
-fevers fevers pobj
-even cancer cancer conj
-the current surge surge nsubjpass
-demand demand pobj
-horn horn pobj
-Vietnam Vietnam pobj
-its use use pobj
-medicine medicine pobj
-rhino horn horn nsubjpass
-a symbol symbol pobj
-wealth wealth pobj
-Poaching gangs gangs nsubj
-increasingly sophisticated methods methods dobj
-helicopters helicopters pobj
-night vision equipment equipment conj
-track rhinos rhinos pobj
-veterinary drugs drugs conj
-them them dobj
-countries countries nsubj
-conservationists conservationists conj
-this level level dobj
-technology technology pobj
-the problem problem dobj
-demand demand dobj
-their names names pobj
-both the white rhino rhino nsubj
-black rhino rhino conj
-the same dark grey-brown colour colour attr
-It It nsubj
-’s ’s nsubj
-the name name nsubj
-a misinterpretation misinterpretation attr
-the Afrikaans word word pobj
-its square upper lip lip pobj
-Black rhinos rhinos nsubj
-lips lips dobj
-Both species species nsubj
-these armoured giants giants pobj
-large amounts amounts dobj
-food food pobj
-Black rhino rhino nsubj
-their prehensile upper lip lip pobj
-black rhinos rhinos nsubj
-the two African species species pobj
-They They nsubjpass
-sub-Saharan Africa Africa pobj
-the exception exception pobj
-the Congo Basin Basin pobj
-They They nsubjpass
-protected areas areas pobj
-the continent continent pobj
-About 96% % nsubjpass
-black rhinos rhinos pobj
-large-scale poaching poaching pobj
-effective conservation efforts efforts nsubj
-the total number number nsubj
-White rhinos rhinos nsubj
-black rhinos rhinos pobj
-a squared upper lip lip dobj
-almost no hair hair conj
-the species species nsubj
-the brunt brunt dobj
-the surge surge pobj
-poaching poaching pobj
-it it nsubj
-conservation’s greatest success stories stories pobj
-a population population nsubjpass
-South Africa Africa pobj
-more than a century century pobj
-protection protection pobj
-management management conj
-the species species nsubj
-Near Threatened Threatened pobj
+The det species NOUN [] 
+two nummod species NOUN [] 
+African amod species NOUN [] 
+rhino compound species NOUN [] 
+species nsubj increased VERB [The two African rhino – ] 
+– nmod rhino NOUN [] 
+black amod rhino NOUN [] 
+rhino nmod – PUNCT [– black and rhino ] 
+and cc rhino NOUN [] 
+white amod rhino NOUN [] 
+rhino conj rhino NOUN [white ] 
+– appos species NOUN [rhino ] 
+have aux increased VERB [] 
+both dep increased VERB [] 
+increased ROOT increased VERB [species have both in in thanks . ] 
+in prep increased VERB [number ] 
+number pobj in ADP [] 
+in prep increased VERB [years ] 
+recent amod years NOUN [] 
+years pobj in ADP [recent ] 
+thanks npadvmod increased VERB [to , in ] 
+to prep thanks NOUN [efforts ] 
+successful amod efforts NOUN [] 
+conservation compound efforts NOUN [] 
+efforts pobj to ADP [successful conservation ] 
+, punct thanks NOUN [] 
+especially advmod in ADP [] 
+in prep thanks NOUN [especially Africa ] 
+South compound Africa PROPN [] 
+Africa pobj in ADP [South ] 
+. punct increased VERB [] 
+Indeed advmod brought VERB [] 
+, punct brought VERB [] 
+the det rhino NOUN [] 
+white amod rhino NOUN [] 
+rhino nsubjpass brought VERB [the white ] 
+has aux brought VERB [] 
+been auxpass brought VERB [] 
+brought ROOT brought VERB [Indeed , rhino has been back . ] 
+back advmod brought VERB [from ] 
+from prep back ADV [brink ] 
+the det brink NOUN [] 
+brink pobj from ADP [the of ] 
+of prep brink NOUN [extinction ] 
+extinction pobj of ADP [] 
+. punct brought VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+However advmod are VERB [] 
+, punct are VERB [] 
+both det species NOUN [] 
+species nsubj are VERB [both ] 
+are ROOT are VERB [However , species again at due , in . ] 
+again advmod are VERB [] 
+at prep are VERB [risk ] 
+risk pobj at ADP [] 
+due prep are VERB [to surge ] 
+to pcomp due ADP [] 
+a det surge NOUN [] 
+huge amod surge NOUN [] 
+surge pobj due ADP [a huge in ] 
+in prep surge NOUN [poaching ] 
+poaching pcomp in ADP [meet ] 
+to aux meet VERB [] 
+meet xcomp poaching VERB [to demand ] 
+demand dobj meet VERB [for ] 
+for prep demand NOUN [horn ] 
+illegal amod horn NOUN [] 
+rhino compound horn NOUN [] 
+horn pobj for ADP [illegal rhino ] 
+, punct are VERB [] 
+primarily advmod in ADP [] 
+in prep are VERB [primarily Asia ] 
+Asia pobj in ADP [] 
+. punct are VERB [] 
+Countries nsubj stepping VERB [and conservationists ] 
+and cc Countries NOUN [] 
+conservationists conj Countries NOUN [] 
+are aux stepping VERB [] 
+stepping ROOT stepping VERB [Countries are up efforts killed ] 
+up prt stepping VERB [] 
+their poss efforts NOUN [] 
+efforts dobj stepping VERB [their but ] 
+but cc efforts NOUN [] 
+record compound numbers NOUN [] 
+numbers nsubjpass killed VERB [record of ] 
+of prep numbers NOUN [rhinos ] 
+rhinos pobj of ADP [] 
+are aux killed VERB [] 
+currently advmod killed VERB [] 
+being auxpass killed VERB [] 
+killed conj stepping VERB [numbers are currently being . ] 
+. punct killed VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Distribution ROOT Distribution PROPN [
+
+ ] 
+
+
+  Distribution PROPN [] 
+Just advmod ago ADV [] 
+150 nummod years NOUN [] 
+years npadvmod ago ADV [150 ] 
+ago advmod teemed VERB [Just years ] 
+, punct teemed VERB [] 
+Africa compound ’s PROPN [] 
+’s compound savannahs NOUN [Africa ] 
+savannahs nsubj teemed VERB [’s ] 
+teemed ROOT teemed VERB [ago , savannahs with . ] 
+with prep teemed VERB [rhinos ] 
+over quantmod million NUM [] 
+a quantmod million NUM [] 
+million nummod rhinos NOUN [over a ] 
+black amod rhinos NOUN [and white ] 
+and cc black ADJ [] 
+white conj black ADJ [] 
+rhinos pobj with ADP [million black ] 
+. punct teemed VERB [] 
+But cc saw VERB [] 
+relentless amod hunting NOUN [] 
+hunting nsubj saw VERB [relentless by ] 
+by prep hunting NOUN [settlers ] 
+European amod settlers NOUN [] 
+settlers pobj by ADP [European ] 
+saw ROOT saw VERB [But hunting decline . ] 
+rhino compound numbers NOUN [] 
+numbers nsubj decline VERB [rhino and distribution ] 
+and cc numbers NOUN [] 
+distribution conj numbers NOUN [] 
+quickly advmod decline VERB [] 
+decline ccomp saw VERB [numbers quickly ] 
+. punct saw VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Poaching nsubj escalated VERB [] 
+also advmod escalated VERB [] 
+escalated ROOT escalated VERB [Poaching also during grew . ] 
+during prep escalated VERB [1970s ] 
+the det 1970s NOUN [] 
+1970s pobj during ADP [the and 1980s ] 
+and cc 1970s NOUN [] 
+1980s conj 1970s NOUN [] 
+as mark grew VERB [] 
+demand nsubj grew VERB [] 
+grew advcl escalated VERB [as demand for ] 
+for prep grew VERB [horn ] 
+rhino amod horn NOUN [] 
+horn pobj for ADP [rhino , ingredient ] 
+, punct horn NOUN [] 
+a det ingredient NOUN [] 
+prized amod ingredient NOUN [] 
+ingredient appos horn NOUN [a prized in leaving ] 
+in prep ingredient NOUN [medicines ] 
+traditional amod medicines NOUN [] 
+Asian amod medicines NOUN [] 
+medicines pobj in ADP [traditional Asian ] 
+- punct leaving VERB [] 
+leaving acl ingredient NOUN [- species at ] 
+both det species NOUN [] 
+species dobj leaving VERB [both ] 
+at prep leaving VERB [risk ] 
+risk pobj at ADP [] 
+. punct escalated VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Thanks npadvmod are VERB [to ] 
+to prep Thanks NOUN [conservation ] 
+vigorous amod conservation NOUN [] 
+conservation pobj to ADP [vigorous and efforts and ban ] 
+and cc conservation NOUN [] 
+anti subtok - ADJ [] 
+- subtok poaching VERB [anti ] 
+poaching amod efforts NOUN [- ] 
+efforts conj conservation NOUN [poaching ] 
+and cc conservation NOUN [] 
+an det ban NOUN [] 
+international amod ban NOUN [] 
+ban conj conservation NOUN [an international on in ] 
+on prep ban NOUN [trade ] 
+the det trade NOUN [] 
+trade pobj on ADP [the ] 
+in prep ban NOUN [horn ] 
+rhino amod horn NOUN [] 
+horn pobj in ADP [rhino ] 
+, punct are VERB [] 
+some det populations NOUN [] 
+African amod populations NOUN [] 
+rhino compound populations NOUN [] 
+populations nsubj are VERB [some African rhino ] 
+are ROOT are VERB [Thanks , populations now stable . ] 
+now advmod are VERB [] 
+stable acomp are VERB [or increasing ] 
+or cc stable ADJ [] 
+increasing conj stable ADJ [] 
+. punct are VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+However advmod found VERB [] 
+, punct found VERB [] 
+most nsubjpass found VERB [of ] 
+of prep most ADJ [rhinos ] 
+the det continent NOUN [] 
+continent poss rhinos NOUN [the 's ] 
+'s case continent NOUN [] 
+remaining amod rhinos NOUN [] 
+rhinos pobj of ADP [continent remaining ] 
+are auxpass found VERB [] 
+found ROOT found VERB [However , most are in . ] 
+in prep found VERB [countries ] 
+just advmod four NUM [] 
+four nummod countries NOUN [just ] 
+countries pobj in ADP [four Africa ] 
+– compound Africa PROPN [] 
+South compound Africa PROPN [] 
+Africa appos countries NOUN [– South , Namibia ] 
+, punct Africa PROPN [] 
+Namibia conj Africa PROPN [, Zimbabwe ] 
+, punct Namibia PROPN [] 
+Zimbabwe conj Namibia PROPN [and Kenya ] 
+and cc Zimbabwe PROPN [] 
+Kenya conj Zimbabwe PROPN [] 
+. punct found VERB [] 
+Very advmod few ADJ [] 
+few amod rhinos NOUN [Very ] 
+African amod rhinos NOUN [] 
+rhinos nsubj survive VERB [few African ] 
+now advmod survive VERB [] 
+survive ROOT survive VERB [rhinos now outside . ] 
+outside advmod survive VERB [of ] 
+of prep outside ADP [areas ] 
+protected amod areas NOUN [] 
+areas pobj of ADP [protected and sanctuaries ] 
+and cc areas NOUN [] 
+sanctuaries conj areas NOUN [] 
+. punct survive VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+And cc threatening VERB [] 
+poaching nsubj threatening VERB [] 
+is aux threatening VERB [] 
+again advmod threatening VERB [] 
+threatening ROOT threatening VERB [And poaching is again survival . ] 
+the det survival NOUN [] 
+survival dobj threatening VERB [the of ] 
+of prep survival NOUN [populations ] 
+some det populations NOUN [] 
+populations pobj of ADP [some ] 
+. punct threatening VERB [
+ 
+ ] 
+
+ 
+  . PUNCT [] 
+Why advmod matter NOUN [] 
+rhinos compound matter NOUN [] 
+matter ROOT matter NOUN [Why rhinos 
+ ] 
+
+  matter NOUN [] 
+Rhinos nsubj been VERB [] 
+have aux been VERB [] 
+been ROOT been VERB [Rhinos have around for and play . ] 
+around advmod been VERB [] 
+for prep been VERB [millions ] 
+millions pobj for ADP [of ] 
+of prep millions NOUN [years ] 
+years pobj of ADP [] 
+and cc been VERB [] 
+play conj been VERB [role in ] 
+a det role NOUN [] 
+crucial amod role NOUN [] 
+role dobj play VERB [a crucial ] 
+in prep play VERB [ecosystem ] 
+their poss ecosystem NOUN [] 
+ecosystem pobj in ADP [their ] 
+. punct been VERB [] 
+They nmod grazers NOUN [] 
+’re advmod important ADJ [] 
+important amod grazers NOUN [’re ] 
+grazers ROOT grazers NOUN [They important , consuming . ] 
+, punct grazers NOUN [] 
+consuming acl grazers NOUN [amounts ] 
+large amod amounts NOUN [] 
+amounts dobj consuming VERB [large of , helps ] 
+of prep amounts NOUN [vegetation ] 
+vegetation pobj of ADP [] 
+, punct amounts NOUN [] 
+which nsubj helps VERB [] 
+helps relcl amounts NOUN [which shape ] 
+shape xcomp helps VERB [landscape ] 
+the det landscape NOUN [] 
+African amod landscape NOUN [] 
+landscape dobj shape VERB [the African ] 
+. punct grazers NOUN [] 
+This nsubj benefits VERB [] 
+benefits ROOT benefits VERB [This animals and keeps . ] 
+other amod animals NOUN [] 
+animals dobj benefits VERB [other ] 
+and cc benefits VERB [] 
+keeps conj benefits VERB [balance within ] 
+a det balance NOUN [] 
+healthy amod balance NOUN [] 
+balance dobj keeps VERB [a healthy ] 
+within prep keeps VERB [ecosystem ] 
+the det ecosystem NOUN [] 
+ecosystem pobj within ADP [the ] 
+. punct benefits VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Local amod people NOUN [] 
+people nsubj depend VERB [Local ] 
+also advmod depend VERB [] 
+depend ROOT depend VERB [people also on within . ] 
+on prep depend VERB [resources ] 
+the det resources NOUN [] 
+natural amod resources NOUN [] 
+resources pobj on ADP [the natural ] 
+within prep depend VERB [habitat ] 
+rhino amod habitat NOUN [] 
+habitat pobj within ADP [rhino for ] 
+for prep habitat NOUN [food ] 
+food pobj for ADP [, fuel ] 
+, punct food NOUN [] 
+fuel conj food NOUN [and income ] 
+and cc fuel NOUN [] 
+income conj fuel NOUN [] 
+. punct depend VERB [] 
+As ROOT As ADP [one ] 
+one pobj As ADP [of ] 
+of prep one NUM [’s ] 
+Africa compound ’s PROPN [] 
+’s pobj of ADP [Africa ] 
+‘ punct ’ NUM [] 
+big amod ’ NUM [] 
+five nummod ’ NUM [] 
+’ npadvmod are VERB [‘ big five ] 
+, punct are VERB [] 
+rhinos nsubj are VERB [] 
+are ROOT are VERB [’ , rhinos sight . ] 
+a det sight NOUN [] 
+popular amod sight NOUN [] 
+sight attr are VERB [a popular for ] 
+for prep sight NOUN [tourists ] 
+tourists pobj for ADP [] 
+. punct are VERB [] 
+Ecotourism nsubj be VERB [] 
+can aux be VERB [] 
+be ROOT be VERB [Ecotourism can source . ] 
+an det source NOUN [] 
+important amod source NOUN [] 
+source attr be VERB [an important of for ] 
+of prep source NOUN [income ] 
+income pobj of ADP [] 
+for prep source NOUN [people ] 
+local amod people NOUN [] 
+people pobj for ADP [local ] 
+. punct be VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+By prep helping VERB [helping ] 
+helping pcomp By ADP [rhinos ] 
+protect compound rhinos NOUN [] 
+rhinos dobj helping VERB [protect ] 
+, punct helping VERB [] 
+we nsubj helping VERB [’re ] 
+’re advmod we PRON [] 
+helping ROOT helping VERB [By , we conserve . ] 
+to aux conserve VERB [] 
+conserve xcomp helping VERB [to habitat , helping ] 
+their poss habitat NOUN [] 
+habitat dobj conserve VERB [their for ] 
+for prep habitat NOUN [benefit ] 
+the det benefit NOUN [] 
+benefit pobj for ADP [the of ] 
+of prep benefit NOUN [people ] 
+people pobj of ADP [and wildlife ] 
+and cc people NOUN [] 
+wildlife conj people NOUN [] 
+, punct conserve VERB [] 
+helping advcl conserve VERB [support and making ] 
+support xcomp helping VERB [communities ] 
+local amod communities NOUN [] 
+communities dobj support VERB [local ] 
+and cc helping VERB [] 
+making conj helping VERB [sure are ] 
+sure acomp making VERB [] 
+natural amod resources NOUN [] 
+resources nsubj are VERB [natural ] 
+are ccomp making VERB [resources available ] 
+available acomp are VERB [for ] 
+for prep available ADJ [generations ] 
+generations pobj for ADP [come ] 
+to aux come VERB [] 
+come relcl generations NOUN [to ] 
+. punct helping VERB [
+ 
+ ] 
+
+ 
+  . PUNCT [] 
+Poaching ROOT Poaching NOUN [
+ ] 
+
+  Poaching NOUN [] 
+The det threat NOUN [] 
+greatest amod threat NOUN [] 
+threat nsubj poaching VERB [The greatest facing ] 
+facing acl threat NOUN [rhinos ] 
+African amod rhinos NOUN [] 
+rhinos dobj facing VERB [African ] 
+is aux poaching VERB [] 
+poaching ROOT poaching VERB [threat is for . ] 
+for prep poaching VERB [trade ] 
+the det trade NOUN [] 
+illegal amod trade NOUN [] 
+trade pobj for ADP [the illegal in soared ] 
+in prep trade NOUN [horns ] 
+their poss horns NOUN [] 
+horns pobj in ADP [their , ] 
+, punct horns NOUN [] 
+which nsubj soared VERB [] 
+has aux soared VERB [] 
+soared relcl trade NOUN [which has in ] 
+in prep soared VERB [years ] 
+recent amod years NOUN [] 
+years pobj in ADP [recent ] 
+. punct poaching VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+The det number NOUN [] 
+number nsubj increased VERB [The of ] 
+of prep number NOUN [rhinos ] 
+rhinos pobj of ADP [poached ] 
+poached acl rhinos NOUN [in alone ] 
+in prep poached VERB [Africa ] 
+South compound Africa PROPN [] 
+Africa pobj in ADP [South ] 
+alone advmod poached VERB [] 
+has aux increased VERB [] 
+increased ROOT increased VERB [number has by since - from . ] 
+by prep increased VERB [% ] 
+9,000 nummod % NOUN [] 
+% pobj by ADP [9,000 ] 
+since prep increased VERB [2007 ] 
+2007 pobj since ADP [] 
+- punct increased VERB [] 
+from prep increased VERB [13 to in ] 
+13 pobj from ADP [] 
+to prep from ADP [record ] 
+a det record NOUN [] 
+record pobj to ADP [a 1,215 ] 
+1,215 nummod record NOUN [] 
+in prep from ADP [2014 ] 
+2014 pobj in ADP [] 
+. punct increased VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Powdered compound horn NOUN [] 
+horn nsubjpass used VERB [Powdered ] 
+is auxpass used VERB [] 
+used ROOT used VERB [horn is in as – from . ] 
+in prep used VERB [medicine ] 
+traditional amod medicine NOUN [] 
+Asian amod medicine NOUN [] 
+medicine pobj in ADP [traditional Asian ] 
+as prep used VERB [cure ] 
+a det cure NOUN [] 
+supposed amod cure NOUN [] 
+cure pobj as ADP [a supposed for ] 
+for prep cure NOUN [range ] 
+a det range NOUN [] 
+range pobj for ADP [a of ] 
+of prep range NOUN [illnesses ] 
+illnesses pobj of ADP [] 
+– punct used VERB [] 
+from prep used VERB [hangovers to ] 
+hangovers pobj from ADP [] 
+to prep from ADP [fevers ] 
+fevers pobj to ADP [and cancer ] 
+and cc fevers NOUN [] 
+even advmod cancer NOUN [] 
+cancer conj fevers NOUN [even ] 
+. punct used VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+But cc driven VERB [] 
+the det surge NOUN [] 
+current amod surge NOUN [] 
+surge nsubjpass driven VERB [the current ] 
+has aux driven VERB [] 
+been auxpass driven VERB [] 
+primarily advmod driven VERB [] 
+driven ROOT driven VERB [But surge has been primarily by . ] 
+by agent driven VERB [demand ] 
+demand pobj by ADP [for in ] 
+for prep demand NOUN [horn ] 
+horn pobj for ADP [] 
+in prep demand NOUN [Vietnam ] 
+Vietnam pobj in ADP [] 
+. punct driven VERB [] 
+As advmod well ADV [] 
+well advmod as ADP [As ] 
+as prep bought VERB [well use ] 
+its poss use NOUN [] 
+use pobj as ADP [its in ] 
+in prep use NOUN [medicine ] 
+medicine pobj in ADP [] 
+, punct bought VERB [] 
+rhino amod horn NOUN [] 
+horn nsubjpass bought VERB [rhino ] 
+is auxpass bought VERB [] 
+bought ROOT bought VERB [as , horn is and consumed . ] 
+and cc bought VERB [] 
+consumed conj bought VERB [as ] 
+purely advmod as ADP [] 
+as prep consumed VERB [purely symbol ] 
+a det symbol NOUN [] 
+symbol pobj as ADP [a of ] 
+of prep symbol NOUN [wealth ] 
+wealth pobj of ADP [] 
+. punct bought VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Poaching compound gangs NOUN [] 
+gangs nsubj use VERB [Poaching ] 
+use ROOT use VERB [gangs methods knock . ] 
+increasingly advmod sophisticated ADJ [] 
+sophisticated amod methods NOUN [increasingly ] 
+methods dobj use VERB [sophisticated , including , and drugs ] 
+, punct methods NOUN [] 
+including prep methods NOUN [helicopters to ] 
+helicopters pobj including VERB [and equipment ] 
+and cc helicopters NOUN [] 
+night compound vision NOUN [] 
+vision compound equipment NOUN [night ] 
+equipment conj helicopters NOUN [vision ] 
+to prep including VERB [rhinos ] 
+track compound rhinos NOUN [] 
+rhinos pobj to PART [track ] 
+, punct methods NOUN [] 
+and cc methods NOUN [] 
+veterinary amod drugs NOUN [] 
+drugs conj methods NOUN [veterinary ] 
+to aux knock VERB [] 
+knock xcomp use VERB [to them out ] 
+them dobj knock VERB [] 
+out prt knock VERB [] 
+. punct use VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+This nsubj means VERB [] 
+means ROOT means VERB [This need . ] 
+countries nsubj need VERB [and conservationists ] 
+and cc countries NOUN [] 
+conservationists conj countries NOUN [] 
+need ccomp means VERB [countries match ] 
+to aux match VERB [] 
+match xcomp need VERB [to level be , alongside ] 
+this det level NOUN [] 
+level dobj match VERB [this of ] 
+of prep level NOUN [technology ] 
+technology pobj of ADP [] 
+to aux be VERB [] 
+be advcl match VERB [to able ] 
+able acomp be VERB [tackle ] 
+to aux tackle VERB [] 
+tackle xcomp able ADJ [to problem ] 
+the det problem NOUN [] 
+problem dobj tackle VERB [the ] 
+, punct match VERB [] 
+alongside prep match VERB [working ] 
+working pcomp alongside ADP [reduce ] 
+to aux reduce VERB [] 
+reduce advcl working VERB [to demand ] 
+demand dobj reduce VERB [] 
+. punct means VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Despite prep are VERB [names ] 
+their poss names NOUN [] 
+names pobj Despite ADP [their ] 
+, punct are VERB [] 
+both preconj rhino NOUN [] 
+the det rhino NOUN [] 
+white amod rhino NOUN [] 
+rhino nsubj are VERB [both the white and rhino ] 
+and cc rhino NOUN [] 
+black amod rhino NOUN [] 
+rhino conj rhino NOUN [black ] 
+are ROOT are VERB [Despite , rhino colour . ] 
+the det colour NOUN [] 
+same amod colour NOUN [] 
+dark amod colour NOUN [] 
+grey npadvmod brown ADJ [] 
+- punct brown ADJ [] 
+brown amod colour NOUN [grey - ] 
+colour attr are VERB [the same dark brown ] 
+. punct are VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+It nsubj thought VERB [] 
+’s nsubj thought VERB [] 
+thought ROOT thought VERB [It ’s is . ] 
+that mark is VERB [] 
+the det name NOUN [] 
+name nsubj is VERB [the ‘ ’ ] 
+‘ appos name NOUN [] 
+white amod ’ PUNCT [] 
+rhino compound ’ PUNCT [] 
+’ appos name NOUN [white rhino ] 
+is ccomp thought VERB [that name misinterpretation , referring ] 
+a det misinterpretation NOUN [] 
+misinterpretation attr is VERB [a of ] 
+of prep misinterpretation NOUN [word ] 
+the det word NOUN [] 
+Afrikaans compound word NOUN [] 
+word pobj of ADP [the Afrikaans ‘ ’ ] 
+‘ appos word NOUN [] 
+wyd compound ’ X [] 
+’ appos word NOUN [wyd ] 
+, punct is VERB [] 
+referring advcl is VERB [to ] 
+to prep referring VERB [lip ] 
+its poss lip NOUN [] 
+square amod lip NOUN [] 
+upper amod lip NOUN [] 
+lip pobj to ADP [its square upper ] 
+. punct thought VERB [] 
+Black amod rhinos NOUN [] 
+rhinos nsubj hooked VERB [Black ] 
+have aux hooked VERB [] 
+hooked ROOT hooked VERB [rhinos have lips . ] 
+lips dobj hooked VERB [] 
+. punct hooked VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Both det species NOUN [] 
+species nsubj are VERB [Both of ] 
+of prep species NOUN [giants ] 
+these det giants NOUN [] 
+armoured amod giants NOUN [] 
+giants pobj of ADP [these armoured ] 
+are ROOT are VERB [species vegetarian and need . ] 
+vegetarian acomp are VERB [] 
+and cc are VERB [] 
+need conj are VERB [eat ] 
+to aux eat VERB [] 
+eat xcomp need VERB [to amounts day ] 
+large amod amounts NOUN [] 
+amounts dobj eat VERB [large of ] 
+of prep amounts NOUN [food ] 
+food pobj of ADP [] 
+every det day NOUN [] 
+day npadvmod eat VERB [every ] 
+. punct are VERB [
+ 
+ ] 
+
+ 
+  . PUNCT [] 
+Black amod rhino NOUN [] 
+rhino nsubj called VERB [Black 
+ ] 
+
+  rhino NOUN [] 
+Also advmod called VERB [] 
+called ccomp are VERB [rhino Also rhino due ] 
+the det rhino NOUN [] 
+hook npadvmod lipped ADJ [] 
+- punct lipped ADJ [] 
+lipped amod rhino NOUN [hook - ] 
+rhino oprd called VERB [the lipped ] 
+due prep called VERB [to lip ] 
+to pcomp due ADP [] 
+their poss lip NOUN [] 
+prehensile amod upper ADJ [] 
+upper amod lip NOUN [prehensile ] 
+lip pobj due ADP [their upper ] 
+, punct are VERB [] 
+black amod rhinos NOUN [] 
+rhinos nsubj are VERB [black ] 
+are ROOT are VERB [called , rhinos smaller . ] 
+the det smaller ADJ [] 
+smaller attr are VERB [the of ] 
+of prep smaller ADJ [species ] 
+the det species NOUN [] 
+two nummod species NOUN [] 
+African amod species NOUN [] 
+species pobj of ADP [the two African ] 
+. punct are VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+They nsubjpass found VERB [] 
+were auxpass found VERB [] 
+once advmod found VERB [] 
+found ROOT found VERB [They were once throughout , with . ] 
+throughout prep found VERB [Africa ] 
+sub compound Saharan PROPN [] 
+- punct Saharan PROPN [] 
+Saharan compound Africa PROPN [sub - ] 
+Africa pobj throughout ADP [Saharan ] 
+, punct found VERB [] 
+with prep found VERB [exception ] 
+the det exception NOUN [] 
+exception pobj with ADP [the of ] 
+of prep exception NOUN [Basin ] 
+the det Basin PROPN [] 
+Congo compound Basin PROPN [] 
+Basin pobj of ADP [the Congo ] 
+. punct found VERB [] 
+They nsubjpass limited ADJ [] 
+are auxpass limited ADJ [] 
+now advmod limited ADJ [] 
+limited ROOT limited ADJ [They are now to . ] 
+to prep limited ADJ [areas ] 
+protected amod areas NOUN [] 
+areas pobj to ADP [protected in ] 
+in prep areas NOUN [east and south ] 
+the det east ADJ [] 
+east pobj in ADP [the ] 
+and cc in ADP [] 
+south conj in ADP [of ] 
+of prep south NOUN [continent ] 
+the det continent NOUN [] 
+continent pobj of ADP [the ] 
+. punct limited ADJ [
+
+ ] 
+
+
+  . PUNCT [] 
+About quantmod 96 NUM [] 
+96 nummod % NOUN [About ] 
+% nsubjpass lost VERB [96 of ] 
+of prep % NOUN [rhinos ] 
+black amod rhinos NOUN [] 
+rhinos pobj of ADP [black ] 
+were auxpass lost VERB [] 
+lost ROOT lost VERB [% were to . ] 
+to prep lost VERB [poaching ] 
+large amod scale NOUN [] 
+- punct scale NOUN [] 
+scale compound poaching NOUN [large - ] 
+poaching pobj to ADP [scale between ] 
+between prep poaching NOUN [1970 ] 
+1970 pobj between ADP [and 1992 ] 
+and cc 1970 NUM [] 
+1992 conj 1970 NUM [] 
+. punct lost VERB [] 
+But cc seen VERB [] 
+effective amod efforts NOUN [] 
+conservation compound efforts NOUN [] 
+efforts nsubj seen VERB [effective conservation ] 
+have aux seen VERB [] 
+seen ROOT seen VERB [But efforts have grow . ] 
+the det number NOUN [] 
+total amod number NOUN [] 
+number nsubj grow VERB [the total ] 
+grow ccomp seen VERB [number from to ] 
+from prep grow VERB [2,600 in ] 
+2,600 pobj from ADP [] 
+in prep from ADP [1997 ] 
+1997 pobj in ADP [] 
+to prep grow VERB [5,000 today ] 
+over quantmod 5,000 NUM [] 
+5,000 pobj to ADP [over ] 
+today npadvmod to ADP [] 
+. punct seen VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+White compound rhinos NOUN [] 
+rhinos nsubj are VERB [White ] 
+are ROOT are VERB [rhinos bigger and have . ] 
+bigger acomp are VERB [than ] 
+than prep bigger ADJ [rhinos ] 
+black amod rhinos NOUN [] 
+rhinos pobj than ADP [black ] 
+and cc are VERB [] 
+have conj are VERB [lip ] 
+a det lip NOUN [] 
+squared amod lip NOUN [] 
+upper amod lip NOUN [] 
+lip dobj have VERB [a squared upper and hair ] 
+and cc lip NOUN [] 
+almost advmod no DET [] 
+no det hair NOUN [almost ] 
+hair conj lip NOUN [no ] 
+. punct are VERB [] 
+While mark bearing VERB [] 
+the det species NOUN [] 
+species nsubj bearing VERB [the ] 
+is aux bearing VERB [] 
+bearing advcl is VERB [While species is brunt ] 
+the det brunt NOUN [] 
+brunt dobj bearing VERB [the of ] 
+of prep brunt NOUN [surge ] 
+the det surge NOUN [] 
+surge pobj of ADP [the in ] 
+in prep surge NOUN [poaching ] 
+poaching pobj in ADP [] 
+, punct is VERB [] 
+it nsubj is VERB [] 
+is ROOT is VERB [bearing , it one . ] 
+one attr is VERB [of ] 
+of prep one NUM [stories ] 
+conservation compound ’s PROPN [] 
+’s nmod stories NOUN [conservation ] 
+greatest amod stories NOUN [] 
+success compound stories NOUN [] 
+stories pobj of ADP [’s greatest success ] 
+. punct is VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Once advmod thought VERB [] 
+thought advcl found VERB [Once be , ] 
+to aux be VERB [] 
+be xcomp thought VERB [to extinct ] 
+extinct acomp be VERB [] 
+, punct thought VERB [] 
+a det population NOUN [] 
+population nsubjpass found VERB [a of ] 
+of prep population NOUN [100 ] 
+less amod 100 NUM [] 
+than quantmod 100 NUM [] 
+100 pobj of ADP [less than ] 
+was auxpass found VERB [] 
+found ROOT found VERB [thought population was in in . ] 
+in prep found VERB [1895 ] 
+1895 pobj in ADP [] 
+in prep found VERB [Africa ] 
+South compound Africa PROPN [] 
+Africa pobj in ADP [South ] 
+. punct found VERB [] 
+After prep numbers VERB [century ] 
+more amod a DET [] 
+than quantmod a DET [] 
+a det century NOUN [more than ] 
+century pobj After ADP [a of ] 
+of prep century NOUN [protection ] 
+protection pobj of ADP [and management ] 
+and cc protection NOUN [] 
+management conj protection NOUN [] 
+, punct numbers VERB [] 
+the det species NOUN [] 
+species nsubj numbers VERB [the ] 
+now advmod numbers VERB [] 
+numbers ROOT numbers VERB [After , species now over and reclassified . ] 
+over prep numbers VERB [20,000 ] 
+20,000 pobj over ADP [] 
+and cc numbers VERB [] 
+has aux reclassified VERB [] 
+been auxpass reclassified VERB [] 
+reclassified conj numbers VERB [has been as ] 
+as prep reclassified VERB [Threatened ] 
+Near compound Threatened PROPN [] 
+Threatened pobj as ADP [Near ] 
+. punct numbers VERB [
+
+
+
+ ] 
+
+
+
+
+  . PUNCT [] 

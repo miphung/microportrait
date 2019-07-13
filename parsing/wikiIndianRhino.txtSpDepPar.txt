@@ -1,983 +1,5147 @@
-The Indian rhinoceros rhinoceros nsubj
-Rhinoceros Rhinoceros nsubj
-the Indian subcontinent subcontinent pobj
-It It nsubjpass
-Vulnerable Vulnerable pobj
-the IUCN Red List List pobj
-populations populations nsubjpass
-less than 20,000 km2 km2 pobj
-7,700 sq mi mi appos
-the extent extent nsubjpass
-quality quality conj
-the rhino's most important habitat habitat pobj
-alluvial grassland grassland conj
-riverine forest forest conj
-decline decline pobj
-human and livestock encroachment encroachment pobj
-a total total nsubjpass
-2,575 mature individuals individuals pobj
-the wild wild pobj
-The Indian rhinoceros rhinoceros nsubj
-the entire stretch stretch pobj
-the Indo-Gangetic Plain Plain pobj
-excessive hunting hunting nsubj
-agricultural development development nsubj
-their range range dobj
-11 sites sites pobj
-northern India India pobj
-southern Nepal Nepal conj
-the early 1990s 1990s pobj
-between 1,870 and 1,895 rhinos rhinos nsubjpass
-Carl Linnaeus Linnaeus nsubj
-a rhinoceros rhinoceros dobj
-one horn horn pobj
-the name name pobj
-Rhinoceros Rhinoceros nsubj
-type locality locality pobj
-he he nsubj
-Africa Africa dobj
-India India conj
-The one-horned rhinoceros rhinoceros nsubj
-Several specimens specimens nsubjpass
-the end end pobj
-the 18th century century pobj
-different scientific names names pobj
-Rhinoceros unicornis unicornis pobj
-R. indicus indicus appos
-Cuvier Cuvier pobj
-R. asiaticus asiaticus pobj
-Blumenbach Blumenbach pobj
-R. stenocephalus stenocephalus appos
-Gray Gray pobj
-R. jamrachi jamrachi conj
-Sclatter Sclatter pobj
-R. bengalensis bengalensis appos
-Kourist Kourist pobj
-The modern scientific designation designation nsubjpass
-Rhinoceros unicornis unicornis nsubjpass
-the Greek ῥινόκερως ῥινόκερως pobj
-ῥίς rhís rhís pobj
-nose nose appos
-κέρας kéras kéras appos
-horn horn appos
-an animal animal pobj
-horn horn dobj
-Ancestral rhinoceroses rhinoceroses nsubj
-other perissodactyls perissodactyls pobj
-the Early Eocene Eocene pobj
-Mitochondrial DNA comparison comparison nsubj
-the ancestors ancestors nsubj
-modern rhinos rhinos pobj
-the ancestors ancestors pobj
-Equidae Equidae pobj
-The extant family family nsubj
-the Rhinocerotidae Rhinocerotidae appos
-the Late Eocene Eocene pobj
-Eurasia Eurasia pobj
-the ancestors ancestors nsubj
-the extant rhino species species pobj
-Asia Asia pobj
-the Miocene Miocene pobj
-Fossils Fossils nsubj
-R. unicornis unicornis pobj
-the Middle Pleistocene Pleistocene pobj
-the Pleistocene Pleistocene pobj
-Rhinoceros Rhinoceros nsubj
-South and Southeast Asia Asia pobj
-specimens specimens pobj
-Sri Lanka Lanka pobj
-the Holocene Holocene pobj
-some rhinoceros rhinoceros nsubj
-Gujarat Gujarat pobj
-Pakistan Pakistan conj
-The Indian and Javan rhinoceroses rhinoceroses nsubj
-the only members members appos
-Rhinoceros Rhinoceros appos
-the fossil record record pobj
-Asia Asia pobj
-Molecular estimates estimates nsubj
-the species species nsubj
-the type genus genus pobj
-the Indian and Javan rhinoceroses rhinoceroses nsubjpass
-other rhino species species pobj
-Different studies studies nsubj
-they they nsubjpass
-the extinct Gaindatherium Gaindatherium pobj
-Punjabitherium Punjabitherium conj
-A detailed cladistic analysis analysis nsubj
-the Rhinocerotidae Rhinocerotidae pobj
-Rhinoceros Rhinoceros dobj
-the extinct Punjabitherium Punjabitherium conj
-a clade clade pobj
-Dicerorhinus Dicerorhinus pobj
-the Sumatran rhinoceros rhinoceros appos
-Other studies studies nsubj
-the Sumatran rhinoceros rhinoceros nsubj
-the two African species species pobj
-The Sumatran rhino rhino nsubj
-the other Asian rhinos rhinos pobj
-The Indian rhinoceros rhinoceros nsubj
-a thick grey-brown skin skin dobj
-pinkish skin folds folds pobj
-a black horn horn conj
-Its upper legs legs nsubjpass
-shoulders shoulders conj
-wart-like bumps bumps pobj
-It It nsubj
-very little body hair hair dobj
-eyelashes eyelashes pobj
-ear fringes fringes conj
-tail brush brush conj
-Males Males nsubj
-huge neck folds folds dobj
-Its skull skull nsubj
-a basal length length pobj
-60 cm cm pobj
-an occiput occiput conj
-19 cm cm pobj
-Its nasal horn horn nsubj
-a base base pobj
-about 18.5 cm cm pobj
-12 cm cm pobj
-a smooth, even stem part part nsubj
-about 55 mm mm dobj
-base base pobj
-captive animals animals pobj
-the horn horn nsubjpass
-a thick knob knob pobj
-The rhino's single horn horn nsubj
-both males males pobj
-females females conj
-The black horn horn nsubj
-pure keratin keratin attr
-human fingernails fingernails pobj
-about six years years pobj
-most adults adults pobj
-the horn horn nsubj
-a length length dobj
-about 25 cm cm pobj
-up to 36 cm cm dobj
-length length pobj
-weight 3.051 kg kg conj
-6.73 lb).Among terrestrial land mammals mammals appos
-Asia Asia pobj
-the Indian rhinoceros rhinoceros nsubj
-size size pobj
-the Asian elephant elephant pobj
-It It nsubj
-the second-largest living rhinoceros rhinoceros attr
-only the white rhinoceros rhinoceros pobj
-Males Males nsubj
-a head and body length length dobj
-368–380 cm cm pobj
-12.07–12.47 ft ft appos
-a shoulder height height pobj
-170–186 cm cm pobj
-females females nsubj
-a head and body length length dobj
-310–340 cm cm pobj
-a shoulder height height conj
-148–173 cm cm pobj
-The male male nsubj
-about 2,200 kg kg dobj
-4,850 lb lb appos
-the female female pobj
-an average average pobj
-about 1,600 kg kg pobj
-3,530 lb).The rich presence presence appos
-blood vessels vessels pobj
-the tissues tissues pobj
-folds folds pobj
-it it dative
-the pinkish colour colour dobj
-The folds folds nsubj
-the skin skin pobj
-the surface area area dobj
-the body temperature temperature dobj
-The thick skin skin nsubj
-Tabanus flies flies dobj
-leeches leeches conj
-ticks ticks conj
-The largest sized specimens specimens nsubj
-up to 4,000 kg kg dobj
-The one-horned rhinoceros rhinoceros nsubj
-the entire northern part part pobj
-the Indian Subcontinent Subcontinent pobj
-the Indus, Ganges and Brahmaputra River basins basins pobj
-Pakistan Pakistan pobj
-the Indian-Myanmar border border pobj
-Bangladesh Bangladesh pobj
-the southern parts parts conj
-Nepal Nepal pobj
-Bhutan Bhutan conj
-It It nsubj
-Myanmar Myanmar pobj
-southern China China conj
-Indochina Indochina conj
-It It nsubj
-the alluvial grasslands grasslands dobj
-the Terai Terai pobj
-the Brahmaputra basin basin conj
-a result result pobj
-habitat destruction destruction pobj
-climatic changes changes conj
-its range range nsubjpass
-the 19th century century pobj
-it it nsubj
-the Terai grasslands grasslands pobj
-southern Nepal Nepal pobj
-northern Uttar Pradesh Pradesh conj
-northern Bihar Bihar conj
-northern West Bengal Bengal conj
-the Brahmaputra Valley Valley pobj
-Assam Assam pobj
-The species species nsubj
-northern Bihar Bihar pobj
-Oudh Oudh conj
-maps maps pobj
-Colonel Gentil Gentil pobj
-the former abundance abundance pobj
-the species species pobj
-Thomas C. Jerdon Jerdon nsubj
-This huge rhinoceros rhinoceros nsubjpass
-the Terai Terai pobj
-the foot foot pobj
-the Himalayas Himalayas pobj
-Bhutan Bhutan pobj
-Nepal Nepal pobj
-It It nsubj
-the eastern portion portion pobj
-the Terai Terai pobj
-the west west pobj
-Assam Assam pobj
-the Bhutan Dooars Dooars conj
-I I nsubj
-sportsmen sportsmen pobj
-its occurrence occurrence pobj
-Rohilcund Rohilcund pobj
-it it nsubj
-the greater part part pobj
-the Nepal Terai Terai pobj
-...
-Jelpigoree Jelpigoree nsubj
-a small military station station appos
-the Teesta River River pobj
-a favourite locality whence whence attr
-the Rhinoceros Rhinoceros dobj
-it it nsubj
-that station station pobj
-Captain Fortescue Fortescue appos
-his skulls skulls dobj
-Mr. Blyth Blyth nsubj
-this species species pobj
-its range range nsubj
-a few pockets pockets pobj
-southern Nepal Nepal pobj
-northern West Bengal Bengal conj
-the Brahmaputra Valley Valley conj
-the 1980s 1980s pobj
-rhinos rhinos nsubjpass
-the narrow plain area area pobj
-Royal Manas National Park Park pobj
-Bhutan Bhutan pobj
-they they nsubjpass
-habitats habitats pobj
-human-dominated landscapes landscapes pobj
-they they nsubj
-adjacent cultivated areas areas pobj
-pastures pastures conj
-secondary forests forests conj
-The Indian rhinoceros rhinoceros nsubj
-Pakistan Pakistan pobj
-the total population population nsubjpass
-2,575 individuals individuals attr
-Indian protected areas areas pobj
-Kaziranga National Park Park pobj
-2,048 rhinos rhinos nsubjpass
-Jaldapara National Park Park pobj
-108 — — nsubj
-Pobitora Wildlife Sanctuary Sanctuary pobj
-Orang National Park Park pobj
-Gorumara Gorumara pobj
-Dudhwa National Park Park pobj
-Manas National Park Park pobj
-Katarniaghat Wildlife Sanctuary Sanctuary pobj
-about 2,000 rhinos rhinos nsubjpass
-Assam Assam pobj
-Pobitora Wildlife Sanctuary Sanctuary nsubj
-the highest density density dobj
-Indian rhinos rhinos pobj
-the world world pobj
-84 individuals individuals pobj
-an area area pobj
-38.80 km2 km2 pobj
-the population population nsubj
-Assam Assam pobj
-2,544 rhinos rhinos pobj
-an increase increase appos
-27% % pobj
-more than 150 individuals individuals nsubjpass
-poachers poachers pobj
-these years years pobj
-The population population nsubj
-Nepal Nepal pobj
-111 individuals individuals pobj
-21% % pobj
-The latest rhino count count nsubjpass
-11 April April pobj
-2 May May pobj
-645 individuals individuals dobj
-Parsa National Park Park pobj
-Chitwan National Park Park conj
-Bardia National Park Park conj
-Shuklaphanta Wildlife Reserve Reserve conj
-respective buffer zones zones conj
-the Terai Arc Landscape Landscape pobj
-Pakistan's Lal Suhanra National Park Park pobj
-two rhinos rhinos nsubjpass
-Nepal Nepal pobj
-Adult male Indian rhinos rhinos nsubj
-Groups Groups nsubj
-females females pobj
-calves calves pobj
-up to six subadults subadults pobj
-Such groups groups nsubj
-wallows wallows pobj
-grazing grazing conj
-areas areas dobj
-They They nsubj
-early mornings mornings pobj
-night night pobj
-rest rest conj
-hot days days pobj
-They They nsubj
-excellent swimmers swimmers attr
-speeds speeds pobj
-up to 55 km km pobj
-h h appos
-(34 mph mph appos
-short periods periods pobj
-They They nsubj
-excellent senses senses dobj
-hearing hearing pobj
-smell smell conj
-relatively poor eyesight eyesight conj
-Over 10 distinct vocalisations vocalisations nsubjpass
-Males Males nsubj
-home ranges ranges dobj
-around 2 to 8 km2 km2 pobj
-0.77 to 3.09 sq sq pobj
-mi mi appos
-Dominant males males nsubj
-their territories territories pobj
-they they nsubj
-season season dobj
-dangerous fights fights nsubj
-Indian rhinos rhinos nsubj
-The folds folds ROOT
-their skin trap water water pobj
-it it dobj
-they they nsubj
-land land pobj
-Indian rhinos rhinos nsubj
-few natural enemies enemies dobj
-tigers tigers pobj
-unguarded calves calves dobj
-adult rhinos rhinos nsubj
-their size size pobj
-Mynahs Mynahs nsubj
-egrets egrets conj
-invertebrates invertebrates dobj
-the rhino's skin skin pobj
-its feet feet pobj
-Tabanus Tabanus nsubj
-a type type appos
-horse-fly fly pobj
-rhinos rhinos dobj
-The rhinos rhinos nsubj
-diseases diseases pobj
-parasites parasites pobj
-leeches leeches pobj
-ticks ticks conj
-nematodes nematodes conj
-Anthrax Anthrax nsubjpass
-the blood-disease sepsis sepsis conj
-March March pobj
-a group group pobj
-four tigers tigers pobj
-adult male male pobj
-a 20-year-old male rhino rhino dobj
-the Dudhwa Tiger Reserve Reserve pobj
-Indian rhinoceros rhinoceros nsubj
-grazers grazers attr
-Their diets diets nsubj
-grasses grasses pobj
-they they nsubj
-leaves leaves dobj
-branches branches conj
-shrubs shrubs pobj
-trees trees conj
-fruits fruits conj
-aquatic plants plants dobj
-They They nsubj
-the mornings mornings pobj
-evenings evenings conj
-They They nsubj
-their semi-prehensile lips lips dobj
-grasp grass grass pobj
-the stem stem dobj
-the top top pobj
-the grass grass dobj
-They They nsubj
-very tall grasses grasses dobj
-saplings saplings conj
-the plant plant pobj
-legs legs pobj
-both sides sides pobj
-the weight weight dobj
-their bodies bodies pobj
-the end end dobj
-the plant plant pobj
-the level level pobj
-the mouth mouth pobj
-Mothers Mothers nsubj
-this technique technique dobj
-food food nsubj
-their calves calves pobj
-They They nsubj
-a minute minute pobj
-a time time pobj
-water water dobj
-rhinoceros urine urine pobj
-The Indian rhinoceros rhinoceros nsubj
-a variety variety dobj
-social groupings groupings pobj
-Adult males males nsubj
-mating mating pcomp
-fighting fighting conj
-Adult females females nsubj
-they they nsubj
-calves calves pobj
-Mothers Mothers nsubj
-their calves calves pobj
-their birth birth pobj
-an older calf calf nsubj
-her her dobj
-a newborn calf calf nsubj
-males males nsubj
-females females conj
-consistent groupings groupings dobj
-Groups Groups nsubj
-two or three young males males pobj
-the edge edge pobj
-the home ranges ranges pobj
-dominant males males pobj
-protection protection pobj
-numbers numbers pobj
-Young females females nsubj
-the males males pobj
-Indian rhinos rhinos nsubj
-short-term groupings groupings dobj
-forest wallows wallows pobj
-the monsoon season season pobj
-grasslands grasslands pobj
-March March pobj
-April April conj
-Groups Groups nsubj
-up to 10 rhinos rhinos pobj
-wallows wallows pobj
-—typically a dominant male male dobj
-females females pobj
-calves calves conj
-no subadult males males conj
-The Indian rhinoceros rhinoceros nsubj
-a wide variety variety dobj
-vocalisations vocalisations pobj
-At least 10 distinct vocalisations vocalisations nsubjpass
-addition addition pobj
-the rhino rhino nsubj
-olfactory communication communication dobj
-Adult males males nsubj
-them them pobj
-response response pobj
-observers observers pobj
-all rhinos rhinos pobj
-the Indian rhinoceros rhinoceros nsubj
-other large dung piles piles pobj
-The Indian rhino rhino nsubj
-pedal scent glands glands dobj
-their presence presence dobj
-these rhino latrines latrines pobj
-Males Males nsubjpass
-their heads heads pobj
-the ground ground pobj
-the scent scent dobj
-females females pobj
-aggregations aggregations pobj
-Indian rhinos rhinos nsubj
-They They nsubj
-their heads heads dobj
-mounting flanks flanks conj
-nuzzling noses noses conj
-Rhinos Rhinos nsubj
-twigs twigs pobj
-their mouths mouths pobj
-Adult males males nsubj
-the primary instigators instigators attr
-fights fights pobj
-Fights Fights nsubj
-dominant males males pobj
-the most common cause cause attr
-rhino mortality mortality pobj
-males males nsubj
-females females pobj
-courtship courtship pobj
-Males Males nsubj
-females females dobj
-long distances distances pobj
-them them dobj
-face face pobj
-African rhinos rhinos pobj
-its incisors incisors pobj
-its horns horns pobj
-Captive males males nsubj
-five years years pobj
-age age pobj
-wild males males nsubj
-dominance dominance dobj
-they they nsubj
-one five-year field study study pobj
-only one rhino rhino nsubj
-younger than 15 years years attr
-Captive females females nsubj
-four years years pobj
-age age pobj
-the wild wild pobj
-they they nsubj
-they they nsubj
-aggressive males males pobj
-Their gestation period period nsubj
-birth interval ranges ranges conj
-34–51 months months pobj
-captivity captivity pobj
-four rhinos rhinos nsubjpass
-40 years years pobj
-Sport hunting hunting nsubj
-the late 1800s 1800s pobj
-early 1900s 1900s conj
-Indian rhinos rhinos nsubjpass
-Reports Reports ROOT
-the middle middle pobj
-the 19th century claim claim pobj
-some British military officers officers nsubj
-Assam Assam pobj
-more than 200 rhinos rhinos dobj
-the population population nsubj
-Kaziranga Kaziranga pobj
-around 12 individuals individuals pobj
-the early 1900s 1900s pobj
-the species species nsubj
-extinction extinction pobj
-rhinoceros horn horn pobj
-the single most important reason reason attr
-the decline decline pobj
-the Indian rhino rhino pobj
-conservation measures measures nsubjpass
-place place pobj
-the beginning beginning pobj
-the 20th century century pobj
-legal hunting hunting nsubj
-692 rhinos rhinos nsubjpass
-India India pobj
-India's Laokhowa Wildlife Sanctuary Sanctuary pobj
-41 rhinos rhinos nsubjpass
-virtually the entire population population appos
-the sanctuary sanctuary pobj
-the mid-1990s mid-1990s pobj
-the species species nsubj
-Chitwan’s forest forest nsubj
-grasslands grasslands conj
-more than 2,600 km2 km2 pobj
-(1,000 sq mi mi appos
-about 800 rhinos rhinos pobj
-poor farmers farmers nsubj
-the mid-hills hills pobj
-the Chitwan Valley Valley pobj
-search search pobj
-arable land land pobj
-the area area nsubjpass
-settlement settlement pobj
-poaching poaching nsubj
-wildlife wildlife pobj
-The Chitwan population population nsubjpass
-poachers poachers nsubj
-37 animals animals dobj
-their valuable horns horns dobj
-Six methods methods nsubjpass
-killing rhinos rhinos pobj
-Shooting Shooting nsubj
-the most common method method pobj
-rhino horn traders traders nsubj
-sharpshooters sharpshooters dobj
-them them dobj
-rifles rifles pobj
-ammunition ammunition conj
-Trapping Trapping nsubj
-a pit pit pobj
-the terrain terrain pobj
-availability availability conj
-grass grass pobj
-it it dobj
-pits pits nsubjpass
-such a way way pobj
-a fallen animal animal nsubj
-little room room dobj
-its head head pobj
-the pit pit pobj
-it it nsubj
-the horn horn dobj
-Electrocution Electrocution nsubjpass
-high voltage powerlines powerlines nsubj
-a protected area area pobj
-poachers poachers nsubj
-a long, insulated rod rod dobj
-a wire wire pobj
-a rhino path path pobj
-Poisoning Poisoning nsubj
-zinc phosphide phosphide dobj
-poison poison dobj
-pesticides pesticides conj
-salt licks licks pobj
-rhinos rhinos pobj
-Spearing Spearing nsubjpass
-Chitwan National Park Park pobj
-A noose noose nsubj
-the rhino's skin skin pobj
-it it dobj
-strangulation strangulation pobj
-Poaching Poaching nsubj
-the use use pobj
-the horn horn pobj
-traditional Chinese medicine medicine pobj
-several important populations populations pobj
-serious declines declines nsubj
-quality quality pobj
-habitat habitat pobj
-some areas areas pobj
-severe invasion invasion dobj
-alien plants plants pobj
-grasslands grasslands pobj
-some populations populations dobj
-reductions reductions dobj
-the extent extent pobj
-grasslands grasslands pobj
-wetland habitats habitats conj
-woodland woodland pobj
-encroachment encroachment pobj
-beels beels pobj
-domestic livestock livestock pobj
-The species species nsubj
-risk risk pobj
-over 70% % nsubj
-its population population pobj
-a single site site pobj
-Kaziranga National Park Park appos
-Any catastrophic event event nsubj
-disease disease pobj
-civil disorder disorder conj
-habitat loss loss conj
-a devastating impact impact dobj
-the Indian rhino's status status pobj
-small population population nsubj
-rhinos rhinos pobj
-depression depression dobj
-Rhinoceros unicornis unicornis nsubjpass
-CITES Appendix Appendix pobj
-I I appos
-The Indian and Nepalese governments governments nsubj
-major steps steps dobj
-Indian rhinoceros conservation conservation pobj
-the help help pobj
-the World Wide Fund Fund pobj
-Nature Nature pobj
-WWF WWF appos
-other non-governmental organisations organisations conj
-a rhino translocation scheme scheme nsubjpass
-The first pair pair nsubjpass
-rhinos rhinos pobj
-Nepal's Terai Terai pobj
-Pakistan's Lal Suhanra National Park Park pobj
-Punjab Punjab pobj
-India India pobj
-five rhinos rhinos nsubjpass
-Dudhwa National Park — — pobj
-the fields fields pobj
-the Pobitora Wildlife Sanctuary Sanctuary pobj
-Goalpara Goalpara pobj
-the country's first conservation law law nsubj
-the protection protection dobj
-rhinos rhinos pobj
-their habitat habitat conj
-Edward Pritchard Gee Gee nsubj
-a survey survey dobj
-the Chitwan Valley Valley pobj
-the creation creation dobj
-a protected area area pobj
-the Rapti River River pobj
-a wildlife sanctuary sanctuary pobj
-the river river pobj
-a trial period period pobj
-10 years years pobj
-his subsequent survey survey pobj
-Chitwan Chitwan pobj
-he he nsubj
-extension extension dobj
-the sanctuary sanctuary pobj
-the south south pobj
-the end end pobj
-the 1960s 1960s pobj
-only 95 rhinos rhinos nsubj
-the Chitwan Valley Valley pobj
-The dramatic decline decline nsubj
-the rhino population population pobj
-the extent extent conj
-the government government dobj
-a rhino reconnaissance patrol patrol dobj
-130 armed men men pobj
-a network network conj
-guard posts posts pobj
-Chitwan Chitwan pobj
-the extinction extinction dobj
-rhinos rhinos pobj
-the Chitwan National Park Park nsubjpass
-December December pobj
-borders borders nsubj
-the following year year dobj
-an area area dobj
-544 km2 km2 pobj
-(210 sq mi mi appos
-the population population nsubj
-645 animals animals pobj
-the survival survival dobj
-rhinos rhinos pobj
-case case pobj
-epidemics epidemics pobj
-animals animals nsubjpass
-Chitwan Chitwan pobj
-the Bardia National Park Park pobj
-the Sukla Phanta Wildlife Reserve Reserve conj
-The Indian rhinoceros rhinoceros nsubj
-captivity captivity pobj
-The first recorded captive birth birth nsubj
-a rhinoceros rhinoceros pobj
-Kathmandu Kathmandu pobj
-another successful birth birth nsubj
-nearly 100 years years pobj
-a rhino rhino nsubjpass
-Kolkata Kolkata pobj
-No rhinoceros rhinoceros nsubjpass
-Europe Europe pobj
-September September pobj
-Rudra Rudra nsubjpass
-Zoo Basel Basel pobj
-Switzerland Switzerland appos
-the second half half pobj
-the 20th century century pobj
-zoos zoos nsubj
-Indian rhinoceros rhinoceros dobj
-nearly 40 babies babies nsubjpass
-captivity captivity pobj
-33 Indian rhinos rhinos nsubjpass
-Zoo Basel Basel pobj
-most animals animals nsubj
-a zoo zoo pobj
-the population population pobj
-the zoo zoo pobj
-Basel Basel pobj
-Switzerland Switzerland appos
-the success success pobj
-Zoo Basel's breeding program program pobj
-the International Studbook Studbook nsubjpass
-the species species pobj
-the Indian rhino rhino nsubjpass
-European Endangered Species Species appos
-Programme Programme nsubjpass
-the captive global Indian rhinoceros population population nsubj
-174 rhinos rhinos nsubjpass
-zoos zoos pobj
-June June pobj
-an Indian rhino rhino nsubjpass
-sperm sperm dobj
-four years years dobj
-the Cincinnati Zoo’s CryoBioBank CryoBioBank pobj
-She She nsubj
-birth birth dobj
-a male calf calf pobj
-October October pobj
-The calf calf nsubj
-birth birth pobj
-June June pobj
-the first "successful" live-birth birth nsubj
-an artificially inseminated rhino rhino pobj
-place place dobj
-the Buffalo Zoo Zoo pobj
-New York York pobj
-Cincinnati Cincinnati pobj
-cryopreserved sperm sperm nsubjpass
-the female calf calf dobj
-The Rhinoceros Sutra Sutra nsubj
-an early text text attr
-the Buddhist tradition tradition pobj
-both the Gandhāran Buddhist texts texts pobj
-the Pali Canon Canon conj
-It It nsubj
-the solitary lifestyle lifestyle dobj
-stoicism stoicism conj
-the Indian rhinoceros rhinoceros pobj
-readers readers dobj
-these virtues virtues dobj
-China's ancient novel novel pobj
-Journey Journey appos
-the West West pobj
-Tripitaka Tripitaka pobj
-Sanzang Sanzang appos
-his crew travel travel conj
-the region region pobj
-India India pobj
-Tian Zu Zu pobj
-3 Indian Rhino demons demons ROOT
-King King appos
-Cold Protection Protection pobj
-(辟寒大王 辟寒大王 appos
-King King appos
-Heat Protection Protection pobj
-(辟暑大王 辟暑大王 appos
-Dust Protection Protection pobj
-whom whom nsubjpass
-Xuanying Cave Cave pobj
-(玄英洞 玄英洞 appos
-Azure Dragon Mountain Mountain conj
-Jinping Prefecture Prefecture pobj
-They They nsubj
-themselves themselves dobj
-Taoist deities deities pobj
-aromatic oil oil dobj
-lamps lamps pobj
-a temple temple pobj
-worshippers worshippers dobj
-the "deities deities nsubj
-the oil oil dobj
-them them pobj
-The Indian rhinoceros rhinoceros nsubj
-the first rhino rhino attr
-its range range pobj
-The first rhinoceros rhinoceros nsubj
-Europe Europe dobj
-modern times times pobj
-Lisbon Lisbon pobj
-May May pobj
-King Manuel Manuel nsubj
-I I appos
-Portugal Portugal pobj
-the rhinoceros rhinoceros dobj
-Pope Leo X X pobj
-the rhino rhino nsubj
-a shipwreck shipwreck pobj
-the rhino rhino nsubjpass
-an unknown artist artist pobj
-The German artist Albrecht Dürer Dürer nsubj
-the sketches sketches dobj
-descriptions descriptions conj
-a woodcut woodcut dobj
-the rhino rhino pobj
-Dürer's Rhinoceros Rhinoceros pobj
-the drawing drawing nsubj
-some anatomical inaccuracies inaccuracies dobj
-notably the hornlet hornlet appos
-the rhino's shoulder shoulder pobj
-his sketch sketch nsubj
-the enduring image image attr
-a rhinoceros rhinoceros pobj
-western culture culture pobj
-centuries centuries pobj
-The British public public nsubj
-their first chance chance dobj
-a rhinoceros rhinoceros dobj
-(presumably this species species appos
-it it nsubj
-a political row row dobj
-George Jeffreys Jeffreys pobj
-1st 1st appos
-Baron Jeffreys Jeffreys nsubj
-a rumour rumour dobj
-his chief rival rival nsubjpass
-Francis North North appos
-1st 1st appos
-Baron Guilford Guilford appos
-it it pobj
-A steatite seal seal nsubjpass
-Pashupati Seal Seal pobj
-BC BC pobj
-the Mohenjo-daro archaeological site site pobj
-the Indus Valley Civilisation Civilisation pobj
-It It nsubj
-a human figure figure dobj
-the centre centre pobj
-a platform platform pobj
-the human figure figure nsubjpass
-four wild animals animals pobj
-an elephant elephant appos
-a tiger tiger conj
-its one side side pobj
-a water buffalo buffalo conj
-a rhinoceros rhinoceros conj
-Rhinoceros Rhinoceros nsubj
-Vahana Vahana attr
-the Hindu goddess Dhavdi Dhavdi pobj
-a temple temple attr
-Maa (Mother) Dhavdi Dhavdi pobj
-Dhrangadhra Dhrangadhra pobj
-Gujarat Gujarat appos
-Many the mythological stories stories ROOT
-e.g. a boy boy appos
-the horns horns pobj
-a deer deer pobj
-Indian rhinoceros rhinoceros pobj
-Assam Assam pobj
-Dürer's Rhinoceros
-Clara Clara dobj
-(rhinoceros rhinoceros appos
-Abada Abada appos
-(rhinoceros rhinoceros appos
-Kaziranga National Park Park ROOT
-Unicorn Unicorn conj
-The Soul Soul ROOT
-the Rhino Rhino pobj
-(book book appos
-The Rhino Resource Center
-International Rhino Foundation Foundation ROOT
-Greater Greater appos
--Horned Rhino Rhino ROOT
-Rhinoceros Rhinoceros nsubj
-Nepal Rhino Conservation
-Indian Rhino Rhino ROOT
-Kaziranga National Park Official website website pobj
-TheBigZoo.com TheBigZoo.com appos
-Greater Indian Rhinoceros Rhinoceros ROOT
-Indian Rhino page page nsubj
-AnimalInfo.org AnimalInfo.org pobj
-Indian Rhinoceros page page pobj
-nature.ca nature.ca pobj
-Page Rhinocéros Rhinocéros pobj
-à nature.ca
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj called VERB [The Indian unicornis , ] 
+( punct unicornis NOUN [] 
+Rhinoceros nsubj unicornis NOUN [] 
+unicornis relcl rhinoceros NOUN [( Rhinoceros ) ] 
+) punct unicornis NOUN [] 
+, punct rhinoceros NOUN [] 
+also advmod called VERB [] 
+called ROOT called VERB [rhinoceros also rhinoceros , is . ] 
+the det rhinoceros NOUN [] 
+greater amod rhinoceros NOUN [] 
+one npadvmod horned VERB [] 
+- punct horned VERB [] 
+horned amod rhinoceros NOUN [one - ] 
+rhinoceros oprd called VERB [the greater horned and rhinoceros ] 
+and cc rhinoceros NOUN [] 
+great amod rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros conj rhinoceros NOUN [great Indian ] 
+, punct called VERB [] 
+is conj called VERB [rhinoceros ] 
+a det rhinoceros ADJ [] 
+rhinoceros attr is VERB [a native ] 
+native amod rhinoceros ADJ [to ] 
+to prep native ADJ [subcontinent ] 
+the det subcontinent NOUN [] 
+Indian amod subcontinent NOUN [] 
+subcontinent pobj to ADP [the Indian ] 
+. punct called VERB [
+ ] 
 
-Indian Rhinoceros page page dobj
-UltimateUngulate.com
-Images Images pobj
-videos videos appos
-information information conj
-the Indian Rhinoceros
-Asian Rhino Foundation
-Indian army army pobj
-rhino poaching
-Rhino census census dobj
+  . PUNCT [] 
+It nsubjpass listed VERB [] 
+is auxpass listed VERB [] 
+listed ROOT listed VERB [It is as on , fragmented . ] 
+as prep listed VERB [Vulnerable ] 
+Vulnerable pobj as ADP [] 
+on prep listed VERB [List ] 
+the det List PROPN [] 
+IUCN compound List PROPN [] 
+Red compound List PROPN [] 
+List pobj on ADP [the IUCN Red ] 
+, punct listed VERB [] 
+as mark fragmented VERB [] 
+populations nsubjpass fragmented VERB [] 
+are auxpass fragmented VERB [] 
+fragmented advcl listed VERB [as populations are and restricted ] 
+and cc fragmented VERB [] 
+restricted conj fragmented VERB [to ] 
+to prep restricted VERB [km2 ] 
+less amod 20,000 NUM [] 
+than quantmod 20,000 NUM [] 
+20,000 nummod km2 NOUN [less than ] 
+km2 pobj to ADP [20,000 ( mi ) ] 
+( punct km2 NOUN [] 
+7,700 nummod sq NOUN [] 
+sq compound mi PROPN [7,700 ] 
+mi appos km2 NOUN [sq ] 
+) punct km2 NOUN [] 
+. punct listed VERB [
+ ] 
+
+  . PUNCT [] 
+Moreover advmod considered VERB [] 
+, punct considered VERB [] 
+the det extent NOUN [] 
+extent nsubjpass considered VERB [the and quality of ] 
+and cc extent NOUN [] 
+quality conj extent NOUN [] 
+of prep extent NOUN [habitat ] 
+the det rhino NOUN [] 
+rhino poss habitat NOUN [the 's ] 
+'s case rhino NOUN [] 
+most advmod important ADJ [] 
+important amod habitat NOUN [most ] 
+habitat pobj of ADP [rhino important , grassland ] 
+, punct habitat NOUN [] 
+alluvial amod grassland NOUN [] 
+grassland conj habitat NOUN [alluvial and forest ] 
+and cc grassland NOUN [] 
+riverine amod forest NOUN [] 
+forest conj grassland NOUN [riverine ] 
+, punct considered VERB [] 
+is auxpass considered VERB [] 
+considered ROOT considered VERB [Moreover , extent , is be . ] 
+to aux be VERB [] 
+be xcomp considered VERB [to in ] 
+in prep be VERB [decline ] 
+decline pobj in ADP [due ] 
+due amod decline NOUN [to encroachment ] 
+to pcomp due ADP [] 
+human amod encroachment NOUN [and livestock ] 
+and cc human ADJ [] 
+livestock conj human ADJ [] 
+encroachment pobj due ADP [human ] 
+. punct considered VERB [
+ ] 
+
+  . PUNCT [] 
+As prep estimated VERB [of ] 
+of prep As ADP [2008 ] 
+2008 pobj of ADP [] 
+, punct estimated VERB [] 
+a det total NOUN [] 
+total nsubjpass estimated VERB [a of ] 
+of prep total NOUN [individuals ] 
+2,575 nummod individuals NOUN [] 
+mature amod individuals NOUN [] 
+individuals pobj of ADP [2,575 mature ] 
+were auxpass estimated VERB [] 
+estimated ROOT estimated VERB [As , total were live . ] 
+to aux live VERB [] 
+live xcomp estimated VERB [to in ] 
+in prep live VERB [wild ] 
+the det wild NOUN [] 
+wild pobj in ADP [the ] 
+. punct estimated VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj ranged VERB [The Indian ] 
+once advmod ranged VERB [] 
+ranged ROOT ranged VERB [rhinoceros once throughout , but reduced ] 
+throughout prep ranged VERB [stretch ] 
+the det stretch NOUN [] 
+entire amod stretch NOUN [] 
+stretch pobj throughout ADP [the entire of ] 
+of prep stretch NOUN [Plain ] 
+the det Plain PROPN [] 
+Indo compound Gangetic PROPN [] 
+- punct Gangetic PROPN [] 
+Gangetic compound Plain PROPN [Indo - ] 
+Plain pobj of ADP [the Gangetic ] 
+, punct ranged VERB [] 
+but cc ranged VERB [] 
+excessive amod hunting NOUN [] 
+hunting nsubj reduced VERB [excessive and ] 
+and cc hunting NOUN [] 
+agricultural amod development NOUN [] 
+development nsubj reduced VERB [agricultural ] 
+reduced conj ranged VERB [hunting development range drastically to . ] 
+their poss range NOUN [] 
+range dobj reduced VERB [their ] 
+drastically advmod reduced VERB [] 
+to prep reduced VERB [sites ] 
+11 nummod sites NOUN [] 
+sites pobj to ADP [11 in ] 
+in prep sites NOUN [India ] 
+northern amod India PROPN [] 
+India pobj in ADP [northern and Nepal ] 
+and cc India PROPN [] 
+southern amod Nepal PROPN [] 
+Nepal conj India PROPN [southern ] 
+. punct reduced VERB [
+ ] 
+
+  . PUNCT [] 
+In prep estimated VERB [1990s ] 
+the det 1990s NOUN [] 
+early amod 1990s NOUN [] 
+1990s pobj In ADP [the early ] 
+, punct estimated VERB [] 
+between quantmod 1,870 NUM [] 
+1,870 nummod rhinos NOUN [between and 1,895 ] 
+and cc 1,870 NUM [] 
+1,895 conj 1,870 NUM [] 
+rhinos nsubjpass estimated VERB [1,870 ] 
+were auxpass estimated VERB [] 
+estimated ROOT estimated VERB [In , rhinos were been . ] 
+to aux been VERB [] 
+have aux been VERB [] 
+been xcomp estimated VERB [to have alive ] 
+alive acomp been VERB [] 
+. punct estimated VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+In prep described VERB [1758 ] 
+1758 pobj In ADP [] 
+, punct described VERB [] 
+Carl compound Linnaeus PROPN [] 
+Linnaeus nsubj described VERB [Carl ] 
+first advmod described VERB [] 
+described ROOT described VERB [In , Linnaeus first rhinoceros with under . ] 
+a det rhinoceros NOUN [] 
+rhinoceros dobj described VERB [a ] 
+with prep described VERB [horn ] 
+one nummod horn NOUN [] 
+horn pobj with ADP [one ] 
+under prep described VERB [name ] 
+the det name NOUN [] 
+name pobj under ADP [the unicornis ] 
+Rhinoceros nsubj unicornis NOUN [] 
+unicornis relcl name NOUN [Rhinoceros ] 
+. punct described VERB [
+ ] 
+
+  . PUNCT [] 
+As prep indicated VERB [locality ] 
+type compound locality NOUN [] 
+locality pobj As ADP [type ] 
+, punct indicated VERB [] 
+he nsubj indicated VERB [] 
+indicated ROOT indicated VERB [As , he Africa . ] 
+Africa dobj indicated VERB [and India ] 
+and cc Africa PROPN [] 
+India conj Africa PROPN [] 
+. punct indicated VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+one npadvmod horned VERB [] 
+- punct horned VERB [] 
+horned amod rhinoceros NOUN [one - ] 
+rhinoceros nsubj is VERB [The horned ] 
+is ROOT is VERB [rhinoceros monotypic . ] 
+monotypic acomp is VERB [] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+Several amod specimens NOUN [] 
+specimens nsubjpass described VERB [Several indicus ] 
+were auxpass described VERB [] 
+described ROOT described VERB [specimens were since : ] 
+since prep described VERB [end ] 
+the det end NOUN [] 
+end pobj since ADP [the of under ] 
+of prep end NOUN [century ] 
+the det century NOUN [] 
+18th amod century NOUN [] 
+century pobj of ADP [the 18th ] 
+under prep end NOUN [names ] 
+different amod names NOUN [] 
+scientific amod names NOUN [] 
+names pobj under ADP [different scientific , considered ] 
+, punct names NOUN [] 
+which nsubjpass considered VERB [] 
+are auxpass considered VERB [] 
+all advmod considered VERB [] 
+considered relcl names NOUN [which are all synonyms today ] 
+synonyms oprd considered VERB [of ] 
+of prep synonyms NOUN [unicornis ] 
+Rhinoceros compound unicornis NOUN [] 
+unicornis pobj of ADP [Rhinoceros ] 
+today npadvmod considered VERB [] 
+: punct described VERB [
+ ] 
+
+  : PUNCT [] 
+R. compound indicus NOUN [] 
+indicus appos specimens NOUN [R. by by stenocephalus jamrachi ] 
+by prep indicus NOUN [Cuvier asiaticus ] 
+Cuvier pobj by ADP [, 1817 ] 
+, punct Cuvier PROPN [] 
+1817 appos Cuvier PROPN [
+ ] 
+
+  1817 NUM [] 
+R. compound asiaticus NOUN [] 
+asiaticus pobj by ADP [R. ] 
+by prep indicus NOUN [Blumenbach ] 
+Blumenbach pobj by ADP [, 1830 ] 
+, punct Blumenbach PROPN [] 
+1830 appos Blumenbach PROPN [
+ ] 
+
+  1830 NUM [] 
+R. compound stenocephalus NOUN [] 
+stenocephalus appos indicus NOUN [R. by ] 
+by prep stenocephalus NOUN [Gray ] 
+Gray pobj by ADP [, 1867 ] 
+, punct Gray PROPN [] 
+1867 appos Gray PROPN [
+ ] 
+
+  1867 NUM [] 
+R. compound jamrachi NOUN [] 
+jamrachi conj indicus NOUN [R. by bengalensis ] 
+by prep jamrachi NOUN [Sclatter ] 
+Sclatter pobj by ADP [, 1876 ] 
+, punct Sclatter PROPN [] 
+1876 appos Sclatter PROPN [
+ ] 
+
+  1876 NUM [] 
+R. compound bengalensis NOUN [] 
+bengalensis appos jamrachi NOUN [R. by ] 
+by prep bengalensis NOUN [Kourist ] 
+Kourist pobj by ADP [, 1970 ] 
+, punct Kourist PROPN [] 
+1970 appos Kourist PROPN [
+
+ ] 
+
+
+  1970 NUM [] 
+The det designation NOUN [] 
+modern amod designation NOUN [] 
+scientific amod designation NOUN [] 
+designation nsubjpass adopted VERB [The modern scientific ] 
+Rhinoceros compound unicornis NOUN [] 
+unicornis nsubjpass adopted VERB [Rhinoceros ] 
+is auxpass adopted VERB [] 
+adopted ROOT adopted VERB [designation unicornis is from . ] 
+from prep adopted VERB [ῥινόκερως ] 
+the det ῥινόκερως NOUN [] 
+Greek amod ῥινόκερως NOUN [] 
+ῥινόκερως pobj from ADP [the Greek ( from kéras ] 
+( punct ῥινόκερως NOUN [] 
+from prep ῥινόκερως NOUN [rhís ] 
+ῥίς amod rhís NOUN [] 
+rhís pobj from ADP [ῥίς ( nose ) and ] 
+( punct rhís NOUN [] 
+nose appos rhís NOUN [] 
+) punct rhís NOUN [] 
+and cc rhís NOUN [] 
+κέρας compound kéras NOUN [] 
+kéras appos ῥινόκερως NOUN [κέρας ( horn ) ) and ūnus ] 
+( punct kéras NOUN [] 
+horn appos kéras NOUN [of ] 
+of prep horn NOUN [animal ] 
+an det animal NOUN [] 
+animal pobj of ADP [an ] 
+) punct kéras NOUN [] 
+) punct kéras NOUN [] 
+and cc kéras NOUN [] 
+Latin amod ūnus VERB [] 
+ūnus conj kéras NOUN [Latin meaning ] 
+meaning acl ūnus VERB [single ] 
+single acomp meaning VERB [and cornū meaning ] 
+and cc single ADJ [] 
+cornū conj single ADJ [] 
+meaning conj single ADJ [horn ] 
+horn dobj meaning VERB [] 
+. punct adopted VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+Ancestral amod rhinoceroses NOUN [] 
+rhinoceroses nsubj diverged VERB [Ancestral ] 
+first advmod diverged VERB [] 
+diverged ROOT diverged VERB [rhinoceroses first from . ] 
+from prep diverged VERB [perissodactyls ] 
+other amod perissodactyls NOUN [] 
+perissodactyls pobj from ADP [other in ] 
+in prep perissodactyls NOUN [Eocene ] 
+the det Eocene PROPN [] 
+Early compound Eocene PROPN [] 
+Eocene pobj in ADP [the Early ] 
+. punct diverged VERB [
+ ] 
+
+  . PUNCT [] 
+Mitochondrial compound DNA PROPN [] 
+DNA compound comparison NOUN [Mitochondrial ] 
+comparison nsubj suggests VERB [DNA ] 
+suggests ROOT suggests VERB [comparison split . ] 
+the det ancestors NOUN [] 
+ancestors nsubj split VERB [the of ] 
+of prep ancestors NOUN [rhinos ] 
+modern amod rhinos NOUN [] 
+rhinos pobj of ADP [modern ] 
+split ccomp suggests VERB [ancestors from ago ] 
+from prep split VERB [ancestors ] 
+the det ancestors NOUN [] 
+ancestors pobj from ADP [the of ] 
+of prep ancestors NOUN [Equidae ] 
+Equidae pobj of ADP [] 
+around quantmod million NUM [] 
+50 compound million NUM [] 
+million nummod years NOUN [around 50 ] 
+years npadvmod ago ADV [million ] 
+ago advmod split VERB [years ] 
+. punct suggests VERB [
+ ] 
+
+  . PUNCT [] 
+The det family NOUN [] 
+extant amod family NOUN [] 
+family nsubj appeared VERB [The extant , Rhinocerotidae ] 
+, punct family NOUN [] 
+the det Rhinocerotidae PROPN [] 
+Rhinocerotidae appos family NOUN [the ] 
+, punct appeared VERB [] 
+first advmod appeared VERB [] 
+appeared ROOT appeared VERB [family , first in , and dispersed ] 
+in prep appeared VERB [Eocene ] 
+the det Eocene PROPN [] 
+Late compound Eocene PROPN [] 
+Eocene pobj in ADP [the Late in ] 
+in prep Eocene PROPN [Eurasia ] 
+Eurasia pobj in ADP [] 
+, punct appeared VERB [] 
+and cc appeared VERB [] 
+the det ancestors NOUN [] 
+ancestors nsubj dispersed VERB [the of ] 
+of prep ancestors NOUN [species ] 
+the det species NOUN [] 
+extant amod species NOUN [] 
+rhino compound species NOUN [] 
+species pobj of ADP [the extant rhino ] 
+dispersed conj appeared VERB [ancestors from beginning . ] 
+from prep dispersed VERB [Asia ] 
+Asia pobj from ADP [] 
+beginning advcl dispersed VERB [in ] 
+in prep beginning VERB [Miocene ] 
+the det Miocene PROPN [] 
+Miocene pobj in ADP [the ] 
+. punct dispersed VERB [
+ ] 
+
+  . PUNCT [] 
+Fossils nsubj appear VERB [of ] 
+of prep Fossils PROPN [unicornis ] 
+R. compound unicornis NOUN [] 
+unicornis pobj of ADP [R. ] 
+appear ROOT appear VERB [Fossils in . ] 
+in prep appear VERB [Pleistocene ] 
+the det Pleistocene PROPN [] 
+Middle compound Pleistocene PROPN [] 
+Pleistocene pobj in ADP [the Middle ] 
+. punct appear VERB [
+ ] 
+
+  . PUNCT [] 
+In ROOT In ADP [Pleistocene , with ] 
+the det Pleistocene PROPN [] 
+Pleistocene pobj In ADP [the ] 
+, punct In ADP [genus ] 
+the det genus ADJ [] 
+genus pobj , PUNCT [the ranged , ] 
+Rhinoceros nsubj ranged VERB [] 
+ranged relcl genus ADJ [Rhinoceros throughout ] 
+throughout prep ranged VERB [Asia ] 
+South nmod Asia PROPN [and Southeast ] 
+and cc South PROPN [] 
+Southeast conj South PROPN [] 
+Asia pobj throughout ADP [South ] 
+, punct genus ADJ [] 
+with prep In ADP [specimens . ] 
+specimens pobj with ADP [located ] 
+located acl specimens NOUN [on ] 
+on prep located VERB [Lanka ] 
+Sri compound Lanka PROPN [] 
+Lanka pobj on ADP [Sri ] 
+. punct with ADP [
+ ] 
+
+  . PUNCT [] 
+Into prep lived VERB [Holocene ] 
+the det Holocene PROPN [] 
+Holocene pobj Into ADP [the ] 
+, punct lived VERB [] 
+some det rhinoceros NOUN [] 
+rhinoceros nsubj lived VERB [some ] 
+lived ROOT lived VERB [Into , rhinoceros west until . ] 
+as advmod west NOUN [] 
+far advmod west NOUN [] 
+west advmod lived VERB [as far as ] 
+as prep west NOUN [Gujarat ] 
+Gujarat pobj as ADP [and Pakistan ] 
+and cc Gujarat PROPN [] 
+Pakistan conj Gujarat PROPN [] 
+until prep lived VERB [recently ] 
+as advmod recently ADV [] 
+recently pcomp until ADP [as as ] 
+as prep recently ADV [ago ] 
+3,200 nummod years NOUN [] 
+years npadvmod ago ADV [3,200 ] 
+ago pcomp as ADP [years ] 
+. punct lived VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhinoceroses NOUN [] 
+Indian amod rhinoceroses NOUN [and Javan ] 
+and cc Indian ADJ [] 
+Javan conj Indian ADJ [] 
+rhinoceroses nsubj appear VERB [The Indian , members ] 
+, punct rhinoceroses NOUN [] 
+the det members NOUN [] 
+only amod members NOUN [] 
+members appos rhinoceroses NOUN [the only of ] 
+of prep members NOUN [genus ] 
+the det genus ADJ [] 
+genus pobj of ADP [the Rhinoceros ] 
+Rhinoceros appos genus ADJ [] 
+, punct appear VERB [] 
+first advmod appear VERB [] 
+appear ROOT appear VERB [rhinoceroses , first in around ago . ] 
+in prep appear VERB [record ] 
+the det record NOUN [] 
+fossil compound record NOUN [] 
+record pobj in ADP [the fossil in ] 
+in prep record NOUN [Asia ] 
+Asia pobj in ADP [] 
+around prep appear VERB [] 
+1.6 quantmod million NUM [] 
+million–3.3 compound million NUM [] 
+million nummod years NOUN [1.6 million–3.3 ] 
+years npadvmod ago ADV [million ] 
+ago advmod appear VERB [years ] 
+. punct appear VERB [
+ ] 
+
+  . PUNCT [] 
+Molecular amod estimates NOUN [] 
+estimates nsubj suggest VERB [Molecular ] 
+, punct suggest VERB [] 
+however advmod suggest VERB [] 
+, punct suggest VERB [] 
+suggest ROOT suggest VERB [estimates , however , diverged . ] 
+the det species NOUN [] 
+species nsubj diverged VERB [the ] 
+may aux diverged VERB [] 
+have aux diverged VERB [] 
+diverged ccomp suggest VERB [species may have earlier , ago ] 
+much advmod earlier ADV [] 
+earlier advmod diverged VERB [much ] 
+, punct diverged VERB [] 
+around advmod million NUM [] 
+11.7 compound million NUM [] 
+million nummod years NOUN [around 11.7 ] 
+years npadvmod ago ADV [million ] 
+ago advmod diverged VERB [years ] 
+. punct suggest VERB [
+ ] 
+
+  . PUNCT [] 
+Although mark belonging VERB [] 
+belonging advcl believed VERB [Although to ] 
+to prep belonging VERB [genus ] 
+the det genus NOUN [] 
+type compound genus NOUN [] 
+genus pobj to ADP [the type ] 
+, punct believed VERB [] 
+the det rhinoceroses NOUN [] 
+Indian amod rhinoceroses NOUN [and Javan ] 
+and cc Indian ADJ [] 
+Javan conj Indian ADJ [] 
+rhinoceroses nsubjpass believed VERB [the Indian ] 
+are auxpass believed VERB [] 
+not neg believed VERB [] 
+believed ROOT believed VERB [belonging , rhinoceroses are not related . ] 
+to aux related ADJ [] 
+be auxpass related ADJ [] 
+closely advmod related ADJ [] 
+related xcomp believed VERB [to be closely to ] 
+to prep related ADJ [species ] 
+other amod species NOUN [] 
+rhino compound species NOUN [] 
+species pobj to ADP [other rhino ] 
+. punct believed VERB [
+ ] 
+
+  . PUNCT [] 
+Different amod studies NOUN [] 
+studies nsubj hypothesised VERB [Different ] 
+have aux hypothesised VERB [] 
+hypothesised ROOT hypothesised VERB [studies have related . ] 
+that mark related ADJ [] 
+they nsubjpass related ADJ [] 
+may aux related ADJ [] 
+be auxpass related ADJ [] 
+closely advmod related ADJ [] 
+related ccomp hypothesised VERB [that they may be closely to ] 
+to prep related ADJ [Gaindatherium ] 
+the det Gaindatherium PROPN [] 
+extinct amod Gaindatherium PROPN [] 
+Gaindatherium pobj to ADP [the extinct or Punjabitherium ] 
+or cc Gaindatherium PROPN [] 
+Punjabitherium conj Gaindatherium PROPN [] 
+. punct hypothesised VERB [
+ ] 
+
+  . PUNCT [] 
+A det analysis NOUN [] 
+detailed amod analysis NOUN [] 
+cladistic amod analysis NOUN [] 
+analysis nsubj placed VERB [A detailed cladistic of ] 
+of prep analysis NOUN [Rhinocerotidae ] 
+the det Rhinocerotidae PROPN [] 
+Rhinocerotidae pobj of ADP [the ] 
+placed ROOT placed VERB [analysis Rhinoceros in . ] 
+Rhinoceros dobj placed VERB [and Punjabitherium ] 
+and cc Rhinoceros PROPN [] 
+the det Punjabitherium PROPN [] 
+extinct amod Punjabitherium PROPN [] 
+Punjabitherium conj Rhinoceros PROPN [the extinct ] 
+in prep placed VERB [clade ] 
+a det clade NOUN [] 
+clade pobj in ADP [a with ] 
+with prep clade NOUN [Dicerorhinus ] 
+Dicerorhinus pobj with ADP [, rhinoceros ] 
+, punct Dicerorhinus PROPN [] 
+the det rhinoceros NOUN [] 
+Sumatran amod rhinoceros NOUN [] 
+rhinoceros appos Dicerorhinus PROPN [the Sumatran ] 
+. punct placed VERB [
+ ] 
+
+  . PUNCT [] 
+Other amod studies NOUN [] 
+studies nsubj suggested VERB [Other ] 
+have aux suggested VERB [] 
+suggested ROOT suggested VERB [studies have is . ] 
+the det rhinoceros NOUN [] 
+Sumatran amod rhinoceros NOUN [] 
+rhinoceros nsubj is VERB [the Sumatran ] 
+is ccomp suggested VERB [rhinoceros related ] 
+more advmod closely ADV [] 
+closely advmod related ADJ [more ] 
+related acomp is VERB [closely to ] 
+to prep related ADJ [species ] 
+the det species NOUN [] 
+two nummod species NOUN [] 
+African amod species NOUN [] 
+species pobj to ADP [the two African ] 
+. punct suggested VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhino NOUN [] 
+Sumatran compound rhino NOUN [] 
+rhino nsubj diverged VERB [The Sumatran ] 
+may aux diverged VERB [] 
+have aux diverged VERB [] 
+diverged ROOT diverged VERB [rhino may have from long . ] 
+from prep diverged VERB [rhinos ] 
+the det rhinos NOUN [] 
+other amod rhinos NOUN [] 
+Asian amod rhinos NOUN [] 
+rhinos pobj from ADP [the other Asian ] 
+as advmod long ADV [] 
+long advmod diverged VERB [as ago ] 
+as quantmod million NUM [] 
+15 compound million NUM [] 
+million nummod years NOUN [as 15 ] 
+years npadvmod ago ADV [million ] 
+ago advmod long ADV [years ] 
+. punct diverged VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj has VERB [The Indian ] 
+has ROOT has VERB [rhinoceros skin . ] 
+a det skin NOUN [] 
+thick amod skin NOUN [] 
+grey npadvmod brown ADJ [] 
+- punct brown ADJ [] 
+brown amod skin NOUN [grey - ] 
+skin dobj has VERB [a thick brown with and horn ] 
+with prep skin NOUN [folds ] 
+pinkish amod folds NOUN [] 
+skin compound folds NOUN [] 
+folds pobj with ADP [pinkish skin ] 
+and cc skin NOUN [] 
+a det horn NOUN [] 
+black amod horn NOUN [] 
+horn conj skin NOUN [a black ] 
+. punct has VERB [
+ ] 
+
+  . PUNCT [] 
+Its poss legs NOUN [] 
+upper amod legs NOUN [] 
+legs nsubjpass covered VERB [Its upper and shoulders ] 
+and cc legs NOUN [] 
+shoulders conj legs NOUN [] 
+are auxpass covered VERB [] 
+covered ROOT covered VERB [legs are in . ] 
+in prep covered VERB [bumps ] 
+wart npadvmod like ADJ [] 
+- punct like ADJ [] 
+like amod bumps NOUN [wart - ] 
+bumps pobj in ADP [like ] 
+. punct covered VERB [
+ ] 
+
+  . PUNCT [] 
+It nsubj has VERB [] 
+has ROOT has VERB [It hair , aside . ] 
+very advmod little ADJ [] 
+little amod hair NOUN [very ] 
+body compound hair NOUN [] 
+hair dobj has VERB [little body ] 
+, punct has VERB [] 
+aside advmod has VERB [from ] 
+from prep aside ADV [eyelashes ] 
+eyelashes pobj from ADP [, fringes ] 
+, punct eyelashes NOUN [] 
+ear compound fringes NOUN [] 
+fringes conj eyelashes NOUN [ear and brush ] 
+and cc fringes NOUN [] 
+tail compound brush NOUN [] 
+brush conj fringes NOUN [tail ] 
+. punct has VERB [
+ ] 
+
+  . PUNCT [] 
+Males nsubj have VERB [] 
+have ROOT have VERB [Males folds . ] 
+huge amod folds NOUN [] 
+neck compound folds NOUN [] 
+folds dobj have VERB [huge neck ] 
+. punct have VERB [
+ ] 
+
+  . PUNCT [] 
+Its poss skull NOUN [] 
+skull nsubj is VERB [Its ] 
+is ROOT is VERB [skull heavy . ] 
+heavy acomp is VERB [with ] 
+with prep heavy ADJ [length ] 
+a det length NOUN [] 
+basal amod length NOUN [] 
+length pobj with ADP [a basal above and occiput ] 
+above prep length NOUN [cm ] 
+60 nummod cm NOUN [] 
+cm pobj above ADP [60 ( 24 in ) ] 
+( punct cm NOUN [] 
+24 appos cm NOUN [] 
+in prep cm NOUN [] 
+) punct cm NOUN [] 
+and cc length NOUN [] 
+an det occiput NOUN [] 
+occiput conj length NOUN [an above ] 
+above prep occiput NOUN [cm ] 
+19 nummod cm NOUN [] 
+cm pobj above ADP [19 ( 7.5 ) ] 
+( punct cm NOUN [] 
+7.5 appos cm NOUN [in ] 
+in prep 7.5 NUM [] 
+) punct cm NOUN [] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+Its poss horn NOUN [] 
+nasal amod horn NOUN [] 
+horn nsubj is VERB [Its nasal ] 
+is ROOT is VERB [horn curved . ] 
+slightly advmod curved VERB [] 
+back advmod curved VERB [] 
+- punct curved VERB [] 
+curved acomp is VERB [slightly back - with ] 
+with prep curved VERB [base ] 
+a det base NOUN [] 
+base pobj with ADP [a of by ] 
+of prep base NOUN [cm ] 
+about advmod 18.5 NUM [] 
+18.5 nummod cm NOUN [about ] 
+cm pobj of ADP [18.5 ( 7.3 ) ] 
+( punct cm NOUN [] 
+7.3 appos cm NOUN [in ] 
+in prep 7.3 NUM [] 
+) punct cm NOUN [] 
+by prep base NOUN [cm ] 
+12 nummod cm NOUN [] 
+cm pobj by ADP [12 ( 4.7 ) narrows ] 
+( punct cm NOUN [] 
+4.7 appos cm NOUN [in ] 
+in prep 4.7 NUM [] 
+) punct cm NOUN [] 
+that nsubj narrows VERB [] 
+rapidly advmod narrows VERB [] 
+narrows relcl cm NOUN [that rapidly begins ] 
+until mark begins VERB [] 
+a det part NOUN [] 
+smooth amod part NOUN [] 
+, punct part NOUN [] 
+even advmod stem VERB [] 
+stem compound part NOUN [even ] 
+part nsubj begins VERB [a smooth , stem ] 
+begins advcl narrows VERB [until part mm ] 
+about advmod 55 NUM [] 
+55 nummod mm NOUN [about ] 
+mm dobj begins VERB [55 ( 2.2 ] 
+( punct mm NOUN [] 
+2.2 appos mm NOUN [in above ] 
+in prep 2.2 NUM [) ] 
+) punct in ADP [] 
+above prep 2.2 NUM [base ] 
+base pobj above ADP [] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+In prep worn VERB [animals ] 
+captive amod animals NOUN [] 
+animals pobj In ADP [captive ] 
+, punct worn VERB [] 
+the det horn NOUN [] 
+horn nsubjpass worn VERB [the ] 
+is auxpass worn VERB [] 
+frequently advmod worn VERB [] 
+worn ROOT worn VERB [In , horn is frequently down to . ] 
+down prt worn VERB [] 
+to prep worn VERB [knob ] 
+a det knob NOUN [] 
+thick amod knob NOUN [] 
+knob pobj to ADP [a thick ] 
+. punct worn VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhino NOUN [] 
+rhino poss horn NOUN [The 's ] 
+'s case rhino NOUN [] 
+single amod horn NOUN [] 
+horn nsubj is VERB [rhino single ] 
+is ROOT is VERB [horn present . ] 
+present acomp is VERB [in ] 
+in prep present ADJ [males , but on ] 
+both det males NOUN [] 
+males pobj in ADP [both and females ] 
+and cc males NOUN [] 
+females conj males NOUN [] 
+, punct in ADP [] 
+but cc in ADP [] 
+not neg on ADP [] 
+on conj in ADP [not young ] 
+newborn amod young ADJ [] 
+young pobj on ADP [newborn ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+The det horn NOUN [] 
+black amod horn NOUN [] 
+horn nsubj is VERB [The black ] 
+is ROOT is VERB [horn keratin , and starts . ] 
+pure amod keratin NOUN [] 
+keratin attr is VERB [pure , like ] 
+, punct keratin NOUN [] 
+like prep keratin NOUN [fingernails ] 
+human amod fingernails NOUN [] 
+fingernails pobj like ADP [human ] 
+, punct is VERB [] 
+and cc is VERB [] 
+starts conj is VERB [show ] 
+to aux show VERB [] 
+show xcomp starts VERB [to after ] 
+after prep show VERB [years ] 
+about advmod six NUM [] 
+six nummod years NOUN [about ] 
+years pobj after ADP [six ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+In prep reaches VERB [adults ] 
+most amod adults NOUN [] 
+adults pobj In ADP [most ] 
+, punct reaches VERB [] 
+the det horn NOUN [] 
+horn nsubj reaches VERB [the ] 
+reaches ccomp is VERB [In , horn length , but recorded ] 
+a det length NOUN [] 
+length dobj reaches VERB [a of ] 
+of prep length NOUN [cm ] 
+about advmod 25 NUM [] 
+25 nummod cm NOUN [about ] 
+cm pobj of ADP [25 ( 9.8 ) ] 
+( punct cm NOUN [] 
+9.8 appos cm NOUN [in ] 
+in prep 9.8 NUM [] 
+) punct cm NOUN [] 
+, punct reaches VERB [] 
+but cc reaches VERB [] 
+has aux recorded VERB [] 
+been auxpass recorded VERB [] 
+recorded conj reaches VERB [has been cm in ] 
+up quantmod 36 NUM [] 
+to quantmod 36 NUM [] 
+36 nummod cm NOUN [up to ] 
+cm dobj recorded VERB [36 ( 14 ) ] 
+( punct cm NOUN [] 
+14 appos cm NOUN [in ] 
+in prep 14 NUM [] 
+) punct cm NOUN [] 
+in prep recorded VERB [length ] 
+length pobj in ADP [and kg ] 
+and cc length NOUN [] 
+weight compound kg NOUN [] 
+3.051 nummod kg NOUN [] 
+kg conj length NOUN [weight 3.051 ( mammals ] 
+( punct kg NOUN [] 
+6.73 nummod mammals NOUN [] 
+lb).Among punct mammals NOUN [] 
+terrestrial amod mammals NOUN [] 
+land compound mammals NOUN [] 
+mammals appos kg NOUN [6.73 lb).Among terrestrial land native ] 
+native amod mammals NOUN [to ] 
+to prep native ADJ [Asia ] 
+Asia pobj to ADP [] 
+, punct is VERB [] 
+the det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj is VERB [the Indian ] 
+is ROOT is VERB [reaches , rhinoceros second . ] 
+second acomp is VERB [in to ] 
+in prep second ADJ [size ] 
+size pobj in ADP [] 
+only advmod to ADP [] 
+to prep second ADJ [only elephant ] 
+the det elephant NOUN [] 
+Asian amod elephant NOUN [] 
+elephant pobj to ADP [the Asian ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+It nsubj is VERB [] 
+is ROOT is VERB [It also rhinoceros , behind . ] 
+also advmod is VERB [] 
+the det rhinoceros NOUN [] 
+second advmod largest ADJ [] 
+- punct largest ADJ [] 
+largest amod rhinoceros NOUN [second - ] 
+living compound rhinoceros NOUN [] 
+rhinoceros attr is VERB [the largest living ] 
+, punct is VERB [] 
+behind prep is VERB [rhinoceros ] 
+only advmod rhinoceros NOUN [] 
+the det rhinoceros NOUN [] 
+white amod rhinoceros NOUN [] 
+rhinoceros pobj behind ADP [only the white ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+Males nsubj have VERB [] 
+have ROOT have VERB [Males length with , have . ] 
+a det length NOUN [] 
+head nmod length NOUN [and body ] 
+and cc head NOUN [] 
+body conj head NOUN [] 
+length dobj have VERB [a head of ] 
+of prep length NOUN [cm ] 
+368–380 nummod cm NOUN [] 
+cm pobj of ADP [368–380 ( ft ) ] 
+( punct cm NOUN [] 
+12.07–12.47 compound ft NOUN [] 
+ft appos cm NOUN [12.07–12.47 ] 
+) punct cm NOUN [] 
+with prep have VERB [height ] 
+a det height NOUN [] 
+shoulder compound height NOUN [] 
+height pobj with ADP [a shoulder of ] 
+of prep height NOUN [cm ] 
+170–186 nummod cm NOUN [] 
+cm pobj of ADP [170–186 ( 5.58–6.10 ) ] 
+( punct cm NOUN [] 
+5.58–6.10 appos cm NOUN [ft ] 
+ft intj 5.58–6.10 NUM [] 
+) punct cm NOUN [] 
+, punct have VERB [] 
+while mark have VERB [] 
+females nsubj have VERB [] 
+have advcl have VERB [while females length ] 
+a det length NOUN [] 
+head nmod length NOUN [and body ] 
+and cc head NOUN [] 
+body conj head NOUN [] 
+length dobj have VERB [a head of and height ] 
+of prep length NOUN [cm ] 
+310–340 nummod cm NOUN [] 
+cm pobj of ADP [310–340 ( 10.2–11.2 ) ] 
+( punct cm NOUN [] 
+10.2–11.2 appos cm NOUN [ft ] 
+ft intj 10.2–11.2 NUM [] 
+) punct cm NOUN [] 
+and cc length NOUN [] 
+a det height NOUN [] 
+shoulder compound height NOUN [] 
+height conj length NOUN [a shoulder of ] 
+of prep height NOUN [cm ] 
+148–173 nummod cm NOUN [] 
+cm pobj of ADP [148–173 ( 4.86–5.68 ] 
+( punct cm NOUN [] 
+4.86–5.68 appos cm NOUN [ft ) ] 
+ft intj 4.86–5.68 NUM [] 
+) punct 4.86–5.68 NUM [] 
+. punct have VERB [
+ ] 
+
+  . PUNCT [] 
+The det male NOUN [] 
+male nsubj is VERB [The , averaging ] 
+, punct male NOUN [] 
+averaging acl male NOUN [kg ] 
+about quantmod 2,200 NUM [] 
+2,200 nummod kg NOUN [about ] 
+kg dobj averaging VERB [2,200 ( lb ) ] 
+( punct kg NOUN [] 
+4,850 nummod lb NOUN [] 
+lb appos kg NOUN [4,850 ] 
+) punct kg NOUN [] 
+is ROOT is VERB [male heavier , gives ] 
+heavier acomp is VERB [than ] 
+than prep heavier ADJ [female ] 
+the det female NOUN [] 
+female pobj than ADP [the ] 
+, punct is VERB [] 
+at prep gives VERB [average ] 
+an det average NOUN [] 
+average pobj at ADP [an of ] 
+of prep average NOUN [kg ] 
+about advmod 1,600 NUM [] 
+1,600 nummod kg NOUN [about ] 
+kg pobj of ADP [1,600 ( presence ] 
+( punct kg NOUN [] 
+3,530 nummod presence NOUN [] 
+lb).The amod presence NOUN [] 
+rich amod presence NOUN [] 
+presence appos kg NOUN [3,530 lb).The rich of ] 
+of prep presence NOUN [vessels ] 
+blood compound vessels NOUN [] 
+vessels pobj of ADP [blood underneath ] 
+underneath prep vessels NOUN [tissues ] 
+the det tissues NOUN [] 
+tissues pobj underneath ADP [the in ] 
+in prep tissues NOUN [folds ] 
+folds pobj in ADP [] 
+gives conj is VERB [at it colour . ] 
+it dative gives VERB [] 
+the det colour NOUN [] 
+pinkish amod colour NOUN [] 
+colour dobj gives VERB [the pinkish ] 
+. punct gives VERB [
+ ] 
+
+  . PUNCT [] 
+The det folds NOUN [] 
+folds nsubj increase VERB [The in ] 
+in prep folds NOUN [skin ] 
+the det skin NOUN [] 
+skin pobj in ADP [the ] 
+increase ROOT increase VERB [folds area and help . ] 
+the det area NOUN [] 
+surface compound area NOUN [] 
+area dobj increase VERB [the surface ] 
+and cc increase VERB [] 
+help conj increase VERB [in ] 
+in prep help VERB [regulating ] 
+regulating pcomp in ADP [temperature ] 
+the det temperature NOUN [] 
+body compound temperature NOUN [] 
+temperature dobj regulating VERB [the body ] 
+. punct increase VERB [
+ ] 
+
+  . PUNCT [] 
+The det skin NOUN [] 
+thick amod skin NOUN [] 
+skin nsubj protect VERB [The thick ] 
+does aux protect VERB [] 
+not neg protect VERB [] 
+protect ROOT protect VERB [skin does not against . ] 
+against prep protect VERB [bloodsucking ] 
+bloodsucking pcomp against ADP [flies ] 
+Tabanus compound flies NOUN [] 
+flies dobj bloodsucking VERB [Tabanus , leeches ] 
+, punct flies NOUN [] 
+leeches conj flies NOUN [and ticks ] 
+and cc leeches NOUN [] 
+ticks conj leeches NOUN [] 
+. punct protect VERB [
+ ] 
+
+  . PUNCT [] 
+The det specimens NOUN [] 
+largest amod specimens NOUN [] 
+sized amod specimens NOUN [] 
+specimens nsubj range VERB [The largest sized ] 
+range ROOT range VERB [specimens kg lb . ] 
+up quantmod 4,000 NUM [] 
+to quantmod 4,000 NUM [] 
+4,000 nummod kg NOUN [up to ] 
+kg dobj range VERB [4,000 ( ] 
+( punct kg NOUN [] 
+8,820 nummod lb NOUN [] 
+lb intj range VERB [8,820 ) ] 
+) punct lb NOUN [] 
+. punct range VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+one npadvmod horned VERB [] 
+- punct horned VERB [] 
+horned amod rhinoceros NOUN [one - ] 
+rhinoceros nsubj ranged VERB [The horned ] 
+once advmod ranged VERB [] 
+ranged ROOT ranged VERB [rhinoceros once across , along , from . ] 
+across prep ranged VERB [part ] 
+the det part NOUN [] 
+entire amod part NOUN [] 
+northern amod part NOUN [] 
+part pobj across ADP [the entire northern of ] 
+of prep part NOUN [Subcontinent ] 
+the det Subcontinent PROPN [] 
+Indian compound Subcontinent PROPN [] 
+Subcontinent pobj of ADP [the Indian ] 
+, punct ranged VERB [] 
+along prep ranged VERB [basins ] 
+the det basins NOUN [] 
+Indus nmod basins NOUN [, Ganges ] 
+, punct Indus PROPN [] 
+Ganges conj Indus PROPN [and River ] 
+and cc Ganges PROPN [] 
+Brahmaputra compound River PROPN [] 
+River conj Ganges PROPN [Brahmaputra ] 
+basins pobj along ADP [the Indus ] 
+, punct ranged VERB [] 
+from prep ranged VERB [Pakistan to ] 
+Pakistan pobj from ADP [] 
+to prep from ADP [border ] 
+the det border NOUN [] 
+Indian compound Myanmar PROPN [] 
+- punct Myanmar PROPN [] 
+Myanmar compound border NOUN [Indian - ] 
+border pobj to ADP [the Myanmar , including ] 
+, punct border NOUN [] 
+including prep border NOUN [Bangladesh ] 
+Bangladesh pobj including VERB [and parts ] 
+and cc Bangladesh PROPN [] 
+the det parts NOUN [] 
+southern amod parts NOUN [] 
+parts conj Bangladesh PROPN [the southern of ] 
+of prep parts NOUN [Nepal ] 
+Nepal pobj of ADP [and Bhutan ] 
+and cc Nepal PROPN [] 
+Bhutan conj Nepal PROPN [] 
+. punct ranged VERB [
+ ] 
+
+  . PUNCT [] 
+It nsubj occurred VERB [] 
+may aux occurred VERB [] 
+have aux occurred VERB [] 
+also advmod occurred VERB [] 
+occurred ROOT occurred VERB [It may have also in . ] 
+in prep occurred VERB [Myanmar ] 
+Myanmar pobj in ADP [, China ] 
+, punct Myanmar PROPN [] 
+southern amod China PROPN [] 
+China conj Myanmar PROPN [southern and Indochina ] 
+and cc China PROPN [] 
+Indochina conj China PROPN [] 
+. punct occurred VERB [
+ ] 
+
+  . PUNCT [] 
+It nsubj inhabits VERB [] 
+inhabits ROOT inhabits VERB [It grasslands . ] 
+the det grasslands NOUN [] 
+alluvial amod grasslands NOUN [] 
+grasslands dobj inhabits VERB [the alluvial of ] 
+of prep grasslands NOUN [Terai ] 
+the det Terai PROPN [] 
+Terai pobj of ADP [the and basin ] 
+and cc Terai PROPN [] 
+the det basin NOUN [] 
+Brahmaputra compound basin NOUN [] 
+basin conj Terai PROPN [the Brahmaputra ] 
+. punct inhabits VERB [
+ ] 
+
+  . PUNCT [] 
+As prep reduced VERB [result ] 
+a det result NOUN [] 
+result pobj As ADP [a of ] 
+of prep result NOUN [destruction ] 
+habitat compound destruction NOUN [] 
+destruction pobj of ADP [habitat and changes ] 
+and cc destruction NOUN [] 
+climatic amod changes NOUN [] 
+changes conj destruction NOUN [climatic ] 
+its poss range NOUN [] 
+range nsubjpass reduced VERB [its ] 
+has aux reduced VERB [] 
+gradually advmod reduced VERB [] 
+been auxpass reduced VERB [] 
+reduced ROOT reduced VERB [As range has gradually been survived . ] 
+so mark survived VERB [] 
+that mark survived VERB [] 
+by prep survived VERB [century ] 
+the det century NOUN [] 
+19th amod century NOUN [] 
+century pobj by ADP [the 19th ] 
+, punct survived VERB [] 
+it nsubj survived VERB [] 
+only advmod survived VERB [] 
+survived advcl reduced VERB [so that by , it only in ] 
+in prep survived VERB [grasslands ] 
+the det grasslands NOUN [] 
+Terai compound grasslands NOUN [] 
+grasslands pobj in ADP [the Terai of ] 
+of prep grasslands NOUN [Nepal ] 
+southern amod Nepal PROPN [] 
+Nepal pobj of ADP [southern , Pradesh ] 
+, punct Nepal PROPN [] 
+northern amod Pradesh PROPN [] 
+Uttar compound Pradesh PROPN [] 
+Pradesh conj Nepal PROPN [northern Uttar , Bihar ] 
+, punct Pradesh PROPN [] 
+northern amod Bihar PROPN [] 
+Bihar conj Pradesh PROPN [northern , Bengal ] 
+, punct Bihar PROPN [] 
+northern amod Bengal PROPN [] 
+West compound Bengal PROPN [] 
+Bengal conj Bihar PROPN [northern West , and in ] 
+, punct Bengal PROPN [] 
+and cc Bengal PROPN [] 
+in conj Bengal PROPN [Valley ] 
+the det Valley PROPN [] 
+Brahmaputra compound Valley PROPN [] 
+Valley pobj in ADP [the Brahmaputra of ] 
+of prep Valley PROPN [Assam ] 
+Assam pobj of ADP [] 
+. punct reduced VERB [
+ ] 
+
+  . PUNCT [] 
+The det species NOUN [] 
+species nsubj was VERB [The ] 
+was ROOT was VERB [species present until indicated . ] 
+present acomp was VERB [in ] 
+in prep present ADJ [Bihar ] 
+northern amod Bihar PROPN [] 
+Bihar pobj in ADP [northern and Oudh ] 
+and cc Bihar PROPN [] 
+Oudh conj Bihar PROPN [] 
+at advmod least ADJ [] 
+least advmod until ADP [at ] 
+until prep was VERB [least 1770 ] 
+1770 pobj until ADP [] 
+as mark indicated VERB [] 
+indicated advcl was VERB [as in ] 
+in prep indicated VERB [maps ] 
+maps pobj in ADP [produced ] 
+produced acl maps NOUN [by ] 
+by agent produced VERB [Gentil ] 
+Colonel compound Gentil PROPN [] 
+Gentil pobj by ADP [Colonel ] 
+. punct was VERB [
+ ] 
+
+  . PUNCT [] 
+On prep wrote VERB [abundance ] 
+the det abundance NOUN [] 
+former amod abundance NOUN [] 
+abundance pobj On ADP [the former of ] 
+of prep abundance NOUN [species ] 
+the det species NOUN [] 
+species pobj of ADP [the ] 
+, punct wrote VERB [] 
+Thomas compound Jerdon PROPN [] 
+C. compound Jerdon PROPN [] 
+Jerdon nsubj wrote VERB [Thomas C. ] 
+wrote ROOT wrote VERB [On , Jerdon in : ] 
+in prep wrote VERB [1867 ] 
+1867 pobj in ADP [] 
+: punct wrote VERB [
+
+ ] 
+
+
+  : PUNCT [] 
+This det rhinoceros NOUN [] 
+huge amod rhinoceros NOUN [] 
+rhinoceros nsubjpass found VERB [This huge ] 
+is auxpass found VERB [] 
+found ROOT found VERB [rhinoceros is in at , from . ] 
+in prep found VERB [Terai ] 
+the det Terai PROPN [] 
+Terai pobj in ADP [the ] 
+at prep found VERB [foot ] 
+the det foot NOUN [] 
+foot pobj at ADP [the of ] 
+of prep foot NOUN [Himalayas ] 
+the det Himalayas PROPN [] 
+Himalayas pobj of ADP [the ] 
+, punct found VERB [] 
+from prep found VERB [Bhutan to ] 
+Bhutan pobj from ADP [] 
+to prep from ADP [Nepal ] 
+Nepal pobj to ADP [] 
+. punct found VERB [
+ ] 
+
+  . PUNCT [] 
+It nsubj is VERB [] 
+is ROOT is VERB [It common in , and is . ] 
+more advmod common ADJ [] 
+common acomp is VERB [more ] 
+in prep is VERB [portion ] 
+the det portion NOUN [] 
+eastern amod portion NOUN [] 
+portion pobj in ADP [the eastern of than ] 
+of prep portion NOUN [Terai ] 
+the det Terai PROPN [] 
+Terai pobj of ADP [the ] 
+than prep portion NOUN [west ] 
+the det west NOUN [] 
+west pobj than ADP [the ] 
+, punct is VERB [] 
+and cc is VERB [] 
+is conj is VERB [abundant ] 
+most advmod abundant ADJ [] 
+abundant acomp is VERB [most in ] 
+in prep abundant ADJ [Assam ] 
+Assam pobj in ADP [and Dooars ] 
+and cc Assam PROPN [] 
+the det Dooars PROPN [] 
+Bhutan compound Dooars PROPN [] 
+Dooars conj Assam PROPN [the Bhutan ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+I nsubj heard VERB [] 
+have aux heard VERB [] 
+heard ROOT heard VERB [I have from west , but is ] 
+from prep heard VERB [sportsmen ] 
+sportsmen pobj from ADP [of ] 
+of prep sportsmen NOUN [occurrence ] 
+its poss occurrence NOUN [] 
+occurrence pobj of ADP [its ] 
+as advmod west ADV [] 
+far advmod west ADV [] 
+west advcl heard VERB [as far as ] 
+as prep west ADV [Rohilcund ] 
+Rohilcund pobj as ADP [] 
+, punct heard VERB [] 
+but cc heard VERB [] 
+it nsubj is VERB [] 
+is conj heard VERB [it certainly rare there now , and along ; was ] 
+certainly advmod is VERB [] 
+rare acomp is VERB [] 
+there advmod is VERB [] 
+now advmod is VERB [] 
+, punct is VERB [] 
+and cc is VERB [] 
+indeed advmod along ADP [] 
+along conj is VERB [indeed part ] 
+the det part NOUN [] 
+greater amod part NOUN [] 
+part pobj along ADP [the greater of ] 
+of prep part NOUN [Terai ] 
+the det Terai PROPN [] 
+Nepal compound Terai PROPN [] 
+Terai pobj of ADP [the Nepal ] 
+; punct is VERB [] 
+... punct Jelpigoree PROPN [
+ ] 
+
+  ... PUNCT [] 
+Jelpigoree nsubj was VERB [... , station , ] 
+, punct Jelpigoree PROPN [] 
+a det station NOUN [] 
+small amod station NOUN [] 
+military amod station NOUN [] 
+station appos Jelpigoree PROPN [a small military near ] 
+near prep station NOUN [River ] 
+the det River PROPN [] 
+Teesta compound River PROPN [] 
+River pobj near ADP [the Teesta ] 
+, punct Jelpigoree PROPN [] 
+was conj is VERB [Jelpigoree whence and got ] 
+a det whence NOUN [] 
+favourite amod locality NOUN [] 
+locality compound whence NOUN [favourite ] 
+whence attr was VERB [a locality hunt ] 
+to aux hunt VERB [] 
+hunt relcl whence NOUN [to Rhinoceros ] 
+the det Rhinoceros PROPN [] 
+Rhinoceros dobj hunt VERB [the 
+ ] 
+
+  Rhinoceros PROPN [] 
+and cc was VERB [] 
+it nsubj was VERB [] 
+was ccomp got VERB [it from ] 
+from prep was VERB [station ] 
+that det station NOUN [] 
+station pobj from ADP [that Fortescue ] 
+Captain compound Fortescue PROPN [] 
+Fortescue appos station NOUN [Captain ] 
+... punct got VERB [] 
+got conj was VERB [was ... skulls ] 
+his poss skulls NOUN [] 
+skulls dobj got VERB [his , were , ... ] 
+, punct skulls NOUN [] 
+which nsubj were VERB [] 
+were relcl skulls NOUN [which ... first ] 
+... punct were VERB [] 
+the det first ADJ [] 
+first attr were VERB [the seen ] 
+that mark seen VERB [] 
+Mr. compound Blyth PROPN [] 
+Blyth nsubj seen VERB [Mr. ] 
+had aux seen VERB [] 
+seen relcl first ADJ [that Blyth had of ] 
+of prep seen VERB [species ] 
+this det species NOUN [] 
+species pobj of ADP [this ] 
+, punct skulls NOUN [] 
+... punct skulls NOUN [
+
+ ] 
+
+
+  ... PUNCT [] 
+Today npadvmod shrunk VERB [] 
+, punct shrunk VERB [] 
+its poss range NOUN [] 
+range nsubj shrunk VERB [its ] 
+has aux shrunk VERB [] 
+further advmod shrunk VERB [] 
+shrunk ROOT shrunk VERB [Today , range has further to . ] 
+to prep shrunk VERB [pockets ] 
+a quantmod few ADJ [] 
+few amod pockets NOUN [a ] 
+pockets pobj to ADP [few in ] 
+in prep pockets NOUN [Nepal ] 
+southern amod Nepal PROPN [] 
+Nepal pobj in ADP [southern , Bengal ] 
+, punct Nepal PROPN [] 
+northern amod Bengal PROPN [] 
+West compound Bengal PROPN [] 
+Bengal conj Nepal PROPN [northern West , and Valley ] 
+, punct Bengal PROPN [] 
+and cc Bengal PROPN [] 
+the det Valley PROPN [] 
+Brahmaputra compound Valley PROPN [] 
+Valley conj Bengal PROPN [the Brahmaputra ] 
+. punct shrunk VERB [
+ ] 
+
+  . PUNCT [] 
+In prep seen VERB [1980s ] 
+the det 1980s NOUN [] 
+1980s pobj In ADP [the ] 
+, punct seen VERB [] 
+rhinos nsubjpass seen VERB [] 
+were auxpass seen VERB [] 
+frequently advmod seen VERB [] 
+seen ROOT seen VERB [In , rhinos were frequently in . ] 
+in prep seen VERB [area ] 
+the det area NOUN [] 
+narrow amod area NOUN [] 
+plain amod area NOUN [] 
+area pobj in ADP [the narrow plain of ] 
+of prep area NOUN [Park ] 
+Royal compound Park PROPN [] 
+Manas compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj of ADP [Royal Manas National in ] 
+in prep Park PROPN [Bhutan ] 
+Bhutan pobj in ADP [] 
+. punct seen VERB [
+ ] 
+
+  . PUNCT [] 
+Today npadvmod restricted VERB [] 
+, punct restricted VERB [] 
+they nsubjpass restricted VERB [] 
+are auxpass restricted VERB [] 
+restricted ROOT restricted VERB [Today , they are to , occur . ] 
+to prep restricted VERB [habitats ] 
+habitats pobj to ADP [surrounded ] 
+surrounded acl habitats NOUN [by ] 
+by agent surrounded VERB [landscapes ] 
+human npadvmod dominated VERB [] 
+- punct dominated VERB [] 
+dominated amod landscapes NOUN [human - ] 
+landscapes pobj by ADP [dominated ] 
+, punct restricted VERB [] 
+so mark occur VERB [] 
+that mark occur VERB [] 
+they nsubj occur VERB [] 
+often advmod occur VERB [] 
+occur advcl restricted VERB [so that they often in ] 
+in prep occur VERB [areas ] 
+adjacent amod areas NOUN [] 
+cultivated amod areas NOUN [] 
+areas pobj in ADP [adjacent cultivated , pastures ] 
+, punct areas NOUN [] 
+pastures conj areas NOUN [, and forests ] 
+, punct pastures NOUN [] 
+and cc pastures NOUN [] 
+secondary amod forests NOUN [] 
+forests conj pastures NOUN [secondary ] 
+. punct restricted VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj is VERB [The Indian ] 
+is ROOT is VERB [rhinoceros regionally extinct in . ] 
+regionally advmod is VERB [] 
+extinct acomp is VERB [] 
+in prep is VERB [Pakistan ] 
+Pakistan pobj in ADP [] 
+. punct is VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+In prep estimated VERB [2006 ] 
+2006 pobj In ADP [] 
+, punct estimated VERB [] 
+the det population NOUN [] 
+total amod population NOUN [] 
+population nsubjpass estimated VERB [the total ] 
+was auxpass estimated VERB [] 
+estimated ROOT estimated VERB [In , population was be ] 
+to aux be VERB [] 
+be xcomp estimated VERB [to individuals ] 
+2,575 nummod individuals NOUN [] 
+individuals attr be VERB [2,575 , lived : in : ] 
+, punct individuals NOUN [] 
+of prep lived VERB [which ] 
+which pobj of ADP [] 
+2,200 nsubj lived VERB [] 
+lived relcl individuals NOUN [of 2,200 in ] 
+in prep lived VERB [areas ] 
+Indian amod areas NOUN [] 
+protected amod areas NOUN [] 
+areas pobj in ADP [Indian protected ] 
+: punct individuals NOUN [
+ ] 
+
+  : PUNCT [] 
+in prep individuals NOUN [Park ] 
+Kaziranga compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj in ADP [Kaziranga National ] 
+: punct individuals NOUN [
+ ] 
+
+  : PUNCT [] 
+1,855 nummod — NUM [] 
+— nsubj increased VERB [1,855 ] 
+increased ccomp estimated VERB [— from ] 
+from prep increased VERB [366 in ] 
+366 pobj from ADP [] 
+in prep from ADP [1966 ] 
+1966 pobj in ADP [] 
+; punct estimated VERB [] 
+2,048 nummod rhinos NOUN [] 
+rhinos nsubjpass estimated VERB [2,048 ] 
+were auxpass estimated VERB [] 
+estimated ccomp increased VERB [increased ; rhinos were in . in : ] 
+in prep estimated VERB [2009 ] 
+2009 pobj in ADP [] 
+. punct estimated VERB [
+ ] 
+
+  . PUNCT [] 
+in prep estimated VERB [Park ] 
+Jaldapara compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj in ADP [Jaldapara National ] 
+: punct estimated VERB [
+ ] 
+
+  : PUNCT [] 
+108 nummod — NOUN [] 
+— nsubj increased VERB [108 ] 
+increased ROOT increased VERB [estimated — from in : ] 
+from prep increased VERB [84 in ] 
+84 pobj from ADP [] 
+in prep from ADP [2002 ] 
+2002 pobj in ADP [
+ ] 
+
+  2002 NUM [] 
+in prep increased VERB [Sanctuary ] 
+Pobitora compound Sanctuary PROPN [] 
+Wildlife compound Sanctuary PROPN [] 
+Sanctuary pobj in ADP [Pobitora Wildlife ] 
+: punct increased VERB [
+ ] 
+
+  : PUNCT [] 
+81 nummod — NUM [] 
+— nsubj increased VERB [81 ] 
+increased ROOT increased VERB [— from in in : ] 
+from prep increased VERB [54 ] 
+54 pobj from ADP [] 
+in prep increased VERB [1987 ] 
+1987 pobj in ADP [
+ ] 
+
+  1987 NUM [] 
+in prep increased VERB [Park ] 
+Orang compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj in ADP [Orang National ] 
+: punct increased VERB [
+ ] 
+
+  : PUNCT [] 
+68 nummod — NUM [] 
+— nsubj increased VERB [68 ] 
+increased ROOT increased VERB [— from : ] 
+from prep increased VERB [35 in ] 
+35 pobj from ADP [in ] 
+in prep 35 NUM [1972 ] 
+1972 pobj in ADP [
+ ] 
+
+  1972 NUM [] 
+in prep from ADP [Gorumara ] 
+Gorumara pobj in ADP [] 
+: punct increased VERB [
+ ] 
+
+  : PUNCT [] 
+27 nummod — NUM [] 
+— nsubj increased VERB [27 ] 
+increased ROOT increased VERB [— from in in : 21 in : ] 
+from prep increased VERB [22 ] 
+22 pobj from ADP [] 
+in prep increased VERB [2002 ] 
+2002 pobj in ADP [
+ ] 
+
+  2002 NUM [] 
+in prep increased VERB [Park ] 
+Dudhwa compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj in ADP [Dudhwa National ] 
+: punct increased VERB [
+ ] 
+
+  : PUNCT [] 
+21 npadvmod increased VERB [
+ ] 
+
+  21 NUM [] 
+in prep increased VERB [Park ] 
+Manas compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj in ADP [Manas National ] 
+: punct increased VERB [] 
+19 npadvmod estimated VERB [
+ in : 2In ] 
+
+  19 NUM [] 
+in prep 19 NUM [Sanctuary ] 
+Katarniaghat compound Sanctuary PROPN [] 
+Wildlife compound Sanctuary PROPN [] 
+Sanctuary pobj in ADP [Katarniaghat Wildlife ] 
+: punct 19 NUM [] 
+2In appos 19 NUM [2000 ] 
+2000 nummod 2In NUM [] 
+, punct estimated VERB [] 
+about advmod 2,000 NUM [] 
+2,000 nummod rhinos NOUN [about ] 
+rhinos nsubjpass estimated VERB [2,000 ] 
+were auxpass estimated VERB [] 
+estimated ROOT estimated VERB [19 , rhinos were in . ] 
+in prep estimated VERB [Assam ] 
+Assam pobj in ADP [] 
+. punct estimated VERB [
+ ] 
+
+  . PUNCT [] 
+Pobitora compound Sanctuary PROPN [] 
+Wildlife compound Sanctuary PROPN [] 
+Sanctuary nsubj shelters VERB [Pobitora Wildlife ] 
+shelters ROOT shelters VERB [Sanctuary density in . ] 
+the det density NOUN [] 
+highest amod density NOUN [] 
+density dobj shelters VERB [the highest of in — ] 
+of prep density NOUN [rhinos ] 
+Indian amod rhinos NOUN [] 
+rhinos pobj of ADP [Indian ] 
+in prep density NOUN [world ] 
+the det world NOUN [] 
+world pobj in ADP [the ] 
+— acl density NOUN [with ] 
+with prep — X [individuals ] 
+84 nummod individuals NOUN [] 
+individuals pobj with ADP [84 in ] 
+in prep individuals NOUN [2009 ] 
+2009 pobj in ADP [] 
+in prep shelters VERB [area ] 
+an det area NOUN [] 
+area pobj in ADP [an of ] 
+of prep area NOUN [km2 ] 
+38.80 nummod km2 NOUN [] 
+km2 pobj of ADP [38.80 ( mi ) ] 
+( punct km2 NOUN [] 
+14.98 nummod sq PROPN [] 
+sq compound mi PROPN [14.98 ] 
+mi npadvmod km2 NOUN [sq ] 
+) punct km2 NOUN [] 
+. punct shelters VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+By prep increased VERB [2014 ] 
+2014 pobj By ADP [] 
+, punct increased VERB [] 
+the det population NOUN [] 
+population nsubj increased VERB [the in ] 
+in prep population NOUN [Assam ] 
+Assam pobj in ADP [] 
+increased ROOT increased VERB [By , population to killed . ] 
+to prep increased VERB [rhinos ] 
+2,544 nummod rhinos NOUN [] 
+rhinos pobj to ADP [2,544 , increase , ] 
+, punct rhinos NOUN [] 
+an det increase NOUN [] 
+increase appos rhinos NOUN [an by since ] 
+by prep increase NOUN [% ] 
+27 nummod % NOUN [] 
+% pobj by ADP [27 ] 
+since prep increase NOUN [2006 ] 
+2006 pobj since ADP [] 
+, punct rhinos NOUN [] 
+although mark killed VERB [] 
+more amod 150 NUM [] 
+than quantmod 150 NUM [] 
+150 nummod individuals NOUN [more than ] 
+individuals nsubjpass killed VERB [150 ] 
+were auxpass killed VERB [] 
+killed advcl increased VERB [although individuals were by during ] 
+by agent killed VERB [poachers ] 
+poachers pobj by ADP [] 
+during prep killed VERB [years ] 
+these det years NOUN [] 
+years pobj during ADP [these ] 
+. punct increased VERB [
+ ] 
+
+  . PUNCT [] 
+The det population NOUN [] 
+population nsubj increased VERB [The in ] 
+in prep population NOUN [Nepal ] 
+Nepal pobj in ADP [] 
+increased ROOT increased VERB [population by from to , increasing . ] 
+by prep increased VERB [individuals ] 
+111 nummod individuals NOUN [] 
+individuals pobj by ADP [111 ] 
+from prep increased VERB [2011 ] 
+2011 pobj from ADP [] 
+to prep increased VERB [2015 ] 
+2015 pobj to ADP [] 
+, punct increased VERB [] 
+increasing advcl increased VERB [by ] 
+by prep increasing VERB [% ] 
+21 nummod % NOUN [] 
+% pobj by ADP [21 ] 
+. punct increased VERB [
+ ] 
+
+  . PUNCT [] 
+The det count NOUN [] 
+latest amod count NOUN [] 
+rhino compound count NOUN [] 
+count nsubjpass conducted VERB [The latest rhino ] 
+was auxpass conducted VERB [] 
+conducted ROOT conducted VERB [count was from and revealed . ] 
+from prep conducted VERB [April to ] 
+11 nummod April PROPN [] 
+April pobj from ADP [11 ] 
+to prep from ADP [May ] 
+2 nummod May PROPN [] 
+May pobj to ADP [2 2015 ] 
+2015 nummod May PROPN [] 
+and cc conducted VERB [] 
+revealed conj conducted VERB [individuals ] 
+645 nummod individuals NOUN [] 
+individuals dobj revealed VERB [645 living ] 
+living acl individuals NOUN [in ] 
+in prep living VERB [Park ] 
+Parsa compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj in ADP [Parsa National , Park ] 
+, punct Park PROPN [] 
+Chitwan compound Park PROPN [] 
+National compound Park PROPN [] 
+Park conj Park PROPN [Chitwan National , Park ] 
+, punct Park PROPN [] 
+Bardia compound Park PROPN [] 
+National compound Park PROPN [] 
+Park conj Park PROPN [Bardia National , Reserve ] 
+, punct Park PROPN [] 
+Shuklaphanta compound Reserve PROPN [] 
+Wildlife compound Reserve PROPN [] 
+Reserve conj Park PROPN [Shuklaphanta Wildlife and zones ] 
+and cc Reserve PROPN [] 
+respective amod zones NOUN [] 
+buffer compound zones NOUN [] 
+zones conj Reserve PROPN [respective buffer in ] 
+in prep zones NOUN [Landscape ] 
+the det Landscape PROPN [] 
+Terai compound Arc PROPN [] 
+Arc compound Landscape PROPN [Terai ] 
+Landscape pobj in ADP [the Arc ] 
+. punct conducted VERB [
+ ] 
+
+  . PUNCT [] 
+In prep introduced VERB [Park ] 
+Pakistan poss Park PROPN ['s ] 
+'s case Pakistan PROPN [] 
+Lal compound Park PROPN [] 
+Suhanra compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj In ADP [Pakistan Lal Suhanra National ] 
+, punct introduced VERB [] 
+two nummod rhinos NOUN [] 
+rhinos nsubjpass introduced VERB [two from ] 
+from prep rhinos NOUN [Nepal ] 
+Nepal pobj from ADP [] 
+were auxpass introduced VERB [] 
+introduced ROOT introduced VERB [In , rhinos were in but bred . ] 
+in prep introduced VERB [1983 ] 
+1983 pobj in ADP [] 
+but cc introduced VERB [] 
+have aux bred VERB [] 
+not neg bred VERB [] 
+bred conj introduced VERB [have not far ] 
+so advmod far ADV [] 
+far advmod bred VERB [so ] 
+. punct introduced VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+Adult compound male ADJ [] 
+male amod rhinos NOUN [Adult ] 
+Indian amod rhinos NOUN [] 
+rhinos nsubj are VERB [male Indian ] 
+are ROOT are VERB [rhinos usually solitary . ] 
+usually advmod are VERB [] 
+solitary acomp are VERB [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Groups nsubj consist VERB [] 
+consist ROOT consist VERB [Groups of . ] 
+of prep consist VERB [females ] 
+females pobj of ADP [with ] 
+with prep females NOUN [calves , or of ] 
+calves pobj with ADP [] 
+, punct with ADP [] 
+or cc with ADP [] 
+of conj with ADP [subadults ] 
+up quantmod six NUM [] 
+to quantmod six NUM [] 
+six nummod subadults NOUN [up to ] 
+subadults pobj of ADP [six ] 
+. punct consist VERB [
+ ] 
+
+  . PUNCT [] 
+Such amod groups NOUN [] 
+groups nsubj congregate VERB [Such ] 
+congregate ROOT congregate VERB [groups at and grazing . ] 
+at prep congregate VERB [wallows ] 
+wallows pobj at ADP [] 
+and cc congregate VERB [] 
+grazing conj congregate VERB [areas ] 
+areas dobj grazing NOUN [] 
+. punct congregate VERB [
+ ] 
+
+  . PUNCT [] 
+They nsubj are VERB [] 
+are ROOT are VERB [They active , afternoons , but rest . ] 
+foremost advmod active ADJ [] 
+active acomp are VERB [foremost in ] 
+in prep active ADJ [mornings ] 
+early amod mornings NOUN [] 
+mornings pobj in ADP [early ] 
+, punct are VERB [] 
+late amod afternoons NOUN [] 
+afternoons npadvmod are VERB [late and at ] 
+and cc afternoons NOUN [] 
+at conj afternoons NOUN [night ] 
+night pobj at ADP [] 
+, punct are VERB [] 
+but cc are VERB [] 
+rest conj are VERB [during ] 
+during prep rest NOUN [days ] 
+hot amod days NOUN [] 
+days pobj during ADP [hot ] 
+. punct are VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+They nsubj are VERB [] 
+are ROOT are VERB [They swimmers and run . ] 
+excellent amod swimmers NOUN [] 
+swimmers attr are VERB [excellent ] 
+and cc are VERB [] 
+can aux run VERB [] 
+run conj are VERB [can at for ] 
+at prep run VERB [speeds ] 
+speeds pobj at ADP [of ] 
+of prep speeds NOUN [km ] 
+up quantmod 55 NUM [] 
+to quantmod 55 NUM [] 
+55 nummod km NOUN [up to ] 
+km pobj of ADP [55 / h ] 
+/ punct km NOUN [] 
+h appos km NOUN [mph ] 
+( punct mph NOUN [] 
+34 nummod mph NOUN [] 
+mph appos h NOUN [( 34 ) ] 
+) punct mph NOUN [] 
+for prep run VERB [periods ] 
+short amod periods NOUN [] 
+periods pobj for ADP [short ] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+They nsubj have VERB [] 
+have ROOT have VERB [They senses . ] 
+excellent amod senses NOUN [] 
+senses dobj have VERB [excellent of ] 
+of prep senses NOUN [hearing ] 
+hearing pobj of ADP [and smell but eyesight ] 
+and cc hearing NOUN [] 
+smell conj hearing NOUN [, ] 
+, punct smell NOUN [] 
+but cc hearing NOUN [] 
+relatively advmod poor ADJ [] 
+poor amod eyesight NOUN [relatively ] 
+eyesight conj hearing NOUN [poor ] 
+. punct have VERB [
+ ] 
+
+  . PUNCT [] 
+Over quantmod 10 NUM [] 
+10 nummod vocalisations NOUN [Over ] 
+distinct amod vocalisations NOUN [] 
+vocalisations nsubjpass recorded VERB [10 distinct ] 
+have aux recorded VERB [] 
+been auxpass recorded VERB [] 
+recorded ROOT recorded VERB [vocalisations have been . ] 
+. punct recorded VERB [
+ ] 
+
+  . PUNCT [] 
+Males nsubj have VERB [] 
+have ccomp overlap VERB [Males ranges ( ) ] 
+home compound ranges NOUN [] 
+ranges dobj have VERB [home of mi ] 
+of prep ranges NOUN [km2 ] 
+around quantmod 8 NUM [] 
+2 quantmod 8 NUM [] 
+to quantmod 8 NUM [] 
+8 nummod km2 NOUN [around 2 to ] 
+km2 pobj of ADP [8 ] 
+( punct have VERB [sq ] 
+0.77 quantmod 3.09 NUM [] 
+to quantmod 3.09 NUM [] 
+3.09 nummod sq NOUN [0.77 to ] 
+sq pobj ( PUNCT [3.09 ] 
+mi appos ranges NOUN [] 
+) punct have VERB [] 
+that nsubj overlap VERB [] 
+overlap ROOT overlap VERB [have that other . ] 
+each det other ADJ [] 
+other dobj overlap VERB [each ] 
+. punct overlap VERB [
+ ] 
+
+  . PUNCT [] 
+Dominant amod males NOUN [] 
+males nsubj tolerate VERB [Dominant ] 
+tolerate compound males NOUN [males ] 
+males ROOT males NOUN [tolerate passing , break . ] 
+passing acl males NOUN [through except ] 
+through prep passing VERB [territories ] 
+their poss territories NOUN [] 
+territories pobj through ADP [their ] 
+except prep passing VERB [are ] 
+when advmod are VERB [] 
+they nsubj are VERB [] 
+are advcl except ADP [when they in ] 
+in prep are VERB [mating ] 
+mating pcomp in ADP [season ] 
+season dobj mating VERB [] 
+, punct males NOUN [] 
+when advmod break VERB [] 
+dangerous amod fights NOUN [] 
+fights nsubj break VERB [dangerous ] 
+break relcl males NOUN [when fights out ] 
+out prt break VERB [] 
+. punct males NOUN [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+Indian amod rhinos NOUN [] 
+rhinos nsubj bathe VERB [Indian ] 
+bathe ROOT bathe VERB [rhinos regularly . ] 
+regularly advmod bathe VERB [] 
+. punct bathe VERB [
+ ] 
+
+  . PUNCT [] 
+The det folds NOUN [] 
+folds ROOT folds NOUN [The in and hold . ] 
+in prep folds NOUN [water ] 
+their poss water NOUN [] 
+skin compound trap NOUN [] 
+trap compound water NOUN [skin ] 
+water pobj in ADP [their trap ] 
+and cc folds NOUN [] 
+hold conj folds NOUN [it come ] 
+it dobj hold VERB [] 
+even advmod when ADV [] 
+when advmod come VERB [even ] 
+they nsubj come VERB [] 
+come advcl hold VERB [when they back on ] 
+back advmod come VERB [] 
+on prep come VERB [land ] 
+land pobj on ADP [] 
+. punct folds NOUN [
+ ] 
+
+  . PUNCT [] 
+Indian amod rhinos NOUN [] 
+rhinos nsubj have VERB [Indian ] 
+have ROOT have VERB [rhinos enemies , except , but are ] 
+few amod enemies NOUN [] 
+natural amod enemies NOUN [] 
+enemies dobj have VERB [few natural ] 
+, punct have VERB [] 
+except prep have VERB [for ] 
+for prep except ADP [tigers ] 
+tigers pobj for ADP [, kill ] 
+, punct tigers NOUN [] 
+which nsubj kill VERB [] 
+sometimes advmod kill VERB [] 
+kill relcl tigers NOUN [which sometimes calves ] 
+unguarded amod calves NOUN [] 
+calves dobj kill VERB [unguarded ] 
+, punct have VERB [] 
+but cc have VERB [] 
+adult compound rhinos NOUN [] 
+rhinos nsubj are VERB [adult ] 
+are conj have VERB [rhinos vulnerable . ] 
+less advmod vulnerable ADJ [] 
+vulnerable acomp are VERB [less due ] 
+due prep vulnerable ADJ [to size ] 
+to pcomp due ADP [] 
+their poss size NOUN [] 
+size pobj due ADP [their ] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Mynahs nsubj eat VERB [and egrets ] 
+and cc Mynahs PROPN [] 
+egrets conj Mynahs PROPN [] 
+both dep eat VERB [] 
+eat ROOT eat VERB [Mynahs both invertebrates . ] 
+invertebrates dobj eat VERB [from ] 
+from prep invertebrates NOUN [skin and around ] 
+the det rhino NOUN [] 
+rhino poss skin NOUN [the 's ] 
+'s case rhino NOUN [] 
+skin pobj from ADP [rhino ] 
+and cc from ADP [] 
+around conj from ADP [feet ] 
+its poss feet NOUN [] 
+feet pobj around ADP [its ] 
+. punct eat VERB [
+ ] 
+
+  . PUNCT [] 
+Tabanus nsubj flies VERB [] 
+flies nsubjpass known VERB [Tabanus , type , ] 
+, punct flies VERB [] 
+a det type NOUN [] 
+type appos flies VERB [a of ] 
+of prep type NOUN [fly ] 
+horse compound fly NOUN [] 
+- punct fly NOUN [] 
+fly pobj of ADP [horse - ] 
+, punct flies VERB [] 
+are auxpass known VERB [] 
+known ROOT known VERB [flies are bite . ] 
+to aux bite VERB [] 
+bite xcomp known VERB [to rhinos ] 
+rhinos dobj bite VERB [] 
+. punct known VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhinos NOUN [] 
+rhinos nsubj are VERB [The ] 
+are ROOT are VERB [rhinos also vulnerable . ] 
+also advmod are VERB [] 
+vulnerable acomp are VERB [to ] 
+to prep vulnerable ADJ [diseases ] 
+diseases pobj to ADP [spread ] 
+spread acl diseases NOUN [by ] 
+by agent spread VERB [parasites ] 
+parasites pobj by ADP [as ] 
+such amod as ADP [] 
+as prep parasites NOUN [such leeches ] 
+leeches pobj as ADP [, ticks ] 
+, punct leeches NOUN [] 
+ticks conj leeches NOUN [, and nematodes ] 
+, punct ticks NOUN [] 
+and cc ticks NOUN [] 
+nematodes conj ticks NOUN [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Anthrax nsubjpass known VERB [and sepsis ] 
+and cc Anthrax NOUN [] 
+the det sepsis NOUN [] 
+blood compound disease NOUN [] 
+- punct disease NOUN [] 
+disease compound sepsis NOUN [blood - ] 
+sepsis conj Anthrax NOUN [the disease ] 
+are auxpass known VERB [] 
+known ROOT known VERB [Anthrax are occur . ] 
+to aux occur VERB [] 
+occur xcomp known VERB [to ] 
+. punct known VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+In prep killed VERB [March ] 
+March pobj In ADP [2017 ] 
+2017 nummod March PROPN [] 
+, punct killed VERB [] 
+of prep killed VERB [group ] 
+a det group NOUN [] 
+group pobj of ADP [a of ] 
+of prep group NOUN [tigers ] 
+four nummod tigers NOUN [] 
+tigers pobj of ADP [four consisting ] 
+consisting acl tigers NOUN [of ] 
+of prep consisting VERB [cubs ] 
+an det cubs NOUN [male ] 
+adult compound male NOUN [] 
+male pobj an DET [adult , female ] 
+, punct male NOUN [] 
+female conj male NOUN [and ] 
+and cc female ADJ [] 
+two nummod cubs NOUN [] 
+cubs pobj of ADP [an two ] 
+killed ROOT killed VERB [In , of rhino . ] 
+a det rhino NOUN [] 
+20-year npadvmod old ADJ [] 
+- punct old ADJ [] 
+old amod rhino NOUN [20-year - ] 
+male amod rhino NOUN [] 
+rhino dobj killed VERB [a old male in ] 
+in prep rhino NOUN [Reserve ] 
+the det Reserve PROPN [] 
+Dudhwa compound Reserve PROPN [] 
+Tiger compound Reserve PROPN [] 
+Reserve pobj in ADP [the Dudhwa Tiger ] 
+. punct killed VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj are VERB [Indian ] 
+are ROOT are VERB [rhinoceros grazers . ] 
+grazers attr are VERB [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Their poss diets NOUN [] 
+diets nsubj consist VERB [Their ] 
+consist ROOT consist VERB [diets entirely , but eat ] 
+almost advmod entirely ADV [] 
+entirely advmod consist VERB [almost of ] 
+of prep entirely ADV [grasses ] 
+grasses pobj of ADP [] 
+, punct consist VERB [] 
+but cc consist VERB [] 
+they nsubj eat VERB [] 
+also advmod eat VERB [] 
+eat conj consist VERB [they also leaves . ] 
+leaves dobj eat VERB [, branches ] 
+, punct leaves NOUN [] 
+branches conj leaves NOUN [of ] 
+of prep branches NOUN [shrubs ] 
+shrubs pobj of ADP [and trees , fruits ] 
+and cc shrubs NOUN [] 
+trees conj shrubs NOUN [] 
+, punct shrubs NOUN [] 
+fruits conj shrubs NOUN [, and submerged ] 
+, punct fruits NOUN [] 
+and cc fruits NOUN [] 
+submerged conj fruits NOUN [and floating ] 
+and cc submerged VERB [] 
+floating conj submerged VERB [plants ] 
+aquatic amod plants NOUN [] 
+plants dobj floating VERB [aquatic ] 
+. punct eat VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+They nsubj feed VERB [] 
+feed ROOT feed VERB [They in . ] 
+in prep feed VERB [mornings ] 
+the det mornings NOUN [] 
+mornings pobj in ADP [the and evenings ] 
+and cc mornings NOUN [] 
+evenings conj mornings NOUN [] 
+. punct feed VERB [
+ ] 
+
+  . PUNCT [] 
+They nsubj use VERB [] 
+use ROOT use VERB [They lips to stems bend . ] 
+their poss lips NOUN [] 
+semi subtok - ADJ [] 
+- subtok prehensile ADJ [semi ] 
+prehensile amod lips NOUN [- ] 
+lips dobj use VERB [their prehensile ] 
+to prep use VERB [grass ] 
+grasp amod grass NOUN [] 
+grass pobj to PART [grasp ] 
+stems dobj use VERB [, ] 
+, punct stems VERB [] 
+bend dep use VERB [stem down , bite ] 
+the det stem NOUN [] 
+stem dobj bend VERB [the ] 
+down prt bend VERB [] 
+, punct bend VERB [] 
+bite conj bend VERB [off , and eat ] 
+off prep bite VERB [top ] 
+the det top NOUN [] 
+top pobj off PART [the ] 
+, punct bite VERB [] 
+and cc bite VERB [] 
+then advmod eat VERB [] 
+eat conj bite VERB [then grass ] 
+the det grass NOUN [] 
+grass dobj eat VERB [the ] 
+. punct use VERB [
+ ] 
+
+  . PUNCT [] 
+They nsubj tackle VERB [] 
+tackle ROOT tackle VERB [They grasses by . ] 
+very advmod tall ADJ [] 
+tall amod grasses NOUN [very ] 
+grasses dobj tackle VERB [tall or saplings ] 
+or cc grasses NOUN [] 
+saplings conj grasses NOUN [] 
+by prep tackle VERB [walking ] 
+walking pcomp by ADP [over , with ] 
+over prep walking VERB [plant ] 
+the det plant NOUN [] 
+plant pobj over ADP [the ] 
+, punct walking VERB [] 
+with prep walking VERB [legs and using ] 
+legs pobj with ADP [on ] 
+on prep legs NOUN [sides ] 
+both det sides NOUN [] 
+sides pobj on ADP [both ] 
+and cc with ADP [] 
+using conj with ADP [weight push ] 
+the det weight NOUN [] 
+weight dobj using VERB [the of ] 
+of prep weight NOUN [bodies ] 
+their poss bodies NOUN [] 
+bodies pobj of ADP [their ] 
+to aux push VERB [] 
+push xcomp using VERB [to end down to ] 
+the det end NOUN [] 
+end dobj push VERB [the of ] 
+of prep end NOUN [plant ] 
+the det plant NOUN [] 
+plant pobj of ADP [the ] 
+down prt push VERB [] 
+to prep push VERB [level ] 
+the det level NOUN [] 
+level pobj to ADP [the of ] 
+of prep level NOUN [mouth ] 
+the det mouth NOUN [] 
+mouth pobj of ADP [the ] 
+. punct tackle VERB [
+ ] 
+
+  . PUNCT [] 
+Mothers nsubj use VERB [] 
+also advmod use VERB [] 
+use ROOT use VERB [Mothers also technique make . ] 
+this det technique NOUN [] 
+technique dobj use VERB [this ] 
+to aux make VERB [] 
+make xcomp use VERB [to edible ] 
+food nsubj edible ADJ [] 
+edible ccomp make VERB [food for ] 
+for prep edible ADJ [calves ] 
+their poss calves NOUN [] 
+calves pobj for ADP [their ] 
+. punct use VERB [
+ ] 
+
+  . PUNCT [] 
+They nsubj drink VERB [] 
+drink ROOT drink VERB [They for at , imbibing . ] 
+for prep drink VERB [minute ] 
+a det minute NOUN [] 
+minute pobj for ADP [a two ] 
+or cc two NUM [] 
+two nummod minute NOUN [or ] 
+at prep drink VERB [time ] 
+a det time NOUN [] 
+time pobj at ADP [a ] 
+, punct drink VERB [] 
+often advmod imbibing VERB [] 
+imbibing advcl drink VERB [often water ] 
+water dobj imbibing VERB [filled ] 
+filled acl water NOUN [with ] 
+with prep filled VERB [urine ] 
+rhinoceros compound urine NOUN [] 
+urine pobj with ADP [rhinoceros ] 
+. punct drink VERB [
+
+
+
+ ] 
+
+
+
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj forms VERB [The Indian ] 
+forms ROOT forms VERB [rhinoceros variety . ] 
+a det variety NOUN [] 
+variety dobj forms VERB [a of ] 
+of prep variety NOUN [groupings ] 
+social amod groupings NOUN [] 
+groupings pobj of ADP [social ] 
+. punct forms VERB [
+ ] 
+
+  . PUNCT [] 
+Adult compound males NOUN [] 
+males nsubj are VERB [Adult ] 
+are ROOT are VERB [males generally solitary , except . ] 
+generally advmod are VERB [] 
+solitary acomp are VERB [] 
+, punct are VERB [] 
+except prep are VERB [for ] 
+for prep except ADP [mating ] 
+mating pcomp for ADP [and fighting ] 
+and cc mating NOUN [] 
+fighting conj mating NOUN [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Adult compound females NOUN [] 
+females nsubj are VERB [Adult ] 
+are ROOT are VERB [females solitary are . ] 
+largely advmod solitary ADJ [] 
+solitary acomp are VERB [largely ] 
+when advmod are VERB [] 
+they nsubj are VERB [] 
+are advcl are VERB [when they without ] 
+without prep are VERB [calves ] 
+calves pobj without ADP [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Mothers nsubj stay VERB [] 
+will aux stay VERB [] 
+stay ROOT stay VERB [Mothers will close for after , allowing . ] 
+close advmod stay VERB [to ] 
+to prep close ADV [calves ] 
+their poss calves NOUN [] 
+calves pobj to ADP [their ] 
+for prep stay VERB [] 
+up quantmod four NUM [] 
+to quantmod four NUM [] 
+four nummod years NOUN [up to ] 
+years npadvmod after ADP [four ] 
+after prep stay VERB [years birth ] 
+their poss birth NOUN [] 
+birth pobj after ADP [their ] 
+, punct stay VERB [] 
+sometimes advmod allowing VERB [] 
+allowing advcl stay VERB [sometimes continue ] 
+an det calf NOUN [] 
+older amod calf NOUN [] 
+calf nsubj continue VERB [an older ] 
+to aux continue VERB [] 
+continue ccomp allowing VERB [calf to accompany ] 
+to aux accompany VERB [] 
+accompany xcomp continue VERB [to her arrives ] 
+her dobj accompany VERB [] 
+once mark arrives VERB [] 
+a det calf NOUN [] 
+newborn amod calf NOUN [] 
+calf nsubj arrives VERB [a newborn ] 
+arrives advcl accompany VERB [once calf ] 
+. punct stay VERB [
+ ] 
+
+  . PUNCT [] 
+Subadult dep form VERB [] 
+males nsubj form VERB [and females ] 
+and cc males NOUN [] 
+females conj males NOUN [] 
+form ROOT form VERB [Subadult males groupings , well . ] 
+consistent amod groupings NOUN [] 
+groupings dobj form VERB [consistent ] 
+, punct form VERB [] 
+as advmod well ADV [] 
+well advmod form VERB [as ] 
+. punct form VERB [
+ ] 
+
+  . PUNCT [] 
+Groups nsubj form VERB [of ] 
+of prep Groups NOUN [males ] 
+two nummod males NOUN [or three ] 
+or cc two NUM [] 
+three conj two NUM [] 
+young amod males NOUN [] 
+males pobj of ADP [two young ] 
+will aux form VERB [] 
+often advmod form VERB [] 
+form ROOT form VERB [Groups will often on , for . ] 
+on prep form VERB [edge ] 
+the det edge NOUN [] 
+edge pobj on ADP [the of ] 
+of prep edge NOUN [ranges ] 
+the det ranges NOUN [] 
+home compound ranges NOUN [] 
+ranges pobj of ADP [the home of ] 
+of prep ranges NOUN [males ] 
+dominant amod males NOUN [] 
+males pobj of ADP [dominant ] 
+, punct form VERB [] 
+presumably advmod for ADP [] 
+for prep form VERB [presumably protection ] 
+protection pobj for ADP [in ] 
+in prep protection NOUN [numbers ] 
+numbers pobj in ADP [] 
+. punct form VERB [
+ ] 
+
+  . PUNCT [] 
+Young amod females NOUN [] 
+females nsubj are VERB [Young ] 
+are ROOT are VERB [females social . ] 
+slightly advmod less ADV [] 
+less advmod social ADJ [slightly ] 
+social acomp are VERB [less than ] 
+than prep social ADJ [males ] 
+the det males NOUN [] 
+males pobj than ADP [the ] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Indian amod rhinos NOUN [] 
+rhinos nsubj form VERB [Indian ] 
+also advmod form VERB [] 
+form ROOT form VERB [rhinos also groupings , at . ] 
+short amod term NOUN [] 
+- punct term NOUN [] 
+term compound groupings NOUN [short - ] 
+groupings dobj form VERB [term ] 
+, punct form VERB [] 
+particularly advmod at ADP [] 
+at prep form VERB [particularly wallows ] 
+forest compound wallows NOUN [] 
+wallows pobj at ADP [forest during ] 
+during prep wallows NOUN [season and in ] 
+the det season NOUN [] 
+monsoon compound season NOUN [] 
+season pobj during ADP [the monsoon ] 
+and cc during ADP [] 
+in conj during ADP [grasslands ] 
+grasslands pobj in ADP [during ] 
+during prep grasslands NOUN [March ] 
+March pobj during ADP [and April ] 
+and cc March PROPN [] 
+April conj March PROPN [] 
+. punct form VERB [
+ ] 
+
+  . PUNCT [] 
+Groups nsubj gather VERB [of ] 
+of prep Groups NOUN [rhinos ] 
+up quantmod 10 NUM [] 
+to quantmod 10 NUM [] 
+10 nummod rhinos NOUN [up to ] 
+rhinos pobj of ADP [10 ] 
+may aux gather VERB [] 
+gather ROOT gather VERB [Groups may in male , but males ] 
+in prep gather VERB [wallows ] 
+wallows pobj in ADP [
+ ] 
+
+  wallows NOUN [] 
+—typically advmod male NOUN [] 
+a det male NOUN [] 
+dominant amod male NOUN [] 
+male dobj gather VERB [—typically a dominant with ] 
+with prep male NOUN [females ] 
+females pobj with ADP [and calves ] 
+and cc females NOUN [] 
+calves conj females NOUN [] 
+, punct gather VERB [] 
+but cc gather VERB [] 
+no det males NOUN [] 
+subadult amod males NOUN [] 
+males conj gather VERB [no subadult . ] 
+. punct males NOUN [
+ ] 
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj makes VERB [The Indian ] 
+makes ROOT makes VERB [rhinoceros variety . ] 
+a det variety NOUN [] 
+wide amod variety NOUN [] 
+variety dobj makes VERB [a wide of ] 
+of prep variety NOUN [vocalisations ] 
+vocalisations pobj of ADP [] 
+. punct makes VERB [
+ ] 
+
+  . PUNCT [] 
+At advmod least ADV [] 
+least advmod 10 NUM [At ] 
+10 nummod vocalisations NOUN [least ] 
+distinct amod vocalisations NOUN [] 
+vocalisations nsubjpass identified VERB [10 distinct ] 
+have aux identified VERB [] 
+been auxpass identified VERB [] 
+identified ROOT identified VERB [vocalisations have been : snorting . ] 
+: punct identified VERB [] 
+snorting advcl identified VERB [, honking ] 
+, punct snorting VERB [] 
+honking conj snorting VERB [, bleating ] 
+, punct honking ADJ [] 
+bleating conj honking ADJ [, roaring ] 
+, punct bleating NOUN [] 
+roaring conj bleating NOUN [, panting ] 
+, punct roaring NOUN [] 
+squeak npadvmod panting VERB [] 
+- punct panting VERB [] 
+panting conj roaring NOUN [squeak - , grunting ] 
+, punct panting VERB [] 
+moo amod grunting VERB [] 
+- punct grunting VERB [] 
+grunting conj panting VERB [moo - , shrieking ] 
+, punct grunting VERB [] 
+shrieking conj grunting VERB [, groaning ] 
+, punct shrieking VERB [] 
+groaning conj shrieking VERB [, rumbling ] 
+, punct groaning VERB [] 
+rumbling conj groaning VERB [and humphing ] 
+and cc rumbling NOUN [] 
+humphing conj rumbling NOUN [] 
+. punct identified VERB [
+ ] 
+
+  . PUNCT [] 
+In prep uses VERB [addition ] 
+addition pobj In ADP [noises ] 
+to aux noises NOUN [] 
+noises acl addition NOUN [to ] 
+, punct uses VERB [] 
+the det rhino NOUN [] 
+rhino nsubj uses VERB [the ] 
+uses ROOT uses VERB [In , rhino communication . ] 
+olfactory amod communication NOUN [] 
+communication dobj uses VERB [olfactory ] 
+. punct uses VERB [
+ ] 
+
+  . PUNCT [] 
+Adult compound males NOUN [] 
+males nsubj urinate ADJ [Adult ] 
+urinate ROOT urinate ADJ [males backwards , far , in . ] 
+backwards advmod urinate ADJ [] 
+, punct urinate ADJ [] 
+as advmod far ADV [] 
+far advmod urinate ADJ [as as ] 
+as prep far ADV [m ] 
+3–4 nummod m VERB [] 
+m pobj as ADP [3–4 behind ] 
+behind prep m VERB [them ] 
+them pobj behind ADP [] 
+, punct urinate ADJ [] 
+often advmod in ADP [] 
+in prep urinate ADJ [often response ] 
+response pobj in ADP [to ] 
+to prep response NOUN [disturbed ] 
+being auxpass disturbed VERB [] 
+disturbed pcomp to ADP [being by ] 
+by agent disturbed VERB [observers ] 
+observers pobj by ADP [] 
+. punct urinate ADJ [
+ ] 
+
+  . PUNCT [] 
+Like prep defecates VERB [rhinos ] 
+all det rhinos NOUN [] 
+rhinos pobj Like ADP [all ] 
+, punct defecates VERB [] 
+the det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj defecates VERB [the Indian ] 
+often advmod defecates VERB [] 
+defecates ROOT defecates VERB [Like , rhinoceros often near . ] 
+near prep defecates VERB [piles ] 
+other amod piles NOUN [] 
+large amod piles NOUN [] 
+dung compound piles NOUN [] 
+piles pobj near ADP [other large dung ] 
+. punct defecates VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhino NOUN [] 
+Indian amod rhino NOUN [] 
+rhino nsubj has VERB [The Indian ] 
+has ROOT has VERB [rhino glands . ] 
+pedal amod glands NOUN [] 
+scent compound glands NOUN [] 
+glands dobj has VERB [pedal scent used ] 
+which nsubjpass used VERB [] 
+are auxpass used VERB [] 
+used relcl glands NOUN [which are mark ] 
+to aux mark VERB [] 
+mark xcomp used VERB [to presence at ] 
+their poss presence NOUN [] 
+presence dobj mark VERB [their ] 
+at prep mark VERB [latrines ] 
+these det latrines NOUN [] 
+rhino compound latrines NOUN [] 
+latrines pobj at ADP [these rhino ] 
+. punct has VERB [
+ ] 
+
+  . PUNCT [] 
+Males nsubjpass observed VERB [] 
+have aux observed VERB [] 
+been auxpass observed VERB [] 
+observed ROOT observed VERB [Males have been walking . ] 
+walking xcomp observed VERB [with to sniffing , following ] 
+with prep walking VERB [heads ] 
+their poss heads NOUN [] 
+heads pobj with ADP [their ] 
+to prep walking VERB [ground ] 
+the det ground NOUN [] 
+ground pobj to ADP [the ] 
+as mark sniffing NOUN [] 
+if mark sniffing NOUN [] 
+sniffing advcl walking VERB [as if ] 
+, punct walking VERB [] 
+presumably advmod following VERB [] 
+following advcl walking VERB [presumably scent ] 
+the det scent NOUN [] 
+scent dobj following VERB [the of ] 
+of prep scent NOUN [females ] 
+females pobj of ADP [] 
+. punct observed VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+In prep are VERB [aggregations ] 
+aggregations pobj In ADP [] 
+, punct are VERB [] 
+Indian amod rhinos NOUN [] 
+rhinos nsubj are VERB [Indian ] 
+are ROOT are VERB [In , rhinos often friendly . ] 
+often advmod are VERB [] 
+friendly acomp are VERB [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+They nsubj greet VERB [] 
+will aux greet VERB [] 
+often advmod greet VERB [] 
+greet ROOT greet VERB [They will often other by . ] 
+each det other ADJ [] 
+other dobj greet VERB [each ] 
+by prep greet VERB [waving ] 
+waving pcomp by ADP [or bobbing ] 
+or cc waving VERB [] 
+bobbing conj waving VERB [heads , flanks ] 
+their poss heads NOUN [] 
+heads dobj bobbing VERB [their ] 
+, punct bobbing VERB [] 
+mounting amod flanks NOUN [] 
+flanks conj bobbing VERB [mounting , noses ] 
+, punct flanks NOUN [] 
+nuzzling amod noses NOUN [] 
+noses conj flanks NOUN [nuzzling , or licking ] 
+, punct noses NOUN [] 
+or cc noses NOUN [] 
+licking conj noses NOUN [] 
+. punct greet VERB [
+ ] 
+
+  . PUNCT [] 
+Rhinos nsubj spar VERB [] 
+will aux spar VERB [] 
+playfully advmod spar VERB [] 
+spar ROOT spar VERB [Rhinos will playfully , run . ] 
+, punct spar VERB [] 
+run conj spar VERB [around , and play ] 
+around advmod run VERB [] 
+, punct run VERB [] 
+and cc run VERB [] 
+play conj run VERB [with in ] 
+with prep play VERB [twigs ] 
+twigs pobj with ADP [] 
+in prep play VERB [mouths ] 
+their poss mouths NOUN [] 
+mouths pobj in ADP [their ] 
+. punct spar VERB [
+ ] 
+
+  . PUNCT [] 
+Adult compound males NOUN [] 
+males nsubj are VERB [Adult ] 
+are ROOT are VERB [males instigators . ] 
+the det instigators NOUN [] 
+primary amod instigators NOUN [] 
+instigators attr are VERB [the primary in ] 
+in prep instigators NOUN [fights ] 
+fights pobj in ADP [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Fights nsubj are VERB [between ] 
+between prep Fights NOUN [males ] 
+dominant amod males NOUN [] 
+males pobj between ADP [dominant ] 
+are ROOT are VERB [Fights cause , and are ] 
+the det cause NOUN [] 
+most advmod common ADJ [] 
+common amod cause NOUN [most ] 
+cause attr are VERB [the common of ] 
+of prep cause NOUN [mortality ] 
+rhino amod mortality NOUN [] 
+mortality pobj of ADP [rhino ] 
+, punct are VERB [] 
+and cc are VERB [] 
+males nsubj are VERB [] 
+are conj are VERB [males also aggressive . ] 
+also advmod are VERB [] 
+very advmod aggressive ADJ [] 
+aggressive acomp are VERB [very toward ] 
+toward prep aggressive ADJ [females ] 
+females pobj toward ADP [during ] 
+during prep females NOUN [courtship ] 
+courtship pobj during ADP [] 
+. punct are VERB [
+ ] 
+
+  . PUNCT [] 
+Males nsubj chase VERB [] 
+will aux chase VERB [] 
+chase ROOT chase VERB [Males will females over and attack . ] 
+females dobj chase VERB [] 
+over prep chase VERB [distances ] 
+long amod distances NOUN [] 
+distances pobj over ADP [long ] 
+and cc chase VERB [] 
+even advmod attack VERB [] 
+attack conj chase VERB [even them face ] 
+them dobj attack VERB [] 
+face npadvmod attack VERB [- to ] 
+- punct face NOUN [] 
+to prep face NOUN [- face ] 
+- punct to ADP [] 
+face pobj to ADP [] 
+. punct chase VERB [
+ ] 
+
+  . PUNCT [] 
+Unlike prep fights VERB [rhinos ] 
+African amod rhinos NOUN [] 
+rhinos pobj Unlike ADP [African ] 
+, punct fights VERB [] 
+the det fights VERB [] 
+Indian amod fights VERB [] 
+rhino compound fights VERB [] 
+fights ROOT fights VERB [Unlike , the Indian rhino with , than . ] 
+with prep fights VERB [incisors ] 
+its poss incisors NOUN [] 
+incisors pobj with ADP [its ] 
+, punct fights VERB [] 
+rather advmod than ADP [] 
+than cc fights VERB [rather horns ] 
+its poss horns NOUN [] 
+horns pobj than ADP [its ] 
+. punct fights VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+Captive amod males NOUN [] 
+males nsubj breed VERB [Captive ] 
+breed ROOT breed VERB [males at , but attain ] 
+at prep breed VERB [years ] 
+five nummod years NOUN [] 
+years pobj at ADP [five of ] 
+of prep years NOUN [age ] 
+age pobj of ADP [] 
+, punct breed VERB [] 
+but cc breed VERB [] 
+wild amod males NOUN [] 
+males nsubj attain VERB [wild ] 
+attain conj breed VERB [males dominance later are . ] 
+dominance dobj attain VERB [] 
+much advmod later ADV [] 
+later advmod attain VERB [much ] 
+when advmod are VERB [] 
+they nsubj are VERB [] 
+are advcl attain VERB [when they larger ] 
+larger acomp are VERB [] 
+. punct attain VERB [
+ ] 
+
+  . PUNCT [] 
+In prep estimated VERB [study ] 
+one nummod study NOUN [] 
+five nummod year NOUN [] 
+- punct year NOUN [] 
+year compound study NOUN [five - ] 
+field compound study NOUN [] 
+study pobj In ADP [one year field ] 
+, punct estimated VERB [] 
+only advmod one NUM [] 
+one nummod rhino NOUN [only ] 
+rhino nsubj estimated VERB [one ] 
+estimated ROOT estimated VERB [In , rhino be . ] 
+to aux be VERB [] 
+be xcomp estimated VERB [to years ] 
+younger amod 15 NUM [] 
+than quantmod 15 NUM [] 
+15 nummod years NOUN [younger than ] 
+years attr be VERB [15 mated ] 
+mated acl years NOUN [successfully ] 
+successfully advmod mated VERB [] 
+. punct estimated VERB [
+ ] 
+
+  . PUNCT [] 
+Captive amod females NOUN [] 
+females nsubj breed VERB [Captive ] 
+breed ROOT breed VERB [females young , but start ] 
+as advmod young ADJ [] 
+young advmod breed VERB [as as ] 
+as prep young ADJ [years ] 
+four nummod years NOUN [] 
+years pobj as ADP [four of ] 
+of prep years NOUN [age ] 
+age pobj of ADP [] 
+, punct breed VERB [] 
+but cc breed VERB [] 
+in prep start VERB [wild ] 
+the det wild NOUN [] 
+wild pobj in ADP [the ] 
+, punct start VERB [] 
+they nsubj start VERB [] 
+usually advmod start VERB [] 
+start conj breed VERB [in , they usually breeding indicates . ] 
+breeding xcomp start VERB [old ] 
+only advmod when ADV [] 
+when advmod old ADJ [only ] 
+six nummod years NOUN [] 
+years npadvmod old ADJ [six ] 
+old amod breeding VERB [when years , ] 
+, punct old ADJ [] 
+which nsubj indicates VERB [] 
+likely advmod indicates VERB [] 
+indicates advcl start VERB [which likely need ] 
+they nsubj need VERB [] 
+need ccomp indicates VERB [they be ] 
+to aux be VERB [] 
+be xcomp need VERB [to large ] 
+large acomp be VERB [enough avoid ] 
+enough advmod large ADJ [] 
+to aux avoid VERB [] 
+avoid xcomp large ADJ [to killed ] 
+being auxpass killed VERB [] 
+killed xcomp avoid VERB [being by ] 
+by agent killed VERB [males ] 
+aggressive amod males NOUN [] 
+males pobj by ADP [aggressive ] 
+. punct start VERB [
+ ] 
+
+  . PUNCT [] 
+Their poss period NOUN [] 
+gestation compound period NOUN [] 
+period nsubj is VERB [Their gestation ] 
+is ROOT is VERB [period months , and ranges ] 
+around quantmod 15.7 NUM [] 
+15.7 nummod months NOUN [around ] 
+months npadvmod is VERB [15.7 ] 
+, punct is VERB [] 
+and cc is VERB [] 
+birth compound interval ADJ [] 
+interval nsubj ranges NOUN [birth ] 
+ranges conj is VERB [interval from . ] 
+from prep ranges NOUN [months ] 
+34–51 nummod months NOUN [] 
+months pobj from ADP [34–51 ] 
+. punct ranges NOUN [
+ ] 
+
+  . PUNCT [] 
+In prep known VERB [captivity ] 
+captivity pobj In ADP [] 
+, punct known VERB [] 
+four nummod rhinos NOUN [] 
+rhinos nsubjpass known VERB [four ] 
+are auxpass known VERB [] 
+known ROOT known VERB [In , rhinos are lived . ] 
+to aux lived VERB [] 
+have aux lived VERB [] 
+lived xcomp known VERB [to have over , living ] 
+over prep lived VERB [years ] 
+40 nummod years NOUN [] 
+years pobj over ADP [40 ] 
+, punct lived VERB [] 
+the det living VERB [] 
+oldest amod living VERB [] 
+living advcl lived VERB [the oldest be ] 
+to aux be VERB [] 
+be xcomp living VERB [to 47 ] 
+47 attr be VERB [] 
+. punct known VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+Sport compound hunting NOUN [] 
+hunting nsubj became VERB [Sport ] 
+became ROOT became VERB [hunting common in . ] 
+common acomp became VERB [] 
+in prep became VERB [1800s ] 
+the det 1800s NOUN [] 
+late amod 1800s NOUN [] 
+1800s pobj in ADP [the late and 1900s ] 
+and cc 1800s NOUN [] 
+early amod 1900s NOUN [] 
+1900s conj 1800s NOUN [early ] 
+. punct became VERB [
+ ] 
+
+  . PUNCT [] 
+Indian amod rhinos NOUN [] 
+rhinos nsubjpass hunted VERB [Indian ] 
+were auxpass hunted VERB [] 
+hunted ROOT hunted VERB [rhinos were relentlessly . ] 
+relentlessly advmod hunted VERB [and persistently ] 
+and cc relentlessly ADV [] 
+persistently conj relentlessly ADV [] 
+. punct hunted VERB [
+ ] 
+
+  . PUNCT [] 
+Reports ROOT Reports NOUN [from . ] 
+from prep Reports NOUN [middle ] 
+the det middle NOUN [] 
+middle pobj from ADP [the of ] 
+of prep middle NOUN [claim ] 
+the det claim NOUN [] 
+19th amod century NOUN [] 
+century compound claim NOUN [19th ] 
+claim pobj of ADP [the century shot ] 
+that mark shot VERB [] 
+some det officers NOUN [] 
+British amod officers NOUN [] 
+military amod officers NOUN [] 
+officers nsubj shot VERB [some British military in ] 
+in prep officers NOUN [Assam ] 
+Assam pobj in ADP [] 
+individually advmod shot VERB [] 
+shot acl claim NOUN [that officers individually rhinos ] 
+more amod 200 NUM [] 
+than quantmod 200 NUM [] 
+200 nummod rhinos NOUN [more than ] 
+rhinos dobj shot VERB [200 ] 
+. punct Reports NOUN [
+ ] 
+
+  . PUNCT [] 
+By prep decreased VERB [1908 ] 
+1908 pobj By ADP [] 
+, punct decreased VERB [] 
+the det population NOUN [] 
+population nsubj decreased VERB [the in ] 
+in prep population NOUN [Kaziranga ] 
+Kaziranga pobj in ADP [] 
+had aux decreased VERB [] 
+decreased ROOT decreased VERB [By , population had to . ] 
+to prep decreased VERB [individuals ] 
+around quantmod 12 NUM [] 
+12 nummod individuals NOUN [around ] 
+individuals pobj to ADP [12 ] 
+. punct decreased VERB [
+ ] 
+
+  . PUNCT [] 
+In prep declined VERB [1900s ] 
+the det 1900s NOUN [] 
+early amod 1900s NOUN [] 
+1900s pobj In ADP [the early ] 
+, punct declined VERB [] 
+the det species NOUN [] 
+species nsubj declined VERB [the ] 
+had aux declined VERB [] 
+declined ROOT declined VERB [In , species had near . ] 
+to aux near ADP [] 
+near xcomp declined VERB [to extinction ] 
+extinction pobj near ADP [] 
+. punct declined VERB [
+ ] 
+
+  . PUNCT [] 
+Poaching nsubj became VERB [for ] 
+for prep Poaching VERB [horn ] 
+rhinoceros compound horn NOUN [] 
+horn pobj for ADP [rhinoceros ] 
+became ROOT became VERB [Poaching reason put . ] 
+the det reason NOUN [] 
+single amod reason NOUN [] 
+most advmod important ADJ [] 
+important amod reason NOUN [most ] 
+reason attr became VERB [the single important for ] 
+for prep reason NOUN [decline ] 
+the det decline NOUN [] 
+decline pobj for ADP [the of ] 
+of prep decline NOUN [rhino ] 
+the det rhino NOUN [] 
+Indian amod rhino NOUN [] 
+rhino pobj of ADP [the Indian ] 
+after mark put VERB [] 
+conservation compound measures NOUN [] 
+measures nsubjpass put VERB [conservation ] 
+were auxpass put VERB [] 
+put advcl became VERB [after measures were in from ] 
+in prep put VERB [place ] 
+place pobj in ADP [] 
+from prep put VERB [beginning ] 
+the det beginning NOUN [] 
+beginning pobj from ADP [the of , ended ] 
+of prep beginning NOUN [century ] 
+the det century NOUN [] 
+20th amod century NOUN [] 
+century pobj of ADP [the 20th ] 
+, punct beginning NOUN [] 
+when advmod ended VERB [] 
+legal amod hunting NOUN [] 
+hunting nsubj ended VERB [legal ] 
+ended relcl beginning NOUN [when hunting ] 
+. punct became VERB [
+ ] 
+
+  . PUNCT [] 
+From prep poached VERB [1980 to ] 
+1980 pobj From ADP [] 
+to prep From ADP [1993 ] 
+1993 pobj to ADP [] 
+, punct poached VERB [] 
+692 nummod rhinos NOUN [] 
+rhinos nsubjpass poached VERB [692 ] 
+were auxpass poached VERB [] 
+poached ROOT poached VERB [From , rhinos were in . ] 
+in prep poached VERB [India ] 
+India pobj in ADP [] 
+. punct poached VERB [
+ ] 
+
+  . PUNCT [] 
+In prep killed VERB [Sanctuary ] 
+India poss Sanctuary PROPN ['s ] 
+'s case India PROPN [] 
+Laokhowa compound Sanctuary PROPN [] 
+Wildlife compound Sanctuary PROPN [] 
+Sanctuary pobj In ADP [India Laokhowa Wildlife ] 
+, punct killed VERB [] 
+41 nummod rhinos NOUN [] 
+rhinos nsubjpass killed VERB [41 population ] 
+were auxpass killed VERB [] 
+killed ROOT killed VERB [In , rhinos were in , . ] 
+in prep killed VERB [1983 ] 
+1983 pobj in ADP [] 
+, punct killed VERB [] 
+virtually advmod population NOUN [] 
+the det population NOUN [] 
+entire amod population NOUN [] 
+population appos rhinos NOUN [virtually the entire of ] 
+of prep population NOUN [sanctuary ] 
+the det sanctuary NOUN [] 
+sanctuary pobj of ADP [the ] 
+. punct killed VERB [
+ ] 
+
+  . PUNCT [] 
+By prep rendered VERB [mid-1990s ] 
+the det mid-1990s NOUN [] 
+mid-1990s pobj By ADP [the ] 
+, punct rendered VERB [] 
+poaching nsubj rendered VERB [] 
+had aux rendered VERB [] 
+rendered ROOT rendered VERB [By , poaching had extinct . ] 
+the det species NOUN [] 
+species nsubj extinct ADJ [the ] 
+extinct ccomp rendered VERB [species there ] 
+there advmod extinct ADJ [] 
+. punct rendered VERB [
+ ] 
+
+  . PUNCT [] 
+In prep extended VERB [1950 ] 
+1950 pobj In ADP [] 
+, punct extended VERB [] 
+Chitwan compound ’s PROPN [] 
+’s nummod forest NOUN [Chitwan ] 
+forest nsubj extended VERB [’s and grasslands ] 
+and cc forest NOUN [] 
+grasslands conj forest NOUN [] 
+extended ROOT extended VERB [In , forest over and were . ] 
+over prep extended VERB [km2 ] 
+more amod 2,600 NUM [] 
+than quantmod 2,600 NUM [] 
+2,600 nummod km2 NOUN [more than ] 
+km2 pobj over ADP [2,600 mi ] 
+( punct mi PROPN [] 
+1,000 nummod mi PROPN [] 
+sq compound mi PROPN [] 
+mi appos km2 NOUN [( 1,000 sq ) ] 
+) punct mi PROPN [] 
+and cc extended VERB [] 
+were conj extended VERB [home ] 
+home advmod were VERB [to ] 
+to prep home ADV [rhinos ] 
+about advmod 800 NUM [] 
+800 nummod rhinos NOUN [about ] 
+rhinos pobj to ADP [800 ] 
+. punct extended VERB [
+ ] 
+
+  . PUNCT [] 
+When advmod moved VERB [] 
+poor amod farmers NOUN [] 
+farmers nsubj moved VERB [poor from ] 
+from prep farmers NOUN [hills ] 
+the det hills NOUN [] 
+mid subtok - NOUN [] 
+- subtok hills NOUN [mid ] 
+hills pobj from ADP [the - ] 
+moved advcl opened VERB [When farmers to in ] 
+to prep moved VERB [Valley ] 
+the det Valley PROPN [] 
+Chitwan compound Valley PROPN [] 
+Valley pobj to ADP [the Chitwan ] 
+in prep moved VERB [search ] 
+search pobj in ADP [of ] 
+of prep search NOUN [land ] 
+arable amod land NOUN [] 
+land pobj of ADP [arable ] 
+, punct opened VERB [] 
+the det area NOUN [] 
+area nsubjpass opened VERB [the ] 
+was auxpass opened VERB [] 
+subsequently advmod opened VERB [] 
+opened ROOT opened VERB [moved , area was subsequently for , and became ] 
+for prep opened VERB [settlement ] 
+settlement pobj for ADP [] 
+, punct opened VERB [] 
+and cc opened VERB [] 
+poaching nsubj became VERB [of ] 
+of prep poaching NOUN [wildlife ] 
+wildlife pobj of ADP [] 
+became conj opened VERB [poaching rampant . ] 
+rampant acomp became VERB [] 
+. punct became VERB [
+ ] 
+
+  . PUNCT [] 
+The det population NOUN [] 
+Chitwan compound population NOUN [] 
+population nsubjpass jeopardised VERB [The Chitwan ] 
+has aux jeopardised VERB [] 
+repeatedly advmod jeopardised VERB [] 
+been auxpass jeopardised VERB [] 
+jeopardised ccomp killed VERB [population has repeatedly been by ] 
+by agent jeopardised VERB [poaching ] 
+poaching pobj by ADP [] 
+; punct killed VERB [] 
+in prep killed VERB [2002 ] 
+2002 pobj in ADP [alone ] 
+alone advmod 2002 NUM [] 
+, punct killed VERB [] 
+poachers nsubj killed VERB [] 
+killed ROOT killed VERB [jeopardised ; in , poachers animals saw . ] 
+37 nummod animals NOUN [] 
+animals dobj killed VERB [37 ] 
+to aux saw VERB [] 
+saw advcl killed VERB [to off and sell ] 
+off prt saw VERB [] 
+and cc saw VERB [] 
+sell conj saw VERB [horns ] 
+their poss horns NOUN [] 
+valuable amod horns NOUN [] 
+horns dobj sell VERB [their valuable ] 
+. punct killed VERB [
+ ] 
+
+  . PUNCT [] 
+Six nummod methods NOUN [] 
+methods nsubjpass recorded VERB [Six of ] 
+of prep methods NOUN [rhinos ] 
+killing compound rhinos NOUN [] 
+rhinos pobj of ADP [killing ] 
+have aux recorded VERB [] 
+been auxpass recorded VERB [] 
+recorded ccomp is VERB [methods have been : ] 
+: punct recorded VERB [
+ ] 
+
+  : PUNCT [] 
+Shooting nsubj is VERB [] 
+is ccomp hire VERB [recorded Shooting by ] 
+by prep is VERB [far method ] 
+far pcomp by ADP [] 
+the det method NOUN [] 
+most advmod common ADJ [] 
+common amod method NOUN [most ] 
+method pobj by ADP [the common used ] 
+used acl method NOUN [] 
+; punct hire VERB [] 
+rhino amod traders NOUN [] 
+horn compound traders NOUN [] 
+traders nsubj hire VERB [rhino horn ] 
+hire ROOT hire VERB [is ; traders sharpshooters and supply . ] 
+sharpshooters dobj hire VERB [] 
+and cc hire VERB [] 
+often advmod supply VERB [] 
+supply conj hire VERB [often them with ] 
+them dobj supply VERB [] 
+with prep supply VERB [rifles ] 
+rifles pobj with ADP [and ammunition ] 
+and cc rifles NOUN [] 
+ammunition conj rifles NOUN [] 
+. punct hire VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Trapping nsubj depends VERB [in ] 
+in prep Trapping PROPN [pit ] 
+a det pit NOUN [] 
+pit pobj in ADP [a ] 
+depends ccomp dug VERB [Trapping largely on cover ] 
+largely advmod depends VERB [] 
+on prep depends VERB [terrain ] 
+the det terrain NOUN [] 
+terrain pobj on ADP [the and availability of ] 
+and cc terrain NOUN [] 
+availability conj terrain NOUN [] 
+of prep terrain NOUN [grass ] 
+grass pobj of ADP [] 
+to aux cover VERB [] 
+cover advcl depends VERB [to it ] 
+it dobj cover VERB [] 
+; punct dug VERB [] 
+pits nsubjpass dug VERB [] 
+are auxpass dug VERB [] 
+dug ROOT dug VERB [depends ; pits are out in , is . ] 
+out prt dug VERB [] 
+in prep dug VERB [way ] 
+such predet way NOUN [] 
+a det way NOUN [] 
+way pobj in ADP [such a has ] 
+that mark has VERB [] 
+a det animal NOUN [] 
+fallen amod animal NOUN [] 
+animal nsubj has VERB [a fallen ] 
+has acl way NOUN [that animal room ] 
+little amod room NOUN [] 
+room dobj has VERB [little manoeuvre ] 
+to aux manoeuvre VERB [] 
+manoeuvre relcl room NOUN [to with above ] 
+with prep manoeuvre VERB [head ] 
+its poss head NOUN [] 
+head pobj with ADP [its ] 
+slightly advmod above ADP [] 
+above prep manoeuvre VERB [slightly pit ] 
+the det pit NOUN [] 
+pit pobj above ADP [the ] 
+, punct dug VERB [] 
+so mark is VERB [] 
+that mark is VERB [] 
+it nsubj is VERB [] 
+is advcl dug VERB [so that it easy saw ] 
+easy acomp is VERB [] 
+to aux saw VERB [] 
+saw xcomp is VERB [to off horn ] 
+off prt saw VERB [] 
+the det horn NOUN [] 
+horn dobj saw VERB [the ] 
+. punct dug VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Electrocution nsubjpass used VERB [] 
+is auxpass used VERB [] 
+used ROOT used VERB [Electrocution is pass . ] 
+where advmod pass VERB [] 
+high amod voltage NOUN [] 
+voltage compound powerlines NOUN [high ] 
+powerlines nsubj pass VERB [voltage ] 
+pass ccomp used VERB [where powerlines through , hook ] 
+through advmod pass VERB [or near ] 
+or cc through ADV [] 
+near conj through ADV [area ] 
+a det area NOUN [] 
+protected amod area NOUN [] 
+area pobj near ADP [a protected ] 
+, punct pass VERB [] 
+to prep hook VERB [which ] 
+which pobj to PART [] 
+poachers nsubj hook VERB [] 
+hook advcl pass VERB [to poachers rod ] 
+a det rod NOUN [] 
+long amod rod NOUN [] 
+, punct rod NOUN [] 
+insulated amod rod NOUN [] 
+rod dobj hook VERB [a long , insulated connected ] 
+connected acl rod NOUN [to ] 
+to prep connected VERB [wire ] 
+a det wire NOUN [] 
+wire pobj to ADP [a , suspended ] 
+, punct wire NOUN [] 
+which nsubjpass suspended VERB [] 
+is auxpass suspended VERB [] 
+suspended relcl wire NOUN [which is above ] 
+above prep suspended VERB [path ] 
+a det path NOUN [] 
+rhino amod path NOUN [] 
+path pobj above ADP [a rhino ] 
+. punct used VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Poisoning nsubj rat NOUN [by ] 
+by prep Poisoning PROPN [smearing ] 
+smearing pcomp by ADP [phosphide ] 
+zinc compound phosphide NOUN [] 
+phosphide dobj smearing VERB [zinc ] 
+rat nsubjpass used VERB [Poisoning poison ] 
+poison dobj rat NOUN [or pesticides ] 
+or cc poison NOUN [] 
+pesticides conj poison NOUN [on ] 
+on prep pesticides NOUN [licks ] 
+salt compound licks NOUN [] 
+licks pobj on ADP [salt used ] 
+frequently advmod used VERB [] 
+used acl licks NOUN [frequently by ] 
+by agent used VERB [rhinos ] 
+rhinos pobj by ADP [] 
+is auxpass used VERB [] 
+sometimes advmod used VERB [] 
+used ROOT used VERB [rat is sometimes . ] 
+. punct used VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Spearing nsubjpass recorded VERB [] 
+has aux recorded VERB [] 
+only advmod recorded VERB [] 
+been auxpass recorded VERB [] 
+recorded ROOT recorded VERB [Spearing has only been in . ] 
+in prep recorded VERB [Park ] 
+Chitwan compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj in ADP [Chitwan National ] 
+. punct recorded VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+A det noose NOUN [] 
+noose nsubj kills VERB [A , cuts , ] 
+, punct noose NOUN [] 
+which nsubj cuts VERB [] 
+cuts relcl noose NOUN [which through ] 
+through prep cuts VERB [skin ] 
+the det rhino NOUN [] 
+rhino poss skin NOUN [the 's ] 
+'s case rhino NOUN [] 
+skin pobj through ADP [rhino ] 
+, punct noose NOUN [] 
+kills ROOT kills VERB [noose it by . ] 
+it dobj kills VERB [] 
+by prep kills VERB [strangulation ] 
+strangulation pobj by ADP [] 
+. punct kills VERB [
+ ] 
+
+  . PUNCT [] 
+Poaching nsubj remained VERB [] 
+, punct remained VERB [] 
+mainly advmod for ADP [] 
+for prep remained VERB [mainly use ] 
+the det use NOUN [] 
+use pobj for ADP [the of in ] 
+of prep use NOUN [horn ] 
+the det horn NOUN [] 
+horn pobj of ADP [the ] 
+in prep use NOUN [medicine ] 
+traditional amod medicine NOUN [] 
+Chinese amod medicine NOUN [] 
+medicine pobj in ADP [traditional Chinese ] 
+, punct remained VERB [] 
+has aux remained VERB [] 
+remained ROOT remained VERB [Poaching , for , has constant and led . ] 
+a det constant NOUN [] 
+constant acomp remained VERB [a ] 
+and cc remained VERB [] 
+has aux led VERB [] 
+led conj remained VERB [has decreases ] 
+to aux decreases NOUN [] 
+decreases xcomp led VERB [to in ] 
+in prep decreases NOUN [populations ] 
+several amod populations NOUN [] 
+important amod populations NOUN [] 
+populations pobj in ADP [several important ] 
+. punct remained VERB [
+ ] 
+
+  . PUNCT [] 
+Apart advmod occurred VERB [from ] 
+from prep Apart ADV [this ] 
+this pobj from ADP [] 
+, punct occurred VERB [] 
+serious amod declines NOUN [] 
+declines nsubj occurred VERB [serious in ] 
+in prep declines NOUN [quality ] 
+quality pobj in ADP [of ] 
+of prep quality NOUN [habitat ] 
+habitat pobj of ADP [] 
+have aux occurred VERB [] 
+occurred ccomp demonstrated VERB [Apart , declines have in , due : invasion ] 
+in prep occurred VERB [areas ] 
+some det areas NOUN [] 
+areas pobj in ADP [some ] 
+, punct occurred VERB [] 
+due prep occurred VERB [to ] 
+to pcomp due ADP [] 
+: punct occurred VERB [
+
+ ] 
+
+
+  : PUNCT [] 
+severe amod invasion NOUN [] 
+invasion dobj occurred VERB [severe by into ] 
+by prep invasion NOUN [plants ] 
+alien amod plants NOUN [] 
+plants pobj by ADP [alien ] 
+into prep invasion NOUN [grasslands ] 
+grasslands pobj into ADP [affecting ] 
+affecting acl grasslands NOUN [populations ] 
+some det populations NOUN [] 
+populations dobj affecting VERB [some ] 
+; punct demonstrated VERB [
+ ] 
+
+  ; PUNCT [] 
+demonstrated ROOT demonstrated VERB [occurred ; reductions ; grazing . ] 
+reductions dobj demonstrated VERB [in ] 
+in prep reductions NOUN [extent ] 
+the det extent NOUN [] 
+extent pobj in ADP [the of and habitats ] 
+of prep extent NOUN [grasslands ] 
+grasslands pobj of ADP [] 
+and cc extent NOUN [] 
+wetland compound habitats NOUN [] 
+habitats conj extent NOUN [wetland due ] 
+due amod habitats NOUN [to encroachment ] 
+to pcomp due ADP [woodland ] 
+woodland pobj to ADP [] 
+encroachment pobj due ADP [and silting ] 
+and cc encroachment NOUN [] 
+silting conj encroachment NOUN [up ] 
+up prt silting VERB [of ] 
+of prep up PART [beels ] 
+beels pobj of ADP [] 
+; punct demonstrated VERB [
+ ] 
+
+  ; PUNCT [] 
+grazing advcl demonstrated VERB [by ] 
+by prep grazing NOUN [livestock ] 
+domestic amod livestock NOUN [] 
+livestock pobj by ADP [domestic ] 
+. punct demonstrated VERB [
+ ] 
+
+  . PUNCT [] 
+The det species NOUN [] 
+species nsubj is VERB [The ] 
+is ROOT is VERB [species inherently at occurs . ] 
+inherently advmod is VERB [] 
+at prep is VERB [risk ] 
+risk pobj at ADP [] 
+because mark occurs VERB [] 
+over quantmod 70 NUM [] 
+70 nummod % NOUN [over ] 
+% nsubj occurs VERB [70 of ] 
+of prep % NOUN [population ] 
+its poss population NOUN [] 
+population pobj of ADP [its ] 
+occurs advcl is VERB [because % at ] 
+at prep occurs VERB [site ] 
+a det site NOUN [] 
+single amod site NOUN [] 
+site pobj at ADP [a single , Park ] 
+, punct site NOUN [] 
+Kaziranga compound Park PROPN [] 
+National compound Park PROPN [] 
+Park appos site NOUN [Kaziranga National ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+Any det event NOUN [] 
+catastrophic amod event NOUN [] 
+event nsubj have VERB [Any catastrophic as ] 
+such amod as ADP [] 
+as prep event NOUN [such disease ] 
+disease pobj as ADP [, disorder ] 
+, punct disease NOUN [] 
+civil amod disorder NOUN [] 
+disorder conj disease NOUN [civil , poaching ] 
+, punct disorder NOUN [] 
+poaching conj disorder NOUN [, or loss ] 
+, punct poaching VERB [] 
+or cc poaching VERB [] 
+habitat compound loss NOUN [] 
+loss conj poaching VERB [habitat ] 
+would aux have VERB [] 
+have ROOT have VERB [event would impact . ] 
+a det impact NOUN [] 
+devastating amod impact NOUN [] 
+impact dobj have VERB [a devastating on ] 
+on prep impact NOUN [status ] 
+the det rhino NOUN [] 
+Indian amod rhino NOUN [] 
+rhino poss status NOUN [the Indian 's ] 
+'s case rhino NOUN [] 
+status pobj on ADP [rhino ] 
+. punct have VERB [
+ ] 
+
+  . PUNCT [] 
+However advmod be VERB [] 
+, punct be VERB [] 
+small amod population NOUN [] 
+population nsubj be VERB [small of ] 
+of prep population NOUN [rhinos ] 
+rhinos pobj of ADP [] 
+may aux be VERB [] 
+be ROOT be VERB [However , population may prone . ] 
+prone acomp be VERB [to ] 
+to prep prone ADJ [inbreeding ] 
+inbreeding pcomp to ADP [depression ] 
+depression dobj inbreeding VERB [] 
+. punct be VERB [
+
+
+
+ ] 
+
+
+
+
+  . PUNCT [] 
+Rhinoceros compound unicornis NOUN [] 
+unicornis nsubjpass listed VERB [Rhinoceros ] 
+has aux listed VERB [] 
+been auxpass listed VERB [] 
+listed ROOT listed VERB [unicornis has been in since . ] 
+in prep listed VERB [Appendix ] 
+CITES compound Appendix PROPN [] 
+Appendix pobj in ADP [CITES I ] 
+I appos Appendix PROPN [] 
+since prep listed VERB [1975 ] 
+1975 pobj since ADP [] 
+. punct listed VERB [
+ ] 
+
+  . PUNCT [] 
+The det governments NOUN [] 
+Indian amod governments NOUN [and Nepalese ] 
+and cc Indian ADJ [] 
+Nepalese conj Indian ADJ [] 
+governments nsubj taken VERB [The Indian ] 
+have aux taken VERB [] 
+taken ROOT taken VERB [governments have steps , with . ] 
+major amod steps NOUN [] 
+steps dobj taken VERB [major towards ] 
+towards prep steps NOUN [conservation ] 
+Indian amod conservation NOUN [] 
+rhinoceros compound conservation NOUN [] 
+conservation pobj towards ADP [Indian rhinoceros ] 
+, punct taken VERB [] 
+especially advmod with ADP [] 
+with prep taken VERB [especially help ] 
+the det help NOUN [] 
+help pobj with ADP [the of and organisations ] 
+of prep help NOUN [Fund ] 
+the det Fund PROPN [] 
+World compound Fund PROPN [] 
+Wide compound Fund PROPN [] 
+Fund pobj of ADP [the World Wide for ( WWF ) ] 
+for prep Fund PROPN [Nature ] 
+Nature pobj for ADP [] 
+( punct Fund PROPN [] 
+WWF appos Fund PROPN [] 
+) punct Fund PROPN [] 
+and cc help NOUN [] 
+other amod organisations NOUN [] 
+non subtok - ADJ [] 
+- subtok governmental ADJ [non ] 
+governmental amod organisations NOUN [- ] 
+organisations conj help NOUN [other governmental ] 
+. punct taken VERB [
+ ] 
+
+  . PUNCT [] 
+In prep initiated VERB [1980s ] 
+the det 1980s NUM [] 
+early amod 1980s NUM [] 
+1980s pobj In ADP [the early ] 
+, punct initiated VERB [] 
+a det scheme NOUN [] 
+rhino amod scheme NOUN [] 
+translocation compound scheme NOUN [] 
+scheme nsubjpass initiated VERB [a rhino translocation ] 
+was auxpass initiated VERB [] 
+initiated ROOT initiated VERB [In , scheme was . ] 
+. punct initiated VERB [
+ ] 
+
+  . PUNCT [] 
+The det pair NOUN [] 
+first amod pair NOUN [] 
+pair nsubjpass reintroduced VERB [The first of ] 
+of prep pair NOUN [rhinos ] 
+rhinos pobj of ADP [] 
+was auxpass reintroduced VERB [] 
+reintroduced ROOT reintroduced VERB [pair was from to in . ] 
+from prep reintroduced VERB [Terai ] 
+Nepal poss Terai PROPN ['s ] 
+'s case Nepal PROPN [] 
+Terai pobj from ADP [Nepal ] 
+to prep reintroduced VERB [Park ] 
+Pakistan poss Park PROPN ['s ] 
+'s case Pakistan PROPN [] 
+Lal compound Park PROPN [] 
+Suhanra compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj to ADP [Pakistan Lal Suhanra National in ] 
+in prep Park PROPN [Punjab ] 
+Punjab pobj in ADP [] 
+in prep reintroduced VERB [1982 ] 
+1982 pobj in ADP [] 
+. punct reintroduced VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+In prep prohibited VERB [1910 ] 
+1910 pobj In ADP [] 
+, punct prohibited VERB [] 
+all det hunting VERB [] 
+rhino amod hunting VERB [] 
+hunting nsubjpass prohibited VERB [all rhino in ] 
+in prep hunting VERB [India ] 
+India pobj in ADP [] 
+became auxpass prohibited VERB [] 
+prohibited ROOT prohibited VERB [In , hunting became . ] 
+. punct prohibited VERB [
+ ] 
+
+  . PUNCT [] 
+In prep relocated VERB [1984 ] 
+1984 pobj In ADP [] 
+, punct relocated VERB [] 
+five nummod rhinos NOUN [] 
+rhinos nsubjpass relocated VERB [five ] 
+were auxpass relocated VERB [] 
+relocated ROOT relocated VERB [In , rhinos were to . ] 
+to prep relocated VERB [— ] 
+Dudhwa compound Park PROPN [] 
+National compound Park PROPN [] 
+Park compound — PROPN [Dudhwa National ] 
+— pobj to ADP [Park four from ] 
+four nummod — PROPN [] 
+from prep — PROPN [fields ] 
+the det fields NOUN [] 
+fields pobj from ADP [the outside and one ] 
+outside prep fields NOUN [Sanctuary ] 
+the det Sanctuary PROPN [] 
+Pobitora compound Sanctuary PROPN [] 
+Wildlife compound Sanctuary PROPN [] 
+Sanctuary pobj outside ADP [the Pobitora Wildlife ] 
+and cc fields NOUN [] 
+one conj fields NOUN [from ] 
+from prep one NUM [Goalpara ] 
+Goalpara pobj from ADP [] 
+. punct relocated VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+In prep ensured VERB [1957 ] 
+1957 pobj In ADP [] 
+, punct ensured VERB [] 
+the det country NOUN [] 
+country poss law NOUN [the 's ] 
+'s case country NOUN [] 
+first amod law NOUN [] 
+conservation compound law NOUN [] 
+law nsubj ensured VERB [country first conservation ] 
+ensured ROOT ensured VERB [In , law protection . ] 
+the det protection NOUN [] 
+protection dobj ensured VERB [the of ] 
+of prep protection NOUN [rhinos ] 
+rhinos pobj of ADP [and habitat ] 
+and cc rhinos NOUN [] 
+their poss habitat NOUN [] 
+habitat conj rhinos NOUN [their ] 
+. punct ensured VERB [
+ ] 
+
+  . PUNCT [] 
+In prep undertook VERB [1959 ] 
+1959 pobj In ADP [] 
+, punct undertook VERB [] 
+Edward compound Gee PROPN [] 
+Pritchard compound Gee PROPN [] 
+Gee nsubj undertook VERB [Edward Pritchard ] 
+undertook ROOT undertook VERB [In , Gee survey , and recommended . ] 
+a det survey NOUN [] 
+survey dobj undertook VERB [a of ] 
+of prep survey NOUN [Valley ] 
+the det Valley PROPN [] 
+Chitwan compound Valley PROPN [] 
+Valley pobj of ADP [the Chitwan ] 
+, punct undertook VERB [] 
+and cc undertook VERB [] 
+recommended conj undertook VERB [creation ] 
+the det creation NOUN [] 
+creation dobj recommended VERB [the of ] 
+of prep creation NOUN [area and of ] 
+a det area NOUN [] 
+protected amod area NOUN [] 
+area pobj of ADP [a protected north ] 
+north advmod area NOUN [of ] 
+of prep north ADV [River ] 
+the det River PROPN [] 
+Rapti compound River PROPN [] 
+River pobj of ADP [the Rapti ] 
+and cc of ADP [] 
+of conj of ADP [sanctuary ] 
+a det sanctuary NOUN [] 
+wildlife compound sanctuary NOUN [] 
+sanctuary pobj of ADP [a wildlife south for ] 
+south advmod sanctuary NOUN [of ] 
+of prep south ADV [river ] 
+the det river NOUN [] 
+river pobj of ADP [the ] 
+for prep sanctuary NOUN [period ] 
+a det period NOUN [] 
+trial compound period NOUN [] 
+period pobj for ADP [a trial of ] 
+of prep period NOUN [years ] 
+10 nummod years NOUN [] 
+years pobj of ADP [10 ] 
+. punct undertook VERB [
+ ] 
+
+  . PUNCT [] 
+After prep recommended VERB [survey ] 
+his poss survey NOUN [] 
+subsequent amod survey NOUN [] 
+survey pobj After ADP [his subsequent of in ] 
+of prep survey NOUN [Chitwan ] 
+Chitwan pobj of ADP [] 
+in prep survey NOUN [1963 ] 
+1963 pobj in ADP [] 
+, punct recommended VERB [] 
+he nsubj recommended VERB [] 
+recommended ROOT recommended VERB [After , he extension . ] 
+extension dobj recommended VERB [of to ] 
+of prep extension NOUN [sanctuary ] 
+the det sanctuary NOUN [] 
+sanctuary pobj of ADP [the ] 
+to prep extension NOUN [south ] 
+the det south NOUN [] 
+south pobj to ADP [the ] 
+. punct recommended VERB [
+ ] 
+
+  . PUNCT [] 
+By prep remained VERB [end ] 
+the det end NOUN [] 
+end pobj By ADP [the of ] 
+of prep end NOUN [1960s ] 
+the det 1960s NOUN [] 
+1960s pobj of ADP [the ] 
+, punct remained VERB [] 
+only advmod 95 NUM [] 
+95 nummod rhinos NOUN [only ] 
+rhinos nsubj remained VERB [95 ] 
+remained ROOT remained VERB [By , rhinos in . ] 
+in prep remained VERB [Valley ] 
+the det Valley PROPN [] 
+Chitwan compound Valley PROPN [] 
+Valley pobj in ADP [the Chitwan ] 
+. punct remained VERB [
+ ] 
+
+  . PUNCT [] 
+The det decline NOUN [] 
+dramatic amod decline NOUN [] 
+decline nsubj prompted VERB [The dramatic of and extent ] 
+of prep decline NOUN [population ] 
+the det population NOUN [] 
+rhino amod population NOUN [] 
+population pobj of ADP [the rhino ] 
+and cc decline NOUN [] 
+the det extent NOUN [] 
+extent conj decline NOUN [the of ] 
+of prep extent NOUN [poaching ] 
+poaching pobj of ADP [] 
+prompted ROOT prompted VERB [decline government institute . ] 
+the det government NOUN [] 
+government dobj prompted VERB [the ] 
+to aux institute VERB [] 
+institute xcomp prompted VERB [to – patrol ] 
+the det – PUNCT [] 
+Gaida compound – PUNCT [] 
+Gasti compound – PUNCT [] 
+– dobj institute VERB [the Gaida Gasti 
+ ] 
+
+  – PUNCT [] 
+a det patrol NOUN [] 
+rhino amod patrol NOUN [] 
+reconnaissance compound patrol NOUN [] 
+patrol dobj institute VERB [a rhino reconnaissance of ] 
+of prep patrol NOUN [men ] 
+130 nummod men NOUN [] 
+armed amod men NOUN [] 
+men pobj of ADP [130 armed and network ] 
+and cc men NOUN [] 
+a det network NOUN [] 
+network conj men NOUN [a of ] 
+of prep network NOUN [posts ] 
+guard compound posts NOUN [] 
+posts pobj of ADP [guard over ] 
+all advmod over ADP [] 
+over prep posts NOUN [all Chitwan ] 
+Chitwan pobj over ADP [] 
+. punct prompted VERB [
+ ] 
+
+  . PUNCT [] 
+To aux prevent VERB [] 
+prevent advcl gazetted VERB [To extinction ] 
+the det extinction NOUN [] 
+extinction dobj prevent VERB [the of ] 
+of prep extinction NOUN [rhinos ] 
+rhinos pobj of ADP [] 
+, punct gazetted VERB [] 
+the det Park PROPN [] 
+Chitwan compound Park PROPN [] 
+National compound Park PROPN [] 
+Park nsubjpass gazetted VERB [the Chitwan National ] 
+was auxpass gazetted VERB [] 
+gazetted ROOT gazetted VERB [prevent , Park was in , with . ] 
+in prep gazetted VERB [December ] 
+December pobj in ADP [1970 ] 
+1970 nummod December PROPN [] 
+, punct gazetted VERB [] 
+with prep gazetted VERB [delineated ] 
+borders nsubj delineated VERB [] 
+delineated pcomp with ADP [borders year and established ] 
+the det year NOUN [] 
+following amod year NOUN [] 
+year dobj delineated VERB [the following ] 
+and cc delineated VERB [] 
+established conj delineated VERB [in , encompassing ] 
+in prep established VERB [1973 ] 
+1973 pobj in ADP [] 
+, punct established VERB [] 
+initially advmod encompassing VERB [] 
+encompassing advcl established VERB [initially area ] 
+an det area NOUN [] 
+area dobj encompassing VERB [an of ] 
+of prep area NOUN [km2 ] 
+544 nummod km2 NOUN [] 
+km2 pobj of ADP [544 mi ) ] 
+( punct mi PROPN [] 
+210 nummod sq NOUN [] 
+sq compound mi PROPN [210 ] 
+mi appos km2 NOUN [( sq ] 
+) punct km2 NOUN [] 
+. punct gazetted VERB [
+ ] 
+
+  . PUNCT [] 
+Since prep recovered VERB [1973 ] 
+1973 pobj Since ADP [] 
+, punct recovered VERB [] 
+the det population NOUN [] 
+population nsubj recovered VERB [the ] 
+has aux recovered VERB [] 
+recovered ROOT recovered VERB [Since , population has well and increased . ] 
+well advmod recovered VERB [] 
+and cc recovered VERB [] 
+increased conj recovered VERB [to in ] 
+to prep increased VERB [animals ] 
+645 nummod animals NOUN [] 
+animals pobj to ADP [645 ] 
+in prep increased VERB [2015 ] 
+2015 pobj in ADP [] 
+. punct recovered VERB [
+ ] 
+
+  . PUNCT [] 
+To aux ensure VERB [] 
+ensure advcl translocated VERB [To survival in ] 
+the det survival NOUN [] 
+survival dobj ensure VERB [the of ] 
+of prep survival NOUN [rhinos ] 
+rhinos pobj of ADP [] 
+in prep ensure VERB [case ] 
+case pobj in ADP [of ] 
+of prep case NOUN [epidemics ] 
+epidemics pobj of ADP [] 
+, punct translocated VERB [] 
+animals nsubjpass translocated VERB [] 
+were auxpass translocated VERB [] 
+translocated ROOT translocated VERB [ensure , animals were annually from to since . ] 
+annually advmod translocated VERB [] 
+from prep translocated VERB [Chitwan ] 
+Chitwan pobj from ADP [] 
+to prep translocated VERB [Park ] 
+the det Park PROPN [] 
+Bardia compound Park PROPN [] 
+National compound Park PROPN [] 
+Park pobj to ADP [the Bardia National and Reserve ] 
+and cc Park PROPN [] 
+the det Reserve PROPN [] 
+Sukla compound Reserve PROPN [] 
+Phanta compound Reserve PROPN [] 
+Wildlife compound Reserve PROPN [] 
+Reserve conj Park PROPN [the Sukla Phanta Wildlife ] 
+since prep translocated VERB [1986 ] 
+1986 pobj since ADP [] 
+. punct translocated VERB [
+
+
+
+ ] 
+
+
+
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj was VERB [The Indian ] 
+was ROOT was VERB [rhinoceros initially difficult . ] 
+initially advmod was VERB [] 
+difficult acomp was VERB [breed ] 
+to aux breed VERB [] 
+breed xcomp difficult ADJ [to in ] 
+in prep breed VERB [captivity ] 
+captivity pobj in ADP [] 
+. punct was VERB [
+ ] 
+
+  . PUNCT [] 
+The det birth NOUN [] 
+first amod birth NOUN [] 
+recorded amod birth NOUN [] 
+captive amod birth NOUN [] 
+birth nsubj was VERB [The first recorded captive of ] 
+of prep birth NOUN [rhinoceros ] 
+a det rhinoceros NOUN [] 
+rhinoceros pobj of ADP [a ] 
+was ROOT was VERB [birth in in , but occur ] 
+in prep was VERB [Kathmandu ] 
+Kathmandu pobj in ADP [] 
+in prep was VERB [1826 ] 
+1826 pobj in ADP [] 
+, punct was VERB [] 
+but cc was VERB [] 
+another det birth NOUN [] 
+successful amod birth NOUN [] 
+birth nsubj occur VERB [another successful ] 
+did aux occur VERB [] 
+not neg occur VERB [] 
+occur conj was VERB [birth did not for . ] 
+for prep occur VERB [years ] 
+nearly advmod 100 NUM [] 
+100 nummod years NOUN [nearly ] 
+years pobj for ADP [100 ] 
+. punct occur VERB [
+ ] 
+
+  . PUNCT [] 
+In prep born VERB [1925 ] 
+1925 pobj In ADP [] 
+, punct born VERB [] 
+a det rhino NOUN [] 
+rhino nsubjpass born VERB [a ] 
+was auxpass born VERB [] 
+born ROOT born VERB [In , rhino was in . ] 
+in prep born VERB [Kolkata ] 
+Kolkata pobj in ADP [] 
+. punct born VERB [
+ ] 
+
+  . PUNCT [] 
+No det rhinoceros NOUN [] 
+rhinoceros nsubjpass bred VERB [No ] 
+was auxpass bred VERB [] 
+successfully advmod bred VERB [] 
+bred ROOT bred VERB [rhinoceros was successfully in until . ] 
+in prep bred VERB [Europe ] 
+Europe pobj in ADP [] 
+until prep bred VERB [1956 ] 
+1956 pobj until ADP [] 
+. punct bred VERB [
+ ] 
+
+  . PUNCT [] 
+On prep born VERB [September ] 
+September pobj On ADP [14 , 1956 ] 
+14 nummod September PROPN [] 
+, punct September PROPN [] 
+1956 appos September PROPN [] 
+, punct born VERB [  ] 
+   , PUNCT [] 
+Rudra nsubjpass born VERB [] 
+was auxpass born VERB [] 
+born ROOT born VERB [On , Rudra was in . ] 
+in prep born VERB [Basel ] 
+Zoo compound Basel PROPN [] 
+Basel pobj in ADP [Zoo , Switzerland ] 
+, punct Basel PROPN [] 
+Switzerland appos Basel PROPN [] 
+. punct born VERB [
+ ] 
+
+  . PUNCT [] 
+In prep became VERB [half ] 
+the det half NOUN [] 
+second amod half NOUN [] 
+half pobj In ADP [the second of ] 
+of prep half NOUN [century ] 
+the det century NOUN [] 
+20th amod century NOUN [] 
+century pobj of ADP [the 20th ] 
+, punct became VERB [] 
+zoos nsubj became VERB [] 
+became ROOT became VERB [In , zoos adept . ] 
+adept acomp became VERB [at ] 
+at prep adept ADJ [breeding ] 
+breeding pcomp at ADP [rhinoceros ] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros dobj breeding VERB [Indian ] 
+. punct became VERB [
+ ] 
+
+  . PUNCT [] 
+By prep born VERB [1983 ] 
+1983 pobj By ADP [] 
+, punct born VERB [] 
+nearly advmod 40 NUM [] 
+40 nummod babies NOUN [nearly ] 
+babies nsubjpass born VERB [40 ] 
+had aux born VERB [] 
+been auxpass born VERB [] 
+born ROOT born VERB [By , babies had been in . ] 
+in prep born VERB [captivity ] 
+captivity pobj in ADP [] 
+. punct born VERB [
+ ] 
+
+  . PUNCT [] 
+As prep born VERB [of ] 
+of prep As ADP [2012 ] 
+2012 pobj of ADP [] 
+, punct born VERB [] 
+33 nummod rhinos NOUN [] 
+Indian amod rhinos NOUN [] 
+rhinos nsubjpass born VERB [33 Indian ] 
+were auxpass born VERB [] 
+born ROOT born VERB [As , rhinos were at . ] 
+at prep born VERB [Basel ] 
+Zoo compound Basel PROPN [] 
+Basel pobj at ADP [Zoo , means ] 
+, punct Basel PROPN [] 
+which nsubj means VERB [] 
+means relcl Basel PROPN [which are ] 
+that mark are VERB [] 
+most amod animals NOUN [] 
+animals nsubj are VERB [most kept ] 
+kept acl animals NOUN [in ] 
+in prep kept VERB [zoo ] 
+a det zoo NOUN [] 
+zoo pobj in ADP [a ] 
+are ccomp means VERB [that animals somehow related ] 
+somehow advmod are VERB [] 
+related acomp are VERB [to in ] 
+to prep related ADJ [population ] 
+the det population NOUN [] 
+population pobj to ADP [the ] 
+in prep related ADJ [zoo ] 
+the det zoo NOUN [] 
+zoo pobj in ADP [the of ] 
+of prep zoo NOUN [Basel ] 
+Basel pobj of ADP [, Switzerland ] 
+, punct Basel PROPN [] 
+Switzerland appos Basel PROPN [] 
+. punct born VERB [
+ ] 
+
+  . PUNCT [] 
+Due prep kept VERB [to success ] 
+to pcomp Due ADP [] 
+the det success NOUN [] 
+success pobj Due ADP [the of ] 
+of prep success NOUN [program ] 
+Zoo compound Basel PROPN [] 
+Basel poss program NOUN [Zoo 's ] 
+'s case Basel PROPN [] 
+breeding compound program NOUN [] 
+program pobj of ADP [Basel breeding , ] 
+, punct program NOUN [] 
+the det Studbook PROPN [] 
+International compound Studbook PROPN [] 
+Studbook nsubjpass kept VERB [the International for ] 
+for prep Studbook PROPN [species ] 
+the det species NOUN [] 
+species pobj for ADP [the ] 
+has aux kept VERB [] 
+been auxpass kept VERB [] 
+kept ROOT kept VERB [Due Studbook has been there since . ] 
+there advmod kept VERB [] 
+since prep kept VERB [1972 ] 
+1972 pobj since ADP [] 
+. punct kept VERB [
+ ] 
+
+  . PUNCT [] 
+Since prep coordinated VERB [1990 ] 
+1990 pobj Since ADP [] 
+, punct coordinated VERB [] 
+the det rhino NOUN [] 
+Indian amod rhino NOUN [] 
+rhino nsubjpass coordinated VERB [the Indian Species ensures ] 
+European compound Species PROPN [] 
+Endangered compound Species PROPN [] 
+Species appos rhino NOUN [European Endangered ] 
+Programme nsubjpass coordinated VERB [] 
+is aux coordinated VERB [] 
+being auxpass coordinated VERB [] 
+coordinated ROOT coordinated VERB [Since , rhino Programme is being there , well , . ] 
+there advmod coordinated VERB [] 
+, punct coordinated VERB [] 
+as advmod well ADV [] 
+well advmod coordinated VERB [as ] 
+, punct coordinated VERB [] 
+which nsubj ensures VERB [] 
+ensures relcl rhino NOUN [which stays ] 
+that mark stays VERB [] 
+the det population NOUN [] 
+captive amod population NOUN [] 
+global amod population NOUN [] 
+Indian amod population NOUN [] 
+rhinoceros compound population NOUN [] 
+population nsubj stays VERB [the captive global Indian rhinoceros ] 
+stays ccomp ensures VERB [that population genetically healthy ] 
+genetically advmod stays VERB [] 
+as advmod healthy ADJ [] 
+healthy acomp stays VERB [as as ] 
+as prep healthy ADJ [possible ] 
+possible amod as ADP [] 
+. punct coordinated VERB [
+ ] 
+
+  . PUNCT [] 
+As prep kept VERB [of ] 
+of prep As ADP [2010 ] 
+2010 pobj of ADP [] 
+, punct kept VERB [] 
+174 nummod rhinos NOUN [] 
+rhinos nsubjpass kept VERB [174 ] 
+are auxpass kept VERB [] 
+kept ROOT kept VERB [As , rhinos are in worldwide . ] 
+in prep kept VERB [zoos ] 
+zoos pobj in ADP [] 
+worldwide advmod kept VERB [] 
+. punct kept VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+In prep inseminated VERB [June ] 
+June pobj In ADP [2009 ] 
+2009 nummod June PROPN [] 
+, punct inseminated VERB [] 
+an det rhino NOUN [] 
+Indian amod rhino NOUN [] 
+rhino nsubjpass inseminated VERB [an Indian ] 
+was auxpass inseminated VERB [] 
+artificially advmod inseminated VERB [] 
+inseminated ROOT inseminated VERB [In , rhino was artificially using and cryopreserved . ] 
+using advcl inseminated VERB [sperm ] 
+sperm dobj using VERB [collected ] 
+collected acl sperm NOUN [years previously ] 
+four nummod years NOUN [] 
+years dobj collected VERB [four ] 
+previously advmod collected VERB [] 
+and cc inseminated VERB [] 
+cryopreserved conj inseminated VERB [at before ] 
+at prep cryopreserved VERB [CryoBioBank ] 
+the det CryoBioBank PROPN [] 
+Cincinnati compound Zoo PROPN [] 
+Zoo compound CryoBioBank PROPN [Cincinnati ] 
+’s compound CryoBioBank PROPN [] 
+CryoBioBank pobj at ADP [the Zoo ’s ] 
+before prep cryopreserved VERB [thawed ] 
+being auxpass thawed VERB [] 
+thawed pcomp before ADP [being and used ] 
+and cc thawed VERB [] 
+used conj thawed VERB [] 
+. punct inseminated VERB [
+ ] 
+
+  . PUNCT [] 
+She nsubj gave VERB [] 
+gave ROOT gave VERB [She birth to in . ] 
+birth dobj gave VERB [] 
+to prep gave VERB [calf ] 
+a det calf NOUN [] 
+male amod calf NOUN [] 
+calf pobj to ADP [a male ] 
+in prep gave VERB [October ] 
+October pobj in ADP [2010 ] 
+2010 nummod October PROPN [] 
+. punct gave VERB [
+ ] 
+
+  . PUNCT [] 
+The det calf NOUN [] 
+calf nsubj died VERB [The ] 
+died ROOT died VERB [calf after . ] 
+12 nummod hours NOUN [] 
+hours npadvmod after ADP [12 ] 
+after prep died VERB [hours birth ] 
+birth pobj after ADP [] 
+. punct died VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+In prep took VERB [June ] 
+June pobj In ADP [2014 ] 
+2014 nummod June PROPN [] 
+, punct took VERB [] 
+the det birth NOUN [] 
+first amod birth NOUN [] 
+" punct birth NOUN [] 
+successful amod birth NOUN [] 
+" punct birth NOUN [] 
+live compound birth NOUN [] 
+- punct birth NOUN [] 
+birth nsubj took VERB [the first " successful " live - from ] 
+from prep birth NOUN [rhino ] 
+an det rhino NOUN [] 
+artificially advmod inseminated VERB [] 
+inseminated amod rhino NOUN [artificially ] 
+rhino pobj from ADP [an inseminated ] 
+took ROOT took VERB [In , birth place at . ] 
+place dobj took VERB [] 
+at prep took VERB [Zoo ] 
+the det Zoo PROPN [] 
+Buffalo compound Zoo PROPN [] 
+Zoo pobj at ADP [the Buffalo in ] 
+in prep Zoo PROPN [York ] 
+New compound York PROPN [] 
+York pobj in ADP [New ] 
+. punct took VERB [ 
+ ] 
+ 
+  . PUNCT [] 
+As prep used VERB [in ] 
+in prep As ADP [Cincinnati ] 
+Cincinnati pobj in ADP [] 
+, punct used VERB [] 
+cryopreserved amod sperm NOUN [] 
+sperm nsubjpass used VERB [cryopreserved ] 
+was auxpass used VERB [] 
+used ROOT used VERB [As , sperm was produce , Monica . ] 
+to aux produce VERB [] 
+produce xcomp used VERB [to calf ] 
+the det calf NOUN [] 
+female amod calf NOUN [] 
+calf dobj produce VERB [the female ] 
+, punct used VERB [] 
+Monica npadvmod used VERB [] 
+. punct used VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+The det Sutra PROPN [] 
+Rhinoceros compound Sutra PROPN [] 
+Sutra nsubj is VERB [The Rhinoceros ] 
+is ROOT is VERB [Sutra text , found . ] 
+an det text NOUN [] 
+early amod text NOUN [] 
+text attr is VERB [an early in ] 
+in prep text NOUN [tradition ] 
+the det tradition NOUN [] 
+Buddhist compound tradition NOUN [] 
+tradition pobj in ADP [the Buddhist ] 
+, punct is VERB [] 
+found advcl is VERB [in ] 
+in prep found VERB [texts ] 
+both preconj texts NOUN [] 
+the det texts NOUN [] 
+Gandhāran compound Buddhist PROPN [] 
+Buddhist compound texts NOUN [Gandhāran ] 
+texts pobj in ADP [both the Buddhist and Canon ] 
+and cc texts NOUN [] 
+the det Canon PROPN [] 
+Pali compound Canon PROPN [] 
+Canon conj texts NOUN [the Pali ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+It nsubj praises VERB [] 
+praises ROOT praises VERB [It lifestyle and encourages . ] 
+the det lifestyle NOUN [] 
+solitary amod lifestyle NOUN [] 
+lifestyle dobj praises VERB [the solitary and stoicism of ] 
+and cc lifestyle NOUN [] 
+stoicism conj lifestyle NOUN [] 
+of prep lifestyle NOUN [rhinoceros ] 
+the det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros pobj of ADP [the Indian ] 
+and cc praises VERB [] 
+encourages conj praises VERB [readers emulate ] 
+readers dobj encourages VERB [] 
+to aux emulate VERB [] 
+emulate xcomp encourages VERB [to virtues ] 
+these det virtues NOUN [] 
+virtues dobj emulate VERB [these ] 
+. punct praises VERB [
+ ] 
+
+  . PUNCT [] 
+In ROOT In ADP [novel , when ] 
+China poss novel NOUN ['s ] 
+'s case China PROPN [] 
+ancient amod novel NOUN [] 
+novel pobj In ADP [China ancient Journey to ] 
+Journey appos novel NOUN [] 
+to prep novel NOUN [West ] 
+the det West PROPN [] 
+West pobj to ADP [the ] 
+, punct In ADP [] 
+when conj In ADP [Tripitaka ] 
+Tripitaka pobj when ADV [( Sanzang ) and travel . ] 
+( punct Tripitaka PROPN [] 
+Sanzang appos Tripitaka PROPN [] 
+) punct Tripitaka PROPN [] 
+and cc Tripitaka PROPN [] 
+his poss travel NOUN [] 
+crew compound travel NOUN [] 
+travel conj Tripitaka PROPN [his crew nearer ( named ) ] 
+nearer advmod travel NOUN [to ] 
+to prep nearer ADV [region ] 
+the det region NOUN [] 
+region pobj to ADP [the of ] 
+of prep region NOUN [India ] 
+India pobj of ADP [] 
+( punct travel NOUN [] 
+named acl travel NOUN [as then ] 
+as prep named VERB [Zu ] 
+Tian compound Zu PROPN [] 
+Zu pobj as ADP [Tian ] 
+back advmod then ADV [] 
+then advmod named VERB [back ] 
+) punct travel NOUN [] 
+. punct Tripitaka PROPN [
+ ] 
+
+  . PUNCT [] 
+3 nummod demons NOUN [] 
+Indian amod demons NOUN [] 
+Rhino amod demons NOUN [] 
+demons ROOT demons NOUN [3 Indian Rhino : King . ] 
+: punct demons NOUN [] 
+King appos demons NOUN [of 辟寒大王 , King ] 
+of prep King NOUN [Protection ] 
+Cold compound Protection PROPN [] 
+Protection pobj of ADP [Cold ] 
+( punct 辟寒大王 NOUN [] 
+辟寒大王 appos King NOUN [( ) ] 
+) punct 辟寒大王 NOUN [] 
+, punct King NOUN [] 
+King appos King NOUN [of and 辟塵大王 based ] 
+of prep King PROPN [Protection ] 
+Heat compound Protection PROPN [] 
+Protection pobj of ADP [Heat 辟暑大王 ] 
+( punct 辟暑大王 NOUN [] 
+辟暑大王 appos Protection PROPN [( ) ] 
+) punct 辟暑大王 NOUN [] 
+and cc King PROPN [] 
+King nmod 辟塵大王 NOUN [of ] 
+of prep King PROPN [Protection ] 
+Dust compound Protection PROPN [] 
+Protection pobj of ADP [Dust ] 
+( punct 辟塵大王 NOUN [] 
+辟塵大王 conj King PROPN [King ( ) ] 
+) punct 辟塵大王 NOUN [] 
+whom nsubjpass based VERB [] 
+were auxpass based VERB [] 
+based relcl King PROPN [whom were in ] 
+in prep based VERB [Cave ] 
+Xuanying compound Cave PROPN [] 
+Cave pobj in ADP [Xuanying 玄英洞 , Mountain ] 
+( punct 玄英洞 PROPN [] 
+玄英洞 appos Cave PROPN [( ) ] 
+) punct 玄英洞 PROPN [] 
+, punct Cave PROPN [] 
+Azure compound Mountain PROPN [] 
+Dragon compound Mountain PROPN [] 
+Mountain conj Cave PROPN [Azure Dragon 青龍山 in ] 
+( punct 青龍山 NOUN [] 
+青龍山 parataxis Mountain PROPN [( ) ] 
+) punct 青龍山 NOUN [] 
+in prep Mountain PROPN [Prefecture ] 
+Jinping compound Prefecture PROPN [] 
+Prefecture pobj in ADP [Jinping 金平府 ] 
+( punct 金平府 PROPN [] 
+金平府 parataxis Prefecture PROPN [( ) ] 
+) punct 金平府 PROPN [] 
+. punct demons NOUN [
+ ] 
+
+  . PUNCT [] 
+They nsubj disguise VERB [] 
+disguise ROOT disguise VERB [They themselves as and steal . ] 
+themselves dobj disguise VERB [] 
+as prep disguise VERB [deities ] 
+Taoist amod deities NOUN [] 
+deities pobj as ADP [Taoist ] 
+and cc disguise VERB [] 
+steal conj disguise VERB [oil from , tricking ] 
+aromatic amod oil NOUN [] 
+oil dobj steal VERB [aromatic ] 
+from prep steal VERB [lamps ] 
+lamps pobj from ADP [in ] 
+in prep lamps NOUN [temple ] 
+a det temple NOUN [] 
+temple pobj in ADP [a ] 
+, punct steal VERB [] 
+tricking conj steal VERB [worshippers into ] 
+worshippers dobj tricking VERB [] 
+into prep tricking VERB [believing ] 
+believing pcomp into ADP [accepted ] 
+that mark accepted VERB [] 
+the det deities NOUN [] 
+" punct deities NOUN [] 
+deities nsubj accepted VERB [the " ] 
+" punct have VERB [] 
+have aux accepted VERB [" ] 
+accepted ccomp believing VERB [that deities have oil ] 
+the det oil NOUN [] 
+oil dobj accepted VERB [the offered ] 
+offered acl oil NOUN [to ] 
+to dative offered VERB [them ] 
+them pobj to ADP [] 
+. punct disguise VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros nsubj was VERB [The Indian ] 
+was ROOT was VERB [rhinoceros rhino . ] 
+the det rhino NOUN [] 
+first amod rhino NOUN [] 
+rhino attr was VERB [the first known ] 
+widely advmod known VERB [] 
+known acl rhino NOUN [widely outside ] 
+outside prep known VERB [range ] 
+its poss range NOUN [] 
+range pobj outside ADP [its ] 
+. punct was VERB [
+ ] 
+
+  . PUNCT [] 
+The det rhinoceros NOUN [] 
+first amod rhinoceros NOUN [] 
+rhinoceros nsubj arrived VERB [The first reach ] 
+to aux reach VERB [] 
+reach relcl rhinoceros NOUN [to Europe in ] 
+Europe dobj reach VERB [] 
+in prep reach VERB [times ] 
+modern amod times NOUN [] 
+times pobj in ADP [modern ] 
+arrived ROOT arrived VERB [rhinoceros in on . ] 
+in prep arrived VERB [Lisbon ] 
+Lisbon pobj in ADP [] 
+on prep arrived VERB [May ] 
+May pobj on ADP [20 , 1515 ] 
+20 nummod May PROPN [] 
+, punct May PROPN [] 
+1515 nummod May PROPN [] 
+. punct arrived VERB [
+ ] 
+
+  . PUNCT [] 
+King compound Manuel PROPN [] 
+Manuel nsubj planned VERB [King I ] 
+I appos Manuel PROPN [of ] 
+of prep I PROPN [Portugal ] 
+Portugal pobj of ADP [] 
+planned ROOT planned VERB [Manuel send , but perished ] 
+to aux send VERB [] 
+send xcomp planned VERB [to rhinoceros to ] 
+the det rhinoceros NOUN [] 
+rhinoceros dobj send VERB [the ] 
+to prep send VERB [X ] 
+Pope compound X PROPN [] 
+Leo compound X PROPN [] 
+X pobj to ADP [Pope Leo ] 
+, punct planned VERB [] 
+but cc planned VERB [] 
+the det rhino NOUN [] 
+rhino nsubj perished VERB [the ] 
+perished conj planned VERB [rhino in . ] 
+in prep perished VERB [shipwreck ] 
+a det shipwreck NOUN [] 
+shipwreck pobj in ADP [a ] 
+. punct perished VERB [
+ ] 
+
+  . PUNCT [] 
+Before prep sketched VERB [dying ] 
+dying pcomp Before ADP [] 
+, punct sketched VERB [] 
+the det rhino NOUN [] 
+rhino nsubjpass sketched VERB [the ] 
+had aux sketched VERB [] 
+been auxpass sketched VERB [] 
+sketched ROOT sketched VERB [Before , rhino had been by . ] 
+by agent sketched VERB [artist ] 
+an det artist NOUN [] 
+unknown amod artist NOUN [] 
+artist pobj by ADP [an unknown ] 
+. punct sketched VERB [
+ ] 
+
+  . PUNCT [] 
+The det artist NOUN [] 
+German amod artist NOUN [] 
+artist compound Dürer PROPN [The German ] 
+Albrecht compound Dürer PROPN [] 
+Dürer nsubj saw VERB [artist Albrecht ] 
+saw ROOT saw VERB [Dürer sketches and carved . ] 
+the det sketches NOUN [] 
+sketches dobj saw VERB [the and descriptions ] 
+and cc sketches NOUN [] 
+descriptions conj sketches NOUN [] 
+and cc saw VERB [] 
+carved conj saw VERB [woodcut , known ] 
+a det woodcut NOUN [] 
+woodcut dobj carved VERB [a of ] 
+of prep woodcut NOUN [rhino ] 
+the det rhino NOUN [] 
+rhino pobj of ADP [the ] 
+, punct carved VERB [] 
+known advcl carved VERB [after as ] 
+ever advmod after ADP [] 
+after advmod known VERB [ever ] 
+as prep known VERB [Rhinoceros ] 
+Dürer poss Rhinoceros PROPN ['s ] 
+'s case Dürer PROPN [] 
+Rhinoceros pobj as ADP [Dürer ] 
+. punct saw VERB [
+ ] 
+
+  . PUNCT [] 
+Though mark had VERB [] 
+the det drawing NOUN [] 
+drawing nsubj had VERB [the ] 
+had advcl became VERB [Though drawing inaccuracies ] 
+some det inaccuracies NOUN [] 
+anatomical amod inaccuracies NOUN [] 
+inaccuracies dobj had VERB [some anatomical ( hornlet ) ] 
+( punct inaccuracies NOUN [] 
+notably advmod hornlet NOUN [] 
+the det hornlet NOUN [] 
+hornlet appos inaccuracies NOUN [notably the protruding ] 
+protruding acl hornlet NOUN [from ] 
+from prep protruding VERB [shoulder ] 
+the det rhino NOUN [] 
+rhino poss shoulder NOUN [the 's ] 
+'s case rhino NOUN [] 
+shoulder pobj from ADP [rhino ] 
+) punct inaccuracies NOUN [] 
+, punct became VERB [] 
+his poss sketch NOUN [] 
+sketch nsubj became VERB [his ] 
+became ROOT became VERB [had , sketch image . ] 
+the det image NOUN [] 
+enduring amod image NOUN [] 
+image attr became VERB [the enduring of ] 
+of prep image NOUN [rhinoceros ] 
+a det rhinoceros NOUN [] 
+rhinoceros pobj of ADP [a in ] 
+in prep rhinoceros NOUN [culture ] 
+western amod culture NOUN [] 
+culture pobj in ADP [western for ] 
+for prep culture NOUN [centuries ] 
+centuries pobj for ADP [] 
+. punct became VERB [
+ ] 
+
+  . PUNCT [] 
+The det public NOUN [] 
+British amod public NOUN [] 
+public nsubj had VERB [The British ] 
+had ccomp caused VERB [public chance ] 
+their poss chance NOUN [] 
+first amod chance NOUN [] 
+chance dobj had VERB [their first view ] 
+to aux view VERB [] 
+view acl chance NOUN [to rhinoceros in ] 
+a det rhinoceros NOUN [] 
+rhinoceros dobj view VERB [a species ] 
+( punct species NOUN [] 
+presumably advmod species NOUN [] 
+this det species NOUN [] 
+species appos rhinoceros NOUN [( presumably this ) ] 
+) punct species NOUN [] 
+in prep view VERB [1683 ] 
+1683 pobj in ADP [] 
+; punct caused VERB [] 
+it nsubj caused VERB [] 
+caused ROOT caused VERB [had ; it row when ] 
+a det row NOUN [] 
+political amod row NOUN [] 
+row dobj caused VERB [a political ] 
+when advmod caused VERB [Jeffreys ] 
+George compound Jeffreys PROPN [] 
+Jeffreys pobj when ADV [George , 1st ] 
+, punct Jeffreys PROPN [] 
+1st appos Jeffreys PROPN [
+ ] 
+
+  1st NOUN [] 
+Baron compound Jeffreys PROPN [] 
+Jeffreys nsubj spread VERB [Baron ] 
+spread ROOT spread VERB [Jeffreys rumour . ] 
+a det rumour NOUN [] 
+rumour dobj spread VERB [a seen ] 
+that mark seen VERB [] 
+his poss rival NOUN [] 
+chief amod rival NOUN [] 
+rival nsubjpass seen VERB [his chief , North 1st Guilford , ] 
+, punct rival NOUN [] 
+Francis compound North PROPN [] 
+North appos rival NOUN [Francis , ] 
+, punct North PROPN [] 
+1st appos rival NOUN [
+ ] 
+
+  1st NOUN [] 
+Baron compound Guilford PROPN [] 
+Guilford appos rival NOUN [Baron ] 
+, punct rival NOUN [] 
+had aux seen VERB [] 
+been auxpass seen VERB [] 
+seen acl rumour NOUN [that rival had been riding ] 
+riding xcomp seen VERB [on ] 
+on prep riding VERB [it ] 
+it pobj on ADP [] 
+. punct spread VERB [
+ ] 
+
+  . PUNCT [] 
+A det seal NOUN [] 
+steatite amod seal NOUN [] 
+seal nsubjpass discovered VERB [A steatite , known ] 
+, punct seal NOUN [] 
+popularly advmod known VERB [] 
+known acl seal NOUN [popularly as ] 
+as prep known VERB [Seal ] 
+Pashupati compound Seal PROPN [] 
+Seal pobj as ADP [Pashupati ] 
+( punct discovered VERB [] 
+around prep discovered VERB [2350–2000 BC ] 
+2350–2000 pobj around ADV [] 
+BC pobj around ADV [] 
+) punct discovered VERB [] 
+was auxpass discovered VERB [] 
+discovered ROOT discovered VERB [seal ( around ) was at in . ] 
+at prep discovered VERB [site ] 
+the det site NOUN [] 
+Mohenjo npadvmod daro VERB [] 
+- punct daro VERB [] 
+daro nmod site NOUN [Mohenjo - ] 
+archaeological amod site NOUN [] 
+site pobj at ADP [the daro archaeological ] 
+in prep discovered VERB [1928–1929 ] 
+1928–1929 pobj in ADP [of ] 
+of prep 1928–1929 NUM [Civilisation ] 
+the det Civilisation PROPN [] 
+Indus compound Valley PROPN [] 
+Valley compound Civilisation PROPN [Indus ] 
+Civilisation pobj of ADP [the Valley ] 
+. punct discovered VERB [
+ ] 
+
+  . PUNCT [] 
+It nsubj has VERB [] 
+has ROOT has VERB [It figure at and surrounded ] 
+a det figure NOUN [] 
+human amod figure NOUN [] 
+figure dobj has VERB [a human ] 
+at prep has VERB [centre ] 
+the det centre NOUN [] 
+centre pobj at ADP [the seated ] 
+seated acl centre NOUN [on ] 
+on prep seated VERB [platform ] 
+a det platform NOUN [] 
+platform pobj on ADP [a ] 
+and cc has VERB [] 
+the det figure NOUN [] 
+human amod figure NOUN [] 
+figure nsubjpass surrounded VERB [the human ] 
+is auxpass surrounded VERB [] 
+surrounded conj has VERB [figure is by . ] 
+by agent surrounded VERB [animals ] 
+four nummod animals NOUN [] 
+wild amod animals NOUN [] 
+animals pobj by ADP [four wild : elephant ] 
+: punct animals NOUN [] 
+an det elephant NOUN [] 
+elephant appos animals NOUN [an and tiger , and buffalo ] 
+and cc elephant NOUN [] 
+a det tiger NOUN [] 
+tiger conj elephant NOUN [a to ] 
+to prep tiger NOUN [side ] 
+its poss side NOUN [] 
+one nummod side NOUN [] 
+side pobj to ADP [its one ] 
+, punct elephant NOUN [] 
+and cc elephant NOUN [] 
+a det buffalo NOUN [] 
+water compound buffalo NOUN [] 
+buffalo conj elephant NOUN [a water and rhinoceros ] 
+and cc buffalo NOUN [] 
+a det rhinoceros NOUN [] 
+rhinoceros conj buffalo NOUN [a on ] 
+on prep rhinoceros NOUN [other ] 
+the det other ADJ [] 
+other pobj on ADP [the ] 
+. punct surrounded VERB [
+ ] 
+
+  . PUNCT [] 
+Rhinoceros nsubj is VERB [] 
+is ROOT is VERB [Rhinoceros Vahana . ] 
+Vahana attr is VERB [of ] 
+of prep Vahana PROPN [Dhavdi ] 
+the det Dhavdi PROPN [] 
+Hindu compound Dhavdi PROPN [] 
+goddess compound Dhavdi PROPN [] 
+Dhavdi pobj of ADP [the Hindu goddess ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+There expl is VERB [] 
+is ROOT is VERB [There temple . ] 
+a det temple NOUN [] 
+temple attr is VERB [a dedicated ] 
+dedicated acl temple NOUN [to ] 
+to prep dedicated VERB [Dhavdi ] 
+Maa nmod Dhavdi PROPN [] 
+( punct Dhavdi PROPN [] 
+Mother nmod Dhavdi PROPN [] 
+) punct Dhavdi PROPN [] 
+Dhavdi pobj to ADP [Maa ( Mother ) in ] 
+in prep Dhavdi PROPN [Dhrangadhra ] 
+Dhrangadhra pobj in ADP [, Gujarat ] 
+, punct Dhrangadhra PROPN [] 
+Gujarat appos Dhrangadhra PROPN [] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+Many amod stories NOUN [] 
+the det stories NOUN [] 
+mythological amod stories NOUN [] 
+stories ROOT stories NOUN [Many the mythological boy ] 
+e.g. advmod boy NOUN [] 
+a det boy NOUN [] 
+boy appos stories NOUN [e.g. a named ] 
+named acl boy NOUN [Rishyasringa with ] 
+Rishyasringa oprd named VERB [] 
+with prep named VERB [horns ] 
+the det horns NOUN [] 
+horns pobj with ADP [the of ] 
+of prep horns NOUN [deer ] 
+a det deer NOUN [] 
+deer pobj of ADP [a ] 
+, punct inspired VERB [] 
+Karkadann dep inspired VERB [] 
+, punct inspired VERB [] 
+unicorn nsubjpass inspired VERB [] 
+may aux inspired VERB [] 
+be auxpass inspired VERB [] 
+inspired ROOT inspired VERB [, Karkadann , unicorn may be by . ] 
+by agent inspired VERB [rhinoceros ] 
+Indian amod rhinoceros NOUN [] 
+rhinoceros pobj by ADP [Indian ] 
+. punct inspired VERB [
+
+
+ ] 
+
+
+
+  . PUNCT [] 
+Rhino compound poaching VERB [] 
+poaching ROOT poaching VERB [Rhino in Clara ] 
+in prep poaching VERB [Assam ] 
+Assam pobj in ADP [
+ ] 
+
+  Assam PROPN [] 
+Dürer poss Clara PROPN ['s ] 
+'s case Dürer PROPN [] 
+Rhinoceros nmod Clara PROPN [
+ ] 
+
+  Rhinoceros PROPN [] 
+Clara dobj poaching VERB [Dürer Rhinoceros rhinoceros Abada ] 
+( punct rhinoceros PROPN [] 
+rhinoceros appos Clara PROPN [( ) ] 
+) punct rhinoceros PROPN [
+ ] 
+
+  ) PUNCT [] 
+Abada appos Clara PROPN [rhinoceros ] 
+( punct rhinoceros PROPN [] 
+rhinoceros appos Abada PROPN [( ) ] 
+) punct rhinoceros PROPN [
+
+ ] 
+
+
+  ) PUNCT [] 
+Kaziranga compound Park PROPN [] 
+National compound Park PROPN [] 
+Park ROOT Park PROPN [Kaziranga National 
+ Unicorn ] 
+
+  Park PROPN [] 
+Unicorn conj Park PROPN [
+
+ ] 
+
+
+  Unicorn PROPN [] 
+The det Soul PROPN [] 
+Soul ROOT Soul PROPN [The of book ] 
+of prep Soul PROPN [Rhino ] 
+the det Rhino PROPN [] 
+Rhino pobj of ADP [the ] 
+( punct book NOUN [] 
+book appos Soul PROPN [( ) ] 
+) punct book NOUN [
+
+ ] 
+
+
+  ) PUNCT [] 
+The det Center PROPN [] 
+Rhino compound Resource PROPN [] 
+Resource compound Center PROPN [Rhino ] 
+Center nmod Foundation PROPN [The Resource 
+ ] 
+
+  Center PROPN [] 
+International compound Foundation PROPN [] 
+Rhino compound Foundation PROPN [] 
+Foundation ROOT Foundation PROPN [Center International Rhino : Greater ] 
+: punct Foundation PROPN [
+ ] 
+
+  : PUNCT [] 
+Greater appos Foundation PROPN [One ] 
+One nummod Greater PROPN [] 
+- punct Horned PROPN [] 
+Horned amod Rhino PROPN [- ] 
+Rhino ROOT Rhino PROPN [Horned ] 
+( punct unicornis NOUN [] 
+Rhinoceros nsubj unicornis NOUN [] 
+unicornis ROOT unicornis NOUN [( Rhinoceros ) ] 
+) punct unicornis NOUN [
+
+ ] 
+
+
+  ) PUNCT [] 
+Nepal compound Conservation PROPN [] 
+Rhino compound Conservation PROPN [] 
+Conservation nmod Rhino PROPN [Nepal Rhino 
+ ] 
+
+  Conservation PROPN [] 
+Indian amod Rhino PROPN [] 
+Rhino ROOT Rhino PROPN [Conservation Indian in TheBigZoo.com : ] 
+in prep Rhino PROPN [website ] 
+Kaziranga compound Park PROPN [] 
+National compound Park PROPN [] 
+Park compound Official ADJ [Kaziranga National ] 
+Official amod website NOUN [Park ] 
+website pobj in ADP [Official 
+ ] 
+
+  website NOUN [] 
+TheBigZoo.com appos Rhino PROPN [] 
+: punct Rhino PROPN [
+ ] 
+
+  : PUNCT [] 
+Greater compound Rhinoceros PROPN [] 
+Indian compound Rhinoceros PROPN [] 
+Rhinoceros ROOT Rhinoceros PROPN [Greater Indian 
+ ] 
+
+  Rhinoceros PROPN [] 
+Indian amod page NOUN [] 
+Rhino amod page NOUN [] 
+page nsubj indien VERB [Indian Rhino at ] 
+at prep page NOUN [AnimalInfo.org page ] 
+AnimalInfo.org pobj at ADP [
+
+ ] 
+
+
+  AnimalInfo.org PROPN [] 
+Indian compound page NOUN [] 
+Rhinoceros compound page NOUN [] 
+page pobj at ADP [Indian Rhinoceros at ] 
+at prep page NOUN [nature.ca Rhinocéros ] 
+nature.ca pobj at ADP [
+ ] 
+
+  nature.ca PROPN [] 
+Page compound Rhinocéros PROPN [] 
+Rhinocéros pobj at ADP [Page ] 
+indien ROOT indien VERB [page page at help ] 
+à det page NOUN [] 
+nature.ca compound page NOUN [
+
+ ] 
+
+
+  nature.ca PROPN [] 
+Indian compound Rhinoceros PROPN [] 
+Rhinoceros compound page NOUN [Indian ] 
+page dobj indien VERB [à nature.ca Rhinoceros ] 
+at prep indien VERB [Images ] 
+UltimateUngulate.com nmod Images PROPN [
+ ] 
+
+  UltimateUngulate.com PROPN [] 
+Images pobj at ADP [UltimateUngulate.com , videos on ] 
+, punct Images PROPN [] 
+videos appos Images PROPN [and information ] 
+and cc videos NOUN [] 
+information conj videos NOUN [] 
+on prep Images PROPN [army ] 
+the det army NOUN [] 
+Indian nmod Rhinoceros PROPN [] 
+Rhinoceros nmod Foundation PROPN [Indian 
+ ] 
+
+  Rhinoceros PROPN [] 
+Asian compound Foundation PROPN [] 
+Rhino compound Foundation PROPN [] 
+Foundation nmod army NOUN [Rhinoceros Asian Rhino 
+ ] 
+
+  Foundation PROPN [] 
+Indian amod army NOUN [] 
+army pobj on ADP [the Foundation Indian ] 
+to aux help VERB [] 
+help advcl indien VERB [to prevent ] 
+prevent xcomp help VERB [census ] 
+rhino compound poaching VERB [] 
+poaching nmod census NOUN [rhino 
+ ] 
+
+  poaching VERB [] 
+Rhino amod census NOUN [] 
+census dobj prevent VERB [poaching Rhino in ] 
+in prep census NOUN [counts ] 
+India poss park NOUN ['s ] 
+'s case India PROPN [] 
+Kaziranga compound park NOUN [] 
+park compound counts VERB [India Kaziranga ] 
+counts pobj in ADP [park more ] 
+12 npadvmod more ADJ [] 
+more advmod counts VERB [12 
+ ] 
+
+  more ADJ [] 

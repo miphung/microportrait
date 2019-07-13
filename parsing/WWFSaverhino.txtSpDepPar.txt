@@ -1,242 +1,1073 @@
-Rhino horn horn nsubjpass
-Traditional Chinese Medicine Medicine pobj
-its use use nsubj
-a status symbol symbol pobj
-success success dobj
-wealth wealth conj
-a threat threat attr
-all rhino range states states pobj
-South Africa Africa nsubj
-home home attr
-the majority majority pobj
-rhinos rhinos pobj
-the world world pobj
-it it nsubjpass
-field programmes programmes nsubj
-anti-poaching activities activities pobj
-Poachers Poachers nsubjpass
-international criminal gangs gangs pobj
-sophisticated equipment equipment pobj
-rhinos rhinos dobj
-a tranquiliser gun gun nsubjpass
-the rhino rhino dobj
-its horn horn nsubjpass
-the rhino rhino dobj
-death death pobj
-Poachers Poachers nsubj
-guns guns pobj
-themselves themselves appos
-them them nsubj
-the anti-poaching teams teams pobj
-who who nsubj
-their lives lives dobj
-the line line pobj
-rhinos rhinos dobj
-The scarcity scarcity nsubj
-rhinos rhinos pobj
-the corresponding intermittent availability availability conj
-rhino horn horn pobj
-the price price dobj
-horn horn pobj
-pressure pressure dobj
-declining rhino populations populations pobj
-people people pobj
-whose annual income income nsubj
-the subsistence level level pobj
-the opportunity opportunity pobj
-one’s life life dobj
-an animal animal dobj
-they they nsubj
-value value nsubj
-What What nsubj
-rhino horn horn nsubj
-Rhino horns horns nsubj
-structure structure pobj
-horses horses pobj
-They They nsubjpass
-rhinoceros horn horn pobj
-it it nsubj
-large quantities quantities dobj
-sulphur-containing amino acids acids pobj
-tyrosine tyrosine conj
-histidine histidine conj
-lysine lysine conj
-arginine arginine conj
-the salts calcium carbonate carbonate conj
-calcium phosphate phosphate conj
-Traditional Chinese Medicine Medicine ROOT
-traditional Chinese texts texts pobj
-Li Shih-chen chen pobj
-’s 1597 medical text text appos
-“ “ ROOT
-Pen Pen ROOT
-Ts’ ’ nsubjpass
-Kang Mu Mu pobj
-rhino horn horn nsubjpass
-Chinese medicine medicine pobj
-more than 2,000 years years pobj
-fever fever dobj
-rheumatism rheumatism conj
-gout gout conj
-other disorders disorders conj
-It It nsubj
-the horn horn nsubj
-snakebites snakebites dobj
-hallucinations hallucinations conj
-typhoid typhoid conj
-headaches headaches conj
-carbuncles carbuncles conj
-vomiting vomiting conj
-food poisoning poisoning conj
-“devil possession possession conj
-it it nsubjpass
-an aphrodisiac aphrodisiac pobj
-the case case attr
-the horn horn nsubjpass
-ground ground conj
-a powder powder pobj
-boiling water water pobj
-Richard Ellis Ellis nsubj
-author author appos
-“Tiger bone bone pobj
-rhino horn horn conj
-the EAZA Rhino Campaign’s Info Pack Pack pobj
-It It nsubj
-rhino horn horn nsubj
-any medicinal purpose purpose dobj
-it it nsubj
-a testimony testimony attr
-the power power pobj
-tradition tradition pobj
-millions millions nsubj
-people people pobj
-it it nsubj
-people people nsubj
-prayer prayer pobj
-acupuncture acupuncture conj
-voodoo voodoo conj
-a cure cure pobj
-what what nsubj
-them them dobj
-no reason reason attr
-they they nsubj
-animals animals nsubjpass
-nostrums nostrums dobj
-a very good reason reason attr
-the use use dobj
-rhino horn horn pobj
-five species species attr
-rhinoceros rhinoceros pobj
-the exception exception pobj
-one subspecies subspecies pobj
-African White rhino rhino pobj
-danger danger pobj
-their horns horns pobj
-Rhinos Rhinos nsubj
-we we nsubj
-them them dobj
-millions millions pobj
-years years pobj
-Dr H. Spaiens Spaiens nsubj
-a predicament predicament dobj
-they they nsubj
-It It nsubj
-the world’s rhinos rhinos nsubjpass
-the face face pobj
-the earth earth pobj
-the name name pobj
-medications medications pobj
-n’t work work dobj
-”
-Aphrodisiac Aphrodisiac ROOT
-a belief belief attr
-Western countries countries pobj
-rhino horn horn nsubjpass
-an aphrodisiac aphrodisiac pobj
-stimulant stimulant conj
-Western media media pobj
-research research nsubj
-people people nsubj
-Viet Nam Nam pobj
-this rumour rumour dobj
-they they nsubj
-it it dobj
-new reasons reasons pobj
-aphrodisiacal properties properties pobj
-rhino horn horn nsubj
-the mainstays mainstays pobj
-Traditional Chinese Medicines Medicines pobj
-its collection collection nsubj
-the death death pobj
-tens of thousands thousands pobj
-rhinos rhinos pobj
-the world world pobj
-no mistake mistake dobj
-those people people nsubj
-rhino horn horn dobj
-medical ailments ailments dobj
-it it nsubj
-That’s ’s ROOT
-what what nsubj
-the demand demand dobj
-the poachers poachers nsubj
-Ann Ann nsubj
-Steve Toon Toon conj
-practitioners practitioners pobj
-traditional Asian medicine medicine pobj
-rhino horn horn nsubjpass
-a frivolous love potion potion pobj
-an irreplaceable pharmaceutical necessity necessity pobj
-Viet Nam – new uses uses ROOT
-rhino horn horn pobj
-a recent surge surge attr
-demand demand pobj
-rhino horn horn pobj
-Viet Nam Nam pobj
-it it nsubjpass
-a hangover cure cure pobj
-treatment treatment conj
-terminal illnesses illnesses pobj
-many more uses uses conj
-A survey survey nsubj
-TRAFFIC TRAFFIC pobj
-the motivation motivation nsubj
-consumers consumers pobj
-rhino horn horn dobj
-the emotional benefit benefit attr
-it it nsubj
-their social status status dobj
-their peers peers pobj
-Image Image nsubj
-status status conj
-these consumers consumers pobj
-they they nsubj
-highly educated and successful people people attr
-who who nsubj
-a powerful social network network dobj
-no affinity affinity conj
-Rhino horns horns nsubjpass
-the sole purpose purpose pobj
-others others pobj
-family members members pobj
-business colleagues colleagues conj
-people people conj
-positions positions pobj
-authority authority pobj
-TRAFFIC TRAFFIC nsubj
-three main consumer groups groups dobj
-You You nsubj
-their report report dobj
-Trade Trade ROOT
-The International trade trade nsubjpass
-rhino horn horn pobj
-CITES CITES pobj
-Convention Convention appos
-International Trade Trade pobj
-Endangered Species Species pobj
-Fauna Fauna pobj
-Flora Flora conj
-South Africa Africa pobj
-a call call attr
-the trade trade dobj
-rhino horn horn pobj
+Rhino amod horn NOUN [] 
+horn nsubjpass used VERB [Rhino ] 
+is auxpass used VERB [] 
+used ROOT used VERB [horn is in , but is ] 
+in prep used VERB [Medicine ] 
+Traditional compound Medicine PROPN [] 
+Chinese compound Medicine PROPN [] 
+Medicine pobj in ADP [Traditional Chinese ] 
+, punct used VERB [] 
+but cc used VERB [] 
+increasingly advmod common ADJ [] 
+common acomp is VERB [increasingly ] 
+is conj used VERB [common use . ] 
+its poss use NOUN [] 
+use nsubj is VERB [its as ] 
+as prep use NOUN [symbol ] 
+a det symbol NOUN [] 
+status compound symbol NOUN [] 
+symbol pobj as ADP [a status display ] 
+to aux display VERB [] 
+display relcl symbol NOUN [to success ] 
+success dobj display VERB [and wealth ] 
+and cc success NOUN [] 
+wealth conj success NOUN [] 
+. punct is VERB [  ] 
+   . PUNCT [] 
+Poaching nsubj is VERB [] 
+is ccomp targeted VERB [Poaching now threat , is ] 
+now advmod is VERB [] 
+a det threat NOUN [] 
+threat attr is VERB [a in ] 
+in prep threat NOUN [states ] 
+all det states NOUN [] 
+rhino compound range NOUN [] 
+range compound states NOUN [rhino ] 
+states pobj in ADP [all range ] 
+, punct is VERB [] 
+however advmod is VERB [] 
+as mark is VERB [] 
+South compound Africa PROPN [] 
+Africa nsubj is VERB [South ] 
+is advcl is VERB [however as Africa home ] 
+home attr is VERB [to ] 
+to prep home NOUN [majority ] 
+the det majority NOUN [] 
+majority pobj to ADP [the of in ] 
+of prep majority NOUN [rhinos ] 
+rhinos pobj of ADP [] 
+in prep majority NOUN [world ] 
+the det world NOUN [] 
+world pobj in ADP [the ] 
+, punct targeted VERB [] 
+it nsubjpass targeted VERB [] 
+is aux targeted VERB [] 
+being auxpass targeted VERB [] 
+heavily advmod targeted VERB [] 
+targeted ROOT targeted VERB [is , it is being heavily . ] 
+. punct targeted VERB [] 
+More advmod having VERB [than ] 
+than prep More ADJ [ever ] 
+ever pcomp than ADP [] 
+, punct having VERB [] 
+field compound programmes NOUN [] 
+programmes nsubj having VERB [field ] 
+are aux having VERB [] 
+having ROOT having VERB [More , programmes are invest . ] 
+to aux invest VERB [] 
+invest xcomp having VERB [to heavily in ] 
+heavily advmod invest VERB [] 
+in prep invest VERB [activities ] 
+anti subtok - ADJ [] 
+- subtok poaching ADJ [anti ] 
+poaching amod activities NOUN [- ] 
+activities pobj in ADP [poaching ] 
+. punct having VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Poachers nsubjpass supplied VERB [] 
+are aux supplied VERB [] 
+now advmod supplied VERB [] 
+being auxpass supplied VERB [] 
+supplied ROOT supplied VERB [Poachers are now being by with . ] 
+by agent supplied VERB [gangs ] 
+international amod gangs NOUN [] 
+criminal amod gangs NOUN [] 
+gangs pobj by ADP [international criminal ] 
+with prep supplied VERB [equipment ] 
+sophisticated amod equipment NOUN [] 
+equipment pobj with ADP [sophisticated track ] 
+to aux track VERB [] 
+track relcl equipment NOUN [to and kill ] 
+and cc track VERB [] 
+kill conj track VERB [rhinos ] 
+rhinos dobj kill VERB [] 
+. punct supplied VERB [] 
+Frequently advmod used VERB [] 
+a det gun NOUN [] 
+tranquiliser compound gun NOUN [] 
+gun nsubjpass used VERB [a tranquiliser ] 
+is auxpass used VERB [] 
+used ROOT used VERB [Frequently gun is bring . ] 
+to aux bring VERB [] 
+bring xcomp used VERB [to rhino down , hacked ] 
+the det rhino NOUN [] 
+rhino dobj bring VERB [the ] 
+down prt bring VERB [] 
+, punct bring VERB [] 
+before mark hacked VERB [] 
+its poss horn NOUN [] 
+horn nsubjpass hacked VERB [its ] 
+is auxpass hacked VERB [] 
+hacked advcl bring VERB [before horn is off , leaving ] 
+off prt hacked VERB [] 
+, punct hacked VERB [] 
+leaving advcl hacked VERB [rhino wake ] 
+the det rhino NOUN [] 
+rhino dobj leaving VERB [the ] 
+to aux wake VERB [] 
+wake advcl leaving VERB [to up and bleed ] 
+up prt wake VERB [] 
+and cc wake VERB [] 
+bleed conj wake VERB [to painfully ] 
+to prep bleed VERB [death ] 
+death pobj to ADP [] 
+very advmod painfully ADV [] 
+painfully advmod bleed VERB [very and slowly ] 
+and cc painfully ADV [] 
+slowly conj painfully ADV [] 
+. punct used VERB [] 
+Poachers nsubj are VERB [] 
+are ROOT are VERB [Poachers often armed , making . ] 
+often advmod are VERB [] 
+armed acomp are VERB [with ] 
+with prep armed ADJ [guns ] 
+guns pobj with ADP [themselves ] 
+themselves appos guns NOUN [] 
+, punct are VERB [] 
+making advcl are VERB [dangerous ] 
+them nsubj dangerous ADJ [] 
+very advmod dangerous ADJ [] 
+dangerous ccomp making VERB [them very for ] 
+for prep dangerous ADJ [teams ] 
+the det teams NOUN [] 
+anti subtok - ADJ [] 
+- subtok poaching ADJ [anti ] 
+poaching amod teams NOUN [- ] 
+teams pobj for ADP [the poaching put ] 
+who nsubj put VERB [] 
+put relcl teams NOUN [who lives on protect ] 
+their poss lives NOUN [] 
+lives dobj put VERB [their ] 
+on prep put VERB [line ] 
+the det line NOUN [] 
+line pobj on ADP [the ] 
+to aux protect VERB [] 
+protect advcl put VERB [to rhinos ] 
+rhinos dobj protect VERB [] 
+. punct are VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+The det scarcity NOUN [] 
+scarcity nsubj drives VERB [The of today and availability ] 
+of prep scarcity NOUN [rhinos ] 
+rhinos pobj of ADP [] 
+today npadvmod scarcity NOUN [] 
+and cc scarcity NOUN [] 
+the det availability NOUN [] 
+corresponding amod availability NOUN [] 
+intermittent amod availability NOUN [] 
+availability conj scarcity NOUN [the corresponding intermittent of ] 
+of prep availability NOUN [horn ] 
+rhino amod horn NOUN [] 
+horn pobj of ADP [rhino ] 
+only advmod drives VERB [] 
+drives ROOT drives VERB [scarcity only price higher , intensifying . ] 
+the det price NOUN [] 
+price dobj drives VERB [the of ] 
+of prep price NOUN [horn ] 
+horn pobj of ADP [] 
+higher advmod drives VERB [and higher ] 
+and cc higher ADV [] 
+higher conj higher ADV [] 
+, punct drives VERB [] 
+intensifying advcl drives VERB [pressure ] 
+pressure dobj intensifying VERB [on ] 
+on prep pressure NOUN [populations ] 
+declining amod populations NOUN [] 
+rhino compound populations NOUN [] 
+populations pobj on ADP [declining rhino ] 
+. punct drives VERB [] 
+For ROOT For ADP [people , ] 
+people pobj For ADP [is ] 
+whose poss income NOUN [] 
+annual amod income NOUN [] 
+income nsubj is VERB [whose annual ] 
+is relcl people NOUN [income often below ] 
+often advmod is VERB [] 
+far advmod below ADP [] 
+below prep is VERB [far level ] 
+the det level NOUN [] 
+subsistence compound level NOUN [] 
+level pobj below ADP [the subsistence ] 
+, punct For ADP [opportunity ] 
+the det opportunity NOUN [] 
+opportunity pobj , PUNCT [the change ] 
+to aux change VERB [] 
+change acl opportunity NOUN [to life by ] 
+one nummod life NOUN [] 
+’s amod life NOUN [] 
+life dobj change VERB [one ’s ] 
+by prep change VERB [killing ] 
+killing pcomp by ADP [animal ] 
+an det animal NOUN [] 
+animal dobj killing VERB [an do ] 
+that dobj do VERB [] 
+they nsubj do VERB [] 
+do relcl animal NOUN [that they ] 
+n’t ROOT n’t ADV [] 
+value nsubj is VERB [] 
+is ROOT is VERB [value overwhelming . ] 
+overwhelming acomp is VERB [] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+What nsubj is VERB [] 
+is ROOT is VERB [What horn ? ] 
+rhino amod horn NOUN [] 
+horn nsubj is VERB [rhino ] 
+? punct is VERB [
+
+ ] 
+
+
+  ? PUNCT [] 
+Rhino compound horns NOUN [] 
+horns nsubj are VERB [Rhino ] 
+are ROOT are VERB [horns similar hooves . ] 
+similar acomp are VERB [in to ] 
+in prep similar ADJ [structure ] 
+structure pobj in ADP [] 
+to prep similar ADJ [horses ] 
+horses pobj to ADP [] 
+’ poss hooves NOUN [] 
+hooves npadvmod are VERB [’ , beaks ] 
+, punct hooves NOUN [] 
+turtle compound beaks NOUN [] 
+beaks conj hooves NOUN [turtle , and bills ] 
+, punct beaks NOUN [] 
+and cc beaks NOUN [] 
+cockatoo compound bills NOUN [] 
+bills conj beaks NOUN [cockatoo ] 
+. punct are VERB [] 
+They nsubjpass made VERB [] 
+are auxpass made VERB [] 
+made ccomp is VERB [They are of in ] 
+of prep made VERB [– ] 
+keratin compound – PUNCT [] 
+– pobj of ADP [keratin ] 
+in prep made VERB [horn ] 
+rhinoceros compound horn NOUN [] 
+horn pobj in ADP [rhinoceros ] 
+, punct is VERB [] 
+it nsubj is VERB [] 
+is ROOT is VERB [made , it complex and contains . ] 
+chemically advmod complex ADJ [] 
+complex acomp is VERB [chemically ] 
+and cc is VERB [] 
+contains conj is VERB [quantities ] 
+large amod quantities NOUN [] 
+quantities dobj contains VERB [large of ] 
+of prep quantities NOUN [acids ] 
+sulphur npadvmod containing VERB [] 
+- punct containing VERB [] 
+containing amod acids NOUN [sulphur - ] 
+amino amod acids NOUN [] 
+acids pobj of ADP [containing amino , cysteine ] 
+, punct acids NOUN [] 
+particularly advmod cysteine ADJ [] 
+cysteine appos acids NOUN [particularly , as tyrosine ] 
+, punct cysteine ADJ [] 
+as advmod as ADP [] 
+well advmod as ADP [] 
+as cc cysteine ADJ [as well ] 
+tyrosine conj cysteine ADJ [, histidine ] 
+, punct tyrosine NOUN [] 
+histidine conj tyrosine NOUN [, lysine ] 
+, punct histidine NOUN [] 
+lysine conj histidine NOUN [, and arginine and carbonate ] 
+, punct lysine NOUN [] 
+and cc lysine NOUN [] 
+arginine conj lysine NOUN [, ] 
+, punct arginine NOUN [] 
+and cc lysine NOUN [] 
+the det carbonate NOUN [] 
+salts compound carbonate NOUN [] 
+calcium compound carbonate NOUN [] 
+carbonate conj lysine NOUN [the salts calcium and phosphate ] 
+and cc carbonate NOUN [] 
+calcium compound phosphate NOUN [] 
+phosphate conj carbonate NOUN [calcium ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
+Traditional amod Medicine PROPN [] 
+Chinese compound Medicine PROPN [] 
+Medicine ROOT Medicine PROPN [Traditional Chinese 
+
+ ] 
+
+
+  Medicine PROPN [] 
+According ROOT According VERB [to , as ] 
+to prep According VERB [texts ] 
+traditional amod texts NOUN [] 
+Chinese amod texts NOUN [] 
+texts pobj to ADP [traditional Chinese ] 
+, punct According VERB [] 
+such amod as ADP [] 
+as prep According VERB [such chen ] 
+Li compound chen PROPN [] 
+Shih compound chen PROPN [] 
+- punct chen PROPN [] 
+chen pobj as ADP [Li Shih - text ] 
+’s nmod text NOUN [] 
+1597 nummod text NOUN [] 
+medical amod text NOUN [] 
+text appos chen PROPN [’s 1597 medical ] 
+“ ROOT “ NOUN [] 
+Pen ROOT Pen PROPN [] 
+Ts compound ’ NOUN [] 
+’ nsubjpass used VERB [Ts ao ” ] 
+ao prep ’ NOUN [Mu ] 
+Kang compound Mu PROPN [] 
+Mu pobj ao PROPN [Kang ] 
+” punct ’ NOUN [] 
+, punct used VERB [] 
+rhino amod horn NOUN [] 
+horn nsubjpass used VERB [rhino ] 
+has aux used VERB [] 
+been auxpass used VERB [] 
+used ROOT used VERB [’ , horn has been in for and used . ] 
+in prep used VERB [medicine ] 
+Chinese amod medicine NOUN [] 
+medicine pobj in ADP [Chinese ] 
+for prep used VERB [years ] 
+more amod 2,000 NUM [] 
+than quantmod 2,000 NUM [] 
+2,000 nummod years NOUN [more than ] 
+years pobj for ADP [2,000 ] 
+and cc used VERB [] 
+is auxpass used VERB [] 
+used conj used VERB [is treat ] 
+to aux treat VERB [] 
+treat xcomp used VERB [to fever ] 
+fever dobj treat VERB [, rheumatism ] 
+, punct fever NOUN [] 
+rheumatism conj fever NOUN [, gout ] 
+, punct rheumatism NOUN [] 
+gout conj rheumatism NOUN [, and disorders ] 
+, punct gout NOUN [] 
+and cc gout NOUN [] 
+other amod disorders NOUN [] 
+disorders conj gout NOUN [other ] 
+. punct used VERB [] 
+It nsubj states VERB [] 
+also advmod states VERB [] 
+states ROOT states VERB [It also cure . ] 
+that mark cure VERB [] 
+the det horn NOUN [] 
+horn nsubj cure VERB [the ] 
+could aux cure VERB [] 
+also advmod cure VERB [] 
+cure ccomp states VERB [that horn could also snakebites ] 
+snakebites dobj cure VERB [, hallucinations ] 
+, punct snakebites NOUN [] 
+hallucinations conj snakebites NOUN [, typhoid ] 
+, punct hallucinations NOUN [] 
+typhoid conj hallucinations NOUN [, headaches ] 
+, punct typhoid NOUN [] 
+headaches conj typhoid NOUN [, carbuncles ] 
+, punct headaches NOUN [] 
+carbuncles conj headaches NOUN [, vomiting ] 
+, punct carbuncles NOUN [] 
+vomiting conj carbuncles NOUN [, poisoning ] 
+, punct vomiting NOUN [] 
+food compound poisoning NOUN [] 
+poisoning conj vomiting NOUN [food , and possession ] 
+, punct poisoning NOUN [] 
+and cc poisoning NOUN [] 
+“ nmod possession NOUN [] 
+devil compound possession NOUN [] 
+possession conj poisoning NOUN [“ devil ] 
+. punct states VERB [] 
+” ROOT ” PUNCT [] 
+While mark believed VERB [] 
+it nsubjpass believed VERB [] 
+is auxpass believed VERB [] 
+commonly advmod believed VERB [] 
+believed advcl is VERB [While it is commonly prescribed ] 
+to aux prescribed VERB [] 
+be auxpass prescribed VERB [] 
+prescribed xcomp believed VERB [to be as ] 
+as prep prescribed VERB [aphrodisiac ] 
+an det aphrodisiac NOUN [] 
+aphrodisiac pobj as ADP [an ] 
+, punct is VERB [] 
+this nsubj is VERB [] 
+is ROOT is VERB [believed , this not case . ] 
+not neg is VERB [] 
+the det case NOUN [] 
+case attr is VERB [the ] 
+. punct is VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+When advmod used VERB [] 
+used advcl shaved VERB [When ] 
+, punct shaved VERB [] 
+the det horn NOUN [] 
+horn nsubjpass shaved VERB [the ] 
+is auxpass shaved VERB [] 
+shaved ROOT shaved VERB [used , horn is or ground before . ] 
+or cc shaved VERB [] 
+ground conj shaved VERB [into , ] 
+into prep ground NOUN [powder ] 
+a det powder NOUN [] 
+powder pobj into ADP [a ] 
+, punct ground NOUN [] 
+before prep shaved VERB [dissolved ] 
+being auxpass dissolved VERB [] 
+dissolved pcomp before ADP [being in and consumed ] 
+in prep dissolved VERB [water ] 
+boiling compound water NOUN [] 
+water pobj in ADP [boiling ] 
+and cc dissolved VERB [] 
+consumed conj dissolved VERB [] 
+. punct shaved VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+As mark wrote VERB [] 
+Richard compound Ellis PROPN [] 
+Ellis nsubj wrote VERB [Richard , author ] 
+, punct Ellis PROPN [] 
+author appos Ellis PROPN [of and horn ] 
+of prep author NOUN [bone ] 
+“ compound Tiger PROPN [] 
+Tiger compound bone NOUN [“ ] 
+bone pobj of ADP [Tiger ] 
+and cc author NOUN [] 
+rhino compound horn NOUN [] 
+horn conj author NOUN [rhino ] 
+” punct wrote VERB [] 
+wrote ROOT wrote VERB [As Ellis ” in for : ] 
+in prep wrote VERB [2005 ] 
+2005 pobj in ADP [] 
+for prep wrote VERB [Pack ] 
+the det ’s PROPN [] 
+EAZA compound ’s PROPN [] 
+Rhino compound Campaign PROPN [] 
+Campaign compound ’s PROPN [Rhino ] 
+’s compound Pack PROPN [the EAZA Campaign ] 
+Info compound Pack PROPN [] 
+Pack pobj for ADP [’s Info ] 
+: punct wrote VERB [] 
+“ ROOT “ PUNCT [] 
+It nsubj is VERB [] 
+is ROOT is VERB [It not clear serves , but is ] 
+not neg is VERB [] 
+clear acomp is VERB [] 
+that mark serves VERB [] 
+rhino amod horn NOUN [] 
+horn nsubj serves VERB [rhino ] 
+serves ccomp is VERB [that horn purpose ] 
+any det purpose NOUN [] 
+medicinal amod purpose NOUN [] 
+purpose dobj serves VERB [any medicinal whatsoever ] 
+whatsoever advmod purpose NOUN [] 
+, punct is VERB [] 
+but cc is VERB [] 
+it nsubj is VERB [] 
+is conj is VERB [it testimony . ] 
+a det testimony NOUN [] 
+testimony attr is VERB [a to ] 
+to prep testimony NOUN [power ] 
+the det power NOUN [] 
+power pobj to ADP [the of believe ] 
+of prep power NOUN [tradition ] 
+tradition pobj of ADP [] 
+that mark believe VERB [] 
+millions nsubj believe VERB [of ] 
+of prep millions NOUN [people ] 
+people pobj of ADP [] 
+believe relcl power NOUN [that millions does ] 
+that mark does VERB [] 
+it nsubj does VERB [] 
+does ccomp believe VERB [that it ] 
+. punct is VERB [] 
+Of advmod course ADV [] 
+course advmod is VERB [Of ] 
+, punct is VERB [want ] 
+if mark want VERB [] 
+people nsubj want VERB [] 
+want pobj , PUNCT [if people believe ] 
+to aux believe VERB [] 
+believe xcomp want VERB [to in as ] 
+in prep believe VERB [prayer ] 
+prayer pobj in ADP [, acupuncture ] 
+, punct prayer NOUN [] 
+acupuncture conj prayer NOUN [or voodoo ] 
+or cc acupuncture NOUN [] 
+voodoo conj acupuncture NOUN [] 
+as prep believe VERB [cure ] 
+a det cure NOUN [] 
+cure pobj as ADP [a for ] 
+for prep cure NOUN [is ] 
+what nsubj ails VERB [] 
+ails advcl is VERB [what them ] 
+them dobj ails VERB [] 
+, punct is VERB [] 
+there expl is VERB [] 
+is pcomp for ADP [ails , there reason ] 
+no det reason NOUN [] 
+reason attr is VERB [no n’t ] 
+why advmod should AUX [] 
+they nsubj should AUX [] 
+should aux n’t ADV [why they ] 
+n’t relcl reason NOUN [should ] 
+, punct but CCONJ [] 
+but cc is VERB [, ] 
+if mark killed VERB [] 
+animals nsubjpass killed VERB [] 
+are aux killed VERB [] 
+being auxpass killed VERB [] 
+killed advcl is VERB [if animals are being provide ] 
+to aux provide VERB [] 
+provide advcl killed VERB [to nostrums ] 
+nostrums dobj provide VERB [shown ] 
+that nsubjpass shown VERB [] 
+have aux shown VERB [] 
+been auxpass shown VERB [] 
+shown relcl nostrums NOUN [that have been be ] 
+to aux be VERB [] 
+be xcomp shown VERB [to useless ] 
+useless acomp be VERB [] 
+, punct is VERB [] 
+then advmod is VERB [] 
+there expl is VERB [] 
+is ROOT is VERB [course , but killed , then there reason . ] 
+a det reason NOUN [] 
+very advmod good ADJ [] 
+good amod reason NOUN [very ] 
+reason attr is VERB [a good curtail ] 
+to aux curtail VERB [] 
+curtail relcl reason NOUN [to use ] 
+the det use NOUN [] 
+use dobj curtail VERB [the of ] 
+of prep use NOUN [horn ] 
+rhino amod horn NOUN [] 
+horn pobj of ADP [rhino ] 
+. punct is VERB [] 
+There expl are VERB [] 
+are ROOT are VERB [There species and , are . ] 
+five nummod species NOUN [] 
+species attr are VERB [five of ] 
+of prep species NOUN [rhinoceros ] 
+rhinoceros pobj of ADP [] 
+and cc are VERB [] 
+, punct are VERB [] 
+with prep are VERB [exception ] 
+the det exception NOUN [] 
+exception pobj with ADP [the of ] 
+of prep exception NOUN [subspecies ] 
+one nummod subspecies NOUN [] 
+subspecies pobj of ADP [one of ] 
+of prep subspecies NOUN [rhino ] 
+African compound White PROPN [] 
+White compound rhino NOUN [African ] 
+rhino pobj of ADP [White ] 
+, punct are VERB [] 
+all nsubj are VERB [] 
+are conj are VERB [with , all in ] 
+in prep are VERB [danger ] 
+danger pobj in ADP [of ] 
+of prep danger NOUN [hunted ] 
+being auxpass hunted VERB [] 
+hunted pcomp of ADP [being extinction ] 
+to aux extinction NOUN [] 
+extinction xcomp hunted VERB [to for ] 
+for prep extinction NOUN [horns ] 
+their poss horns NOUN [] 
+horns pobj for ADP [their ] 
+. punct are VERB [] 
+Rhinos nsubj been VERB [] 
+, punct been VERB [] 
+as mark know VERB [] 
+we nsubj know VERB [] 
+know advcl been VERB [as we them ] 
+them dobj know VERB [] 
+, punct been VERB [] 
+have aux been VERB [] 
+been ROOT been VERB [Rhinos , know , have around for , but created ] 
+around advmod been VERB [] 
+for prep been VERB [millions ] 
+millions pobj for ADP [of ] 
+of prep millions NOUN [years ] 
+years pobj of ADP [] 
+, punct been VERB [] 
+but cc been VERB [] 
+Dr compound Spaiens PROPN [] 
+H. compound Spaiens PROPN [] 
+Spaiens nsubj created VERB [Dr H. ] 
+has aux created VERB [] 
+created conj been VERB [Spaiens has predicament . ] 
+a det predicament NOUN [] 
+predicament dobj created VERB [a recover ] 
+from prep recover VERB [which ] 
+which pobj from ADP [] 
+they nsubj recover VERB [] 
+might aux recover VERB [] 
+never neg recover VERB [] 
+recover relcl predicament NOUN [from they might never ] 
+. punct created VERB [] 
+It nsubj heartbreaking VERB [] 
+is aux heartbreaking VERB [] 
+heartbreaking ROOT heartbreaking VERB [It is realise . ] 
+to aux realise VERB [] 
+realise xcomp heartbreaking VERB [to eliminated ] 
+that mark eliminated VERB [] 
+the det rhinos NOUN [] 
+world compound ’s PROPN [] 
+’s compound rhinos NOUN [world ] 
+rhinos nsubjpass eliminated VERB [the ’s ] 
+are aux eliminated VERB [] 
+being auxpass eliminated VERB [] 
+eliminated ccomp realise VERB [that rhinos are being from in ] 
+from prep eliminated VERB [face ] 
+the det face NOUN [] 
+face pobj from ADP [the of ] 
+of prep face NOUN [earth ] 
+the det earth NOUN [] 
+earth pobj of ADP [the ] 
+in prep eliminated VERB [name ] 
+the det name NOUN [] 
+name pobj in ADP [the of ] 
+of prep name NOUN [medications ] 
+medications pobj of ADP [do ] 
+that nsubj do VERB [] 
+probably advmod do VERB [] 
+do relcl medications NOUN [that probably work ] 
+n’t punct work NOUN [] 
+work dobj do VERB [n’t ] 
+. punct heartbreaking VERB [] 
+” punct Aphrodisiac PROPN [
+ ] 
+
+  ” PUNCT [] 
+Aphrodisiac ROOT Aphrodisiac PROPN [” 
+
+ ] 
+
+
+  Aphrodisiac PROPN [] 
+There expl is VERB [] 
+is ROOT is VERB [There belief , but is ] 
+a det belief NOUN [] 
+belief attr is VERB [a in used ] 
+in prep belief NOUN [countries ] 
+Western amod countries NOUN [] 
+countries pobj in ADP [Western ] 
+that nsubjpass used VERB [] 
+rhino amod horn NOUN [] 
+horn nsubjpass used VERB [rhino ] 
+is auxpass used VERB [] 
+used relcl belief NOUN [that horn is as ] 
+as prep used VERB [aphrodisiac ] 
+an det aphrodisiac NOUN [] 
+aphrodisiac pobj as ADP [an and sexual stimulant ] 
+and cc aphrodisiac NOUN [] 
+sexual conj aphrodisiac NOUN [] 
+stimulant conj aphrodisiac NOUN [] 
+, punct is VERB [] 
+but cc is VERB [] 
+this nsubj is VERB [] 
+is conj is VERB [this not correct and seems . ] 
+not neg is VERB [] 
+correct acomp is VERB [] 
+and cc is VERB [] 
+seems conj is VERB [been ] 
+to aux been VERB [] 
+have aux been VERB [] 
+been xcomp seems VERB [to have misunderstood ] 
+misunderstood attr been VERB [or misinterpreted ] 
+or cc misunderstood ADJ [] 
+misinterpreted conj misunderstood ADJ [by ] 
+by agent misinterpreted VERB [media ] 
+Western amod media NOUN [] 
+media pobj by ADP [Western ] 
+. punct is VERB [] 
+However advmod shown VERB [] 
+, punct shown VERB [] 
+research nsubj shown VERB [] 
+has aux shown VERB [] 
+shown ROOT shown VERB [However , research has starting . ] 
+that mark starting VERB [] 
+people nsubj starting VERB [in ] 
+in prep people NOUN [Nam ] 
+Viet compound Nam PROPN [] 
+Nam pobj in ADP [Viet ] 
+are aux starting VERB [] 
+starting ccomp shown VERB [that people are believe ] 
+to aux believe VERB [] 
+believe xcomp starting VERB [to rumour consuming ] 
+this det rumour NOUN [] 
+rumour dobj believe VERB [this ] 
+as mark consuming VERB [] 
+they nsubj consuming VERB [] 
+are aux consuming VERB [] 
+consuming advcl believe VERB [as they are it for ] 
+it dobj consuming VERB [] 
+for prep consuming VERB [reasons ] 
+new amod reasons NOUN [] 
+reasons pobj for ADP [new ] 
+. punct shown VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Even advmod without ADP [] 
+without prep is VERB [Even properties ] 
+aphrodisiacal amod properties NOUN [] 
+properties pobj without ADP [aphrodisiacal ] 
+, punct is VERB [] 
+however advmod is VERB [] 
+, punct is VERB [] 
+rhino amod horn NOUN [] 
+horn nsubj is VERB [rhino ] 
+is ROOT is VERB [without , however , horn one , and been ] 
+one attr is VERB [of ] 
+of prep one NUM [mainstays ] 
+the det mainstays NOUN [] 
+mainstays pobj of ADP [the of ] 
+of prep mainstays NOUN [Medicines ] 
+Traditional compound Medicines PROPN [] 
+Chinese compound Medicines PROPN [] 
+Medicines pobj of ADP [Traditional Chinese ] 
+, punct is VERB [] 
+and cc is VERB [] 
+its poss collection NOUN [] 
+collection nsubj been VERB [its ] 
+has aux been VERB [] 
+been conj is VERB [collection has responsible . ] 
+responsible acomp been VERB [for ] 
+for prep responsible ADJ [death ] 
+the det death NOUN [] 
+death pobj for ADP [the of ] 
+of prep death NOUN [thousands ] 
+tens quantmod thousands NOUN [] 
+of quantmod thousands NOUN [] 
+thousands pobj of ADP [tens of of ] 
+of prep thousands NOUN [rhinos ] 
+rhinos pobj of ADP [around ] 
+around prep rhinos NOUN [world ] 
+the det world NOUN [] 
+world pobj around ADP [the ] 
+. punct been VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+Make nsubj believe VERB [mistake ] 
+no det mistake NOUN [] 
+mistake dobj Make VERB [no using ] 
+: punct using VERB [] 
+those det people NOUN [] 
+people nsubj using VERB [those ] 
+using acl mistake NOUN [: people horn cure ] 
+rhino amod horn NOUN [] 
+horn dobj using VERB [rhino ] 
+to aux cure VERB [] 
+cure xcomp using VERB [to ailments ] 
+medical amod ailments NOUN [] 
+ailments dobj cure VERB [medical ] 
+really advmod believe VERB [] 
+believe ROOT believe VERB [Make really works . ] 
+it nsubj works VERB [] 
+works ccomp believe VERB [it ] 
+. punct believe VERB [] 
+That nsubj ’s PROPN [] 
+’s ROOT ’s PROPN [That drives . ] 
+what nsubj drives VERB [] 
+drives ccomp ’s PROPN [what up demand ] 
+up prt drives VERB [] 
+the det demand NOUN [] 
+demand dobj drives VERB [the thrive ] 
+on prep thrive VERB [which ] 
+which pobj on ADP [] 
+the det poachers NOUN [] 
+poachers nsubj thrive VERB [the ] 
+thrive relcl demand NOUN [on poachers ] 
+. punct ’s PROPN [] 
+As mark commented VERB [] 
+Ann nsubj commented VERB [and Toon ] 
+and cc Ann PROPN [] 
+Steve compound Toon PROPN [] 
+Toon conj Ann PROPN [Steve ] 
+commented ROOT commented VERB [As Ann in , “ ] 
+in prep commented VERB [2002 ] 
+2002 pobj in ADP [] 
+, punct commented VERB [] 
+“ punct commented VERB [] 
+For prep perceived VERB [practitioners ] 
+practitioners pobj For ADP [of ] 
+of prep practitioners NOUN [medicine ] 
+traditional amod medicine NOUN [] 
+Asian amod medicine NOUN [] 
+medicine pobj of ADP [traditional Asian ] 
+, punct perceived VERB [] 
+rhino amod horn NOUN [] 
+horn nsubjpass perceived VERB [rhino ] 
+is auxpass perceived VERB [] 
+not neg perceived VERB [] 
+perceived ROOT perceived VERB [For , horn is not as , but as . ] 
+as prep perceived VERB [potion ] 
+a det potion NOUN [] 
+frivolous amod potion NOUN [] 
+love compound potion NOUN [] 
+potion pobj as ADP [a frivolous love ] 
+, punct perceived VERB [] 
+but cc perceived VERB [] 
+as prep perceived VERB [necessity ] 
+an det necessity NOUN [] 
+irreplaceable amod necessity NOUN [] 
+pharmaceutical amod necessity NOUN [] 
+necessity pobj as ADP [an irreplaceable pharmaceutical ] 
+. punct perceived VERB [] 
+” ROOT ” PUNCT [
+ ] 
+
+  ” PUNCT [] 
+Viet nmod – PUNCT [] 
+Nam nmod – PUNCT [] 
+– nmod uses NOUN [Viet Nam ] 
+new amod uses NOUN [] 
+uses ROOT uses NOUN [– new for ] 
+for prep uses NOUN [horn ] 
+rhino amod horn NOUN [] 
+horn pobj for ADP [rhino 
+
+ ] 
+
+
+  horn NOUN [] 
+There expl been VERB [] 
+has aux been VERB [] 
+been ROOT been VERB [There has surge . ] 
+a det surge NOUN [] 
+recent amod surge NOUN [] 
+surge attr been VERB [a recent in ] 
+in prep surge NOUN [demand ] 
+demand pobj in ADP [for ] 
+for prep demand NOUN [horn ] 
+rhino amod horn NOUN [] 
+horn pobj for ADP [rhino in ] 
+in prep horn NOUN [Nam ] 
+Viet compound Nam PROPN [] 
+Nam pobj in ADP [Viet , touted ] 
+, punct Nam PROPN [] 
+where advmod touted VERB [] 
+it nsubjpass touted VERB [] 
+is aux touted VERB [] 
+being auxpass touted VERB [] 
+touted relcl Nam PROPN [where it is being as ] 
+as prep touted VERB [cure ] 
+a det cure NOUN [] 
+hangover compound cure NOUN [] 
+cure pobj as ADP [a hangover and treatment for ] 
+and cc cure NOUN [] 
+treatment conj cure NOUN [] 
+for prep cure NOUN [illnesses ] 
+terminal amod illnesses NOUN [] 
+illnesses pobj for ADP [terminal plus uses ] 
+plus cc illnesses NOUN [] 
+many amod uses NOUN [] 
+more amod uses NOUN [] 
+uses conj illnesses NOUN [many more ] 
+. punct been VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+A det survey NOUN [] 
+survey nsubj identified VERB [A , carried , ] 
+, punct survey NOUN [] 
+carried acl survey NOUN [out by in ] 
+out prt carried VERB [] 
+by agent carried VERB [TRAFFIC ] 
+TRAFFIC pobj by ADP [] 
+in prep carried VERB [2013 ] 
+2013 pobj in ADP [] 
+, punct survey NOUN [] 
+identified ROOT identified VERB [survey is . ] 
+that mark is VERB [] 
+the det motivation NOUN [] 
+motivation nsubj is VERB [the for ] 
+for prep motivation NOUN [consumers ] 
+consumers pobj for ADP [buying ] 
+buying acl consumers NOUN [horn ] 
+rhino compound horn NOUN [] 
+horn dobj buying VERB [rhino ] 
+is ccomp identified VERB [that motivation benefit , reaffirms ] 
+the det benefit NOUN [] 
+emotional amod benefit NOUN [] 
+benefit attr is VERB [the emotional than medicinal ] 
+rather advmod than ADP [] 
+than cc benefit NOUN [rather ] 
+medicinal conj benefit NOUN [] 
+, punct is VERB [] 
+as mark reaffirms VERB [] 
+it nsubj reaffirms VERB [] 
+reaffirms advcl is VERB [as it status ] 
+their poss status NOUN [] 
+social amod status NOUN [] 
+status dobj reaffirms VERB [their social among ] 
+among prep status NOUN [peers ] 
+their poss peers NOUN [] 
+peers pobj among ADP [their ] 
+. punct identified VERB [] 
+Image nsubj are VERB [and status ] 
+and cc Image NOUN [] 
+status conj Image NOUN [] 
+are ccomp tend VERB [Image important ] 
+important acomp are VERB [to ] 
+to prep important ADJ [consumers ] 
+these det consumers NOUN [] 
+consumers pobj to ADP [these ] 
+, punct tend VERB [] 
+they nsubj tend VERB [] 
+tend ROOT tend VERB [are , they be . ] 
+to aux be VERB [] 
+be xcomp tend VERB [to people ] 
+highly advmod educated VERB [] 
+educated amod people NOUN [highly and successful ] 
+and cc educated VERB [] 
+successful conj educated VERB [] 
+people attr be VERB [educated have affinity ] 
+who nsubj have VERB [] 
+have relcl people NOUN [who network ] 
+a det network NOUN [] 
+powerful amod network NOUN [] 
+social amod network NOUN [] 
+network dobj have VERB [a powerful social and ] 
+and cc network NOUN [] 
+no det affinity NOUN [] 
+affinity conj people NOUN [no wildlife ] 
+to aux wildlife NOUN [] 
+wildlife relcl affinity NOUN [to ] 
+. punct tend VERB [] 
+Rhino amod horns NOUN [] 
+horns nsubjpass bought VERB [Rhino ] 
+are auxpass bought VERB [] 
+sometimes advmod bought VERB [] 
+bought ROOT bought VERB [horns are sometimes for ; to . ] 
+for prep bought VERB [purpose ] 
+the det purpose NOUN [] 
+sole amod purpose NOUN [] 
+purpose pobj for ADP [the sole of ] 
+of prep purpose NOUN [gifted ] 
+being auxpass gifted VERB [] 
+gifted pcomp of ADP [being to ] 
+to prep gifted VERB [others ] 
+others pobj to ADP [] 
+; punct bought VERB [] 
+to prep bought VERB [members ] 
+family compound members NOUN [] 
+members pobj to ADP [family , colleagues ] 
+, punct members NOUN [] 
+business compound colleagues NOUN [] 
+colleagues conj members NOUN [business or people ] 
+or cc colleagues NOUN [] 
+people conj colleagues NOUN [in ] 
+in prep people NOUN [positions ] 
+positions pobj in ADP [of ] 
+of prep positions NOUN [authority ] 
+authority pobj of ADP [] 
+. punct bought VERB [
+
+ ] 
+
+
+  . PUNCT [] 
+TRAFFIC nsubj identified VERB [] 
+identified ROOT identified VERB [TRAFFIC groups . ] 
+three nummod groups NOUN [] 
+main amod groups NOUN [] 
+consumer compound groups NOUN [] 
+groups dobj identified VERB [three main consumer ] 
+. punct identified VERB [] 
+You nsubj read VERB [] 
+can aux read VERB [] 
+read ROOT read VERB [You can report here . ] 
+their poss report NOUN [] 
+report dobj read VERB [their ] 
+here advmod read VERB [] 
+. punct read VERB [
+ ] 
+
+  . PUNCT [] 
+Trade ROOT Trade PROPN [
+
+ ] 
+
+
+  Trade PROPN [] 
+The det trade NOUN [] 
+International amod trade NOUN [] 
+trade nsubjpass banned VERB [The International in ] 
+in prep trade NOUN [horn ] 
+rhino amod horn NOUN [] 
+horn pobj in ADP [rhino ] 
+is auxpass banned VERB [] 
+banned ROOT banned VERB [trade is under . ] 
+under prep banned VERB [CITES ] 
+CITES pobj under ADP [( Convention ) ] 
+( punct CITES PROPN [] 
+Convention appos CITES PROPN [on ] 
+on prep Convention NOUN [Trade ] 
+International compound Trade PROPN [] 
+Trade pobj on ADP [International in ] 
+in prep Trade PROPN [Species ] 
+Endangered compound Species PROPN [] 
+Species pobj in ADP [Endangered of ] 
+of prep Species PROPN [Fauna ] 
+Fauna pobj of ADP [and Flora ] 
+and cc Fauna PROPN [] 
+Flora conj Fauna PROPN [] 
+) punct CITES PROPN [] 
+. punct banned VERB [] 
+In prep is VERB [Africa ] 
+South compound Africa PROPN [] 
+Africa pobj In ADP [South ] 
+particularly advmod is VERB [] 
+, punct is VERB [] 
+there expl is VERB [] 
+is ROOT is VERB [In particularly , there call . ] 
+a det call NOUN [] 
+call attr is VERB [a legalise ] 
+to aux legalise VERB [] 
+legalise relcl call NOUN [to trade in ] 
+the det trade NOUN [] 
+trade dobj legalise VERB [the ] 
+in prep legalise VERB [horn ] 
+rhino amod horn NOUN [] 
+horn pobj in ADP [rhino ] 
+. punct is VERB [
+ ] 
+
+  . PUNCT [] 
