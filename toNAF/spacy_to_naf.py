@@ -352,7 +352,7 @@ def naf_from_doc(doc,
                     next_entity = Entity(start=None, end=None, entity_type=None)
 
             # Add dependencies for the current token to the list.
-            if 'deps 'in layers:
+            if 'deps 'in layers: 
                 for dep_data in dependencies_to_add(token):
                     if not dep_data in dependencies_for_sentence:
                         dependencies_for_sentence.append(dep_data)
@@ -420,8 +420,8 @@ if __name__ == '__main__':
     import spacy
     from datetime import datetime
 
-    nlp = spacy.load('en')
-    with open(sys.argv[1]) as f:
+    nlp = spacy.load("en_core_web_sm")
+    with open(sys.argv[1], encoding='utf8') as f:
         text = f.read()
-        NAF = text_to_NAF(text, nlp, dct=datetime.now(), layers={'raw', 'text', 'terms', 'entities'})
+        NAF = text_to_NAF(text, nlp, dct=datetime.now(), layers={'raw', 'text', 'terms', 'entities', 'deps', 'chunks'})
         print(NAF_to_string(NAF))
