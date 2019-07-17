@@ -15,7 +15,6 @@ from subprocess import Popen,PIPE
 
 
 ###Alpino class section
-import re
 
 last_modified='20jun2019'
 version="0.2"
@@ -65,7 +64,7 @@ class Calpino_dependency:
         return r
 
     def generate_dependencies(self, list_term_ids):
-        # This will creathe dependency
+        # This will create dependency
         dependencies = []
         try:
             terms_from = [list_term_ids[idx] for idx in range(self.begin_from, self.end_from)]
@@ -90,11 +89,8 @@ class Calpino_dependency:
 
 
 
-### Dependency section
+### SpaCy dependency section
 import spacy
-import os
-
-# testing moreeee pt 3
 
 nlp = spacy.load("en_core_web_sm")
 dirname = os.path.dirname(__file__)
@@ -195,7 +191,7 @@ for line in dep().splitlines():
 
 
 
-
+#add the dependency heading to the header
 my_lp = Clp()
 my_lp.set_name(this_name)
 my_lp.set_version(version+'_'+last_modified)
