@@ -25,6 +25,8 @@ config_filename = 'config.cfg'
 
 
 class Calpino_dependency:
+
+
     def __init__(self, line):
         self.ok = True
         self.begin_from = self.begin_to = self.end_from = self.end_to = self.sentence = ''
@@ -88,16 +90,6 @@ class Calpino_dependency:
 
 
 
-
-
-
-
-
-
-
-
-
-
 ### Dependency section
 import spacy
 import os
@@ -113,26 +105,34 @@ path = os.path.join(dirname, "../")
 
 def dep():
 
+'''
+opens specified file and runs it through spacy's pipeline
+as well as formatting the output into a str line by line.
+at the moment it only reads the raw text here,
+but could be made to read from the <raw> section of a naf
+out:
+rhinoceros/[0,1] det The/[1,2] 0
+'''
     orig = open("WikiWhRhino", "r", encoding="utf8")
     doc = nlp(orig.read())
-    B_str = ''
+    formatedStr = ''
     counter = -1
     sent = doc[1:4]
     for token in doc:
                 # head relation dep sent(int)
         if token.sent != sent:
             counter = counter + 1
-        B_str = B_str+(token.head.text + "/[" + str(0) + "," + str(1) + "]" + " " + token.dep_ + " " + token.text + "/[" + str(1) + "," + str(2) + "]" + " " + str(counter))
+        formatedStr = formatedStr+(token.head.text + "/[" + str(0) + "," + str(1) + "]" + " " + token.dep_ + " " + token.text + "/[" + str(1) + "," + str(2) + "]" + " " + str(counter))
                 # temp = []
-        B_str += ("\n")
+        formatedStr += ("\n")
         sent = token.sent
-    return B_str
+    return formatedStr
 
 
 
 
 
-
+# NAF file reading section.
 
 from KafNafParserPy.KafNafParserMod import *
 
@@ -182,10 +182,10 @@ if len(current_sent) != 0:
 
 
 ### Naf adding code
+
 for line in dep().splitlines():
     line = line.strip()
     my_dep = Calpino_dependency(line)
-    print(line)
     if my_dep.is_ok():
         my_sentence_index = my_dep.get_sentence()
         list_term_ids = term_ids[int(my_sentence_index)]
