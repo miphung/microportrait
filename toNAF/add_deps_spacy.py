@@ -1,4 +1,4 @@
-
+#based on: https://github.com/cltl/dependency-parser-nl/blob/master/alpino_dependency_parser.py#L226
 import sys
 import getopt
 import os
@@ -18,9 +18,9 @@ from subprocess import Popen,PIPE
 
 last_modified='20jun2019'
 version="0.2"
-this_name = 'Alpino to spaCy KAF/NAF dependency parser'
+this_name = 'spaCy KAF/NAF dependency parser'
 this_layer = 'deps'
-config_filename = 'config.cfg'
+#config_filename = 'config.cfg'
 
 
 class Calpino_dependency:
@@ -101,15 +101,15 @@ path = os.path.join(dirname, "../")
 
 def dep():
 
-'''
-opens specified file and runs it through spacy's pipeline
-as well as formatting the output into a str line by line.
-at the moment it only reads the raw text here,
-but could be made to read from the <raw> section of a naf
-out:
-rhinoceros/[0,1] det The/[1,2] 0
-'''
-    orig = open("WikiWhRhino", "r", encoding="utf8")
+    '''
+    opens specified file and runs it through spacy's pipeline
+    as well as formatting the output into a str line by line.
+    at the moment it only reads the raw text here,
+    but could be made to read from the <raw> section of a naf
+    out:
+    rhinoceros/[0,1] det The/[1,2] 0
+    '''
+    orig = open(path+"rawTest/WikiWhRhino.txt", "r", encoding="utf8")
     doc = nlp(orig.read())
     formatedStr = ''
     counter = -1
@@ -132,7 +132,7 @@ rhinoceros/[0,1] det The/[1,2] 0
 
 from KafNafParserPy.KafNafParserMod import *
 
-my_knaf = KafNafParser("WikiWhRhino_dep.naf")
+my_knaf = KafNafParser(path+"toNaf/WikiWhRhino_dep.naf")
 sentences = []
 current_sent = []
 term_ids = []
@@ -199,7 +199,7 @@ my_lp.set_version(version+'_'+last_modified)
 my_lp.set_timestamp('*')
 
 my_knaf.add_linguistic_processor(this_layer, my_lp)
-my_knaf.dump()
+my_knaf.dump(path+"toNaf/WikiWhRhino_dep.naf")
 
 sys.exit(0)
 
