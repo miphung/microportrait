@@ -107,18 +107,15 @@ def dep(file):
     doc = nlp(orig.read())
     formatedStr = ''
     counter = -2
-    sentz = doc[1:4]
 
     for sent in doc.sents:
         sentbysent = """"""
         sentbysent = nlp(sent.text)
         counter = counter + 1
         for token in sentbysent:
-            # head[index,index+1] relation dep[index,index+1] sentnumber
+            # formattedStr output: head[index,index+1] relation dep[index,index+1] sentnumber
             formatedStr = formatedStr + (token.head.text + "/[" + str(token.head.i) + "," + str(token.head.i + 1) + "]" + " " + token.dep_ + " " + token.text + "/[" + str(token.i) + "," + str(token.i + 1) + "]" + " " + str(counter + 1))
-            # temp = []
             formatedStr += ("\n")
-            sentz = token.sent
     return formatedStr
 
 
