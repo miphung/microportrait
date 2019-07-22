@@ -99,8 +99,8 @@ def dep(file):
     opens specified file and runs it through spacy's pipeline
     as well as formatting the output into a str line by line.
     at the moment it only reads the raw text here,
-    but could be made to read from the <raw> section of a naf
-    out:
+    but could be made to read from the <raw> section of a .naf.
+    output per line:
     rhinoceros/[0,1] det The/[1,2] 0
     '''
     orig = open(path+"rawTest/"+file, "r", encoding="utf8")
