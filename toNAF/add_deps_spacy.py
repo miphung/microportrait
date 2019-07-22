@@ -12,17 +12,20 @@ from lxml import etree
 from subprocess import Popen,PIPE
 
 
-
-
-###Alpino class section
-
-last_modified='20jun2019'
+### Header business
+last_modified='19jul2019'
 version="0.2"
 this_name = 'spaCy KAF/NAF dependency parser'
 this_layer = 'deps'
 #config_filename = 'config.cfg'
 
+### file paths 
+dirname = os.path.dirname(__file__)
+# into microportraits folder
+path = os.path.join(dirname, "../")
 
+
+###Reading Alpino format class section
 class Calpino_dependency:
 
 
@@ -64,7 +67,7 @@ class Calpino_dependency:
         return r
 
     def generate_dependencies(self, list_term_ids):
-        # This will create dependency
+        ### This will create dependency
         dependencies = []
         try:
             terms_from = [list_term_ids[idx] for idx in range(self.begin_from, self.end_from)]
@@ -86,20 +89,11 @@ class Calpino_dependency:
         return dependencies
 
 
-
-
-
-### SpaCy dependency section
+### spaCy dependency section
 import spacy
-
 nlp = spacy.load("en_core_web_sm")
-dirname = os.path.dirname(__file__)
-# into microportraits folder
-path = os.path.join(dirname, "../")
 
-
-
-def dep():
+def dep(file):
 
     '''
     opens specified file and runs it through spacy's pipeline
@@ -109,17 +103,17 @@ def dep():
     out:
     rhinoceros/[0,1] det The/[1,2] 0
     '''
-    orig = open(path+"rawTest/WikiWhRhino.txt", "r", encoding="utf8")
+    orig = open(path+"rawTest/"+file, "r", encoding="utf8")
     doc = nlp(orig.read())
     formatedStr = ''
     counter = -1
     sent = doc[1:4]
     for token in doc:
-                # head relation dep sent(int)
+        # head relation dep sent(int)
         if token.sent != sent:
             counter = counter + 1
         formatedStr = formatedStr+(token.head.text + "/[" + str(0) + "," + str(1) + "]" + " " + token.dep_ + " " + token.text + "/[" + str(1) + "," + str(2) + "]" + " " + str(counter))
-                # temp = []
+                
         formatedStr += ("\n")
         sent = token.sent
     return formatedStr
@@ -132,74 +126,86 @@ def dep():
 
 from KafNafParserPy.KafNafParserMod import *
 
-my_knaf = KafNafParser(path+"toNaf/WikiWhRhino_dep.naf")
-sentences = []
-current_sent = []
-term_ids = []
-current_sent_tid = []
+def readnWriteNaf(txtFile, nafFile):
+    my_knaf = KafNafParser(nafFile)
+    sentences = []
+    current_sent = []
+    term_ids = []
+    current_sent_tid = []
 
-lemma_for_termid = {}
-termid_for_token = {}
+    lemma_for_termid = {}
+    termid_for_token = {}
 
-for term in my_knaf.get_terms():
-    term_id = term.get_id()
-    lemma = term.get_lemma()
-    lemma_for_termid[term_id] = lemma
-    tokens_id = term.get_span().get_span_ids()
-    for token_id in tokens_id:
-        termid_for_token[token_id] = term_id
+    for term in my_knaf.get_terms():
+        term_id = term.get_id()
+        lemma = term.get_lemma()
+        lemma_for_termid[term_id] = lemma
+        tokens_id = term.get_span().get_span_ids()
+        for token_id in tokens_id:
+            termid_for_token[token_id] = term_id
 
-previous_sent = None
-for token_obj in my_knaf.get_tokens():
-    token = token_obj.get_text()
-    sent = token_obj.get_sent()
-    token_id = token_obj.get_id()
+    previous_sent = None
+    for token_obj in my_knaf.get_tokens():
+        token = token_obj.get_text()
+        sent = token_obj.get_sent()
+        token_id = token_obj.get_id()
 
-    ##To avoid using tokens that have no term linked
-    if token_id not in termid_for_token:
-        continue
-    if sent != previous_sent and previous_sent != None:
+        ##To avoid using tokens that have no term linked
+        if token_id not in termid_for_token:
+            continue
+        if sent != previous_sent and previous_sent != None:
+            sentences.append(current_sent)
+            current_sent = [token]
+            term_ids.append(current_sent_tid)
+            current_sent_tid = [termid_for_token[token_id]]
+        else:
+            current_sent.append(token)
+            current_sent_tid.append(termid_for_token[token_id])
+        previous_sent = sent
+
+    if len(current_sent) != 0:
         sentences.append(current_sent)
-        current_sent = [token]
         term_ids.append(current_sent_tid)
-        current_sent_tid = [termid_for_token[token_id]]
-    else:
-        current_sent.append(token)
-        current_sent_tid.append(termid_for_token[token_id])
-    previous_sent = sent
 
-if len(current_sent) != 0:
-    sentences.append(current_sent)
-    term_ids.append(current_sent_tid)
+    ### Naf adding code
 
-
-
-
-
-
-### Naf adding code
-
-for line in dep().splitlines():
-    line = line.strip()
-    my_dep = Calpino_dependency(line)
-    if my_dep.is_ok():
-        my_sentence_index = my_dep.get_sentence()
-        list_term_ids = term_ids[int(my_sentence_index)]
-        deps = my_dep.generate_dependencies(list_term_ids)
-        for d in deps:
-            my_knaf.add_dependency(d)
+    for line in dep(txtFile).splitlines():
+        line = line.strip()
+        my_dep = Calpino_dependency(line)
+        if my_dep.is_ok():
+            my_sentence_index = my_dep.get_sentence()
+            list_term_ids = term_ids[int(my_sentence_index)]
+            deps = my_dep.generate_dependencies(list_term_ids)
+            for d in deps:
+                my_knaf.add_dependency(d)
 
 
 
-#add the dependency heading to the header
-my_lp = Clp()
-my_lp.set_name(this_name)
-my_lp.set_version(version+'_'+last_modified)
+    ### add the dependency heading to the header
+    my_lp = Clp()
+    my_lp.set_name(this_name)
+    my_lp.set_version(version+'_'+last_modified)
 
-my_lp.set_timestamp('*')
+    my_lp.set_timestamp('*')
 
-my_knaf.add_linguistic_processor(this_layer, my_lp)
-my_knaf.dump(path+"toNaf/WikiWhRhino_dep.naf")
+    my_knaf.add_linguistic_processor(this_layer, my_lp)
+    my_knaf.dump(nafFile)
 
-sys.exit(0)
+    ### System will exit after loop finishes in main()
+    #sys.exit(0)
 
+
+
+if __name__ == '__main__':
+    for filename in os.listdir(path+"rawTest"):
+        if filename.endswith(".txt"):
+            
+            dep(filename)
+            orig = os.path.splitext(filename)[0]
+            for f in os.listdir(path+"toNaf"):
+                tmp = os.path.splitext(f)[0]
+                
+                if orig == tmp :
+                    print('working on: '+ filename+ ' and '+ 'f')
+                    readnWriteNaf(filename, f)
+    sys.exit(0) 

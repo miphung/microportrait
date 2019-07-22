@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <NAF xml:lang="en" version="v3.naf">
   <nafHeader>
     <fileDesc creationtime="2019-07-10T13:11:36UTC"/>
@@ -17,6 +17,7 @@
     </linguisticProcessors>
     <linguisticProcessors layer="deps">
       <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-07-10T13:11:36UTC" endTimestamp="2019-07-10T13:11:36UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+      <lp name="spaCy KAF/NAF dependency parser" version="0.2_19jul2019" timestamp="*" beginTimestamp="2019-07-22T10:17:31Central Daylight Time" endTimestamp="2019-07-22T10:17:31Central Daylight Time" hostname="Michi"/>
     </linguisticProcessors>
     <linguisticProcessors layer="raw">
       <lp name="spaCy-model_en_core_web_sm" beginTimestamp="2019-07-10T13:11:36UTC" endTimestamp="2019-07-10T13:11:36UTC" version="spaCy_version-2.1.4__model_version-2.1.0"/>
@@ -6486,7 +6487,2960 @@ The International trade in rhino horn is banned under CITES (Convention on Inter
       </references>
     </entity>
   </entities>
-  <deps/>
+  <deps>
+    <dep from="t0" to="t1" rfunc="amod">
+      <!-- amod(horn,Rhino) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="nsubjpass">
+      <!-- nsubjpass(used,horn) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="auxpass">
+      <!-- auxpass(used,is) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="ROOT">
+      <!-- ROOT(used,used) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="prep">
+      <!-- prep(used,in) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="compound">
+      <!-- compound(Medicine,Traditional) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="compound">
+      <!-- compound(Medicine,Chinese) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="pobj">
+      <!-- pobj(in,Medicine) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="punct">
+      <!-- punct(used,,) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="cc">
+      <!-- cc(used,but) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="advmod">
+      <!-- advmod(common,increasingly) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="acomp">
+      <!-- acomp(is,common) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="conj">
+      <!-- conj(used,is) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="poss">
+      <!-- poss(use,its) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="nsubj">
+      <!-- nsubj(is,use) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="prep">
+      <!-- prep(use,as) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="det">
+      <!-- det(symbol,a) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="compound">
+      <!-- compound(symbol,status) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="pobj">
+      <!-- pobj(as,symbol) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="aux">
+      <!-- aux(display,to) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="relcl">
+      <!-- relcl(symbol,display) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="dobj">
+      <!-- dobj(display,success) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="cc">
+      <!-- cc(success,and) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="conj">
+      <!-- conj(success,wealth) -->
+    </dep>
+    <dep from="t0" to="t1" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="nsubj">
+      <!-- nsubj(is,Poaching) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="ccomp">
+      <!-- ccomp(targeted,is) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="advmod">
+      <!-- advmod(is,now) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="det">
+      <!-- det(threat,a) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="attr">
+      <!-- attr(is,threat) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="prep">
+      <!-- prep(threat,in) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="det">
+      <!-- det(states,all) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="compound">
+      <!-- compound(range,rhino) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="compound">
+      <!-- compound(states,range) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="pobj">
+      <!-- pobj(in,states) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="advmod">
+      <!-- advmod(is,however) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="mark">
+      <!-- mark(is,as) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="compound">
+      <!-- compound(Africa,South) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="nsubj">
+      <!-- nsubj(is,Africa) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="advcl">
+      <!-- advcl(is,is) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="attr">
+      <!-- attr(is,home) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="prep">
+      <!-- prep(home,to) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="det">
+      <!-- det(majority,the) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="pobj">
+      <!-- pobj(to,majority) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="prep">
+      <!-- prep(majority,of) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="pobj">
+      <!-- pobj(of,rhinos) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="prep">
+      <!-- prep(majority,in) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="det">
+      <!-- det(world,the) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="pobj">
+      <!-- pobj(in,world) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="punct">
+      <!-- punct(targeted,,) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="nsubjpass">
+      <!-- nsubjpass(targeted,it) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="aux">
+      <!-- aux(targeted,is) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="auxpass">
+      <!-- auxpass(targeted,being) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="advmod">
+      <!-- advmod(targeted,heavily) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="ROOT">
+      <!-- ROOT(targeted,targeted) -->
+    </dep>
+    <dep from="t27" to="t28" rfunc="punct">
+      <!-- punct(targeted,.) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="advmod">
+      <!-- advmod(having,More) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="prep">
+      <!-- prep(More,than) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="pcomp">
+      <!-- pcomp(than,ever) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="punct">
+      <!-- punct(having,,) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="compound">
+      <!-- compound(programmes,field) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="nsubj">
+      <!-- nsubj(having,programmes) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="aux">
+      <!-- aux(having,are) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="ROOT">
+      <!-- ROOT(having,having) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="aux">
+      <!-- aux(invest,to) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="xcomp">
+      <!-- xcomp(having,invest) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="advmod">
+      <!-- advmod(invest,heavily) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="prep">
+      <!-- prep(invest,in) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="subtok">
+      <!-- subtok(-,anti) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="subtok">
+      <!-- subtok(poaching,-) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="amod">
+      <!-- amod(activities,poaching) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="pobj">
+      <!-- pobj(in,activities) -->
+    </dep>
+    <dep from="t59" to="t60" rfunc="punct">
+      <!-- punct(having,.) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="nsubjpass">
+      <!-- nsubjpass(supplied,Poachers) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="aux">
+      <!-- aux(supplied,are) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="advmod">
+      <!-- advmod(supplied,now) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="auxpass">
+      <!-- auxpass(supplied,being) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="ROOT">
+      <!-- ROOT(supplied,supplied) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="agent">
+      <!-- agent(supplied,by) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="amod">
+      <!-- amod(gangs,international) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="amod">
+      <!-- amod(gangs,criminal) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="pobj">
+      <!-- pobj(by,gangs) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="prep">
+      <!-- prep(supplied,with) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="amod">
+      <!-- amod(equipment,sophisticated) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="pobj">
+      <!-- pobj(with,equipment) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="aux">
+      <!-- aux(track,to) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="relcl">
+      <!-- relcl(equipment,track) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="cc">
+      <!-- cc(track,and) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="conj">
+      <!-- conj(track,kill) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="dobj">
+      <!-- dobj(kill,rhinos) -->
+    </dep>
+    <dep from="t77" to="t78" rfunc="punct">
+      <!-- punct(supplied,.) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="advmod">
+      <!-- advmod(used,Frequently) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="det">
+      <!-- det(gun,a) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="compound">
+      <!-- compound(gun,tranquiliser) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="nsubjpass">
+      <!-- nsubjpass(used,gun) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="auxpass">
+      <!-- auxpass(used,is) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="ROOT">
+      <!-- ROOT(used,used) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="aux">
+      <!-- aux(bring,to) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="xcomp">
+      <!-- xcomp(used,bring) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="det">
+      <!-- det(rhino,the) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="dobj">
+      <!-- dobj(bring,rhino) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="prt">
+      <!-- prt(bring,down) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="punct">
+      <!-- punct(bring,,) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="mark">
+      <!-- mark(hacked,before) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="poss">
+      <!-- poss(horn,its) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="nsubjpass">
+      <!-- nsubjpass(hacked,horn) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="auxpass">
+      <!-- auxpass(hacked,is) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="advcl">
+      <!-- advcl(bring,hacked) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="prt">
+      <!-- prt(hacked,off) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="punct">
+      <!-- punct(hacked,,) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="advcl">
+      <!-- advcl(hacked,leaving) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="det">
+      <!-- det(rhino,the) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="dobj">
+      <!-- dobj(leaving,rhino) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="aux">
+      <!-- aux(wake,to) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="advcl">
+      <!-- advcl(leaving,wake) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="prt">
+      <!-- prt(wake,up) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="cc">
+      <!-- cc(wake,and) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="conj">
+      <!-- conj(wake,bleed) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="prep">
+      <!-- prep(bleed,to) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="pobj">
+      <!-- pobj(to,death) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="advmod">
+      <!-- advmod(painfully,very) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="advmod">
+      <!-- advmod(bleed,painfully) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="cc">
+      <!-- cc(painfully,and) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="conj">
+      <!-- conj(painfully,slowly) -->
+    </dep>
+    <dep from="t95" to="t96" rfunc="punct">
+      <!-- punct(used,.) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="nsubj">
+      <!-- nsubj(are,Poachers) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="ROOT">
+      <!-- ROOT(are,are) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="advmod">
+      <!-- advmod(are,often) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="acomp">
+      <!-- acomp(are,armed) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="prep">
+      <!-- prep(armed,with) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="pobj">
+      <!-- pobj(with,guns) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="appos">
+      <!-- appos(guns,themselves) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="punct">
+      <!-- punct(are,,) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="advcl">
+      <!-- advcl(are,making) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="nsubj">
+      <!-- nsubj(dangerous,them) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="advmod">
+      <!-- advmod(dangerous,very) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="ccomp">
+      <!-- ccomp(making,dangerous) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="prep">
+      <!-- prep(dangerous,for) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="det">
+      <!-- det(teams,the) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="subtok">
+      <!-- subtok(-,anti) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="subtok">
+      <!-- subtok(poaching,-) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="amod">
+      <!-- amod(teams,poaching) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="pobj">
+      <!-- pobj(for,teams) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="nsubj">
+      <!-- nsubj(put,who) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="relcl">
+      <!-- relcl(teams,put) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="poss">
+      <!-- poss(lives,their) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="dobj">
+      <!-- dobj(put,lives) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="prep">
+      <!-- prep(put,on) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="det">
+      <!-- det(line,the) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="pobj">
+      <!-- pobj(on,line) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="aux">
+      <!-- aux(protect,to) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="advcl">
+      <!-- advcl(put,protect) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="dobj">
+      <!-- dobj(protect,rhinos) -->
+    </dep>
+    <dep from="t129" to="t130" rfunc="punct">
+      <!-- punct(are,.) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="det">
+      <!-- det(scarcity,The) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="nsubj">
+      <!-- nsubj(drives,scarcity) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="prep">
+      <!-- prep(scarcity,of) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="pobj">
+      <!-- pobj(of,rhinos) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="npadvmod">
+      <!-- npadvmod(scarcity,today) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="cc">
+      <!-- cc(scarcity,and) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="det">
+      <!-- det(availability,the) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="amod">
+      <!-- amod(availability,corresponding) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="amod">
+      <!-- amod(availability,intermittent) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="conj">
+      <!-- conj(scarcity,availability) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="prep">
+      <!-- prep(availability,of) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="pobj">
+      <!-- pobj(of,horn) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="advmod">
+      <!-- advmod(drives,only) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="ROOT">
+      <!-- ROOT(drives,drives) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="det">
+      <!-- det(price,the) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="dobj">
+      <!-- dobj(drives,price) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="prep">
+      <!-- prep(price,of) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="pobj">
+      <!-- pobj(of,horn) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="advmod">
+      <!-- advmod(drives,higher) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="cc">
+      <!-- cc(higher,and) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="conj">
+      <!-- conj(higher,higher) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="punct">
+      <!-- punct(drives,,) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="advcl">
+      <!-- advcl(drives,intensifying) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="dobj">
+      <!-- dobj(intensifying,pressure) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="prep">
+      <!-- prep(pressure,on) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="amod">
+      <!-- amod(populations,declining) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="compound">
+      <!-- compound(populations,rhino) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="pobj">
+      <!-- pobj(on,populations) -->
+    </dep>
+    <dep from="t159" to="t160" rfunc="punct">
+      <!-- punct(drives,.) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="ROOT">
+      <!-- ROOT(For,For) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="pobj">
+      <!-- pobj(For,people) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="poss">
+      <!-- poss(income,whose) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="amod">
+      <!-- amod(income,annual) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="nsubj">
+      <!-- nsubj(is,income) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="relcl">
+      <!-- relcl(people,is) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="advmod">
+      <!-- advmod(is,often) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="advmod">
+      <!-- advmod(below,far) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="prep">
+      <!-- prep(is,below) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="det">
+      <!-- det(level,the) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="compound">
+      <!-- compound(level,subsistence) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="pobj">
+      <!-- pobj(below,level) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="punct">
+      <!-- punct(For,,) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="det">
+      <!-- det(opportunity,the) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="pobj">
+      <!-- pobj(,,opportunity) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="aux">
+      <!-- aux(change,to) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="acl">
+      <!-- acl(opportunity,change) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="nummod">
+      <!-- nummod(life,one) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="amod">
+      <!-- amod(life,’s) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="dobj">
+      <!-- dobj(change,life) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="prep">
+      <!-- prep(change,by) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="pcomp">
+      <!-- pcomp(by,killing) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="det">
+      <!-- det(animal,an) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="dobj">
+      <!-- dobj(killing,animal) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="dobj">
+      <!-- dobj(do,that) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="nsubj">
+      <!-- nsubj(do,they) -->
+    </dep>
+    <dep from="t189" to="t190" rfunc="relcl">
+      <!-- relcl(animal,do) -->
+    </dep>
+    <dep from="t217" to="t218" rfunc="nsubj">
+      <!-- nsubj(is,value) -->
+    </dep>
+    <dep from="t217" to="t218" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t217" to="t218" rfunc="acomp">
+      <!-- acomp(is,overwhelming) -->
+    </dep>
+    <dep from="t217" to="t218" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+    <dep from="t222" to="t223" rfunc="nsubj">
+      <!-- nsubj(is,What) -->
+    </dep>
+    <dep from="t222" to="t223" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t222" to="t223" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t222" to="t223" rfunc="nsubj">
+      <!-- nsubj(is,horn) -->
+    </dep>
+    <dep from="t222" to="t223" rfunc="punct">
+      <!-- punct(is,?) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="compound">
+      <!-- compound(horns,Rhino) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="nsubj">
+      <!-- nsubj(are,horns) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="ROOT">
+      <!-- ROOT(are,are) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="acomp">
+      <!-- acomp(are,similar) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="prep">
+      <!-- prep(similar,in) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="pobj">
+      <!-- pobj(in,structure) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="prep">
+      <!-- prep(similar,to) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="pobj">
+      <!-- pobj(to,horses) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="poss">
+      <!-- poss(hooves,’) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="npadvmod">
+      <!-- npadvmod(are,hooves) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="punct">
+      <!-- punct(hooves,,) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="compound">
+      <!-- compound(beaks,turtle) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="conj">
+      <!-- conj(hooves,beaks) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="punct">
+      <!-- punct(beaks,,) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="cc">
+      <!-- cc(beaks,and) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="compound">
+      <!-- compound(bills,cockatoo) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="conj">
+      <!-- conj(beaks,bills) -->
+    </dep>
+    <dep from="t228" to="t229" rfunc="punct">
+      <!-- punct(are,.) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="nsubjpass">
+      <!-- nsubjpass(made,They) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="auxpass">
+      <!-- auxpass(made,are) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="ccomp">
+      <!-- ccomp(is,made) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="prep">
+      <!-- prep(made,of) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="compound">
+      <!-- compound(–,keratin) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="pobj">
+      <!-- pobj(of,–) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="prep">
+      <!-- prep(made,in) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="compound">
+      <!-- compound(horn,rhinoceros) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="pobj">
+      <!-- pobj(in,horn) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="nsubj">
+      <!-- nsubj(is,it) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="advmod">
+      <!-- advmod(complex,chemically) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="acomp">
+      <!-- acomp(is,complex) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="cc">
+      <!-- cc(is,and) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="conj">
+      <!-- conj(is,contains) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="amod">
+      <!-- amod(quantities,large) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="dobj">
+      <!-- dobj(contains,quantities) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="prep">
+      <!-- prep(quantities,of) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="npadvmod">
+      <!-- npadvmod(containing,sulphur) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(containing,-) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="amod">
+      <!-- amod(acids,containing) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="amod">
+      <!-- amod(acids,amino) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="pobj">
+      <!-- pobj(of,acids) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(acids,,) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="advmod">
+      <!-- advmod(cysteine,particularly) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="appos">
+      <!-- appos(acids,cysteine) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(cysteine,,) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="advmod">
+      <!-- advmod(as,as) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="advmod">
+      <!-- advmod(as,well) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="cc">
+      <!-- cc(cysteine,as) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="conj">
+      <!-- conj(cysteine,tyrosine) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(tyrosine,,) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="conj">
+      <!-- conj(tyrosine,histidine) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(histidine,,) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="conj">
+      <!-- conj(histidine,lysine) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(lysine,,) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="cc">
+      <!-- cc(lysine,and) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="conj">
+      <!-- conj(lysine,arginine) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(arginine,,) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="cc">
+      <!-- cc(lysine,and) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="det">
+      <!-- det(carbonate,the) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="compound">
+      <!-- compound(carbonate,salts) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="compound">
+      <!-- compound(carbonate,calcium) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="conj">
+      <!-- conj(lysine,carbonate) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="cc">
+      <!-- cc(carbonate,and) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="compound">
+      <!-- compound(phosphate,calcium) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="conj">
+      <!-- conj(carbonate,phosphate) -->
+    </dep>
+    <dep from="t246" to="t247" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+    <dep from="t296" to="t297" rfunc="amod">
+      <!-- amod(Medicine,Traditional) -->
+    </dep>
+    <dep from="t296" to="t297" rfunc="compound">
+      <!-- compound(Medicine,Chinese) -->
+    </dep>
+    <dep from="t296" to="t297" rfunc="ROOT">
+      <!-- ROOT(Medicine,Medicine) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="ROOT">
+      <!-- ROOT(According,According) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="prep">
+      <!-- prep(According,to) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="amod">
+      <!-- amod(texts,traditional) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="amod">
+      <!-- amod(texts,Chinese) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="pobj">
+      <!-- pobj(to,texts) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="punct">
+      <!-- punct(According,,) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="amod">
+      <!-- amod(as,such) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="prep">
+      <!-- prep(According,as) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="compound">
+      <!-- compound(chen,Li) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="compound">
+      <!-- compound(chen,Shih) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="punct">
+      <!-- punct(chen,-) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="pobj">
+      <!-- pobj(as,chen) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="nmod">
+      <!-- nmod(text,’s) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="nummod">
+      <!-- nummod(text,1597) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="amod">
+      <!-- amod(text,medical) -->
+    </dep>
+    <dep from="t300" to="t301" rfunc="appos">
+      <!-- appos(chen,text) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="compound">
+      <!-- compound(’,Ts) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="nsubjpass">
+      <!-- nsubjpass(used,’) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="prep">
+      <!-- prep(’,ao) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="compound">
+      <!-- compound(Mu,Kang) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="pobj">
+      <!-- pobj(ao,Mu) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="punct">
+      <!-- punct(’,”) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="punct">
+      <!-- punct(used,,) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="nsubjpass">
+      <!-- nsubjpass(used,horn) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="aux">
+      <!-- aux(used,has) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="auxpass">
+      <!-- auxpass(used,been) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="ROOT">
+      <!-- ROOT(used,used) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="prep">
+      <!-- prep(used,in) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="amod">
+      <!-- amod(medicine,Chinese) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="pobj">
+      <!-- pobj(in,medicine) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="prep">
+      <!-- prep(used,for) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="amod">
+      <!-- amod(2,000,more) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="quantmod">
+      <!-- quantmod(2,000,than) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="nummod">
+      <!-- nummod(years,2,000) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="pobj">
+      <!-- pobj(for,years) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="cc">
+      <!-- cc(used,and) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="auxpass">
+      <!-- auxpass(used,is) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="conj">
+      <!-- conj(used,used) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="aux">
+      <!-- aux(treat,to) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="xcomp">
+      <!-- xcomp(used,treat) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="dobj">
+      <!-- dobj(treat,fever) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="punct">
+      <!-- punct(fever,,) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="conj">
+      <!-- conj(fever,rheumatism) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="punct">
+      <!-- punct(rheumatism,,) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="conj">
+      <!-- conj(rheumatism,gout) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="punct">
+      <!-- punct(gout,,) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="cc">
+      <!-- cc(gout,and) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="amod">
+      <!-- amod(disorders,other) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="conj">
+      <!-- conj(gout,disorders) -->
+    </dep>
+    <dep from="t318" to="t319" rfunc="punct">
+      <!-- punct(used,.) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="nsubj">
+      <!-- nsubj(states,It) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="advmod">
+      <!-- advmod(states,also) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="ROOT">
+      <!-- ROOT(states,states) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="mark">
+      <!-- mark(cure,that) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="det">
+      <!-- det(horn,the) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="nsubj">
+      <!-- nsubj(cure,horn) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="aux">
+      <!-- aux(cure,could) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="advmod">
+      <!-- advmod(cure,also) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="ccomp">
+      <!-- ccomp(states,cure) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="dobj">
+      <!-- dobj(cure,snakebites) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(snakebites,,) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="conj">
+      <!-- conj(snakebites,hallucinations) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(hallucinations,,) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="conj">
+      <!-- conj(hallucinations,typhoid) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(typhoid,,) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="conj">
+      <!-- conj(typhoid,headaches) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(headaches,,) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="conj">
+      <!-- conj(headaches,carbuncles) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(carbuncles,,) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="conj">
+      <!-- conj(carbuncles,vomiting) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(vomiting,,) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="compound">
+      <!-- compound(poisoning,food) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="conj">
+      <!-- conj(vomiting,poisoning) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(poisoning,,) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="cc">
+      <!-- cc(poisoning,and) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="nmod">
+      <!-- nmod(possession,“) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="compound">
+      <!-- compound(possession,devil) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="conj">
+      <!-- conj(poisoning,possession) -->
+    </dep>
+    <dep from="t353" to="t354" rfunc="punct">
+      <!-- punct(states,.) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="mark">
+      <!-- mark(believed,While) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="nsubjpass">
+      <!-- nsubjpass(believed,it) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="auxpass">
+      <!-- auxpass(believed,is) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="advmod">
+      <!-- advmod(believed,commonly) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="advcl">
+      <!-- advcl(is,believed) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="aux">
+      <!-- aux(prescribed,to) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="auxpass">
+      <!-- auxpass(prescribed,be) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="xcomp">
+      <!-- xcomp(believed,prescribed) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="prep">
+      <!-- prep(prescribed,as) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="det">
+      <!-- det(aphrodisiac,an) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="pobj">
+      <!-- pobj(as,aphrodisiac) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="nsubj">
+      <!-- nsubj(is,this) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="neg">
+      <!-- neg(is,not) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="det">
+      <!-- det(case,the) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="attr">
+      <!-- attr(is,case) -->
+    </dep>
+    <dep from="t383" to="t384" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="advmod">
+      <!-- advmod(used,When) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="advcl">
+      <!-- advcl(shaved,used) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="punct">
+      <!-- punct(shaved,,) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="det">
+      <!-- det(horn,the) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="nsubjpass">
+      <!-- nsubjpass(shaved,horn) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="auxpass">
+      <!-- auxpass(shaved,is) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="ROOT">
+      <!-- ROOT(shaved,shaved) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="cc">
+      <!-- cc(shaved,or) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="conj">
+      <!-- conj(shaved,ground) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="prep">
+      <!-- prep(ground,into) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="det">
+      <!-- det(powder,a) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="pobj">
+      <!-- pobj(into,powder) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="punct">
+      <!-- punct(ground,,) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="prep">
+      <!-- prep(shaved,before) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="auxpass">
+      <!-- auxpass(dissolved,being) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="pcomp">
+      <!-- pcomp(before,dissolved) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="prep">
+      <!-- prep(dissolved,in) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="compound">
+      <!-- compound(water,boiling) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="pobj">
+      <!-- pobj(in,water) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="cc">
+      <!-- cc(dissolved,and) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="conj">
+      <!-- conj(dissolved,consumed) -->
+    </dep>
+    <dep from="t402" to="t403" rfunc="punct">
+      <!-- punct(shaved,.) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="mark">
+      <!-- mark(wrote,As) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(Ellis,Richard) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="nsubj">
+      <!-- nsubj(wrote,Ellis) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="punct">
+      <!-- punct(Ellis,,) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="appos">
+      <!-- appos(Ellis,author) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="prep">
+      <!-- prep(author,of) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(Tiger,“) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(bone,Tiger) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="pobj">
+      <!-- pobj(of,bone) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="cc">
+      <!-- cc(author,and) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(horn,rhino) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="conj">
+      <!-- conj(author,horn) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="punct">
+      <!-- punct(wrote,”) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="ROOT">
+      <!-- ROOT(wrote,wrote) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="prep">
+      <!-- prep(wrote,in) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="pobj">
+      <!-- pobj(in,2005) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="prep">
+      <!-- prep(wrote,for) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="det">
+      <!-- det(’s,the) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(’s,EAZA) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(Campaign,Rhino) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(’s,Campaign) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(Pack,’s) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="compound">
+      <!-- compound(Pack,Info) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="pobj">
+      <!-- pobj(for,Pack) -->
+    </dep>
+    <dep from="t425" to="t426" rfunc="punct">
+      <!-- punct(wrote,:) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="nsubj">
+      <!-- nsubj(is,It) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="neg">
+      <!-- neg(is,not) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="acomp">
+      <!-- acomp(is,clear) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="mark">
+      <!-- mark(serves,that) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="nsubj">
+      <!-- nsubj(serves,horn) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="ccomp">
+      <!-- ccomp(is,serves) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="det">
+      <!-- det(purpose,any) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="amod">
+      <!-- amod(purpose,medicinal) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="dobj">
+      <!-- dobj(serves,purpose) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="advmod">
+      <!-- advmod(purpose,whatsoever) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="cc">
+      <!-- cc(is,but) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="nsubj">
+      <!-- nsubj(is,it) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="conj">
+      <!-- conj(is,is) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="det">
+      <!-- det(testimony,a) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="attr">
+      <!-- attr(is,testimony) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="prep">
+      <!-- prep(testimony,to) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="det">
+      <!-- det(power,the) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="pobj">
+      <!-- pobj(to,power) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="prep">
+      <!-- prep(power,of) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="pobj">
+      <!-- pobj(of,tradition) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="mark">
+      <!-- mark(believe,that) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="nsubj">
+      <!-- nsubj(believe,millions) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="prep">
+      <!-- prep(millions,of) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="pobj">
+      <!-- pobj(of,people) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="relcl">
+      <!-- relcl(power,believe) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="mark">
+      <!-- mark(does,that) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="nsubj">
+      <!-- nsubj(does,it) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="ccomp">
+      <!-- ccomp(believe,does) -->
+    </dep>
+    <dep from="t451" to="t452" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advmod">
+      <!-- advmod(course,Of) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advmod">
+      <!-- advmod(is,course) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="mark">
+      <!-- mark(want,if) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="nsubj">
+      <!-- nsubj(want,people) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="pobj">
+      <!-- pobj(,,want) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="aux">
+      <!-- aux(believe,to) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="xcomp">
+      <!-- xcomp(want,believe) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="prep">
+      <!-- prep(believe,in) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="pobj">
+      <!-- pobj(in,prayer) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="punct">
+      <!-- punct(prayer,,) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="conj">
+      <!-- conj(prayer,acupuncture) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="cc">
+      <!-- cc(acupuncture,or) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="conj">
+      <!-- conj(acupuncture,voodoo) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="prep">
+      <!-- prep(believe,as) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="det">
+      <!-- det(cure,a) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="pobj">
+      <!-- pobj(as,cure) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="prep">
+      <!-- prep(cure,for) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="nsubj">
+      <!-- nsubj(ails,what) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advcl">
+      <!-- advcl(is,ails) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="dobj">
+      <!-- dobj(ails,them) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="expl">
+      <!-- expl(is,there) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="pcomp">
+      <!-- pcomp(for,is) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="det">
+      <!-- det(reason,no) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="attr">
+      <!-- attr(is,reason) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advmod">
+      <!-- advmod(should,why) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="nsubj">
+      <!-- nsubj(should,they) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="aux">
+      <!-- aux(n’t,should) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="relcl">
+      <!-- relcl(reason,n’t) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="punct">
+      <!-- punct(but,,) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="cc">
+      <!-- cc(is,but) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="mark">
+      <!-- mark(killed,if) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="nsubjpass">
+      <!-- nsubjpass(killed,animals) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="aux">
+      <!-- aux(killed,are) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="auxpass">
+      <!-- auxpass(killed,being) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advcl">
+      <!-- advcl(is,killed) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="aux">
+      <!-- aux(provide,to) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advcl">
+      <!-- advcl(killed,provide) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="dobj">
+      <!-- dobj(provide,nostrums) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="nsubjpass">
+      <!-- nsubjpass(shown,that) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="aux">
+      <!-- aux(shown,have) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="auxpass">
+      <!-- auxpass(shown,been) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="relcl">
+      <!-- relcl(nostrums,shown) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="aux">
+      <!-- aux(be,to) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="xcomp">
+      <!-- xcomp(shown,be) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="acomp">
+      <!-- acomp(be,useless) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advmod">
+      <!-- advmod(is,then) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="expl">
+      <!-- expl(is,there) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="det">
+      <!-- det(reason,a) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="advmod">
+      <!-- advmod(good,very) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="amod">
+      <!-- amod(reason,good) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="attr">
+      <!-- attr(is,reason) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="aux">
+      <!-- aux(curtail,to) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="relcl">
+      <!-- relcl(reason,curtail) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="det">
+      <!-- det(use,the) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="dobj">
+      <!-- dobj(curtail,use) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="prep">
+      <!-- prep(use,of) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="pobj">
+      <!-- pobj(of,horn) -->
+    </dep>
+    <dep from="t483" to="t484" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="expl">
+      <!-- expl(are,There) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="ROOT">
+      <!-- ROOT(are,are) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="nummod">
+      <!-- nummod(species,five) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="attr">
+      <!-- attr(are,species) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="prep">
+      <!-- prep(species,of) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="pobj">
+      <!-- pobj(of,rhinoceros) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="cc">
+      <!-- cc(are,and) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="punct">
+      <!-- punct(are,,) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="prep">
+      <!-- prep(are,with) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="det">
+      <!-- det(exception,the) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="pobj">
+      <!-- pobj(with,exception) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="prep">
+      <!-- prep(exception,of) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="nummod">
+      <!-- nummod(subspecies,one) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="pobj">
+      <!-- pobj(of,subspecies) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="prep">
+      <!-- prep(subspecies,of) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="compound">
+      <!-- compound(White,African) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="compound">
+      <!-- compound(rhino,White) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="pobj">
+      <!-- pobj(of,rhino) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="punct">
+      <!-- punct(are,,) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="nsubj">
+      <!-- nsubj(are,all) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="conj">
+      <!-- conj(are,are) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="prep">
+      <!-- prep(are,in) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="pobj">
+      <!-- pobj(in,danger) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="prep">
+      <!-- prep(danger,of) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="auxpass">
+      <!-- auxpass(hunted,being) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="pcomp">
+      <!-- pcomp(of,hunted) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="aux">
+      <!-- aux(extinction,to) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="xcomp">
+      <!-- xcomp(hunted,extinction) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="prep">
+      <!-- prep(extinction,for) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="poss">
+      <!-- poss(horns,their) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="pobj">
+      <!-- pobj(for,horns) -->
+    </dep>
+    <dep from="t546" to="t547" rfunc="punct">
+      <!-- punct(are,.) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="nsubj">
+      <!-- nsubj(been,Rhinos) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="punct">
+      <!-- punct(been,,) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="mark">
+      <!-- mark(know,as) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="nsubj">
+      <!-- nsubj(know,we) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="advcl">
+      <!-- advcl(been,know) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="dobj">
+      <!-- dobj(know,them) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="punct">
+      <!-- punct(been,,) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="aux">
+      <!-- aux(been,have) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="ROOT">
+      <!-- ROOT(been,been) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="advmod">
+      <!-- advmod(been,around) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="prep">
+      <!-- prep(been,for) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="pobj">
+      <!-- pobj(for,millions) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="prep">
+      <!-- prep(millions,of) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="pobj">
+      <!-- pobj(of,years) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="punct">
+      <!-- punct(been,,) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="cc">
+      <!-- cc(been,but) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="compound">
+      <!-- compound(Spaiens,Dr) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="compound">
+      <!-- compound(Spaiens,H.) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="nsubj">
+      <!-- nsubj(created,Spaiens) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="aux">
+      <!-- aux(created,has) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="conj">
+      <!-- conj(been,created) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="det">
+      <!-- det(predicament,a) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="dobj">
+      <!-- dobj(created,predicament) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="prep">
+      <!-- prep(recover,from) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="pobj">
+      <!-- pobj(from,which) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="nsubj">
+      <!-- nsubj(recover,they) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="aux">
+      <!-- aux(recover,might) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="neg">
+      <!-- neg(recover,never) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="relcl">
+      <!-- relcl(predicament,recover) -->
+    </dep>
+    <dep from="t578" to="t579" rfunc="punct">
+      <!-- punct(created,.) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="nsubj">
+      <!-- nsubj(heartbreaking,It) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="aux">
+      <!-- aux(heartbreaking,is) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="ROOT">
+      <!-- ROOT(heartbreaking,heartbreaking) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="aux">
+      <!-- aux(realise,to) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="xcomp">
+      <!-- xcomp(heartbreaking,realise) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="mark">
+      <!-- mark(eliminated,that) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="det">
+      <!-- det(rhinos,the) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="compound">
+      <!-- compound(’s,world) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="compound">
+      <!-- compound(rhinos,’s) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="nsubjpass">
+      <!-- nsubjpass(eliminated,rhinos) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="aux">
+      <!-- aux(eliminated,are) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="auxpass">
+      <!-- auxpass(eliminated,being) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="ccomp">
+      <!-- ccomp(realise,eliminated) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="prep">
+      <!-- prep(eliminated,from) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="det">
+      <!-- det(face,the) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="pobj">
+      <!-- pobj(from,face) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="prep">
+      <!-- prep(face,of) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="det">
+      <!-- det(earth,the) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="pobj">
+      <!-- pobj(of,earth) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="prep">
+      <!-- prep(eliminated,in) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="det">
+      <!-- det(name,the) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="pobj">
+      <!-- pobj(in,name) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="prep">
+      <!-- prep(name,of) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="pobj">
+      <!-- pobj(of,medications) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="nsubj">
+      <!-- nsubj(do,that) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="advmod">
+      <!-- advmod(do,probably) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="relcl">
+      <!-- relcl(medications,do) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="punct">
+      <!-- punct(work,n’t) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="dobj">
+      <!-- dobj(do,work) -->
+    </dep>
+    <dep from="t608" to="t609" rfunc="punct">
+      <!-- punct(heartbreaking,.) -->
+    </dep>
+    <dep from="t638" to="t639" rfunc="punct">
+      <!-- punct(Aphrodisiac,”) -->
+    </dep>
+    <dep from="t638" to="t639" rfunc="ROOT">
+      <!-- ROOT(Aphrodisiac,Aphrodisiac) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="expl">
+      <!-- expl(is,There) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="det">
+      <!-- det(belief,a) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="attr">
+      <!-- attr(is,belief) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="prep">
+      <!-- prep(belief,in) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="amod">
+      <!-- amod(countries,Western) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="pobj">
+      <!-- pobj(in,countries) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="nsubjpass">
+      <!-- nsubjpass(used,that) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="nsubjpass">
+      <!-- nsubjpass(used,horn) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="auxpass">
+      <!-- auxpass(used,is) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="relcl">
+      <!-- relcl(belief,used) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="prep">
+      <!-- prep(used,as) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="det">
+      <!-- det(aphrodisiac,an) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="pobj">
+      <!-- pobj(as,aphrodisiac) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="cc">
+      <!-- cc(aphrodisiac,and) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="conj">
+      <!-- conj(aphrodisiac,sexual) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="conj">
+      <!-- conj(aphrodisiac,stimulant) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="cc">
+      <!-- cc(is,but) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="nsubj">
+      <!-- nsubj(is,this) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="conj">
+      <!-- conj(is,is) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="neg">
+      <!-- neg(is,not) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="acomp">
+      <!-- acomp(is,correct) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="cc">
+      <!-- cc(is,and) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="conj">
+      <!-- conj(is,seems) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="aux">
+      <!-- aux(been,to) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="aux">
+      <!-- aux(been,have) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="xcomp">
+      <!-- xcomp(seems,been) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="attr">
+      <!-- attr(been,misunderstood) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="cc">
+      <!-- cc(misunderstood,or) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="conj">
+      <!-- conj(misunderstood,misinterpreted) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="agent">
+      <!-- agent(misinterpreted,by) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="amod">
+      <!-- amod(media,Western) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="pobj">
+      <!-- pobj(by,media) -->
+    </dep>
+    <dep from="t642" to="t643" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="advmod">
+      <!-- advmod(shown,However) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="punct">
+      <!-- punct(shown,,) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="nsubj">
+      <!-- nsubj(shown,research) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="aux">
+      <!-- aux(shown,has) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="ROOT">
+      <!-- ROOT(shown,shown) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="mark">
+      <!-- mark(starting,that) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="nsubj">
+      <!-- nsubj(starting,people) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="prep">
+      <!-- prep(people,in) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="compound">
+      <!-- compound(Nam,Viet) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="pobj">
+      <!-- pobj(in,Nam) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="aux">
+      <!-- aux(starting,are) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="ccomp">
+      <!-- ccomp(shown,starting) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="aux">
+      <!-- aux(believe,to) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="xcomp">
+      <!-- xcomp(starting,believe) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="det">
+      <!-- det(rumour,this) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="dobj">
+      <!-- dobj(believe,rumour) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="mark">
+      <!-- mark(consuming,as) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="nsubj">
+      <!-- nsubj(consuming,they) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="aux">
+      <!-- aux(consuming,are) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="advcl">
+      <!-- advcl(believe,consuming) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="dobj">
+      <!-- dobj(consuming,it) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="prep">
+      <!-- prep(consuming,for) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="amod">
+      <!-- amod(reasons,new) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="pobj">
+      <!-- pobj(for,reasons) -->
+    </dep>
+    <dep from="t678" to="t679" rfunc="punct">
+      <!-- punct(shown,.) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="advmod">
+      <!-- advmod(without,Even) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="prep">
+      <!-- prep(is,without) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="amod">
+      <!-- amod(properties,aphrodisiacal) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="pobj">
+      <!-- pobj(without,properties) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="advmod">
+      <!-- advmod(is,however) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="nsubj">
+      <!-- nsubj(is,horn) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="attr">
+      <!-- attr(is,one) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="prep">
+      <!-- prep(one,of) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="det">
+      <!-- det(mainstays,the) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="pobj">
+      <!-- pobj(of,mainstays) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="prep">
+      <!-- prep(mainstays,of) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="compound">
+      <!-- compound(Medicines,Traditional) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="compound">
+      <!-- compound(Medicines,Chinese) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="pobj">
+      <!-- pobj(of,Medicines) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="cc">
+      <!-- cc(is,and) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="poss">
+      <!-- poss(collection,its) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="nsubj">
+      <!-- nsubj(been,collection) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="aux">
+      <!-- aux(been,has) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="conj">
+      <!-- conj(is,been) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="acomp">
+      <!-- acomp(been,responsible) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="prep">
+      <!-- prep(responsible,for) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="det">
+      <!-- det(death,the) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="pobj">
+      <!-- pobj(for,death) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="prep">
+      <!-- prep(death,of) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="quantmod">
+      <!-- quantmod(thousands,tens) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="quantmod">
+      <!-- quantmod(thousands,of) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="pobj">
+      <!-- pobj(of,thousands) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="prep">
+      <!-- prep(thousands,of) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="pobj">
+      <!-- pobj(of,rhinos) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="prep">
+      <!-- prep(rhinos,around) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="det">
+      <!-- det(world,the) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="pobj">
+      <!-- pobj(around,world) -->
+    </dep>
+    <dep from="t704" to="t705" rfunc="punct">
+      <!-- punct(been,.) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="nsubj">
+      <!-- nsubj(believe,Make) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="det">
+      <!-- det(mistake,no) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="dobj">
+      <!-- dobj(Make,mistake) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="punct">
+      <!-- punct(using,:) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="det">
+      <!-- det(people,those) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="nsubj">
+      <!-- nsubj(using,people) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="acl">
+      <!-- acl(mistake,using) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="dobj">
+      <!-- dobj(using,horn) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="aux">
+      <!-- aux(cure,to) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="xcomp">
+      <!-- xcomp(using,cure) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="amod">
+      <!-- amod(ailments,medical) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="dobj">
+      <!-- dobj(cure,ailments) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="advmod">
+      <!-- advmod(believe,really) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="ROOT">
+      <!-- ROOT(believe,believe) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="nsubj">
+      <!-- nsubj(works,it) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="ccomp">
+      <!-- ccomp(believe,works) -->
+    </dep>
+    <dep from="t743" to="t744" rfunc="punct">
+      <!-- punct(believe,.) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="nsubj">
+      <!-- nsubj(’s,That) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="ROOT">
+      <!-- ROOT(’s,’s) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="nsubj">
+      <!-- nsubj(drives,what) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="ccomp">
+      <!-- ccomp(’s,drives) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="prt">
+      <!-- prt(drives,up) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="det">
+      <!-- det(demand,the) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="dobj">
+      <!-- dobj(drives,demand) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="prep">
+      <!-- prep(thrive,on) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="pobj">
+      <!-- pobj(on,which) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="det">
+      <!-- det(poachers,the) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="nsubj">
+      <!-- nsubj(thrive,poachers) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="relcl">
+      <!-- relcl(demand,thrive) -->
+    </dep>
+    <dep from="t761" to="t762" rfunc="punct">
+      <!-- punct(’s,.) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="mark">
+      <!-- mark(commented,As) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="nsubj">
+      <!-- nsubj(commented,Ann) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="cc">
+      <!-- cc(Ann,and) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="compound">
+      <!-- compound(Toon,Steve) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="conj">
+      <!-- conj(Ann,Toon) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="ROOT">
+      <!-- ROOT(commented,commented) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="prep">
+      <!-- prep(commented,in) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="pobj">
+      <!-- pobj(in,2002) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="punct">
+      <!-- punct(commented,,) -->
+    </dep>
+    <dep from="t774" to="t775" rfunc="punct">
+      <!-- punct(commented,“) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="prep">
+      <!-- prep(perceived,For) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="pobj">
+      <!-- pobj(For,practitioners) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="prep">
+      <!-- prep(practitioners,of) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="amod">
+      <!-- amod(medicine,traditional) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="amod">
+      <!-- amod(medicine,Asian) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="pobj">
+      <!-- pobj(of,medicine) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="punct">
+      <!-- punct(perceived,,) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="nsubjpass">
+      <!-- nsubjpass(perceived,horn) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="auxpass">
+      <!-- auxpass(perceived,is) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="neg">
+      <!-- neg(perceived,not) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="ROOT">
+      <!-- ROOT(perceived,perceived) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="prep">
+      <!-- prep(perceived,as) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="det">
+      <!-- det(potion,a) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="amod">
+      <!-- amod(potion,frivolous) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="compound">
+      <!-- compound(potion,love) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="pobj">
+      <!-- pobj(as,potion) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="punct">
+      <!-- punct(perceived,,) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="cc">
+      <!-- cc(perceived,but) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="prep">
+      <!-- prep(perceived,as) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="det">
+      <!-- det(necessity,an) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="amod">
+      <!-- amod(necessity,irreplaceable) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="amod">
+      <!-- amod(necessity,pharmaceutical) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="pobj">
+      <!-- pobj(as,necessity) -->
+    </dep>
+    <dep from="t784" to="t785" rfunc="punct">
+      <!-- punct(perceived,.) -->
+    </dep>
+    <dep from="t809" to="t810" rfunc="ROOT">
+      <!-- ROOT(”,”) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="nmod">
+      <!-- nmod(–,Viet) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="nmod">
+      <!-- nmod(–,Nam) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="nmod">
+      <!-- nmod(uses,–) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="amod">
+      <!-- amod(uses,new) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="ROOT">
+      <!-- ROOT(uses,uses) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="prep">
+      <!-- prep(uses,for) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t811" to="t812" rfunc="pobj">
+      <!-- pobj(for,horn) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="expl">
+      <!-- expl(been,There) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="aux">
+      <!-- aux(been,has) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="ROOT">
+      <!-- ROOT(been,been) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="det">
+      <!-- det(surge,a) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="amod">
+      <!-- amod(surge,recent) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="attr">
+      <!-- attr(been,surge) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="prep">
+      <!-- prep(surge,in) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="pobj">
+      <!-- pobj(in,demand) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="prep">
+      <!-- prep(demand,for) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="pobj">
+      <!-- pobj(for,horn) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="prep">
+      <!-- prep(horn,in) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="compound">
+      <!-- compound(Nam,Viet) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="pobj">
+      <!-- pobj(in,Nam) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="punct">
+      <!-- punct(Nam,,) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="advmod">
+      <!-- advmod(touted,where) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="nsubjpass">
+      <!-- nsubjpass(touted,it) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="aux">
+      <!-- aux(touted,is) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="auxpass">
+      <!-- auxpass(touted,being) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="relcl">
+      <!-- relcl(Nam,touted) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="prep">
+      <!-- prep(touted,as) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="det">
+      <!-- det(cure,a) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="compound">
+      <!-- compound(cure,hangover) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="pobj">
+      <!-- pobj(as,cure) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="cc">
+      <!-- cc(cure,and) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="conj">
+      <!-- conj(cure,treatment) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="prep">
+      <!-- prep(cure,for) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="amod">
+      <!-- amod(illnesses,terminal) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="pobj">
+      <!-- pobj(for,illnesses) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="cc">
+      <!-- cc(illnesses,plus) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="amod">
+      <!-- amod(uses,many) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="amod">
+      <!-- amod(uses,more) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="conj">
+      <!-- conj(illnesses,uses) -->
+    </dep>
+    <dep from="t820" to="t821" rfunc="punct">
+      <!-- punct(been,.) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="det">
+      <!-- det(survey,A) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="nsubj">
+      <!-- nsubj(identified,survey) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="punct">
+      <!-- punct(survey,,) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="acl">
+      <!-- acl(survey,carried) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="prt">
+      <!-- prt(carried,out) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="agent">
+      <!-- agent(carried,by) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="pobj">
+      <!-- pobj(by,TRAFFIC) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="prep">
+      <!-- prep(carried,in) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="pobj">
+      <!-- pobj(in,2013) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="punct">
+      <!-- punct(survey,,) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="ROOT">
+      <!-- ROOT(identified,identified) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="mark">
+      <!-- mark(is,that) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="det">
+      <!-- det(motivation,the) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="nsubj">
+      <!-- nsubj(is,motivation) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="prep">
+      <!-- prep(motivation,for) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="pobj">
+      <!-- pobj(for,consumers) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="acl">
+      <!-- acl(consumers,buying) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="compound">
+      <!-- compound(horn,rhino) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="dobj">
+      <!-- dobj(buying,horn) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="ccomp">
+      <!-- ccomp(identified,is) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="det">
+      <!-- det(benefit,the) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="amod">
+      <!-- amod(benefit,emotional) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="attr">
+      <!-- attr(is,benefit) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="advmod">
+      <!-- advmod(than,rather) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="cc">
+      <!-- cc(benefit,than) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="conj">
+      <!-- conj(benefit,medicinal) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="mark">
+      <!-- mark(reaffirms,as) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="nsubj">
+      <!-- nsubj(reaffirms,it) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="advcl">
+      <!-- advcl(is,reaffirms) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="poss">
+      <!-- poss(status,their) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="amod">
+      <!-- amod(status,social) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="dobj">
+      <!-- dobj(reaffirms,status) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="prep">
+      <!-- prep(status,among) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="poss">
+      <!-- poss(peers,their) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="pobj">
+      <!-- pobj(among,peers) -->
+    </dep>
+    <dep from="t855" to="t856" rfunc="punct">
+      <!-- punct(identified,.) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="nsubj">
+      <!-- nsubj(are,Image) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="cc">
+      <!-- cc(Image,and) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="conj">
+      <!-- conj(Image,status) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="ccomp">
+      <!-- ccomp(tend,are) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="acomp">
+      <!-- acomp(are,important) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="prep">
+      <!-- prep(important,to) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="det">
+      <!-- det(consumers,these) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="pobj">
+      <!-- pobj(to,consumers) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="punct">
+      <!-- punct(tend,,) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="nsubj">
+      <!-- nsubj(tend,they) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="ROOT">
+      <!-- ROOT(tend,tend) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="aux">
+      <!-- aux(be,to) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="xcomp">
+      <!-- xcomp(tend,be) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="advmod">
+      <!-- advmod(educated,highly) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="amod">
+      <!-- amod(people,educated) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="cc">
+      <!-- cc(educated,and) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="conj">
+      <!-- conj(educated,successful) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="attr">
+      <!-- attr(be,people) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="nsubj">
+      <!-- nsubj(have,who) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="relcl">
+      <!-- relcl(people,have) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="det">
+      <!-- det(network,a) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="amod">
+      <!-- amod(network,powerful) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="amod">
+      <!-- amod(network,social) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="dobj">
+      <!-- dobj(have,network) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="cc">
+      <!-- cc(network,and) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="det">
+      <!-- det(affinity,no) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="conj">
+      <!-- conj(people,affinity) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="aux">
+      <!-- aux(wildlife,to) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="relcl">
+      <!-- relcl(affinity,wildlife) -->
+    </dep>
+    <dep from="t892" to="t893" rfunc="punct">
+      <!-- punct(tend,.) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="amod">
+      <!-- amod(horns,Rhino) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="nsubjpass">
+      <!-- nsubjpass(bought,horns) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="auxpass">
+      <!-- auxpass(bought,are) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="advmod">
+      <!-- advmod(bought,sometimes) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="ROOT">
+      <!-- ROOT(bought,bought) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="prep">
+      <!-- prep(bought,for) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="det">
+      <!-- det(purpose,the) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="amod">
+      <!-- amod(purpose,sole) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="pobj">
+      <!-- pobj(for,purpose) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="prep">
+      <!-- prep(purpose,of) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="auxpass">
+      <!-- auxpass(gifted,being) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="pcomp">
+      <!-- pcomp(of,gifted) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="prep">
+      <!-- prep(gifted,to) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="pobj">
+      <!-- pobj(to,others) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="punct">
+      <!-- punct(bought,;) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="prep">
+      <!-- prep(bought,to) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="compound">
+      <!-- compound(members,family) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="pobj">
+      <!-- pobj(to,members) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="punct">
+      <!-- punct(members,,) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="compound">
+      <!-- compound(colleagues,business) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="conj">
+      <!-- conj(members,colleagues) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="cc">
+      <!-- cc(colleagues,or) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="conj">
+      <!-- conj(colleagues,people) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="prep">
+      <!-- prep(people,in) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="pobj">
+      <!-- pobj(in,positions) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="prep">
+      <!-- prep(positions,of) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="pobj">
+      <!-- pobj(of,authority) -->
+    </dep>
+    <dep from="t922" to="t923" rfunc="punct">
+      <!-- punct(bought,.) -->
+    </dep>
+    <dep from="t951" to="t952" rfunc="nsubj">
+      <!-- nsubj(identified,TRAFFIC) -->
+    </dep>
+    <dep from="t951" to="t952" rfunc="ROOT">
+      <!-- ROOT(identified,identified) -->
+    </dep>
+    <dep from="t951" to="t952" rfunc="nummod">
+      <!-- nummod(groups,three) -->
+    </dep>
+    <dep from="t951" to="t952" rfunc="amod">
+      <!-- amod(groups,main) -->
+    </dep>
+    <dep from="t951" to="t952" rfunc="compound">
+      <!-- compound(groups,consumer) -->
+    </dep>
+    <dep from="t951" to="t952" rfunc="dobj">
+      <!-- dobj(identified,groups) -->
+    </dep>
+    <dep from="t951" to="t952" rfunc="punct">
+      <!-- punct(identified,.) -->
+    </dep>
+    <dep from="t958" to="t959" rfunc="nsubj">
+      <!-- nsubj(read,You) -->
+    </dep>
+    <dep from="t958" to="t959" rfunc="aux">
+      <!-- aux(read,can) -->
+    </dep>
+    <dep from="t958" to="t959" rfunc="ROOT">
+      <!-- ROOT(read,read) -->
+    </dep>
+    <dep from="t958" to="t959" rfunc="poss">
+      <!-- poss(report,their) -->
+    </dep>
+    <dep from="t958" to="t959" rfunc="dobj">
+      <!-- dobj(read,report) -->
+    </dep>
+    <dep from="t958" to="t959" rfunc="advmod">
+      <!-- advmod(read,here) -->
+    </dep>
+    <dep from="t958" to="t959" rfunc="punct">
+      <!-- punct(read,.) -->
+    </dep>
+    <dep from="t966" to="t967" rfunc="ROOT">
+      <!-- ROOT(Trade,Trade) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="det">
+      <!-- det(trade,The) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="amod">
+      <!-- amod(trade,International) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="nsubjpass">
+      <!-- nsubjpass(banned,trade) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="prep">
+      <!-- prep(trade,in) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="pobj">
+      <!-- pobj(in,horn) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="auxpass">
+      <!-- auxpass(banned,is) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="ROOT">
+      <!-- ROOT(banned,banned) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="prep">
+      <!-- prep(banned,under) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="pobj">
+      <!-- pobj(under,CITES) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="punct">
+      <!-- punct(CITES,() -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="appos">
+      <!-- appos(CITES,Convention) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="prep">
+      <!-- prep(Convention,on) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="compound">
+      <!-- compound(Trade,International) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="pobj">
+      <!-- pobj(on,Trade) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="prep">
+      <!-- prep(Trade,in) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="compound">
+      <!-- compound(Species,Endangered) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="pobj">
+      <!-- pobj(in,Species) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="prep">
+      <!-- prep(Species,of) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="pobj">
+      <!-- pobj(of,Fauna) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="cc">
+      <!-- cc(Fauna,and) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="conj">
+      <!-- conj(Fauna,Flora) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="punct">
+      <!-- punct(CITES,)) -->
+    </dep>
+    <dep from="t968" to="t969" rfunc="punct">
+      <!-- punct(banned,.) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="prep">
+      <!-- prep(is,In) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="compound">
+      <!-- compound(Africa,South) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="pobj">
+      <!-- pobj(In,Africa) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="advmod">
+      <!-- advmod(is,particularly) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="punct">
+      <!-- punct(is,,) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="expl">
+      <!-- expl(is,there) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="ROOT">
+      <!-- ROOT(is,is) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="det">
+      <!-- det(call,a) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="attr">
+      <!-- attr(is,call) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="aux">
+      <!-- aux(legalise,to) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="relcl">
+      <!-- relcl(call,legalise) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="det">
+      <!-- det(trade,the) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="dobj">
+      <!-- dobj(legalise,trade) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="prep">
+      <!-- prep(legalise,in) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="amod">
+      <!-- amod(horn,rhino) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="pobj">
+      <!-- pobj(in,horn) -->
+    </dep>
+    <dep from="t992" to="t993" rfunc="punct">
+      <!-- punct(is,.) -->
+    </dep>
+  </deps>
   <chunks>
     <chunk id="c0" head="t2" phrase="NP">
       <span>
