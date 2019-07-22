@@ -14,7 +14,7 @@ def fileread():
 		if filename.endswith(".txt"):
 			orig = open(path+"rawTest/"+filename, "r", encoding="utf8")
 			f = open(filename.replace(".txt", ".naf"), "w", encoding="utf8")
-			text = " "
+			text = ""
 			for line in orig.read():
 				text += line 
 			#datetime.datetime.now() may just be datetime.now() depending on python version

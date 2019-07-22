@@ -210,6 +210,6 @@ if __name__ == '__main__':
                 tmp = os.path.splitext(f)[0]
                 
                 if orig == tmp :
-                    print('working on: '+ filename+ ' and '+ 'f')
+                    print('working on: '+ filename+ ' and '+ f)
                     readnWriteNaf(filename, f)
     sys.exit(0) 
