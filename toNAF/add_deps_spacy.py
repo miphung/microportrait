@@ -167,6 +167,7 @@ def readnWriteNaf(txtFile, nafFile):
         sentences.append(current_sent)
         term_ids.append(current_sent_tid)
 
+
     ### Naf adding code
 
     for line in dep(txtFile).splitlines():
@@ -199,13 +200,13 @@ def readnWriteNaf(txtFile, nafFile):
 if __name__ == '__main__':
     for filename in os.listdir(path+"rawTest"):
         if filename.endswith(".txt"):
-            
-            dep(filename)
+            #dep(filename)
             orig = os.path.splitext(filename)[0]
+            
             for f in os.listdir(path+"toNaf"):
                 tmp = os.path.splitext(f)[0]
                 
                 if orig == tmp :
-                    print('working on: '+ filename+ ' and '+ 'f')
+                    print('working on: '+ filename+ ' and '+ f)
                     readnWriteNaf(filename, f)
     sys.exit(0) 
