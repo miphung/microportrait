@@ -1,0 +1,79 @@
+# output: [entity[mentions, mentions] head/index(termid) entitylength
+
+ [The white rhinoceros or square-lipped rhinoceros (Ceratotherium simum): [The white rhinoceros or square-lipped rhinoceros (Ceratotherium simum), It]]rhinoceros/t4,3
+[The white rhinoceros: [The white rhinoceros, the black rhinoceros]]rhinoceros/t44,3
+[Dutch: [Dutch, Dutch, Dutch, Dutch]]from/t151,5
+[Dutch: [Dutch, Dutch, Dutch, Dutch], Dutch (and Afrikaans): [Dutch (and Afrikaans), it]]used/t262,5
+[Dutch (and Afrikaans): [Dutch (and Afrikaans), it]]Dutch/t256,1
+[a white rhino: [a white rhino, the rhino, this white rhino, the modern white rhino]]rhino/t277,1
+[the word: [the word, the word]]word/t286,3
+[the rhinoceros: [the rhinoceros, the white rhinoceros, The white rhinoceros']]rhinoceros/t304,3
+[Langebaanweg: [Langebaanweg, Langebaanweg]]at/t443,12
+[Africa: [Africa, Africa]]in/t455,6
+[it: [it, It]]shows/t496,2
+[Ceratotherium: [Ceratotherium, Ceratotherium, the earliest African Ceratotherium]]praecox/t522,13
+[these animals: [these animals, their]]animals/t588,5
+[East Africa: [East Africa, South Africa, South Africa, Southern Africa, South Africa, South Africa]]Africa/t727,4
+[an estimated 17,460 southern white rhinos in the wild (IUCN 2008): [an estimated 17,460 southern white rhinos in the wild (IUCN 2008), them]]rhinos/t860,2
+[the world: [the world, the world, the world]]world/t881,3
+[Namibia: [Namibia, Namibia]]in/t936,7
+[Uganda: [Uganda, Uganda]]Zimbabwe/t941,6
+[Kenya: [Kenya, Kenya, Kenya, Kenya, Kenya, Kenya, Kenya]]to/t969,5
+[this subspecies: [this subspecies, this subspecies, this subspecies]]subspecies/t1076,4
+[the Czech Republic: [the Czech Republic, the Czech Republic]]Republic/t1102,3
+[recent research: [recent research, the research]]research/t1284,6
+[the northern white rhinoceros: [the northern white rhinoceros, The white rhinoceros, the white rhinoceros, It, It]]rhinoceros/t1294,3
+[the female: [the female, the female]]female/t1520,3
+[its snout: [its snout, it]]snout/t1601,3
+[two horn-like growths, one behind the other: [two horn-like growths, one behind the other, These, they, their]]growths/t1608,3
+[The white rhinoceros: [The white rhinoceros, its, The white rhinoceros, the white rhinoceros, the white rhinoceros, It, it, It, The white rhinoceros, The white rhinoceros]]rhinoceros/t1691,3
+[Its: [Its, Its, it, its]]hair/t1732,3
+[The olfactory passages that are responsible for smell: [The olfactory passages that are responsible for smell, their]]passages/t1783,3
+[the day: [the day, the day]]day/t1911,3
+[the white rhino: [the white rhino, its, the white rhino, The southern white rhino, The northern white rhino (Ceratotherium simum cottoni), the black rhino, the white rhino, The white rhino, it, the white rhino, its, The northern white rhino, the northern white rhino, the male rhino, the male rhino with two female rhinos]]rhino/t1980,3
+[Most adult bulls: [Most adult bulls, their]]bulls/t2141,4
+[Most adult bulls: [Most adult bulls, their], their territory: [their territory, their territory, its]]territory/t2150,5
+[their territory: [their territory, their territory, its]]mark/t2148,9
+[The dung: [The dung, It, it]]dung/t2158,3
+[well-defined piles: [well-defined piles, these piles]]defined/t2164,4
+[their territory: [their territory, their territory, its], their: [their, their, They]]territory/t2193,5
+[their: [their, their, They]]horns/t2197,5
+[The territorial male: [The territorial male, its, The male, her]]male/t2243,3
+[Female territory: [Female territory, they, it]]territory/t2287,6
+[Breeding pairs: [Breeding pairs, they, their]]pairs/t2400,8
+[Calves: [Calves, their]]are/t2448,6
+[the baby: [the baby, her, it]]baby/t2465,3
+[the baby: [the baby, her, it], her calf: [her calf, the calf]]calf/t2480,3
+[her calf: [her calf, the calf]]of/t2478,4
+[the mother: [the mother, her, the mother, Her mother]]mother/t2527,3
+[Adult white rhinos: [Adult white rhinos, their, their]]rhinos/t2551,5
+[the southern subspecies: [the southern subspecies, it, it, this subspecies]]subspecies/t2677,3
+[the Congo: [the Congo, the Congo]]Congo/t2779,3
+[the horn: [the horn, their horn, the rhino horn, it, his second horn]]horn/t2909,3
+[white rhinos: [white rhinos, their]]rhinos/t2929,5
+[the horn: [the horn, their horn, the rhino horn, it, his second horn], white rhinos: [white rhinos, their]]horn/t2943,5
+[several highly organized and very profitable international poaching syndicates: [several highly organized and very profitable international poaching syndicates, their]]syndicates/t3046,7
+[Sudan: [Sudan, the country, Sudan]]from/t3092,5
+[the rhinoceros: [the rhinoceros, it]]rhinoceros/t3168,3
+[Mozambique: [Mozambique, Mozambique]]used/t3190,10
+[rhinos: [rhinos, their]]killed/t3216,6
+[poachers: [poachers, the poachers]]by/t3257,8
+[A Southern white rhinoceros named Vince: [A Southern white rhinoceros named Vince, his, his, his]]rhinoceros/t3264,1
+[the horn: [the horn, their horn, the rhino horn, it, his second horn], A Southern white rhinoceros named Vince: [A Southern white rhinoceros named Vince, his, his, his]]horn/t3290,3
+[many poachers: [many poachers, they]]poachers/t3325,4
+[poachers: [poachers, their]]are/t3436,8
+[these rhinos: [these rhinos, these rhinos, them, they, they, their, They]]rhinos/t3463,5
+[the Planet: [the planet, the Planet]]planet/t3491,3
+[Dvur Kralove Zoo: [Dvur Kralove Zoo, the San Diego Zoo]]Zoo/t3512,4
+[Kenya: [Kenya, Kenya, Kenya, Kenya, Kenya, Kenya, Kenya], Kenya's Ol Pejeta Conservancy: [Kenya's Ol Pejeta Conservancy, Ol Pejeta Conservancy, it, Ol Pejeta Conservancy, it, Ol Pejeta Conservancy, Ol Pejeta Conservancy]]Conservancy/t3522,5
+[Kenya's Ol Pejeta Conservancy: [Kenya's Ol Pejeta Conservancy, Ol Pejeta Conservancy, it, Ol Pejeta Conservancy, it, Ol Pejeta Conservancy, Ol Pejeta Conservancy]]Kenya/t3518,2
+[the Dvůr Králové Zoo: [the Dvůr Králové Zoo, the Dvůr Králové Zoo, the Dvůr Králové Zoo, Philadelphia Zoo
+]]Zoo/t3764,3
+[The other four captive northern white rhinos: [The other four captive northern white rhinos, The northern white rhinos, their]]rhinos/t3814,3
+[the mother: [the mother, her, the mother, Her mother], Her: [Her, her]]mother/t3908,3
+[Her: [Her, her]]father/t3922,3
+[White Rhino: [a southern white rhino (C. simum simum) named Arthur, White Rhino, White Rhino]]rhino/t3927,1
+[White Rhinoceros: [White Rhinoceros, White Rhinoceros]]Rhinoceros/t3975,5
+
+
+Process finished with exit code 0
