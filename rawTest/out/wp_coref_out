@@ -1,0 +1,17 @@
+# output: [entity[mentions, mentions] head/index(termid) entitylength 
+ 
+ [Mott: [Mott, Mott, Mott, Mott, Mott, Mott]]working/t29,7
+[The last male northern white rhino, Sudan: [The last male northern white rhino, Sudan, their]]rhino/t65,5
+[the Ol Pejeta conservancy in Laikipia County, Kenya: [the Ol Pejeta conservancy in Laikipia County, Kenya, them]]conservancy/t98,11
+[The caretakers: [The caretakers, their]]caretakers/t145,10
+[Najin: [Najin, Najin]]feed/t146,4
+[The guards, known as the National Police Reservists, or NPR: [The guards, known as the National Police Reservists, or NPR, their, their]]guards/t163,6
+[the rhinos from poachers who come after their valuable horns: [the rhinos from poachers who come after their valuable horns, the rhinos, the rhinos, the rhinos, The rhinos]]rhinos/t182,6
+[The guards, known as the National Police Reservists, or NPR: [The guards, known as the National Police Reservists, or NPR, their, their], the rhinos from poachers who come after their valuable horns: [the rhinos from poachers who come after their valuable horns, the rhinos, the rhinos, the rhinos, The rhinos]]horns/t190,5
+[The men who work with Najin and Fatu: [The men who work with Najin and Fatu, their, They, they, their, their]]men/t212,3
+[Najin: [Najin, Najin], The men who work with Najin and Fatu: [The men who work with Najin and Fatu, their, They, they, their, their]]with/t215,4
+[these men: [these men, their, the men, their, they, them]]men/t277,3
+[the mutual trust: [the mutual trust, their]]trust/t310,5
+[the animals: [the animals, it]]animals/t396,7
+[Sight: [Sight, Sight]]In/t500,2
+
